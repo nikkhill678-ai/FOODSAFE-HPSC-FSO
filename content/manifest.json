@@ -1,0 +1,131 @@
+{
+  "questionBanks": [
+    {
+      "file": "content/question_banks/HPSC_FSO_FSN421_Unit1_100_MCQs.json",
+      "subject": "Food Safety Law",
+      "chapter": "Food Safety Law & HACCP"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_Unit2_Food_Microbiology_100_MCQs.json",
+      "subject": "Food Microbiology",
+      "chapter": "Food Microbiology & Preservation"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_Unit3A_Food_Chemistry_100_MCQs_REDOWNLOAD.json",
+      "subject": "Food Chemistry",
+      "chapter": "Macromolecules"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_Unit3B_Lipids_Enzymes_Fortification_100_MCQs.json",
+      "subject": "Food Chemistry",
+      "chapter": "Lipids, Enzymes & Fortification"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_Unit5_Commodity_Processing_100_MCQs.json",
+      "subject": "Food Processing",
+      "chapter": "Commodity Processing"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_Unit6_Food_Toxicology_100_MCQs_FINAL.json",
+      "subject": "Food Toxicology",
+      "chapter": "Toxicology & Contaminants"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_Unit7_Modern_Packaging_Migration_Instrumental_Analysis_100_MCQs_FINAL.json",
+      "subject": "Food Packaging",
+      "chapter": "Packaging & Instrumental Analysis"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_FSN421_Horticultural_Products_100_MCQ_Question_Bank.json",
+      "subject": "Horticultural Food Safety",
+      "chapter": "Horticultural Products"
+    },
+    {
+      "file": "content/question_banks/HPSC_FSO_FSS_Act_100_Question_Bank.json",
+      "subject": "Food Safety Law",
+      "chapter": "FSS Act, 2006"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Food Safety & Standards Act, 2006 — Master Notes",
+      "description": "Food law • statutory framework • sections and rules",
+      "file": "content/notes/rendered/FSSAI_Act_Master_Notes_19p.pdf",
+      "source": "content/notes/originals/FSSAI_Act_Master_Notes_19p.pdf",
+      "pages": 19,
+      "format": "Original PDF retained"
+    },
+    {
+      "title": "HPSC FSO Master Study Manual — FSN 421 High-Yield Modules",
+      "description": "Horticultural food safety • hazards • additives • spoilage • HACCP",
+      "file": "content/notes/rendered/GPT_HPSC_FSO_Master_Study_Manual.pdf",
+      "source": "content/notes/originals/GPT_HPSC_FSO_Master_Study_Manual.pdf",
+      "pages": 32,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "HPSC FSO Master Study Manual — Hazards & Foodborne Illness",
+      "description": "Food hazards • foodborne illness • microbiology foundations",
+      "file": "content/notes/rendered/Claude_HPSC_FSO_Master_Study_Manual.pdf",
+      "source": "content/notes/originals/Claude_HPSC_FSO_Master_Study_Manual.pdf",
+      "pages": 36,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "Modern Food Packaging, Migration Regulations & Instrumental Analysis",
+      "description": "Packaging • migration • analytical instruments",
+      "file": "content/notes/rendered/Modern_Food_Packaging_Migration_Instrumental_Analysis.pdf",
+      "source": "content/notes/originals/Modern_Food_Packaging_Migration_Instrumental_Analysis.pdf",
+      "pages": 61,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "Food Toxicology, Inherent Toxicants, Contaminants & Residues",
+      "description": "Toxicology • plant toxicants • contaminants • residues",
+      "file": "content/notes/rendered/Food_Toxicology_Contaminants_Biotoxins_Residues.pdf",
+      "source": "content/notes/originals/Food_Toxicology_Contaminants_Biotoxins_Residues.pdf",
+      "pages": 48,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "Food Processing Operations & Commodity Technology",
+      "description": "Dairy • cereals • meat • fish • poultry • eggs • horticulture",
+      "file": "content/notes/rendered/Food_Commodity_Processing_Dairy_Cereal_Meat_Horticulture.pdf",
+      "source": "content/notes/originals/Food_Commodity_Processing_Dairy_Cereal_Meat_Horticulture.pdf",
+      "pages": 47,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "Food Lipids, Deep Frying, Enzyme Kinetics, Colours & Fortification",
+      "description": "Lipids • frying • enzymes • pigments • fortification",
+      "file": "content/notes/rendered/Food_Lipids_Enzymes_Fortification.pdf",
+      "source": "content/notes/originals/Food_Lipids_Enzymes_Fortification.pdf",
+      "pages": 70,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "Food Chemistry — Unit 3 Part A: Master Study Handout",
+      "description": "Water • carbohydrates • proteins • processing • browning",
+      "file": "content/notes/rendered/Food_Chemistry_Macromolecules.pdf",
+      "source": "content/notes/originals/Food_Chemistry_Macromolecules.pdf",
+      "pages": 80,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "Food Microbiology, Spoilage & Preservation — Master Study Manual",
+      "description": "Foodborne bacteria • pathogens • spoilage • preservation",
+      "file": "content/notes/rendered/Food_Microbiology_Spoilage_Preservation.pdf",
+      "source": "content/notes/originals/Food_Microbiology_Spoilage_Preservation.pdf",
+      "pages": 120,
+      "format": "Uploaded PDF"
+    },
+    {
+      "title": "Food Safety Law & HACCP — Master Study Manual",
+      "description": "Food hazards • foodborne illness • food safety systems • HACCP",
+      "file": "content/notes/rendered/Food_Safety_Law_HACCP.pdf",
+      "source": "content/notes/originals/Food_Safety_Law_HACCP.pdf",
+      "pages": 37,
+      "format": "Uploaded PDF"
+    }
+  ]
+}
