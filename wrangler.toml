@@ -1,0 +1,15 @@
+name = "foodsafe-api"
+main = "worker.js"
+compatibility_date = "2026-11-02"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "foodsafe-auth"
+database_id = "508d756f-271b-4bc5-9a90-3b4fb1836414"
+migrations_dir = "migrations"
+
+[vars]
+ALLOWED_ORIGINS = "https://nikkhill678-ai.github.io"
+GEMINI_MODEL = "gemini-2.5-flash"
+CONTENT_INDEX_URL = "https://nikkhill678-ai.github.io/FOODSAFE-HPSC-FSO/content/search/pdf-index.json"

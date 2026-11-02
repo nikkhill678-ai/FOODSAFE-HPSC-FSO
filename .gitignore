@@ -1,0 +1,18 @@
+# Secrets and local development files
+.env
+.env.*
+.dev.vars
+!.env.example
+node_modules/
+.wrangler/
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+.DS_Store
+Thumbs.db
+*backup*.json
