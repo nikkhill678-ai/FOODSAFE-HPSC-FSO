@@ -7,3 +7,526 @@
 
 /* Smart revision module */
 .revision-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:13px;margin:18px 0}.revision-stats .panel{padding:17px 19px}.revision-stats span{display:block;color:#9998aa;font-size:8px;font-weight:800;letter-spacing:1.2px}.revision-stats b{display:block;font:800 29px var(--head);margin:8px 0 1px}.revision-stats small{font-size:9px;color:#9998aa}.revision-columns{display:grid;grid-template-columns:1.45fr 1fr;gap:14px}.revision-queue{display:grid;gap:8px}.revision-row{display:flex;align-items:center;gap:12px;padding:12px;border:1px solid #efedf6;border-radius:11px;background:#fcfbff}.revision-row .rev-mark{width:31px;height:31px;border-radius:9px;background:#f0ecff;color:#7657e8;display:grid;place-items:center}.revision-row .rev-copy{flex:1;min-width:0}.revision-row b{display:block;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.revision-row small{display:block;color:#9998aa;font-size:8px;margin-top:3px}.revision-row .rev-status{font-size:8px;font-weight:800;color:#8a72df}.revision-guide p{font-size:10px;line-height:1.7;color:#89889b}.interval-list{display:grid;gap:8px;margin:15px 0}.interval-list div{display:flex;justify-content:space-between;padding:9px 10px;background:#faf9ff;border-radius:8px;font-size:9px}.interval-list span{color:#89889b}.revision-guide>small{font-size:8px;line-height:1.6;color:#a0a0b0;display:block}.hide{display:none!important}@media(max-width:900px){.revision-stats{grid-template-columns:repeat(2,1fr)}.revision-columns{grid-template-columns:1fr}}
+
+
+/* =========================================================
+   FOODSAFE RESPONSIVE LAYOUT PATCH
+   Mobile: portrait + landscape | Tablet: portrait + landscape
+   Appended overrides only; preserves existing desktop styling.
+   ========================================================= */
+
+/* Prevent page-level width leaks and make all grid/flex children shrinkable. */
+html {
+  width: 100%;
+  min-width: 0;
+  overflow-x: clip;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+body {
+  width: 100%;
+  min-width: 0;
+  overflow-x: clip;
+  overflow-wrap: anywhere;
+}
+.app-shell, .main-area, .page-wrap, .view,
+.panel, .hero, .section-row, .import-banner,
+.practice-layout, .home-columns, .analytics-grid,
+.revision-columns, .notes-grid {
+  min-width: 0;
+  max-width: 100%;
+}
+img, video, canvas, svg {
+  max-width: 100%;
+}
+p, h1, h2, h3, h4, small, label, a, button, td, th {
+  overflow-wrap: anywhere;
+}
+input, select, textarea, button {
+  max-width: 100%;
+  min-width: 0;
+}
+pre, code {
+  max-width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+/* Wide tables and long generated answers must remain inside their panels. */
+.panel, .explanation, .notes-placeholder, .idle-panel {
+  overflow-wrap: anywhere;
+}
+table {
+  max-width: 100%;
+}
+.panel table, .view table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.panel pre, .view pre {
+  overflow-x: auto;
+}
+
+/* Tablet and compact laptop: use a drawer sidebar so content has room. */
+@media (max-width: 900px) {
+  .sidebar {
+    width: min(290px, 84vw);
+    max-width: 84vw;
+    height: 100vh;
+    height: 100dvh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding-top: max(20px, env(safe-area-inset-top));
+    padding-bottom: max(18px, env(safe-area-inset-bottom));
+    transform: translateX(-105%);
+    transition: transform .25s ease;
+  }
+  .sidebar.open {
+    transform: translateX(0);
+  }
+  .main-area {
+    margin-left: 0;
+    width: 100%;
+  }
+  .mobile-menu {
+    display: inline-grid;
+    place-items: center;
+    flex: 0 0 38px;
+    width: 38px;
+    height: 38px;
+  }
+  .topbar {
+    min-height: 62px;
+    height: auto;
+    padding: 10px clamp(12px, 2.5vw, 24px);
+    gap: 8px;
+  }
+  .top-actions {
+    gap: 8px;
+    min-width: 0;
+  }
+  .page-wrap {
+    width: 100%;
+    padding: clamp(16px, 2.8vw, 26px) clamp(14px, 2.8vw, 26px) 36px;
+  }
+  .stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .home-columns, .analytics-grid, .revision-columns {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .notes-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .practice-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .practice-side {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .practice-side .eyebrow,
+  .practice-side h3,
+  .practice-side .setup-note,
+  .practice-side hr,
+  .practice-side .mini-summary {
+    grid-column: 1 / -1;
+  }
+  .revision-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .hero {
+    padding: clamp(25px, 4vw, 36px);
+  }
+  .footer {
+    gap: 10px 18px;
+    flex-wrap: wrap;
+  }
+}
+
+/* Tablet landscape: retain useful two-column layouts without cramped cards. */
+@media (min-width: 901px) and (max-width: 1200px) {
+  .sidebar {
+    width: 210px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .main-area {
+    margin-left: 210px;
+    min-width: 0;
+  }
+  .page-wrap {
+    padding-left: clamp(18px, 2.5vw, 32px);
+    padding-right: clamp(18px, 2.5vw, 32px);
+  }
+  .stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .home-columns {
+    grid-template-columns: minmax(0, 1.2fr) minmax(260px, 1fr);
+  }
+  .notes-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .hero-art {
+    right: -2%;
+    width: 43%;
+  }
+}
+
+/* Phone and tablet portrait. */
+@media (max-width: 600px) {
+  .topbar {
+    min-height: 58px;
+    padding: 8px 12px;
+  }
+  .breadcrumb {
+    min-width: 0;
+    max-width: 48vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    letter-spacing: .8px;
+  }
+  .breadcrumb span {
+    padding: 0 4px;
+  }
+  .icon-btn, .avatar {
+    flex: 0 0 34px;
+  }
+  .page-wrap {
+    padding: 16px 12px 28px;
+  }
+  .hero {
+    min-height: 0;
+    padding: 25px 20px 205px;
+    border-radius: 17px;
+  }
+  .hero-copy {
+    width: 100%;
+    max-width: 100%;
+  }
+  .hero h1 {
+    font-size: clamp(32px, 9vw, 43px);
+    line-height: 1.06;
+    letter-spacing: -1.5px;
+    margin: 14px 0 10px;
+  }
+  .hero-copy > p {
+    font-size: 12px;
+    line-height: 1.65;
+  }
+  .hero-actions {
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 18px;
+  }
+  .hero-actions .btn {
+    flex: 1 1 130px;
+  }
+  .hero-art {
+    height: 185px;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    top: auto;
+  }
+  .fc-top {
+    right: 4px;
+    top: 4px;
+  }
+  .fc-bottom {
+    left: 4px;
+    bottom: 8px;
+  }
+  .section-heading {
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 25px;
+  }
+  .section-heading h2 {
+    font-size: 17px;
+  }
+  .stat-grid {
+    gap: 8px;
+  }
+  .stat-card {
+    min-width: 0;
+    padding: 12px;
+    min-height: 120px;
+  }
+  .stat-top {
+    gap: 6px;
+    font-size: 7px;
+    letter-spacing: .7px;
+  }
+  .stat-card strong {
+    font-size: clamp(22px, 6vw, 27px);
+  }
+  .stat-card p, .stat-foot {
+    font-size: 9px;
+  }
+  .panel {
+    padding: 15px;
+    border-radius: 13px;
+  }
+  .page-title-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin: 7px 0 18px;
+  }
+  .page-title-row h1 {
+    font-size: clamp(25px, 7vw, 31px);
+    line-height: 1.15;
+    letter-spacing: -1px;
+  }
+  .page-title-row > .btn {
+    align-self: flex-start;
+  }
+  .filter-panel {
+    padding: 9px;
+    gap: 8px;
+  }
+  .filter-panel select {
+    flex: 1 1 125px;
+    min-width: 0;
+  }
+  .searchbox {
+    min-width: 0;
+    flex-basis: 100%;
+  }
+  .practice-side {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .practice-side .eyebrow,
+  .practice-side h3,
+  .practice-side .setup-note,
+  .practice-side hr,
+  .practice-side .mini-summary {
+    grid-column: 1;
+  }
+  .question-card-top {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .q-tags {
+    flex-wrap: wrap;
+  }
+  .question-text {
+    font-size: 15px;
+    line-height: 1.55;
+    margin: 17px 0;
+  }
+  .option {
+    padding: 11px;
+    gap: 9px;
+    font-size: 12px;
+  }
+  .quiz-controls {
+    align-items: stretch;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .quiz-controls .btn {
+    flex: 1 1 120px;
+  }
+  .notes-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .notes-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .notes-toolbar .searchbox {
+    width: 100%;
+  }
+  .revision-stats {
+    gap: 8px;
+  }
+  .revision-stats .panel {
+    padding: 13px;
+  }
+  .revision-stats b {
+    font-size: 24px;
+  }
+  .performance-row {
+    grid-template-columns: minmax(0, 1fr) minmax(55px, 1fr) 30px;
+    gap: 7px;
+  }
+  .import-banner {
+    padding: 14px;
+    gap: 10px;
+  }
+  .import-banner .btn {
+    margin-left: 0;
+    width: 100%;
+  }
+  .footer {
+    padding: 14px 12px;
+    font-size: 8px;
+  }
+  .toast {
+    left: 12px;
+    right: 12px;
+    bottom: max(12px, env(safe-area-inset-bottom));
+    text-align: center;
+  }
+}
+
+/* Very narrow phones. */
+@media (max-width: 380px) {
+  .top-actions {
+    gap: 5px;
+  }
+  .topbar {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+  .breadcrumb {
+    max-width: 42vw;
+    font-size: 7px;
+  }
+  .hero {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .hero h1 {
+    font-size: 31px;
+  }
+  .stat-card {
+    padding: 10px;
+  }
+  .stat-top {
+    font-size: 6px;
+  }
+  .stat-icon {
+    width: 23px;
+    height: 23px;
+  }
+  .panel {
+    padding: 12px;
+  }
+  .question-text {
+    font-size: 14px;
+  }
+}
+
+/* Phone landscape: compact vertical rhythm; drawer remains usable. */
+@media (max-width: 900px) and (orientation: landscape) {
+  .topbar {
+    min-height: 52px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  .page-wrap {
+    padding-top: 13px;
+    padding-bottom: 22px;
+  }
+  .hero {
+    min-height: 290px;
+    padding: 22px 25px;
+    align-items: center;
+  }
+  .hero-copy {
+    max-width: 58%;
+  }
+  .hero h1 {
+    font-size: clamp(29px, 5vw, 40px);
+  }
+  .hero-art {
+    top: 0;
+    bottom: auto;
+    right: 0;
+    width: 43%;
+    height: 100%;
+  }
+  .orb-one {
+    width: 125px;
+    height: 125px;
+    top: 45px;
+    right: 25%;
+  }
+  .orb-two {
+    width: 55px;
+    height: 55px;
+    right: 7%;
+    bottom: 20px;
+  }
+  .hero-stamp {
+    width: 76px;
+    height: 76px;
+    right: 28%;
+    top: 62px;
+  }
+  .hero-stamp span {
+    font-size: 18px;
+  }
+  .hero-stamp b {
+    font-size: 7px;
+  }
+  .fc-top {
+    top: 8px;
+    right: 2px;
+  }
+  .fc-bottom {
+    bottom: 8px;
+    left: 0;
+  }
+  .section-heading {
+    margin-top: 22px;
+  }
+}
+
+/* Tablet portrait: keep cards readable and avoid narrow side-by-side panels. */
+@media (min-width: 601px) and (max-width: 900px) and (orientation: portrait) {
+  .hero {
+    min-height: 340px;
+    padding: 30px;
+  }
+  .hero-copy {
+    max-width: 62%;
+  }
+  .hero h1 {
+    font-size: clamp(38px, 6vw, 50px);
+  }
+  .hero-art {
+    width: 42%;
+    right: 0;
+  }
+  .home-columns, .analytics-grid, .revision-columns {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .notes-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Touch devices: comfortable hit areas and no hover-only interaction cues. */
+@media (hover: none) and (pointer: coarse) {
+  button, .nav-link, .option, select, input {
+    touch-action: manipulation;
+  }
+  .nav-link {
+    min-height: 44px;
+  }
+  .btn, .icon-btn, .avatar, .mobile-menu {
+    min-height: 40px;
+  }
+  .option {
+    min-height: 46px;
+  }
+}
+
+/* Respect reduced-motion preferences. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
