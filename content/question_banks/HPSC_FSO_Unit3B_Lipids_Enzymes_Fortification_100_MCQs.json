@@ -1,0 +1,2581 @@
+{
+  "metadata": {
+    "title": "HPSC FSO Unit 3 Part B — 100 MCQs",
+    "source_document": "04_Unit3B_Lipids_Enzymes_Fortification.docx",
+    "source_scope": "Uploaded 93-page HPSC Food Safety Officer Master Handout — Unit 3, Part B",
+    "generated_on": "2026-11-02",
+    "exam_orientation": "HPSC Food Safety Officer Group-B, 2026 recruitment cycle",
+    "question_count": 100,
+    "option_count_per_question": 4,
+    "answer_format": "Questions and options first; consolidated answer_key second; detailed_explanations last.",
+    "pattern_note": "The publicly reported revised HPSC scheme dated 16 October 2026 separates the objective Screening Test (General Studies/Haryana GK) from the subjective 150-mark Subject Knowledge Test. This technical MCQ bank is a revision and concept-checking resource, not a claim that the technical SKT is an MCQ paper.",
+    "regulatory_cutoff_note": "Fortification-law questions are limited to the uploaded Fortification of Foods Regulations compendium, Version III dated 30 September 2021, including amendments reproduced there. This is not verification of all law presently in force.",
+    "source_gap_note": "The uploaded documents do not establish the governing instrument or exact boundary wording for the requested 15%/25% Total Polar Compounds frying-oil thresholds or general 100/200 mg/kg food-colour limits. These are not asserted as verified legal limits.",
+    "prediction_caveat": "Questions model technical FSO-style factual, conceptual, comparison, mechanism and regulatory-exception testing. No question can be guaranteed to appear.",
+    "coverage": {
+      "Lipid classification, fatty acids, rancidity and analytical constants": 18,
+      "Deep frying and used-oil deterioration": 11,
+      "Enzyme architecture, classification, kinetics and inhibition": 20,
+      "Natural pigments and enzymatic browning": 13,
+      "Flavour, MSG and sweeteners": 9,
+      "Food colours": 8,
+      "Fortification regulations and quality assurance": 21
+    }
+  },
+  "questions": [
+    {
+      "id": "U3B-Q001",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Lipid classification",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Which statement best describes a triacylglycerol?",
+      "options": {
+        "A": "A phospholipid with a choline head group",
+        "B": "Glycerol esterified with three fatty acids",
+        "C": "A carbohydrate linked to three fatty acids",
+        "D": "A sterol containing four fused rings"
+      }
+    },
+    {
+      "id": "U3B-Q002",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Lipid classification",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is correctly classified as a compound lipid in the handout?",
+      "options": {
+        "A": "Glycerophospholipid",
+        "B": "Cholesterol",
+        "C": "Squalene",
+        "D": "Free oleic acid"
+      }
+    },
+    {
+      "id": "U3B-Q003",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Lipid classification",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about sphingolipids is most accurate?",
+      "options": {
+        "A": "Sphingomyelin is a sphingolipid that also contains phosphate",
+        "B": "Sphingolipids and glycolipids are mutually exclusive classes",
+        "C": "Every phospholipid must contain glycerol",
+        "D": "All sphingolipids are glycerol-based"
+      }
+    },
+    {
+      "id": "U3B-Q004",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fatty acid nomenclature",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The notation C18:2 indicates a fatty acid having:",
+      "options": {
+        "A": "Two carbon atoms and an 18-carbon side chain",
+        "B": "18 double bonds and two carbon atoms",
+        "C": "18 carbon atoms and two carboxyl groups",
+        "D": "18 carbon atoms and two double bonds"
+      }
+    },
+    {
+      "id": "U3B-Q005",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fatty acid nomenclature",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which pair consists of essential fatty acids identified in the handout?",
+      "options": {
+        "A": "Linoleic and alpha-linolenic acids",
+        "B": "Lauric and capric acids",
+        "C": "Stearic and butyric acids",
+        "D": "Oleic and palmitic acids"
+      }
+    },
+    {
+      "id": "U3B-Q006",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fatty acid nomenclature",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Omega-3 and omega-6 notation identifies the position of the:",
+      "options": {
+        "A": "Total number of double bonds",
+        "B": "First double bond counted from the glycerol backbone",
+        "C": "First double bond counted from the terminal methyl end",
+        "D": "Last double bond counted from the carboxyl end"
+      }
+    },
+    {
+      "id": "U3B-Q007",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Milk fat",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Which fatty acid is particularly characteristic of milk fat in the handout?",
+      "options": {
+        "A": "Erucic acid",
+        "B": "Butyric acid",
+        "C": "Eicosapentaenoic acid",
+        "D": "Arachidonic acid"
+      }
+    },
+    {
+      "id": "U3B-Q008",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Lipid classes",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Coconut and palm-kernel fats are grouped as lauric fats because they contain a high proportion of:",
+      "options": {
+        "A": "Arachidonic acid",
+        "B": "Lauric acid",
+        "C": "Linolenic acid",
+        "D": "Butyric acid"
+      }
+    },
+    {
+      "id": "U3B-Q009",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Unsaponifiable matter",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is a major sterol in many vegetable oils?",
+      "options": {
+        "A": "Cholesterol",
+        "B": "Squalene",
+        "C": "Chymosin",
+        "D": "Beta-sitosterol"
+      }
+    },
+    {
+      "id": "U3B-Q010",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Unsaponifiable matter",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The sterol acetate melting-point test is used in the handout principally as an indication of:",
+      "options": {
+        "A": "The exact iodine value of an oil",
+        "B": "The moisture content of butter",
+        "C": "Oxidative rancidity in fish oil",
+        "D": "Possible vegetable-fat addition to animal fat"
+      }
+    },
+    {
+      "id": "U3B-Q011",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Lipid oxidation",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which sequence correctly represents the propagation stage of lipid autoxidation?",
+      "options": {
+        "A": "R• + R• → ROO• + water",
+        "B": "RH + RH → glycerol + soap",
+        "C": "ROO• + RH → ROOH + R•",
+        "D": "ROOH → triacylglycerol + oxygen"
+      }
+    },
+    {
+      "id": "U3B-Q012",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Lipid oxidation",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Why can a severely heated frying oil sometimes show a relatively low peroxide value?",
+      "options": {
+        "A": "Polymerisation converts all oil into water",
+        "B": "Peroxide value measures only free fatty acids",
+        "C": "Peroxide value rises permanently and cannot fall",
+        "D": "Hydroperoxides may decompose faster than they are formed"
+      }
+    },
+    {
+      "id": "U3B-Q013",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Rancidity",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Hydrolytic rancidity of triacylglycerols primarily produces:",
+      "options": {
+        "A": "Anthocyanidins and flavones",
+        "B": "Melanoidins and acrylamide",
+        "C": "Only carbon dioxide and water",
+        "D": "Free fatty acids and partial glycerides"
+      }
+    },
+    {
+      "id": "U3B-Q014",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Rancidity",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Methyl ketones associated with ketonic rancidity can arise through:",
+      "options": {
+        "A": "Direct esterification of glycerol with lauric acid",
+        "B": "Complete hydrogenation of unsaturated fatty acids",
+        "C": "Decarboxylation of beta-keto acids formed in microbial metabolism",
+        "D": "Oxidation of chlorophyll to pheophytin"
+      }
+    },
+    {
+      "id": "U3B-Q015",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Analytical lipid constants",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Saponification value is expressed as:",
+      "options": {
+        "A": "Milliequivalents of oxygen per litre",
+        "B": "Millilitres of water per kilogram of oil",
+        "C": "Milligrams of KOH required per gram of fat",
+        "D": "Grams of iodine per 100 g fat"
+      }
+    },
+    {
+      "id": "U3B-Q016",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Analytical lipid constants",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "A comparatively high iodine value generally indicates:",
+      "options": {
+        "A": "Greater unsaturation-related halogen uptake",
+        "B": "Greater amount of cholesterol only",
+        "C": "Lower number of carbon–carbon double bonds",
+        "D": "Greater free fatty acid content only"
+      }
+    },
+    {
+      "id": "U3B-Q017",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Analytical lipid constants",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which analytical constant is most directly associated with steam-volatile, water-soluble fatty acids recovered from a five-gram fat sample?",
+      "options": {
+        "A": "Saponification value",
+        "B": "Reichert–Meissl value",
+        "C": "Polenske value",
+        "D": "Iodine value"
+      }
+    },
+    {
+      "id": "U3B-Q018",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Analytical lipid constants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "An elevated Polenske value in a suspected butter-fat adulteration investigation is particularly relevant to possible addition of:",
+      "options": {
+        "A": "Squalene",
+        "B": "Coconut or palm-kernel fat",
+        "C": "Olive oil alone",
+        "D": "Pure cholesterol"
+      }
+    },
+    {
+      "id": "U3B-Q019",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Analytical lipid constants",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly distinguishes acid value from saponification value?",
+      "options": {
+        "A": "Acid value measures only double bonds",
+        "B": "Saponification value measures only peroxide formation",
+        "C": "Both values are identical measurements expressed in different units",
+        "D": "Acid value measures free acids; saponification value includes alkali consumed in ester hydrolysis"
+      }
+    },
+    {
+      "id": "U3B-Q020",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The three principal reaction families responsible for frying-oil deterioration in the handout are:",
+      "options": {
+        "A": "Hydrolysis, thermal oxidation and polymerisation",
+        "B": "Photolysis, chlorination and crystallisation",
+        "C": "Gelatinisation, fermentation and caramelisation",
+        "D": "Proteolysis, glycolysis and respiration"
+      }
+    },
+    {
+      "id": "U3B-Q021",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Steam released from food during deep frying can:",
+      "options": {
+        "A": "Strip some volatile compounds from the oil",
+        "B": "Remove all nonvolatile polar degradation products",
+        "C": "Convert all free fatty acids back into triacylglycerols",
+        "D": "Prevent every oxidation reaction"
+      }
+    },
+    {
+      "id": "U3B-Q022",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which change is most closely associated with accumulation of polymerised lipid products?",
+      "options": {
+        "A": "Complete disappearance of free fatty acids",
+        "B": "A guaranteed increase in nutritional quality",
+        "C": "Decreased viscosity",
+        "D": "Increased viscosity and persistent foaming"
+      }
+    },
+    {
+      "id": "U3B-Q023",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Why does free-fatty-acid accumulation generally lower the smoke point of frying oil?",
+      "options": {
+        "A": "They convert all unsaturated bonds into saturated bonds",
+        "B": "They remove all water from the fryer",
+        "C": "Free fatty acids are more volatile and contribute to earlier smoking",
+        "D": "They increase the oil's molecular weight without limit"
+      }
+    },
+    {
+      "id": "U3B-Q024",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about peroxide value during repeated frying is correct?",
+      "options": {
+        "A": "It must increase continuously with every heating cycle",
+        "B": "It directly measures polymer content",
+        "C": "It is a complete measure of all secondary oxidation products",
+        "D": "It may rise and later fall as hydroperoxides decompose"
+      }
+    },
+    {
+      "id": "U3B-Q025",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is an example of a nonvolatile deterioration product class in frying oil?",
+      "options": {
+        "A": "Only steam",
+        "B": "Atmospheric nitrogen",
+        "C": "Only volatile aldehydes that escape with steam",
+        "D": "Oxidised polar compounds and polymerised glycerides"
+      }
+    },
+    {
+      "id": "U3B-Q026",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "A fryer operator observes darkening, persistent foam and rising viscosity. The most defensible interpretation is:",
+      "options": {
+        "A": "Evidence that only water activity has changed",
+        "B": "Proof that the oil has a low peroxide value and is safe",
+        "C": "Accumulation of degradation products, including polymers and polar compounds",
+        "D": "Normal steam bubbling with no deterioration"
+      }
+    },
+    {
+      "id": "U3B-Q027",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which factor can alter the fatty-acid composition of frying oil during use?",
+      "options": {
+        "A": "The steam blanket alone",
+        "B": "The colour of the fryer exterior",
+        "C": "Lipid exchange from fatty foods such as chicken",
+        "D": "The shape of the frying basket only"
+      }
+    },
+    {
+      "id": "U3B-Q028",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Why is a low total peroxide value not sufficient to establish that used frying oil is suitable for reuse?",
+      "options": {
+        "A": "It measures every degradation product quantitatively",
+        "B": "It does not adequately capture secondary oxidation, hydrolysis or polymerisation",
+        "C": "It is a direct test of microbial contamination",
+        "D": "It proves that no heating has occurred"
+      }
+    },
+    {
+      "id": "U3B-Q029",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The uploaded handout's evidence status for the requested 15% fresh-oil and 25% used-oil TPC figures is:",
+      "options": {
+        "A": "The figures are universal limits for all edible fats",
+        "B": "Neither figure is established by the supplied documents as a verified legal provision",
+        "C": "Both figures are established by the 2021 fortification compendium",
+        "D": "The figures are limits for peroxide value"
+      }
+    },
+    {
+      "id": "U3B-Q030",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Deep frying",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which operating practice is consistent with the handout's quality-control approach?",
+      "options": {
+        "A": "Rely only on colour and smell",
+        "B": "Add fresh oil indefinitely to make any used oil compliant",
+        "C": "Control time and temperature, remove food debris and assess oil using complementary measures",
+        "D": "Prolong idle heating and repeatedly cycle oil without assessment"
+      }
+    },
+    {
+      "id": "U3B-Q031",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme architecture",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The complete functional enzyme system consisting of apoenzyme and required cofactor is called:",
+      "options": {
+        "A": "Product complex",
+        "B": "Holoenzyme",
+        "C": "Zymogen",
+        "D": "Substrate"
+      }
+    },
+    {
+      "id": "U3B-Q032",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme architecture",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which pair correctly represents zymogen activation?",
+      "options": {
+        "A": "Apoenzyme → substrate; product → coenzyme",
+        "B": "Pepsin → pepsinogen; trypsin → trypsinogen",
+        "C": "Holoenzyme → cofactor; cofactor → zymogen",
+        "D": "Pepsinogen → pepsin; trypsinogen → trypsin"
+      }
+    },
+    {
+      "id": "U3B-Q033",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme classification",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Lipase is classified under which traditional enzyme class?",
+      "options": {
+        "A": "Oxidoreductases",
+        "B": "Transferases",
+        "C": "Hydrolases",
+        "D": "Isomerases"
+      }
+    },
+    {
+      "id": "U3B-Q034",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme classification",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Pectate lyase is placed in which enzyme class?",
+      "options": {
+        "A": "Ligases",
+        "B": "Transferases",
+        "C": "Lyases",
+        "D": "Hydrolases"
+      }
+    },
+    {
+      "id": "U3B-Q035",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme classification",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "The first digit of a traditional Enzyme Commission number identifies the:",
+      "options": {
+        "A": "Number of subunits",
+        "B": "Substrate molecular weight",
+        "C": "Optimum pH",
+        "D": "Enzyme class"
+      }
+    },
+    {
+      "id": "U3B-Q036",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme classification",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly reconciles the handout's six-class teaching table with modern enzyme classification?",
+      "options": {
+        "A": "Only food enzymes are divided into six classes",
+        "B": "The six classes are wrong and should never be used",
+        "C": "Translocases are a subclass of hydrolases in every classification",
+        "D": "The handout presents the traditional six-class system; modern EC classification also recognises translocases"
+      }
+    },
+    {
+      "id": "U3B-Q037",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Michaelis–Menten kinetics",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "In the Michaelis–Menten model, the Michaelis constant Km is the substrate concentration at which:",
+      "options": {
+        "A": "The product concentration is zero at equilibrium",
+        "B": "The initial rate equals Vmax",
+        "C": "The initial rate is half of Vmax",
+        "D": "All enzyme is irreversibly denatured"
+      }
+    },
+    {
+      "id": "U3B-Q038",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Michaelis–Menten kinetics",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "At substrate concentration much greater than Km, the Michaelis–Menten rate approaches:",
+      "options": {
+        "A": "Zero",
+        "B": "Vmax",
+        "C": "Half of Vmax",
+        "D": "Km"
+      }
+    },
+    {
+      "id": "U3B-Q039",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Michaelis–Menten kinetics",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about Km and the enzyme–substrate dissociation constant Kd is correct?",
+      "options": {
+        "A": "Kd is always greater than Vmax",
+        "B": "Km has units of rate per minute",
+        "C": "Km is a kinetic constant and approaches Kd only under a limiting assumption",
+        "D": "They are always identical"
+      }
+    },
+    {
+      "id": "U3B-Q040",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Michaelis–Menten kinetics",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "For Vmax = 100 µmol/min, Km = 2 mmol/L and [S] = 2 mmol/L, the initial rate is:",
+      "options": {
+        "A": "50 µmol/min",
+        "B": "25 µmol/min",
+        "C": "100 µmol/min",
+        "D": "75 µmol/min"
+      }
+    },
+    {
+      "id": "U3B-Q041",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Michaelis–Menten kinetics",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "In a Lineweaver–Burk plot, the vertical intercept is:",
+      "options": {
+        "A": "−1/Km",
+        "B": "Km/Vmax",
+        "C": "1/Vmax",
+        "D": "Vmax/Km"
+      }
+    },
+    {
+      "id": "U3B-Q042",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme inhibition",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "A competitive inhibitor in the elementary Michaelis–Menten model causes:",
+      "options": {
+        "A": "Apparent Km to increase while Vmax remains unchanged",
+        "B": "Vmax to decrease and Km to remain unchanged",
+        "C": "Both Km and Vmax to increase by the same factor",
+        "D": "Both Km and Vmax to decrease"
+      }
+    },
+    {
+      "id": "U3B-Q043",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme inhibition",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Pure noncompetitive inhibition is characterised by:",
+      "options": {
+        "A": "Increased Km and unchanged Vmax",
+        "B": "Both Km and Vmax unchanged",
+        "C": "Decreased Km and increased Vmax",
+        "D": "Unchanged Km and decreased Vmax"
+      }
+    },
+    {
+      "id": "U3B-Q044",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme inhibition",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Uncompetitive inhibition occurs when the inhibitor binds:",
+      "options": {
+        "A": "Only the product",
+        "B": "Only free enzyme",
+        "C": "Only the free substrate",
+        "D": "Only enzyme–substrate complex"
+      }
+    },
+    {
+      "id": "U3B-Q045",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme inhibition",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "In mixed inhibition, the apparent Km can:",
+      "options": {
+        "A": "Only become zero",
+        "B": "Increase or decrease depending on relative inhibitor binding",
+        "C": "Always equal Kd",
+        "D": "Only remain unchanged"
+      }
+    },
+    {
+      "id": "U3B-Q046",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme inhibition",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Malonate competitively inhibits which enzyme in the textbook example?",
+      "options": {
+        "A": "Catalase",
+        "B": "Succinate dehydrogenase",
+        "C": "Lipase",
+        "D": "Alkaline phosphatase"
+      }
+    },
+    {
+      "id": "U3B-Q047",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme activity",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "An increase in temperature initially increases enzyme activity mainly because it:",
+      "options": {
+        "A": "Raises molecular collision frequency and reaction rate",
+        "B": "Permanently increases enzyme concentration",
+        "C": "Changes the reaction equilibrium constant",
+        "D": "Eliminates the activation energy entirely"
+      }
+    },
+    {
+      "id": "U3B-Q048",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme activity",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Why can extreme pH reduce enzyme activity?",
+      "options": {
+        "A": "It increases Vmax without limit",
+        "B": "It converts every enzyme into a coenzyme",
+        "C": "It always increases substrate concentration",
+        "D": "It changes ionisation of catalytic groups and may disrupt structure"
+      }
+    },
+    {
+      "id": "U3B-Q049",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Industrial enzymes",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which enzyme is commonly used to hydrolyse milk protein during cheese manufacture?",
+      "options": {
+        "A": "Catalase",
+        "B": "Polyphenol oxidase",
+        "C": "Chymosin",
+        "D": "Invertase"
+      }
+    },
+    {
+      "id": "U3B-Q050",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Blanching indicators",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which pair is used in the handout as blanching or pasteurisation process indicators?",
+      "options": {
+        "A": "Catalase and peroxidase",
+        "B": "Invertase and lactase",
+        "C": "Lipase and chymosin",
+        "D": "Amylase and pectin lyase"
+      }
+    },
+    {
+      "id": "U3B-Q051",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzyme kinetics",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement is correct about enzyme catalysis?",
+      "options": {
+        "A": "An enzyme is consumed stoichiometrically in every catalytic cycle",
+        "B": "An enzyme makes every thermodynamically unfavourable reaction spontaneous",
+        "C": "An enzyme changes the equilibrium constant of a reaction",
+        "D": "An enzyme lowers the activation barrier but does not change the equilibrium position of the uncoupled reaction"
+      }
+    },
+    {
+      "id": "U3B-Q052",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Natural pigments",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The green colour of most leafy vegetables is primarily due to:",
+      "options": {
+        "A": "Myoglobin",
+        "B": "Anthocyanins",
+        "C": "Chlorophylls",
+        "D": "Betalains"
+      }
+    },
+    {
+      "id": "U3B-Q053",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Chlorophyll",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "During acid heating of green vegetables, chlorophyll may be converted to:",
+      "options": {
+        "A": "Pheophytin",
+        "B": "Metmyoglobin",
+        "C": "Betanin",
+        "D": "Bixin"
+      }
+    },
+    {
+      "id": "U3B-Q054",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Carotenoids",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Carotenoids are generally associated with which colours?",
+      "options": {
+        "A": "Blue and violet only",
+        "B": "Yellow, orange and red",
+        "C": "Colourless only",
+        "D": "Green only"
+      }
+    },
+    {
+      "id": "U3B-Q055",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Carotenoids",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about the C40 carotenoid framework is most accurate?",
+      "options": {
+        "A": "C40 describes the parent carotenoid framework, but cleavage products such as bixin and norbixin are exceptions",
+        "B": "Bixin is a chlorophyll derivative",
+        "C": "All carotenoids contain magnesium",
+        "D": "Every carotenoid-related pigment must contain exactly 40 carbon atoms"
+      }
+    },
+    {
+      "id": "U3B-Q056",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Anthocyanins",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Anthocyanin colour is notably sensitive to:",
+      "options": {
+        "A": "pH",
+        "B": "Only protein concentration",
+        "C": "Only sodium chloride concentration",
+        "D": "The iodine value of oil"
+      }
+    },
+    {
+      "id": "U3B-Q057",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Anthoxanthins",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Anthoxanthins are generally:",
+      "options": {
+        "A": "Blue copper-containing pigments",
+        "B": "Red heme pigments",
+        "C": "Green magnesium-containing pigments",
+        "D": "Yellow or cream/white flavonoid pigments"
+      }
+    },
+    {
+      "id": "U3B-Q058",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Betalains",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly classifies betalains?",
+      "options": {
+        "A": "They are nitrogen-containing pigments derived from tyrosine and betalamic acid",
+        "B": "They are indigoid pigments containing no nitrogen",
+        "C": "They are chlorophyll breakdown products",
+        "D": "They are a subclass of myoglobin"
+      }
+    },
+    {
+      "id": "U3B-Q059",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Meat pigments",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "The principal pigment responsible for the characteristic red colour of fresh meat is:",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Pheophytin",
+        "C": "Myoglobin",
+        "D": "Anthocyanin"
+      }
+    },
+    {
+      "id": "U3B-Q060",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Meat pigments",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which pigment form is associated with the brown colour of oxidised meat?",
+      "options": {
+        "A": "Metmyoglobin",
+        "B": "Oxymyoglobin",
+        "C": "Chlorophyllide",
+        "D": "Deoxymyoglobin"
+      }
+    },
+    {
+      "id": "U3B-Q061",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Pigment stability",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which processing combination is most likely to accelerate pigment degradation in many foods?",
+      "options": {
+        "A": "A decrease in headspace volume without any chemical change",
+        "B": "Low temperature and oxygen exclusion in every case",
+        "C": "Only a change in package shape",
+        "D": "Excessive heat, oxygen and unfavourable pH"
+      }
+    },
+    {
+      "id": "U3B-Q062",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Tea pigments",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "The characteristic dark colour development during black-tea processing is associated with oxidation of:",
+      "options": {
+        "A": "Tea polyphenols",
+        "B": "Sucrose by chymosin",
+        "C": "Milk triglycerides",
+        "D": "Chlorophyll in animal tissue"
+      }
+    },
+    {
+      "id": "U3B-Q063",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzymatic browning",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Polyphenol oxidase (PPO) requires which reactant for enzymatic browning?",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Carbon dioxide only"
+      }
+    },
+    {
+      "id": "U3B-Q064",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Enzymatic browning",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which sequence best describes enzymatic browning in cut produce?",
+      "options": {
+        "A": "Phenolic substrate → ortho-quinone → coupling/condensation products",
+        "B": "Glucose + amino acid → Amadori product → melanoidin",
+        "C": "Myoglobin → chlorophyll → pheophytin",
+        "D": "Sucrose → starch → amylose"
+      }
+    },
+    {
+      "id": "U3B-Q065",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Flavour",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Flavour perception is best understood as a combination of:",
+      "options": {
+        "A": "Taste, aroma and other sensory inputs including mouthfeel",
+        "B": "Taste alone",
+        "C": "Colour alone",
+        "D": "Temperature alone"
+      }
+    },
+    {
+      "id": "U3B-Q066",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Flavour enhancers",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Monosodium glutamate (MSG) is primarily used to enhance:",
+      "options": {
+        "A": "Sweetness",
+        "B": "Bitterness",
+        "C": "Sourness",
+        "D": "Umami taste"
+      }
+    },
+    {
+      "id": "U3B-Q067",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Flavour enhancers",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Maltol and ethyl maltol are principally associated with:",
+      "options": {
+        "A": "Suppression of all aroma compounds",
+        "B": "Development of green chlorophyll colour",
+        "C": "Enhancement of sweet, caramel-like or cooked flavour notes",
+        "D": "Enzymatic hydrolysis of proteins"
+      }
+    },
+    {
+      "id": "U3B-Q068",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Sweeteners",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which statement best distinguishes bulk sweeteners from intense sweeteners?",
+      "options": {
+        "A": "Intense sweeteners are always metabolised unchanged",
+        "B": "Bulk sweeteners are always non-caloric",
+        "C": "Bulk sweeteners contribute appreciable mass, while intense sweeteners provide sweetness at much lower use levels",
+        "D": "There is no functional distinction"
+      }
+    },
+    {
+      "id": "U3B-Q069",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Sweeteners",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about aspartame is correct?",
+      "options": {
+        "A": "It is an intense sweetener and is metabolised",
+        "B": "It is identical to saccharin in chemical structure",
+        "C": "It is a natural anthocyanin pigment",
+        "D": "It is a bulk sugar alcohol excreted unchanged"
+      }
+    },
+    {
+      "id": "U3B-Q070",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Sweeteners",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "A key technological reason for using a bulk sweetener rather than only an intense sweetener in a reduced-sugar product is to:",
+      "options": {
+        "A": "Provide the same molecular structure as sucrose",
+        "B": "Replace some of the mass and functional solids of sugar",
+        "C": "Guarantee zero energy in every formulation",
+        "D": "Prevent all Maillard reactions"
+      }
+    },
+    {
+      "id": "U3B-Q071",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Flavour chemistry",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which statement about flavour enhancers is most defensible?",
+      "options": {
+        "A": "They are necessarily food colours",
+        "B": "They create every flavour from nothing",
+        "C": "They always act as preservatives",
+        "D": "They can intensify or modify existing savoury or characteristic flavour notes"
+      }
+    },
+    {
+      "id": "U3B-Q072",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Sweeteners",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which option correctly identifies the reason that sweetener safety and use cannot be inferred from sweetness intensity alone?",
+      "options": {
+        "A": "All intense sweeteners are peptides",
+        "B": "Different intense sweeteners have different chemical structures, metabolism and exposure profiles",
+        "C": "Sweetness intensity determines metabolic fate",
+        "D": "All bulk sweeteners are non-digestible"
+      }
+    },
+    {
+      "id": "U3B-Q073",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Flavour",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which sensory property is most directly influenced by volatile aroma compounds reaching the olfactory system?",
+      "options": {
+        "A": "Saltiness",
+        "B": "Hardness",
+        "C": "Aroma",
+        "D": "Viscosity"
+      }
+    },
+    {
+      "id": "U3B-Q074",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Which classification describes a colour manufactured to reproduce a pigment found in nature?",
+      "options": {
+        "A": "Lake colour only",
+        "B": "Nature-identical synthetic colour",
+        "C": "Natural colour",
+        "D": "Inorganic colour"
+      }
+    },
+    {
+      "id": "U3B-Q075",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is a natural food-colour source?",
+      "options": {
+        "A": "Indigocarmine",
+        "B": "Annatto",
+        "C": "Brilliant Blue FCF",
+        "D": "Erythrosine"
+      }
+    },
+    {
+      "id": "U3B-Q076",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "The handout lists how many synthetic colours in its textbook section?",
+      "options": {
+        "A": "Ten",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Eight"
+      }
+    },
+    {
+      "id": "U3B-Q077",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about titanium dioxide in the supplied material is correct?",
+      "options": {
+        "A": "It is a permitted colour in all bakery products",
+        "B": "It proves all inorganic colours are prohibited in every food",
+        "C": "The accessible compendium separately permits titanium dioxide in double fortified salt; the handout also discusses a specific chewing-gum exception in its textbook section",
+        "D": "It is the only permitted nutrient fortificant"
+      }
+    },
+    {
+      "id": "U3B-Q078",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "A lake colour is generally produced by:",
+      "options": {
+        "A": "Binding chlorophyll to magnesium",
+        "B": "Converting a water-soluble dye into an insoluble pigment form on a suitable substrate",
+        "C": "Hydrolysing starch with amylase",
+        "D": "Oxidising milk fat to aldehydes"
+      }
+    },
+    {
+      "id": "U3B-Q079",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which factor is important when selecting a food colour for a product?",
+      "options": {
+        "A": "Only the density of the processing room",
+        "B": "pH, heat exposure, light stability and food matrix",
+        "C": "Only the protein name",
+        "D": "Only the retail package size"
+      }
+    },
+    {
+      "id": "U3B-Q080",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement is the safest regulatory approach when a handout provides an old or incomplete list of permitted colours?",
+      "options": {
+        "A": "Infer permission from a colour's chemical stability",
+        "B": "Assume the list is current without checking",
+        "C": "Treat all natural colours as automatically permitted in every food",
+        "D": "Use the list as historical/source material and verify the current governing regulation before asserting legal permission"
+      }
+    },
+    {
+      "id": "U3B-Q081",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Food colours",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is a pigment rather than a synthetic flavour enhancer?",
+      "options": {
+        "A": "Ethyl maltol",
+        "B": "Curcumin",
+        "C": "MSG",
+        "D": "Maltol"
+      }
+    },
+    {
+      "id": "U3B-Q082",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Under the uploaded Fortification of Foods Regulations compendium, fortification means:",
+      "options": {
+        "A": "Deliberately increasing essential micronutrients in food to improve nutritional quality and provide public-health benefit with minimal health risk",
+        "B": "Removing all naturally occurring nutrients from food",
+        "C": "Adding any colour to food to improve appearance",
+        "D": "Adding protein solely to increase viscosity"
+      }
+    },
+    {
+      "id": "U3B-Q083",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "A fortificant is best described as:",
+      "options": {
+        "A": "A label logo used on fortified staples",
+        "B": "A microorganism that ferments the food",
+        "C": "A substance added to food to provide micronutrients, excluding the specified nutraceuticals and foods for Special Dietary Uses",
+        "D": "Any packaging material used for fortified food"
+      }
+    },
+    {
+      "id": "U3B-Q084",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which interpretation of the phrase 'when fortified' is correct?",
+      "options": {
+        "A": "Every product in the named staple category must automatically be fortified",
+        "B": "Only government-funded foods can ever be fortified",
+        "C": "The provisions set conditions for a product when it is fortified; the phrase alone does not mandate fortification of every product",
+        "D": "Fortification is prohibited unless the food is imported"
+      }
+    },
+    {
+      "id": "U3B-Q085",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Under the Regulation 3 provision reproduced in the compendium, which iron source is prohibited?",
+      "options": {
+        "A": "Ferrous fumarate",
+        "B": "Heme iron in any form",
+        "C": "Sodium feredetate",
+        "D": "Ferric pyrophosphate"
+      }
+    },
+    {
+      "id": "U3B-Q086",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The August 2021 amendment to the iodine range for fortified salt, as presented in the handout, substitutes:",
+      "options": {
+        "A": "30–50 ppm on dry-weight basis",
+        "B": "20–40 ppm at retail only",
+        "C": "5–10 ppm on wet basis",
+        "D": "15–30 ppm on dry-weight basis"
+      }
+    },
+    {
+      "id": "U3B-Q087",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which statement about fortified atta and fortified rice is correct?",
+      "options": {
+        "A": "Atta does not require iron under the displayed Schedule I table",
+        "B": "Rice can only be fortified with heme iron",
+        "C": "The rice table lists ferric pyrophosphate or sodium feredetate, while atta/maida tables include additional iron compounds",
+        "D": "Their complete permitted iron-source lists are identical"
+      }
+    },
+    {
+      "id": "U3B-Q088",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "The mandatory micronutrient combination listed for fortified atta and maida includes:",
+      "options": {
+        "A": "Calcium, vitamin K and vitamin E only",
+        "B": "Zinc and vitamin A only",
+        "C": "Iron, folic acid and vitamin B12",
+        "D": "Iodine, vitamin D and vitamin C only"
+      }
+    },
+    {
+      "id": "U3B-Q089",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Under the handout's multigrain atta condition, fortified-atta levels may be used where the product contains:",
+      "options": {
+        "A": "Exactly 25% wheat flour",
+        "B": "No wheat flour",
+        "C": "More than 50% wheat flour",
+        "D": "Any amount of wheat flour"
+      }
+    },
+    {
+      "id": "U3B-Q090",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly describes the Regulation 7(2) tagline?",
+      "options": {
+        "A": "The tagline 'Sampoorna Poshan Swasth Jeevan' is mandatory on every package",
+        "B": "The package may also carry the tagline; the fortification declaration and prescribed logo are otherwise required, subject to the stated iodized-salt exception",
+        "C": "The tagline is required only on imported rice",
+        "D": "The tagline replaces the fortification declaration"
+      }
+    },
+    {
+      "id": "U3B-Q091",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The Regulation 7(2) exception for iodized salt fortified with iodine should be interpreted as:",
+      "options": {
+        "A": "An exemption from nutrient-quality standards",
+        "B": "An exemption applying automatically to double fortified salt",
+        "C": "A blanket exemption from all food laws and labelling requirements",
+        "D": "An exception limited to the requirements of Regulation 7(2)"
+      }
+    },
+    {
+      "id": "U3B-Q092",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which statement reflects the substituted iron advisory reproduced in the compendium?",
+      "options": {
+        "A": "People with thalassemia may take under medical supervision, and persons with sickle cell anaemia are advised not to consume iron-fortified food products",
+        "B": "All consumers must avoid iron-fortified foods",
+        "C": "The advisory applies only to iodized salt",
+        "D": "Only children under five require a warning"
+      }
+    },
+    {
+      "id": "U3B-Q093",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is NOT one of the Regulation 5 quality-assurance elements listed in the handout?",
+      "options": {
+        "A": "Stage-wise monitoring and random testing",
+        "B": "Up-to-date fortificant procurement and inventory records",
+        "C": "A guarantee that every fortified food cures micronutrient deficiency",
+        "D": "Regular audit of technical equipment and processes"
+      }
+    },
+    {
+      "id": "U3B-Q094",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "The label tolerance described in the September 2021 amendment is:",
+      "options": {
+        "A": "Plus or minus 20% for all nutrients without qualification",
+        "B": "Minus 10% of the declared total value, while preserving the Schedule I maximum for added micronutrients",
+        "C": "A 10% reduction in package net weight",
+        "D": "A 10% upward allowance above every Schedule I maximum"
+      }
+    },
+    {
+      "id": "U3B-Q095",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which additional statements are required on the fortified milk powder label under the inserted provision described in the handout?",
+      "options": {
+        "A": "For direct consumption; refrigerate for one month; consume within seven days",
+        "B": "No special statements are required if the powder contains vitamin D",
+        "C": "Not recommended for direct consumption; only for named Government-funded programme; reconstitute the entire contents as directed; once opened, consume the same day",
+        "D": "Suitable for infant formula; dilute by eye; store indefinitely"
+      }
+    },
+    {
+      "id": "U3B-Q096",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "Which statement about optional micronutrients in fortified atta, maida and rice is correct?",
+      "options": {
+        "A": "They may be added singly or in combination, but specified sources and levels still matter when used",
+        "B": "Optional means any source and quantity may be used",
+        "C": "They are compulsory in every product",
+        "D": "They can replace the required core nutrients"
+      }
+    },
+    {
+      "id": "U3B-Q097",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which interpretation of the High Fat Sugar Salt (HFSS) exclusion is source-faithful?",
+      "options": {
+        "A": "HFSS foods are automatically double fortified",
+        "B": "The exclusion applies only to milk powder",
+        "C": "The exclusion in the handout concerns the Fortified Processed Foods category",
+        "D": "HFSS foods are excluded from every possible legal meaning of fortified food"
+      }
+    },
+    {
+      "id": "U3B-Q098",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Medium",
+      "question_type": "single_best_answer",
+      "question": "The fortification logo's exact dimensions and Pantone 3005 C specification are treated in the handout as:",
+      "options": {
+        "A": "Not established by the accessible Schedule II extraction and therefore not to be invented",
+        "B": "The required levels of iron in rice",
+        "C": "The shelf-life period for fortified milk",
+        "D": "Numerically verified by the accessible Schedule II extraction"
+      }
+    },
+    {
+      "id": "U3B-Q099",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The date distinction recorded for the September 2021 label-tolerance amendment is:",
+      "options": {
+        "A": "In force 22 September 2021; compliance 1 April 2022",
+        "B": "In force 1 April 2022; compliance 22 September 2021",
+        "C": "In force 1 March 2022; compliance 30 September 2021",
+        "D": "Both dates are 27 August 2021"
+      }
+    },
+    {
+      "id": "U3B-Q100",
+      "unit": "Unit 3 Part B: Food Lipids, Deep Frying, Enzyme Kinetics, Pigments, Colours and Fortification",
+      "topic": "Fortification regulations",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement best captures the central regulatory logic of food fortification in the uploaded compendium?",
+      "options": {
+        "A": "Compliance combines vehicle-specific nutrient levels and permitted sources with packaging, labelling, quality assurance and general food-law obligations",
+        "B": "Only the logo determines whether a food is fortified",
+        "C": "Nutrient addition alone establishes compliance",
+        "D": "Fortification eliminates the need for manufacturing controls"
+      }
+    }
+  ],
+  "answer_key": [
+    {
+      "question_id": "U3B-Q001",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q002",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q003",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q004",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q005",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q006",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q007",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q008",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q009",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q010",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q011",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q012",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q013",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q014",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q015",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q016",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q017",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q018",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q019",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q020",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q021",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q022",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q023",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q024",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q025",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q026",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q027",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q028",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q029",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q030",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q031",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q032",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q033",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q034",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q035",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q036",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q037",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q038",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q039",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q040",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q041",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q042",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q043",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q044",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q045",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q046",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q047",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q048",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q049",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q050",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q051",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q052",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q053",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q054",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q055",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q056",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q057",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q058",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q059",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q060",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q061",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q062",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q063",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q064",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q065",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q066",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q067",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q068",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q069",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q070",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q071",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q072",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q073",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q074",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q075",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q076",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q077",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q078",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q079",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q080",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q081",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q082",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q083",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q084",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q085",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q086",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q087",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q088",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q089",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q090",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q091",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3B-Q092",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q093",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q094",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3B-Q095",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q096",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q097",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3B-Q098",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q099",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3B-Q100",
+      "correct_option": "A"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "question_id": "U3B-Q001",
+      "topic": "Lipid classification",
+      "correct_option": "B",
+      "correct_answer": "Glycerol esterified with three fatty acids",
+      "explanation": "A triacylglycerol is formed when the three hydroxyl groups of glycerol are esterified with fatty acids. The three chains may be identical or different. It is a major storage lipid and is classified as a simple lipid."
+    },
+    {
+      "question_id": "U3B-Q002",
+      "topic": "Lipid classification",
+      "correct_option": "A",
+      "correct_answer": "Glycerophospholipid",
+      "explanation": "Compound lipids contain an additional group associated with the lipid framework. Glycerophospholipids contain a phosphate-bearing polar head group. Squalene, cholesterol and free fatty acids are treated as derived lipid constituents in the handout."
+    },
+    {
+      "question_id": "U3B-Q003",
+      "topic": "Lipid classification",
+      "correct_option": "A",
+      "correct_answer": "Sphingomyelin is a sphingolipid that also contains phosphate",
+      "explanation": "Sphingolipids are built on a sphingoid-base framework rather than necessarily on glycerol. Sphingomyelin is a phosphorous-containing sphingolipid, while glycosphingolipids are both sphingolipids and glycolipids. The labels can overlap."
+    },
+    {
+      "question_id": "U3B-Q004",
+      "topic": "Fatty acid nomenclature",
+      "correct_option": "D",
+      "correct_answer": "18 carbon atoms and two double bonds",
+      "explanation": "In shorthand fatty-acid notation, the first number gives the total carbon atoms and the second gives the number of carbon–carbon double bonds. C18:2 alone does not reveal double-bond positions or cis/trans geometry."
+    },
+    {
+      "question_id": "U3B-Q005",
+      "topic": "Fatty acid nomenclature",
+      "correct_option": "A",
+      "correct_answer": "Linoleic and alpha-linolenic acids",
+      "explanation": "Linoleic acid (C18:2, omega-6) and alpha-linolenic acid (C18:3, omega-3) are essential fatty acids. Oleic acid is an omega-9 monounsaturated fatty acid; palmitic, stearic, butyric, lauric and capric acids are saturated."
+    },
+    {
+      "question_id": "U3B-Q006",
+      "topic": "Fatty acid nomenclature",
+      "correct_option": "C",
+      "correct_answer": "First double bond counted from the terminal methyl end",
+      "explanation": "Omega notation counts from the terminal methyl (omega) end and identifies the position of the first double bond encountered. It does not state the total number of double bonds."
+    },
+    {
+      "question_id": "U3B-Q007",
+      "topic": "Milk fat",
+      "correct_option": "B",
+      "correct_answer": "Butyric acid",
+      "explanation": "Butyric acid is a short-chain fatty acid characteristic of milk fat. Milk fat also contains caproic, caprylic and capric acids, alongside major long-chain constituents such as palmitic, stearic and oleic acids."
+    },
+    {
+      "question_id": "U3B-Q008",
+      "topic": "Lipid classes",
+      "correct_option": "B",
+      "correct_answer": "Lauric acid",
+      "explanation": "The handout describes lauric fats as containing approximately 40–50% lauric acid in the textbook account. Coconut and palm-kernel fats are examples. Palm oil and palm-kernel oil are chemically distinct and should not be confused."
+    },
+    {
+      "question_id": "U3B-Q009",
+      "topic": "Unsaponifiable matter",
+      "correct_option": "D",
+      "correct_answer": "Beta-sitosterol",
+      "explanation": "Beta-sitosterol is a predominant phytosterol in many vegetable oils. Cholesterol predominates in animal fats. Squalene is a triterpene hydrocarbon, not a sterol."
+    },
+    {
+      "question_id": "U3B-Q010",
+      "topic": "Unsaponifiable matter",
+      "correct_option": "D",
+      "correct_answer": "Possible vegetable-fat addition to animal fat",
+      "explanation": "Cholesterol acetate is reported at about 114°C, while phytosterol acetates are reported around 126–137°C. A higher-melting phytosterol-containing fraction can indicate vegetable-fat addition to animal fat, but mixtures and purification affect interpretation; it is not infallible."
+    },
+    {
+      "question_id": "U3B-Q011",
+      "topic": "Lipid oxidation",
+      "correct_option": "C",
+      "correct_answer": "ROO• + RH → ROOH + R•",
+      "explanation": "During propagation, a lipid radical reacts with oxygen to form a peroxyl radical (ROO•). The peroxyl radical abstracts hydrogen from another lipid (RH), producing a hydroperoxide (ROOH) and a new lipid radical. This sustains the chain reaction."
+    },
+    {
+      "question_id": "U3B-Q012",
+      "topic": "Lipid oxidation",
+      "correct_option": "D",
+      "correct_answer": "Hydroperoxides may decompose faster than they are formed",
+      "explanation": "Peroxide value is a primary-oxidation index. At high temperatures, hydroperoxides are unstable and decompose into aldehydes, ketones, acids and other secondary products. A low value can therefore reflect advanced deterioration rather than freshness."
+    },
+    {
+      "question_id": "U3B-Q013",
+      "topic": "Rancidity",
+      "correct_option": "D",
+      "correct_answer": "Free fatty acids and partial glycerides",
+      "explanation": "Water cleaves ester bonds sequentially, yielding diacylglycerols, monoacylglycerols, free fatty acids and ultimately glycerol. Increased free fatty acids raise acidity and can lower the smoke point."
+    },
+    {
+      "question_id": "U3B-Q014",
+      "topic": "Rancidity",
+      "correct_option": "C",
+      "correct_answer": "Decarboxylation of beta-keto acids formed in microbial metabolism",
+      "explanation": "The handout explains ketonic rancidity as a microbial pathway in which certain fungi convert fatty acids through incomplete beta-oxidative routes to beta-keto acids. Decarboxylation produces methyl ketones. Controlled methyl-ketone formation can contribute to blue-cheese flavour."
+    },
+    {
+      "question_id": "U3B-Q015",
+      "topic": "Analytical lipid constants",
+      "correct_option": "C",
+      "correct_answer": "Milligrams of KOH required per gram of fat",
+      "explanation": "Saponification value is the milligrams of potassium hydroxide required to saponify one gram of fat under prescribed conditions. It reflects alkali demand for ester hydrolysis and is generally higher for fats with lower average fatty-acid chain length."
+    },
+    {
+      "question_id": "U3B-Q016",
+      "topic": "Analytical lipid constants",
+      "correct_option": "A",
+      "correct_answer": "Greater unsaturation-related halogen uptake",
+      "explanation": "Iodine value measures halogen uptake associated with carbon–carbon double bonds and is expressed as grams of iodine equivalent absorbed by 100 g fat. A higher value generally indicates greater unsaturation, but it does not identify omega family or every isomer."
+    },
+    {
+      "question_id": "U3B-Q017",
+      "topic": "Analytical lipid constants",
+      "correct_option": "B",
+      "correct_answer": "Reichert–Meissl value",
+      "explanation": "The Reichert–Meissl (RM) value operationally measures steam-volatile, water-soluble fatty acids, with butyric and caproic acids as important teaching associations. Polenske value concerns the steam-volatile, water-insoluble fraction."
+    },
+    {
+      "question_id": "U3B-Q018",
+      "topic": "Analytical lipid constants",
+      "correct_option": "B",
+      "correct_answer": "Coconut or palm-kernel fat",
+      "explanation": "Polenske value reflects steam-volatile, water-insoluble fatty acids, particularly caprylic and capric acids. It is useful in considering lauric-fat addition, especially coconut or palm-kernel fats. Plain palm oil should not be substituted for palm-kernel oil."
+    },
+    {
+      "question_id": "U3B-Q019",
+      "topic": "Analytical lipid constants",
+      "correct_option": "D",
+      "correct_answer": "Acid value measures free acids; saponification value includes alkali consumed in ester hydrolysis",
+      "explanation": "Acid value is the milligrams of KOH needed to neutralise free acids in one gram of sample. Saponification value measures alkali required to saponify the fat, including ester-bond hydrolysis. They answer different analytical questions."
+    },
+    {
+      "question_id": "U3B-Q020",
+      "topic": "Deep frying",
+      "correct_option": "A",
+      "correct_answer": "Hydrolysis, thermal oxidation and polymerisation",
+      "explanation": "Food-derived water promotes hydrolysis; oxygen and heat promote thermal oxidation; radical coupling and reactions of unsaturated chains produce dimers, trimers and polymers. These processes occur together during frying."
+    },
+    {
+      "question_id": "U3B-Q021",
+      "topic": "Deep frying",
+      "correct_option": "A",
+      "correct_answer": "Strip some volatile compounds from the oil",
+      "explanation": "Water leaving food as steam can strip some volatile oxidation products and agitate the oil. This may help volatile concentrations approach a plateau, but nonvolatile degradation products remain; steam stripping does not remove the entire deterioration burden."
+    },
+    {
+      "question_id": "U3B-Q022",
+      "topic": "Deep frying",
+      "correct_option": "D",
+      "correct_answer": "Increased viscosity and persistent foaming",
+      "explanation": "Coupled and polymerised lipid products increase average molecular size and viscosity. They contribute to gums, deposits, persistent foaming, darker oil and potentially greater oil retention by fried food."
+    },
+    {
+      "question_id": "U3B-Q023",
+      "topic": "Deep frying",
+      "correct_option": "C",
+      "correct_answer": "Free fatty acids are more volatile and contribute to earlier smoking",
+      "explanation": "Hydrolysis releases free fatty acids, increases acidity and contributes to smoking at lower temperatures. Smoke point also depends on refining history and other constituents, so free-fatty-acid content is not its sole determinant."
+    },
+    {
+      "question_id": "U3B-Q024",
+      "topic": "Deep frying",
+      "correct_option": "D",
+      "correct_answer": "It may rise and later fall as hydroperoxides decompose",
+      "explanation": "The concentration of hydroperoxides reflects the balance between formation and decomposition. The handout explicitly notes an induction period followed by a rise and later fall. At frying temperatures decomposition can be rapid, so peroxide value alone is inadequate."
+    },
+    {
+      "question_id": "U3B-Q025",
+      "topic": "Deep frying",
+      "correct_option": "D",
+      "correct_answer": "Oxidised polar compounds and polymerised glycerides",
+      "explanation": "Frying generates nonpolymeric polar compounds such as hydroxyl and epoxy acids, as well as dimeric and polymeric acids and glycerides. Volatile aldehydes and ketones may partly escape with steam, but nonvolatile products remain."
+    },
+    {
+      "question_id": "U3B-Q026",
+      "topic": "Deep frying",
+      "correct_option": "C",
+      "correct_answer": "Accumulation of degradation products, including polymers and polar compounds",
+      "explanation": "Persistent chemical foaming must be distinguished from normal steam bubbles. Darkening, increased viscosity, gums and persistent foam are compatible with accumulated frying-oil degradation products. No single sensory observation substitutes for a complete assessment."
+    },
+    {
+      "question_id": "U3B-Q027",
+      "topic": "Deep frying",
+      "correct_option": "C",
+      "correct_answer": "Lipid exchange from fatty foods such as chicken",
+      "explanation": "Fatty foods can release endogenous lipids into the frying medium. This lipid exchange can change the frying oil's fatty-acid composition and oxidative stability."
+    },
+    {
+      "question_id": "U3B-Q028",
+      "topic": "Deep frying",
+      "correct_option": "B",
+      "correct_answer": "It does not adequately capture secondary oxidation, hydrolysis or polymerisation",
+      "explanation": "Peroxide value measures primary peroxide-related oxidation. Hydroperoxides can decompose while secondary products, free fatty acids and polymers accumulate. A defensible evaluation combines process history, acidity, primary and secondary oxidation measures, polar products and the applicable verified legal criterion."
+    },
+    {
+      "question_id": "U3B-Q029",
+      "topic": "Deep frying",
+      "correct_option": "B",
+      "correct_answer": "Neither figure is established by the supplied documents as a verified legal provision",
+      "explanation": "The handout expressly states that neither uploaded document establishes the governing legal provision, exact applicability or boundary wording for 15% and 25% TPC. The figures must not be quoted as verified law from the fortification compendium."
+    },
+    {
+      "question_id": "U3B-Q030",
+      "topic": "Deep frying",
+      "correct_option": "C",
+      "correct_answer": "Control time and temperature, remove food debris and assess oil using complementary measures",
+      "explanation": "The handout recommends controlling time and temperature, removing food debris, minimising idle heating and repeated thermal cycling, assessing oil with suitable measurements, and applying the verified statutory discard criterion. Fresh-oil replenishment does not justify indefinite use."
+    },
+    {
+      "question_id": "U3B-Q031",
+      "topic": "Enzyme architecture",
+      "correct_option": "B",
+      "correct_answer": "Holoenzyme",
+      "explanation": "The apoenzyme is the protein portion of a cofactor-dependent enzyme. When combined with its required nonprotein component (cofactor), it forms the holoenzyme, the complete catalytic system."
+    },
+    {
+      "question_id": "U3B-Q032",
+      "topic": "Enzyme architecture",
+      "correct_option": "D",
+      "correct_answer": "Pepsinogen → pepsin; trypsinogen → trypsin",
+      "explanation": "Pepsinogen and trypsinogen are inactive precursors activated to pepsin and trypsin, commonly through limited proteolysis. A zymogen is not simply an apoenzyme missing a cofactor."
+    },
+    {
+      "question_id": "U3B-Q033",
+      "topic": "Enzyme classification",
+      "correct_option": "C",
+      "correct_answer": "Hydrolases",
+      "explanation": "Lipase catalyses hydrolysis of carboxylic ester bonds and is therefore a hydrolase (EC class 3). The handout gives EC number 3.1.1.3."
+    },
+    {
+      "question_id": "U3B-Q034",
+      "topic": "Enzyme classification",
+      "correct_option": "C",
+      "correct_answer": "Lyases",
+      "explanation": "Pectate lyase catalyses nonhydrolytic elimination reactions and belongs to the lyases. The handout flags the absolute claim that all pectin-degrading enzymes are hydrolases as incorrect."
+    },
+    {
+      "question_id": "U3B-Q035",
+      "topic": "Enzyme classification",
+      "correct_option": "D",
+      "correct_answer": "Enzyme class",
+      "explanation": "The first EC digit indicates the reaction class. The handout teaches the traditional six classes: oxidoreductases, transferases, hydrolases, lyases, isomerases and ligases. Modern EC classification also includes translocases as a seventh class."
+    },
+    {
+      "question_id": "U3B-Q036",
+      "topic": "Enzyme classification",
+      "correct_option": "D",
+      "correct_answer": "The handout presents the traditional six-class system; modern EC classification also recognises translocases",
+      "explanation": "The source specifically teaches the traditional six-class system and cautions that modern Enzyme Commission classification also includes translocases. In a source-specific question asking for the handout's six classes, reproduce its six listed classes while avoiding the claim that the modern system has only six."
+    },
+    {
+      "question_id": "U3B-Q037",
+      "topic": "Michaelis–Menten kinetics",
+      "correct_option": "C",
+      "correct_answer": "The initial rate is half of Vmax",
+      "explanation": "Substituting [S] = Km into v = Vmax[S]/(Km+[S]) gives v = Vmax/2. Km has concentration units. This interpretation applies to the relevant Michaelis–Menten model."
+    },
+    {
+      "question_id": "U3B-Q038",
+      "topic": "Michaelis–Menten kinetics",
+      "correct_option": "B",
+      "correct_answer": "Vmax",
+      "explanation": "When substrate concentration is much greater than Km, enzyme active sites are nearly saturated and v approaches Vmax. The rate becomes approximately zero order with respect to further increases in substrate."
+    },
+    {
+      "question_id": "U3B-Q039",
+      "topic": "Michaelis–Menten kinetics",
+      "correct_option": "C",
+      "correct_answer": "Km is a kinetic constant and approaches Kd only under a limiting assumption",
+      "explanation": "For the simple scheme, Km = (k−1 + kcat)/k1, while Kd = k−1/k1. Km approaches Kd when catalytic conversion is much slower than ES dissociation. It is not universally an equilibrium dissociation constant."
+    },
+    {
+      "question_id": "U3B-Q040",
+      "topic": "Michaelis–Menten kinetics",
+      "correct_option": "A",
+      "correct_answer": "50 µmol/min",
+      "explanation": "At [S] = Km, the rate is half-maximal. Therefore v = 100 × 2/(2+2) = 50 µmol/min. This is the defining half-maximum relationship."
+    },
+    {
+      "question_id": "U3B-Q041",
+      "topic": "Michaelis–Menten kinetics",
+      "correct_option": "C",
+      "correct_answer": "1/Vmax",
+      "explanation": "The double-reciprocal equation is 1/v = (Km/Vmax)(1/[S]) + 1/Vmax. Thus the slope is Km/Vmax, vertical intercept is 1/Vmax and horizontal intercept is −1/Km."
+    },
+    {
+      "question_id": "U3B-Q042",
+      "topic": "Enzyme inhibition",
+      "correct_option": "A",
+      "correct_answer": "Apparent Km to increase while Vmax remains unchanged",
+      "explanation": "Competitive inhibitor binds free enzyme in a manner mutually exclusive with substrate. Apparent Km increases, while Vmax remains unchanged; sufficiently high substrate can overcome the inhibition in the elementary model."
+    },
+    {
+      "question_id": "U3B-Q043",
+      "topic": "Enzyme inhibition",
+      "correct_option": "D",
+      "correct_answer": "Unchanged Km and decreased Vmax",
+      "explanation": "In pure noncompetitive inhibition, inhibitor binds free enzyme and enzyme–substrate complex with equal affinity. Vmax decreases while Km remains unchanged. Binding away from the active site alone does not establish pure noncompetitive kinetics."
+    },
+    {
+      "question_id": "U3B-Q044",
+      "topic": "Enzyme inhibition",
+      "correct_option": "D",
+      "correct_answer": "Only enzyme–substrate complex",
+      "explanation": "An uncompetitive inhibitor binds only the enzyme–substrate complex. In the classical model, both apparent Km and Vmax decrease by the same factor; increasing substrate does not restore the original maximum rate."
+    },
+    {
+      "question_id": "U3B-Q045",
+      "topic": "Enzyme inhibition",
+      "correct_option": "B",
+      "correct_answer": "Increase or decrease depending on relative inhibitor binding",
+      "explanation": "Mixed inhibitors bind both free enzyme and enzyme–substrate complex with unequal affinities. Apparent Vmax decreases, while apparent Km may increase or decrease depending on the relative binding constants."
+    },
+    {
+      "question_id": "U3B-Q046",
+      "topic": "Enzyme inhibition",
+      "correct_option": "B",
+      "correct_answer": "Succinate dehydrogenase",
+      "explanation": "The handout uses malonate as a competitive inhibitor in comparison with succinate at succinate dehydrogenase. The structural/functional substrate competition raises apparent Km without changing Vmax in the simple model."
+    },
+    {
+      "question_id": "U3B-Q047",
+      "topic": "Enzyme activity",
+      "correct_option": "A",
+      "correct_answer": "Raises molecular collision frequency and reaction rate",
+      "explanation": "Temperature initially increases molecular motion and collision frequency, often raising reaction rate. Beyond an enzyme-specific optimum, thermal unfolding and loss of active structure reduce activity. Enzymes do not change the equilibrium constant of the uncoupled reaction."
+    },
+    {
+      "question_id": "U3B-Q048",
+      "topic": "Enzyme activity",
+      "correct_option": "D",
+      "correct_answer": "It changes ionisation of catalytic groups and may disrupt structure",
+      "explanation": "Hydrogen-ion concentration affects ionisation states of amino-acid side chains involved in binding and catalysis and can disrupt structural interactions. Each enzyme has a characteristic pH profile; extremes may denature or inactivate it."
+    },
+    {
+      "question_id": "U3B-Q049",
+      "topic": "Industrial enzymes",
+      "correct_option": "C",
+      "correct_answer": "Chymosin",
+      "explanation": "Chymosin (rennin) acts on κ-casein and destabilises casein micelles, enabling coagulation during cheese manufacture. The handout references chymosin in the proteolysis/industrial enzyme context."
+    },
+    {
+      "question_id": "U3B-Q050",
+      "topic": "Blanching indicators",
+      "correct_option": "A",
+      "correct_answer": "Catalase and peroxidase",
+      "explanation": "Catalase and peroxidase are endogenous enzymes commonly considered in evaluating adequacy of blanching. Their residual activity can indicate insufficient heat treatment; the appropriate indicator depends on the commodity and process."
+    },
+    {
+      "question_id": "U3B-Q051",
+      "topic": "Enzyme kinetics",
+      "correct_option": "D",
+      "correct_answer": "An enzyme lowers the activation barrier but does not change the equilibrium position of the uncoupled reaction",
+      "explanation": "Enzymes provide a lower-activation-energy pathway and increase the rate at which equilibrium is approached. They do not alter the equilibrium constant or make an uncoupled thermodynamically unfavourable reaction favourable by themselves."
+    },
+    {
+      "question_id": "U3B-Q052",
+      "topic": "Natural pigments",
+      "correct_option": "C",
+      "correct_answer": "Chlorophylls",
+      "explanation": "Chlorophylls are the principal green pigments in green plant tissues. Their central magnesium and conjugated ring system contribute to visible light absorption."
+    },
+    {
+      "question_id": "U3B-Q053",
+      "topic": "Chlorophyll",
+      "correct_option": "A",
+      "correct_answer": "Pheophytin",
+      "explanation": "Acid and heat can displace the central magnesium ion of chlorophyll, producing pheophytin and an olive-brown colour. This is a common processing-related colour change."
+    },
+    {
+      "question_id": "U3B-Q054",
+      "topic": "Carotenoids",
+      "correct_option": "B",
+      "correct_answer": "Yellow, orange and red",
+      "explanation": "Carotenoids are conjugated polyene pigments commonly responsible for yellow, orange and red colours. They are lipid-soluble and include carotenes and xanthophylls."
+    },
+    {
+      "question_id": "U3B-Q055",
+      "topic": "Carotenoids",
+      "correct_option": "A",
+      "correct_answer": "C40 describes the parent carotenoid framework, but cleavage products such as bixin and norbixin are exceptions",
+      "explanation": "The handout warns against treating C40 as an absolute rule for every related pigment. The parent carotenoid framework is commonly C40, while apocarotenoid cleavage products such as bixin and norbixin have fewer carbon atoms."
+    },
+    {
+      "question_id": "U3B-Q056",
+      "topic": "Anthocyanins",
+      "correct_option": "A",
+      "correct_answer": "pH",
+      "explanation": "Anthocyanins undergo pH-dependent structural equilibria, producing different colour forms. Acidic conditions commonly favour red flavylium forms, while higher pH can shift hue and may promote instability."
+    },
+    {
+      "question_id": "U3B-Q057",
+      "topic": "Anthoxanthins",
+      "correct_option": "D",
+      "correct_answer": "Yellow or cream/white flavonoid pigments",
+      "explanation": "Anthoxanthins are pale yellow, cream or white flavonoid pigments. Their colour can change with pH and metal interactions; they should not be confused with anthocyanins."
+    },
+    {
+      "question_id": "U3B-Q058",
+      "topic": "Betalains",
+      "correct_option": "A",
+      "correct_answer": "They are nitrogen-containing pigments derived from tyrosine and betalamic acid",
+      "explanation": "The handout corrects an older textbook label: modern chemical classification identifies betalains as nitrogen-containing pigments derived from tyrosine and betalamic acid, not chemically indigoid pigments."
+    },
+    {
+      "question_id": "U3B-Q059",
+      "topic": "Meat pigments",
+      "correct_option": "C",
+      "correct_answer": "Myoglobin",
+      "explanation": "Myoglobin is the principal muscle pigment. Its colour depends on the chemical state of its heme iron and the ligands bound to it; oxygenation and oxidation state are central to meat colour."
+    },
+    {
+      "question_id": "U3B-Q060",
+      "topic": "Meat pigments",
+      "correct_option": "A",
+      "correct_answer": "Metmyoglobin",
+      "explanation": "Oxidation of the heme iron to the ferric state produces metmyoglobin, associated with brown discoloration. Oxymyoglobin is associated with bright cherry-red colour, while deoxymyoglobin gives a purplish-red appearance."
+    },
+    {
+      "question_id": "U3B-Q061",
+      "topic": "Pigment stability",
+      "correct_option": "D",
+      "correct_answer": "Excessive heat, oxygen and unfavourable pH",
+      "explanation": "Pigment stability depends on molecular structure and the food environment. Heat, oxygen, pH and light can accelerate degradation or shift pigment forms. The exact response is pigment-specific, so the option states a broad risk combination rather than a universal single pathway."
+    },
+    {
+      "question_id": "U3B-Q062",
+      "topic": "Tea pigments",
+      "correct_option": "A",
+      "correct_answer": "Tea polyphenols",
+      "explanation": "Tea processing involves enzymatic oxidation of polyphenolic substrates, with quinone formation and subsequent condensation/polymerisation contributing to characteristic coloured products such as theaflavins and thearubigins."
+    },
+    {
+      "question_id": "U3B-Q063",
+      "topic": "Enzymatic browning",
+      "correct_option": "C",
+      "correct_answer": "Oxygen",
+      "explanation": "PPO catalyses oxidation of phenolic substrates using molecular oxygen. Cutting or bruising tissue brings phenolics, active enzyme and oxygen together, producing quinones that subsequently form brown polymers."
+    },
+    {
+      "question_id": "U3B-Q064",
+      "topic": "Enzymatic browning",
+      "correct_option": "A",
+      "correct_answer": "Phenolic substrate → ortho-quinone → coupling/condensation products",
+      "explanation": "In PPO-mediated browning, monophenols may first be hydroxylated to ortho-diphenols (monophenolase activity), then oxidised to ortho-quinones (diphenolase activity). Quinones undergo largely nonenzymatic coupling and condensation to melanin-like pigments."
+    },
+    {
+      "question_id": "U3B-Q065",
+      "topic": "Flavour",
+      "correct_option": "A",
+      "correct_answer": "Taste, aroma and other sensory inputs including mouthfeel",
+      "explanation": "Flavour is a combined sensory experience. Taste and olfaction are central, while texture, mouthfeel, temperature and trigeminal sensations also influence perception."
+    },
+    {
+      "question_id": "U3B-Q066",
+      "topic": "Flavour enhancers",
+      "correct_option": "D",
+      "correct_answer": "Umami taste",
+      "explanation": "MSG supplies glutamate, which stimulates umami taste receptors and enhances savoury character. It is a flavour enhancer rather than an intense sweetener."
+    },
+    {
+      "question_id": "U3B-Q067",
+      "topic": "Flavour enhancers",
+      "correct_option": "C",
+      "correct_answer": "Enhancement of sweet, caramel-like or cooked flavour notes",
+      "explanation": "Maltol and ethyl maltol are flavour compounds used to enhance sweet, caramel-like and cooked notes. Their function is sensory enhancement, not pigment synthesis or protein hydrolysis."
+    },
+    {
+      "question_id": "U3B-Q068",
+      "topic": "Sweeteners",
+      "correct_option": "C",
+      "correct_answer": "Bulk sweeteners contribute appreciable mass, while intense sweeteners provide sweetness at much lower use levels",
+      "explanation": "Bulk sweeteners contribute body and solids as well as sweetness, whereas intense sweeteners have much greater sweetness potency and are used at lower concentrations. Their metabolism and energy contribution differ by compound."
+    },
+    {
+      "question_id": "U3B-Q069",
+      "topic": "Sweeteners",
+      "correct_option": "A",
+      "correct_answer": "It is an intense sweetener and is metabolised",
+      "explanation": "Aspartame is an intense sweetener that is metabolised; the handout explicitly warns that intense sweetness does not imply that all sweeteners are excreted unchanged. It must not be grouped indiscriminately with non-metabolised compounds."
+    },
+    {
+      "question_id": "U3B-Q070",
+      "topic": "Sweeteners",
+      "correct_option": "B",
+      "correct_answer": "Replace some of the mass and functional solids of sugar",
+      "explanation": "Bulk sweeteners can contribute solids, body, texture and sometimes humectancy, functions that an intense sweetener used in tiny quantities may not replace. Formulation often requires additional bulking agents or texture modifiers."
+    },
+    {
+      "question_id": "U3B-Q071",
+      "topic": "Flavour chemistry",
+      "correct_option": "D",
+      "correct_answer": "They can intensify or modify existing savoury or characteristic flavour notes",
+      "explanation": "Flavour enhancers modify or intensify sensory perception, often by strengthening existing flavour notes. They are not automatically preservatives or colourants and do not create every flavour characteristic from nothing."
+    },
+    {
+      "question_id": "U3B-Q072",
+      "topic": "Sweeteners",
+      "correct_option": "B",
+      "correct_answer": "Different intense sweeteners have different chemical structures, metabolism and exposure profiles",
+      "explanation": "Sweetness potency is a sensory property, not a predictor of metabolism, toxicology or excretion. The handout uses aspartame as a specific warning against assuming all intense sweeteners pass through unchanged."
+    },
+    {
+      "question_id": "U3B-Q073",
+      "topic": "Flavour",
+      "correct_option": "C",
+      "correct_answer": "Aroma",
+      "explanation": "Volatile molecules released from food reach olfactory receptors through the nasal route, contributing aroma. Flavour perception integrates this with taste and other oral sensory inputs."
+    },
+    {
+      "question_id": "U3B-Q074",
+      "topic": "Food colours",
+      "correct_option": "B",
+      "correct_answer": "Nature-identical synthetic colour",
+      "explanation": "Nature-identical synthetic colours are chemically manufactured to reproduce a naturally occurring colour molecule. This differs from extraction of a natural pigment and from synthetic colours without a natural counterpart."
+    },
+    {
+      "question_id": "U3B-Q075",
+      "topic": "Food colours",
+      "correct_option": "B",
+      "correct_answer": "Annatto",
+      "explanation": "Annatto is a natural colour source associated with carotenoid pigments such as bixin and norbixin. The other listed examples are synthetic colours."
+    },
+    {
+      "question_id": "U3B-Q076",
+      "topic": "Food colours",
+      "correct_option": "D",
+      "correct_answer": "Eight",
+      "explanation": "The uploaded handout's section 7 explicitly treats eight synthetic colours listed in the textbook. This question tests the source-specific count, not a general claim about every current regulatory list."
+    },
+    {
+      "question_id": "U3B-Q077",
+      "topic": "Food colours",
+      "correct_option": "C",
+      "correct_answer": "The accessible compendium separately permits titanium dioxide in double fortified salt; the handout also discusses a specific chewing-gum exception in its textbook section",
+      "explanation": "The correction register warns that a colour prohibition must not be expanded into a ban on every inorganic additive. Schedule I separately permits titanium dioxide in double fortified salt. The textbook section discusses a specific chewing-gum exception; scope and governing provision must be kept distinct."
+    },
+    {
+      "question_id": "U3B-Q078",
+      "topic": "Food colours",
+      "correct_option": "B",
+      "correct_answer": "Converting a water-soluble dye into an insoluble pigment form on a suitable substrate",
+      "explanation": "Lake colours are insoluble pigment preparations made by precipitating or adsorbing a soluble dye onto an appropriate substrate, commonly an aluminium-containing substrate. Their suitability depends on the food system and applicable permission."
+    },
+    {
+      "question_id": "U3B-Q079",
+      "topic": "Food colours",
+      "correct_option": "B",
+      "correct_answer": "pH, heat exposure, light stability and food matrix",
+      "explanation": "Colour stability depends on pigment chemistry and matrix conditions. pH, heat, oxygen, light, moisture and interactions with other ingredients can alter hue, intensity or stability; selection should reflect the product's processing and storage conditions."
+    },
+    {
+      "question_id": "U3B-Q080",
+      "topic": "Food colours",
+      "correct_option": "D",
+      "correct_answer": "Use the list as historical/source material and verify the current governing regulation before asserting legal permission",
+      "explanation": "The handout's source audit distinguishes textbook information from statutory authority and warns against unsupported legal claims. A list in a textbook or 2021 compendium does not automatically verify current permission, category, maximum level or conditions."
+    },
+    {
+      "question_id": "U3B-Q081",
+      "topic": "Food colours",
+      "correct_option": "B",
+      "correct_answer": "Curcumin",
+      "explanation": "Curcumin is the yellow pigment associated with turmeric. MSG is a savoury flavour enhancer, while maltol and ethyl maltol are flavour compounds."
+    },
+    {
+      "question_id": "U3B-Q082",
+      "topic": "Fortification regulations",
+      "correct_option": "A",
+      "correct_answer": "Deliberately increasing essential micronutrients in food to improve nutritional quality and provide public-health benefit with minimal health risk",
+      "explanation": "The handout reproduces the Regulation 2 definition: fortification is deliberate increase of essential micronutrients to improve nutritional quality and provide public-health benefit with minimal health risk. It is a controlled public-health intervention, not simply an appearance claim."
+    },
+    {
+      "question_id": "U3B-Q083",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "A substance added to food to provide micronutrients, excluding the specified nutraceuticals and foods for Special Dietary Uses",
+      "explanation": "The Regulation 2 definition in the compendium describes a fortificant as a substance added to food to provide micronutrients, excluding nutraceuticals and foods for Special Dietary Uses. The distinction is statutory and should be retained."
+    },
+    {
+      "question_id": "U3B-Q084",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "The provisions set conditions for a product when it is fortified; the phrase alone does not mandate fortification of every product",
+      "explanation": "The handout emphasises that 'when fortified' imposes conditions on fortified products but does not by itself make fortification universally compulsory for every product in the category. Mandatory fortification requires the public-health basis and direction described in Regulation 3."
+    },
+    {
+      "question_id": "U3B-Q085",
+      "topic": "Fortification regulations",
+      "correct_option": "B",
+      "correct_answer": "Heme iron in any form",
+      "explanation": "Regulation 3(4), as reproduced in the compendium, states that heme iron shall not be used in any form in any article of food. The other options appear as permitted iron sources in specified Schedule I vehicles, subject to the individual table."
+    },
+    {
+      "question_id": "U3B-Q086",
+      "topic": "Fortification regulations",
+      "correct_option": "D",
+      "correct_answer": "15–30 ppm on dry-weight basis",
+      "explanation": "The source-audited handout states that the August 2021 amendment substituted a 15–30 parts-per-million range on a dry-weight basis. It distinguishes the earlier two-stage provision of 20–30 ppm at manufacture and 15–30 ppm at distribution. The compendium records 27 August 2021 as in-force date and 1 March 2022 as compliance date."
+    },
+    {
+      "question_id": "U3B-Q087",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "The rice table lists ferric pyrophosphate or sodium feredetate, while atta/maida tables include additional iron compounds",
+      "explanation": "The handout explicitly warns not to transfer the complete atta iron-source list automatically to rice. The rice table lists ferric pyrophosphate or sodium feredetate, while atta and maida list additional compounds. Vehicle-specific table entries must be followed."
+    },
+    {
+      "question_id": "U3B-Q088",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "Iron, folic acid and vitamin B12",
+      "explanation": "The Schedule I tables reproduced in the handout require iron, folic acid and vitamin B12 for fortified atta and maida. Optional additional micronutrients are separately listed and should not be confused with the core required combination."
+    },
+    {
+      "question_id": "U3B-Q089",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "More than 50% wheat flour",
+      "explanation": "The compendium states that multigrain atta may use fortified-atta levels if it contains more than 50% wheat flour. The literal 'more than' condition means exactly 50% does not satisfy the wording."
+    },
+    {
+      "question_id": "U3B-Q090",
+      "topic": "Fortification regulations",
+      "correct_option": "B",
+      "correct_answer": "The package may also carry the tagline; the fortification declaration and prescribed logo are otherwise required, subject to the stated iodized-salt exception",
+      "explanation": "The handout flags a common trap: Regulation 7(2) says the package may also carry the tagline, making it optional. The words 'fortified with' followed by the fortificant name and prescribed logo are required, subject to the stated exception for iodized salt fortified with iodine."
+    },
+    {
+      "question_id": "U3B-Q091",
+      "topic": "Fortification regulations",
+      "correct_option": "D",
+      "correct_answer": "An exception limited to the requirements of Regulation 7(2)",
+      "explanation": "The compendium limits the exception to Regulation 7(2) for iodized salt fortified with iodine. It is not a blanket exemption from food law, quality standards or all other labelling requirements; it should not automatically be extended to iron-containing double fortified salt."
+    },
+    {
+      "question_id": "U3B-Q092",
+      "topic": "Fortification regulations",
+      "correct_option": "A",
+      "correct_answer": "People with thalassemia may take under medical supervision, and persons with sickle cell anaemia are advised not to consume iron-fortified food products",
+      "explanation": "The substituted advisory distinguishes two groups: people with thalassemia may take iron-fortified foods under medical supervision, while persons with sickle cell anaemia are advised not to consume them. The handout warns against replacing this with the earlier thalassemia-only wording."
+    },
+    {
+      "question_id": "U3B-Q093",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "A guarantee that every fortified food cures micronutrient deficiency",
+      "explanation": "Regulation 5 obligations in the compendium include a twice-yearly undertaking, notified-laboratory certification, records and inventory of fortificants, stage-wise monitoring, random testing, equipment/process audits and good manufacturing practices. A disease-cure guarantee is not a quality-assurance obligation and would be an unsupported therapeutic claim."
+    },
+    {
+      "question_id": "U3B-Q094",
+      "topic": "Fortification regulations",
+      "correct_option": "B",
+      "correct_answer": "Minus 10% of the declared total value, while preserving the Schedule I maximum for added micronutrients",
+      "explanation": "The handout states that the substituted Regulation 4(1) permits a tolerance of minus 10% of the declared total value for compliance and analysis, while preserving the Schedule I maximum for added micronutrients. It is not a general positive tolerance or permission to exceed the maximum."
+    },
+    {
+      "question_id": "U3B-Q095",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "Not recommended for direct consumption; only for named Government-funded programme; reconstitute the entire contents as directed; once opened, consume the same day",
+      "explanation": "The August 2021 insertion described in the compendium restricts fortified milk powder to Government-funded programmes for preparing reconstituted fortified milk. The label must state it is not recommended for direct consumption, programme restriction, reconstitution of the entire contents as directed, and same-day consumption after opening."
+    },
+    {
+      "question_id": "U3B-Q096",
+      "topic": "Fortification regulations",
+      "correct_option": "A",
+      "correct_answer": "They may be added singly or in combination, but specified sources and levels still matter when used",
+      "explanation": "The Schedule I section lists optional micronutrients that may be added singly or in combination. Optional status does not remove the obligation to use the prescribed source and level when the nutrient is added."
+    },
+    {
+      "question_id": "U3B-Q097",
+      "topic": "Fortification regulations",
+      "correct_option": "C",
+      "correct_answer": "The exclusion in the handout concerns the Fortified Processed Foods category",
+      "explanation": "The correction register specifies that Regulation 3(7) excludes HFSS foods from the Fortified Processed Foods category. It should not be widened into a claim that HFSS foods are excluded from every possible meaning or provision concerning fortified food."
+    },
+    {
+      "question_id": "U3B-Q098",
+      "topic": "Fortification regulations",
+      "correct_option": "A",
+      "correct_answer": "Not established by the accessible Schedule II extraction and therefore not to be invented",
+      "explanation": "The source audit explicitly says the accessible Schedule II extraction does not establish numerical logo dimensions or Pantone 3005 C. These specifications should not be quoted as established by the supplied text without checking the authoritative complete instrument."
+    },
+    {
+      "question_id": "U3B-Q099",
+      "topic": "Fortification regulations",
+      "correct_option": "A",
+      "correct_answer": "In force 22 September 2021; compliance 1 April 2022",
+      "explanation": "The handout distinguishes the amendment's in-force date (22 September 2021) from the compliance date (1 April 2022). The August 2021 amendments have a different timeline: in force 27 August 2021 and compliance 1 March 2022."
+    },
+    {
+      "question_id": "U3B-Q100",
+      "topic": "Fortification regulations",
+      "correct_option": "A",
+      "correct_answer": "Compliance combines vehicle-specific nutrient levels and permitted sources with packaging, labelling, quality assurance and general food-law obligations",
+      "explanation": "The handout frames fortification as a regulated public-health intervention. It links nutrient standards and permitted sources with packaging that protects nutrient retention, declarations and logo, specific advisories, quality assurance, records, testing and compliance with generally applicable food law."
+    }
+  ],
+  "quality_control": {
+    "question_count": 100,
+    "unique_question_ids": true,
+    "four_distinct_options_each": true,
+    "answer_key_entries": 100,
+    "detailed_explanation_entries": 100,
+    "answer_option_distribution": {
+      "B": 22,
+      "A": 25,
+      "D": 24,
+      "C": 29
+    },
+    "structural_checks": "Passed: 100 unique IDs, four distinct options per question, one answer-key entry and one detailed explanation per question.",
+    "limitations": "Structural validation does not constitute independent laboratory/legal peer review. Regulatory claims are bounded by the uploaded source and its stated evidence gaps.",
+    "topic_counts": {
+      "Lipid classification": 3,
+      "Fatty acid nomenclature": 3,
+      "Milk fat": 1,
+      "Lipid classes": 1,
+      "Unsaponifiable matter": 2,
+      "Lipid oxidation": 2,
+      "Rancidity": 2,
+      "Analytical lipid constants": 5,
+      "Deep frying": 11,
+      "Enzyme architecture": 2,
+      "Enzyme classification": 4,
+      "Michaelis–Menten kinetics": 5,
+      "Enzyme inhibition": 5,
+      "Enzyme activity": 2,
+      "Industrial enzymes": 1,
+      "Blanching indicators": 1,
+      "Enzyme kinetics": 1,
+      "Natural pigments": 1,
+      "Chlorophyll": 1,
+      "Carotenoids": 2,
+      "Anthocyanins": 1,
+      "Anthoxanthins": 1,
+      "Betalains": 1,
+      "Meat pigments": 2,
+      "Pigment stability": 1,
+      "Tea pigments": 1,
+      "Enzymatic browning": 2,
+      "Flavour": 2,
+      "Flavour enhancers": 2,
+      "Sweeteners": 4,
+      "Flavour chemistry": 1,
+      "Food colours": 8,
+      "Fortification regulations": 19
+    }
+  }
+}

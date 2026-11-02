@@ -1,0 +1,2607 @@
+{
+  "title": "HPSC Food Safety Officer — Unit 3 Part A: Food Chemistry (Macromolecules) — 100 MCQs",
+  "version": "1.0",
+  "language": "English",
+  "format": "HPSC-oriented four-option practice bank",
+  "source_document": "03_Unit3A_Food_Chemistry_Macromolecules.docx",
+  "source_scope": {
+    "primary_basis": "Uploaded Unit 3 Part A master study handout, 97 pages.",
+    "modules": [
+      {
+        "module": "Module 1 — Water Dynamics",
+        "coverage": "Water molecular structure and properties; water holding and bound water; ion–dipole, hydrophilic and hydrophobic interactions; water activity and ERH; sorption isotherms, zones, glass transition and hysteresis; water-activity effects on stability; moisture determination by thermal drying, distillation and Karl Fischer titration."
+      },
+      {
+        "module": "Module 2 — Carbohydrate Polymers",
+        "coverage": "Monosaccharide and oligosaccharide classification; homopolysaccharides and heteropolysaccharides; amylose and amylopectin; gelatinization, gelation, retrogradation and staling; modified starches; pectin and degree of esterification; agar, alginate, carrageenan, guar and locust bean gums; cellulose, glycogen, hemicellulose, dextrins and enzyme specificity."
+      },
+      {
+        "module": "Module 3 — Protein Transformations",
+        "coverage": "Isoelectric point, amphoteric behaviour, salting-in/out and protein classes; denaturation and processing reactions; deamidation, racemization and oxidation; alkaline β-elimination and cross-links; plant-protein fibre spinning and extrusion; gluten, casein/chymosin and egg-white proteins."
+      },
+      {
+        "module": "Module 4 — Browning and Kinetics",
+        "coverage": "Maillard initiation, Amadori products, reaction conditions, Strecker degradation, melanoidins, lysine loss and acrylamide precursor; caramelization; PPO/copper enzyme chemistry, cresolase and catecholase activity, quinones and industrial control by blanching, acidification, ascorbic acid, oxygen restriction, sulfites and chelation."
+      }
+    ],
+    "source_integrity": "The question bank follows the accessible content and qualifications in the uploaded handout. Where the handout itself marks a detail as verification-required or flags an internal source error, the bank avoids treating that detail as an unqualified source-verified fact."
+  },
+  "exam_alignment": {
+    "as_of": "2026-11-02",
+    "current_pattern_summary": "Public reports on HPSC Advertisement No. 25/2026 describe a Screening Test (if held) focused on General Studies and Haryana GK, followed by a 150-mark, 3-hour subjective Subject Knowledge Test. The Subject Knowledge Test is reported to carry 87.5% of final merit and the interview 12.5%. Verify the final scheme and any corrigenda directly on the HPSC website.",
+    "important_distinction": "This is a 100-question objective practice bank for active recall and technical revision. It is NOT a literal reproduction of the reported 2026 Subject Knowledge Test format, which is subjective/descriptive. The technical content in this handout is more directly relevant to the Subject Knowledge syllabus than to a General Studies/Haryana-GK screening paper.",
+    "style_adaptation": "Questions emphasize precise definitions, molecular mechanisms, process sequences, numerical interpretation, correct/incorrect statement pairs, source-specific qualifiers, industrial application and common examiner traps. Twenty questions use the count-based three-statement format found in the uploaded handout's Stage 1 revision banks.",
+    "prediction_caveat": "No reliable method can calculate the probability that a particular generated question will appear in the examination. The bank prioritizes syllabus relevance and examinable concepts, not guaranteed predictions.",
+    "historical_context": "Earlier HPSC FSO papers may be useful for historical question-style practice, but the current recruitment scheme should take precedence over older paper formats."
+  },
+  "question_design": {
+    "total_questions": 100,
+    "options_per_question": 4,
+    "question_order": "All questions and options appear before the answer key.",
+    "answer_key_order": "The consolidated answer key appears after all 100 questions.",
+    "explanation_order": "All detailed explanations appear after the complete answer key.",
+    "question_type_distribution": {
+      "single_best_answer": 80,
+      "count_based_statement_pairs": 20
+    },
+    "topic_distribution": {
+      "Water structure and properties": 6,
+      "Water association and hydration": 4,
+      "Water activity": 3,
+      "Sorption isotherms": 3,
+      "Sorption zones": 2,
+      "Food stability and aw": 1,
+      "Moisture analysis": 1,
+      "Carbohydrate classification": 5,
+      "Starch structure": 5,
+      "Starch processing": 5,
+      "Modified starches": 3,
+      "Pectin chemistry": 3,
+      "Hydrocolloids": 3,
+      "Carbohydrate enzymes": 1,
+      "Protein charge and solubility": 3,
+      "Protein classification": 2,
+      "Protein transformations": 6,
+      "Alkaline protein chemistry": 4,
+      "Plant protein texturization": 5,
+      "Wheat gluten": 2,
+      "Milk proteins": 2,
+      "Egg proteins": 1,
+      "Browning mechanisms": 1,
+      "Maillard reaction": 12,
+      "Caramelization": 4,
+      "Enzymatic browning": 10,
+      "Integrated browning": 3
+    },
+    "difficulty_distribution": {
+      "Moderate": 80,
+      "Moderate to Difficult": 20
+    },
+    "coverage_strategy": "Balanced coverage across the four modules, with additional emphasis on high-yield distinctions, process mechanisms, numerical relationships, source corrections and application-based interpretation."
+  },
+  "scoring_note": "No official marking scheme is assigned to this practice file. Apply the marking scheme in the current HPSC notification when conducting a timed mock.",
+  "questions": [
+    {
+      "id": "U3A-Q001",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water structure and properties",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The approximate bond angle of an isolated water molecule in the vapour state is:",
+      "options": {
+        "A": "120°",
+        "B": "90°",
+        "C": "104.5°",
+        "D": "109.5°"
+      }
+    },
+    {
+      "id": "U3A-Q002",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water structure and properties",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement best explains why water is polar while remaining electrically neutral overall?",
+      "options": {
+        "A": "It contains fully separated H+ and O2− ions",
+        "B": "Oxygen and hydrogen share electrons equally",
+        "C": "Water has a permanent net positive charge",
+        "D": "Unequal sharing of O–H bonding electrons creates partial charges"
+      }
+    },
+    {
+      "id": "U3A-Q003",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water structure and properties",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In the idealized tetrahedral association model, one water molecule can:",
+      "options": {
+        "A": "Donate two and accept two hydrogen bonds",
+        "B": "Donate four and accept none hydrogen bonds",
+        "C": "Form four permanent covalent bonds",
+        "D": "Donate one and accept three hydrogen bonds only"
+      }
+    },
+    {
+      "id": "U3A-Q004",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water structure and properties",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which property of water is most directly associated with the energetic cost of separating molecules into the vapour phase?",
+      "options": {
+        "A": "High enthalpy of vaporization",
+        "B": "Low heat capacity",
+        "C": "Low surface tension",
+        "D": "Maximum density at 100°C"
+      }
+    },
+    {
+      "id": "U3A-Q005",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water structure and properties",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The density of liquid water is approximately maximum at:",
+      "options": {
+        "A": "4°C",
+        "B": "25°C",
+        "C": "0°C",
+        "D": "100°C"
+      }
+    },
+    {
+      "id": "U3A-Q006",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water structure and properties",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about liquid water:\n1. Hydrogen-bond relationships continually break and reform.\n2. Every molecule permanently maintains exactly four hydrogen bonds.\n3. The liquid possesses an immobile ice-like lattice.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q007",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water association and hydration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Water holding capacity primarily describes:",
+      "options": {
+        "A": "The vapour pressure of pure water",
+        "B": "The total number of water molecules in a food",
+        "C": "The ability of a food matrix to retain liquid water against flow",
+        "D": "The proportion of water that is chemically covalent"
+      }
+    },
+    {
+      "id": "U3A-Q008",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water association and hydration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Syneresis in a food gel refers to:",
+      "options": {
+        "A": "Absorption of oxygen by the gel",
+        "B": "Conversion of starch to glucose",
+        "C": "Separation or expulsion of liquid from the gel network",
+        "D": "Complete evaporation of bound water"
+      }
+    },
+    {
+      "id": "U3A-Q009",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water association and hydration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Around a sodium ion, water molecules preferentially orient their:",
+      "options": {
+        "A": "Both ends randomly with no electrostatic preference",
+        "B": "Nonpolar methyl groups toward the ion",
+        "C": "Hydrogen ends toward the positive ion",
+        "D": "Oxygen ends toward the positive ion"
+      }
+    },
+    {
+      "id": "U3A-Q010",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water association and hydration",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about hydrophobic association:\n1. It reduces exposed water–apolar interfacial area.\n2. It necessarily creates a new covalent bond between apolar residues.\n3. It can contribute to protein folding.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q011",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water activity",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A food equilibrates with a headspace relative humidity of 72% at the same temperature. Its approximate water activity is:",
+      "options": {
+        "A": "0.072",
+        "B": "0.72",
+        "C": "1.72",
+        "D": "0.28"
+      }
+    },
+    {
+      "id": "U3A-Q012",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water activity",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which expression represents the approximate relationship between water activity and equilibrium relative humidity?",
+      "options": {
+        "A": "aw = p0/p",
+        "B": "aw = ERH/100",
+        "C": "aw = 100/ERH",
+        "D": "aw = moisture percentage/100"
+      }
+    },
+    {
+      "id": "U3A-Q013",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Water activity",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about water activity:\n1. Equal moisture percentages necessarily imply equal water activities.\n2. Water activity is an equilibrium property related to water's escaping tendency.\n3. The ERH relationship is evaluated at the same temperature as the pure-water reference.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q014",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Sorption isotherms",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A moisture sorption isotherm relates:",
+      "options": {
+        "A": "Moisture content to drying time at changing temperature",
+        "B": "Equilibrium moisture content to water activity at constant temperature",
+        "C": "Protein concentration to pH",
+        "D": "Water activity to microbial count only"
+      }
+    },
+    {
+      "id": "U3A-Q015",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Sorption isotherms",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A J-shaped sorption isotherm is particularly associated in the handout with foods rich in:",
+      "options": {
+        "A": "Insoluble cellulose only",
+        "B": "Mineral crystals only",
+        "C": "Highly cross-linked proteins only",
+        "D": "Sugars and other small soluble molecules"
+      }
+    },
+    {
+      "id": "U3A-Q016",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Sorption isotherms",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about sorption hysteresis:\n1. Adsorption and desorption curves may fail to coincide.\n2. Sample history can influence the measured relationship.\n3. A sorption isotherm plots moisture content against drying time.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q017",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Sorption zones",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which zone is described as having the greatest water mobility and bulk-like solvent behaviour?",
+      "options": {
+        "A": "No zone has this property",
+        "B": "Zone I",
+        "C": "Zone III",
+        "D": "Zone II"
+      }
+    },
+    {
+      "id": "U3A-Q018",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Sorption zones",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about water activity and food stability:\n1. The source schematic places Maillard browning maximum near aw 0.6–0.7.\n2. Lipid oxidation always decreases monotonically as aw increases.\n3. Reduced aw can prevent microbial growth without necessarily destroying organisms.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q019",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Food stability and aw",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "According to the handout's schematic, the Maillard reaction rate is often greatest near which water-activity interval?",
+      "options": {
+        "A": "0.60–0.70",
+        "B": "0.10–0.20",
+        "C": "0.00–0.05",
+        "D": "0.30–0.40"
+      }
+    },
+    {
+      "id": "U3A-Q020",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Moisture analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A dish weighs 30 g, dish plus wet sample 35 g, and dish plus dried residue 34 g. Wet-basis moisture is:",
+      "options": {
+        "A": "20%",
+        "B": "10%",
+        "C": "33.3%",
+        "D": "25%"
+      }
+    },
+    {
+      "id": "U3A-Q021",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Carbohydrate classification",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is a ketose?",
+      "options": {
+        "A": "Glucose",
+        "B": "Galactose",
+        "C": "Ribose",
+        "D": "Fructose"
+      }
+    },
+    {
+      "id": "U3A-Q022",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Carbohydrate classification",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A homopolysaccharide is defined by:",
+      "options": {
+        "A": "Presence of both protein and carbohydrate",
+        "B": "Presence of many branches",
+        "C": "One principal monosaccharide type",
+        "D": "Presence of only beta linkages"
+      }
+    },
+    {
+      "id": "U3A-Q023",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Carbohydrate classification",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which polymer is correctly classified as a fructan rather than a glucan?",
+      "options": {
+        "A": "Glycogen",
+        "B": "Inulin",
+        "C": "Amylose",
+        "D": "Cellulose"
+      }
+    },
+    {
+      "id": "U3A-Q024",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Carbohydrate classification",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about starch:\n1. Amylose is predominantly linear with α(1→4) linkages.\n2. Amylopectin has α(1→6) branch points.\n3. Amylopectin is a heteropolysaccharide because it is branched.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q025",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Carbohydrate classification",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which pair consists of reducing disaccharides identified in the handout?",
+      "options": {
+        "A": "Sucrose and trehalose",
+        "B": "Lactose and maltose",
+        "C": "Inulin and cellulose",
+        "D": "Raffinose and sucrose"
+      }
+    },
+    {
+      "id": "U3A-Q026",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch structure",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The principal linkage in the linear amylose chain is:",
+      "options": {
+        "A": "β(1→6)",
+        "B": "α(1→4)",
+        "C": "β(1→4)",
+        "D": "α(1→6)"
+      }
+    },
+    {
+      "id": "U3A-Q027",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch structure",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about amylose and amylopectin:\n1. Amylose gives a blue iodine colour in the handout.\n2. Amylopectin is more highly branched than amylose.\n3. Amylopectin reassociates more rapidly than amylose.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q028",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch structure",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly compares amylose and amylopectin in the handout?",
+      "options": {
+        "A": "Amylopectin contains fructose rather than glucose",
+        "B": "Amylose is highly branched and reassociates slowly",
+        "C": "Amylose reassociates more rapidly than amylopectin",
+        "D": "Amylopectin is linear and has lower molecular mass"
+      }
+    },
+    {
+      "id": "U3A-Q029",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch structure",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The iodine colour reported for amylose in the handout is:",
+      "options": {
+        "A": "Yellow",
+        "B": "Blue",
+        "C": "Green",
+        "D": "Red"
+      }
+    },
+    {
+      "id": "U3A-Q030",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch structure",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Waxy maize should be understood as:",
+      "options": {
+        "A": "Containing no starch",
+        "B": "Containing starch with very low amylose",
+        "C": "Containing only cellulose",
+        "D": "Containing no amylopectin"
+      }
+    },
+    {
+      "id": "U3A-Q031",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch processing",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about gelatinization:\n1. Heat and sufficient water disrupt native starch order.\n2. Gelatinization is equivalent to complete hydrolysis of glycosidic bonds.\n3. Loss of birefringence accompanies disruption of granule organization.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q032",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Loss of birefringence during starch heating indicates:",
+      "options": {
+        "A": "Formation of gluten",
+        "B": "Complete conversion to maltose",
+        "C": "Disruption of the organized native granule structure",
+        "D": "Formation of amylopectin branches"
+      }
+    },
+    {
+      "id": "U3A-Q033",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about gelatinization temperature is most defensible?",
+      "options": {
+        "A": "Temperature is irrelevant if water is present",
+        "B": "All starches gelatinize completely at exactly 60°C",
+        "C": "Gelatinization onset and swelling vary with botanical source and conditions",
+        "D": "Gelatinization always occurs below 40°C"
+      }
+    },
+    {
+      "id": "U3A-Q034",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch processing",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about starch retrogradation and bread staling:\n1. Amylose reassociates more rapidly than amylopectin.\n2. Only amylose participates in retrogradation.\n3. Bread staling cannot be reduced to moisture evaporation alone.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q035",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Starch processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Bread staling is best explained as:",
+      "options": {
+        "A": "Only loss of moisture by evaporation",
+        "B": "Only microbial spoilage",
+        "C": "Complete protein hydrolysis",
+        "D": "A combination of starch reorganization, moisture redistribution and other quality changes"
+      }
+    },
+    {
+      "id": "U3A-Q036",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Modified starches",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Pregelatinized starch is especially useful because it:",
+      "options": {
+        "A": "Can develop viscosity or hydrate in cold water without the normal cooking step",
+        "B": "Is always resistant to all enzymes",
+        "C": "Cannot absorb water",
+        "D": "Requires no water under any condition"
+      }
+    },
+    {
+      "id": "U3A-Q037",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Modified starches",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Cross-linking of starch is primarily used to improve:",
+      "options": {
+        "A": "Susceptibility to shear and acid",
+        "B": "Protein content",
+        "C": "Granule/paste resistance under processing stresses",
+        "D": "Sweetness"
+      }
+    },
+    {
+      "id": "U3A-Q038",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Modified starches",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about pectin:\n1. Degree of esterification concerns methyl-esterified galacturonic acid carboxyl groups.\n2. High-methoxyl pectin gelation is favoured by acidity and high soluble solids.\n3. Low-methoxyl pectin can form gels through calcium-mediated bridges.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q039",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Pectin chemistry",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Degree of esterification (DE) in pectin refers to:",
+      "options": {
+        "A": "The proportion of galacturonic acid carboxyl groups present as methyl esters",
+        "B": "The number of glucose branches",
+        "C": "The amount of calcium in the gel",
+        "D": "The percentage of amino groups esterified"
+      }
+    },
+    {
+      "id": "U3A-Q040",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Pectin chemistry",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about hydrocolloids:\n1. Alginate contains mannuronic and guluronic acid residues.\n2. Guar and locust bean gums are galactomannans.\n3. Inulin is a glucose-based glucan.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q041",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Pectin chemistry",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Low-methoxyl pectin commonly forms gels through:",
+      "options": {
+        "A": "Hydrogenation of double bonds",
+        "B": "Calcium-mediated bridges between pectin chains",
+        "C": "Amylose–iodine inclusion complexes",
+        "D": "Peptide bonds between amino acids"
+      }
+    },
+    {
+      "id": "U3A-Q042",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Hydrocolloids",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Agar is obtained from:",
+      "options": {
+        "A": "Wheat endosperm",
+        "B": "Red seaweeds",
+        "C": "Animal collagen",
+        "D": "Brown seaweeds only"
+      }
+    },
+    {
+      "id": "U3A-Q043",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Hydrocolloids",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Alginate is composed principally of:",
+      "options": {
+        "A": "Galactose and ribose only",
+        "B": "Amino acids and phosphate",
+        "C": "Mannuronic and guluronic acid residues",
+        "D": "Glucose and fructose only"
+      }
+    },
+    {
+      "id": "U3A-Q044",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Hydrocolloids",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Guar gum and locust bean gum are based principally on:",
+      "options": {
+        "A": "Mannose and galactose",
+        "B": "Mannuronic and guluronic acids",
+        "C": "Glucose and fructose",
+        "D": "Ribose and xylose"
+      }
+    },
+    {
+      "id": "U3A-Q045",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Carbohydrate enzymes",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Enzyme specificity toward polysaccharides depends strongly on:",
+      "options": {
+        "A": "The package shape",
+        "B": "Recognition of particular glycosidic linkages and substrate structure",
+        "C": "The moisture percentage alone",
+        "D": "Only the colour of the food"
+      }
+    },
+    {
+      "id": "U3A-Q046",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein charge and solubility",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "At the isoelectric point (pI), a protein generally has:",
+      "options": {
+        "A": "A permanently denatured structure",
+        "B": "No charged groups anywhere",
+        "C": "Zero net charge on average",
+        "D": "Maximum positive net charge"
+      }
+    },
+    {
+      "id": "U3A-Q047",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein charge and solubility",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about proteins at their isoelectric point:\n1. Net charge is approximately zero.\n2. Every ionizable group is uncharged.\n3. The protein may show reduced solubility near this condition.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q048",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein charge and solubility",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Salting-in at relatively low salt concentration is commonly explained by:",
+      "options": {
+        "A": "Permanent covalent cross-linking",
+        "B": "Salt increasing electrostatic screening and protein solubility",
+        "C": "Complete peptide-bond hydrolysis",
+        "D": "Removal of all hydration water"
+      }
+    },
+    {
+      "id": "U3A-Q049",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein classification",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which solubility classification is correctly matched?",
+      "options": {
+        "A": "Glutelin — insoluble in all dilute acids and bases",
+        "B": "Prolamin — soluble in water only",
+        "C": "Albumin — soluble in water",
+        "D": "Globulin — soluble only in pure ethanol"
+      }
+    },
+    {
+      "id": "U3A-Q050",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein classification",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Casein is classified in the handout as a:",
+      "options": {
+        "A": "Simple lipid",
+        "B": "Nucleic acid",
+        "C": "Pure carbohydrate",
+        "D": "Phosphoprotein"
+      }
+    },
+    {
+      "id": "U3A-Q051",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein transformations",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about protein denaturation:\n1. It alters native conformation.\n2. It necessarily cleaves the primary peptide sequence.\n3. It can expose previously buried groups and change aggregation behaviour.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q052",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein transformations",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which treatment can cause protein denaturation in food processing?",
+      "options": {
+        "A": "Heat",
+        "B": "Only freezing below −100°C",
+        "C": "Only visible light",
+        "D": "Only addition of glucose"
+      }
+    },
+    {
+      "id": "U3A-Q053",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein transformations",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly distinguishes denaturation from hydrolysis?",
+      "options": {
+        "A": "Both terms mean oxidation of amino acids",
+        "B": "Denaturation necessarily cleaves peptide bonds; hydrolysis does not",
+        "C": "Denaturation alters conformation, whereas hydrolysis cleaves peptide bonds",
+        "D": "Hydrolysis changes only the tertiary structure"
+      }
+    },
+    {
+      "id": "U3A-Q054",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein transformations",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Deamidation of an amino-acid side chain involves:",
+      "options": {
+        "A": "Oxidation of glucose to fructose",
+        "B": "Addition of a phosphate to starch",
+        "C": "Removal or conversion of an amide group",
+        "D": "Formation of an α(1→6) glycosidic bond"
+      }
+    },
+    {
+      "id": "U3A-Q055",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein transformations",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Racemization during protein processing refers to:",
+      "options": {
+        "A": "Addition of water across a peptide bond",
+        "B": "Conversion between D- and L-configurations at a chiral centre",
+        "C": "Formation of a starch helix",
+        "D": "Breaking all disulfide bonds"
+      }
+    },
+    {
+      "id": "U3A-Q056",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Protein transformations",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about protein oxidation is most accurate?",
+      "options": {
+        "A": "It always improves digestibility",
+        "B": "It occurs only in carbohydrates",
+        "C": "It is identical to gelatinization",
+        "D": "It can modify amino-acid side chains and affect functionality"
+      }
+    },
+    {
+      "id": "U3A-Q057",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Alkaline protein chemistry",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about alkaline protein reactions:\n1. β-Elimination can produce dehydroalanine.\n2. Lysine addition to dehydroalanine can form lysinoalanine.\n3. Excessive alkaline processing is guaranteed to improve amino-acid availability.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q058",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Alkaline protein chemistry",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Lysinoalanine formation involves reaction between:",
+      "options": {
+        "A": "Glucose and fructose",
+        "B": "Casein and calcium phosphate only",
+        "C": "Lysine and dehydroalanine",
+        "D": "Cysteine and lactose"
+      }
+    },
+    {
+      "id": "U3A-Q059",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Alkaline protein chemistry",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which cross-link is correctly matched to the nucleophile described in the handout?",
+      "options": {
+        "A": "Lysinoalanine — glucose",
+        "B": "Lanthionine — cysteine",
+        "C": "Ornithoalanine — calcium",
+        "D": "Lanthionine — lysine"
+      }
+    },
+    {
+      "id": "U3A-Q060",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Alkaline protein chemistry",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A major nutritional concern associated with excessive alkaline protein treatment is:",
+      "options": {
+        "A": "Guaranteed increase in all essential amino acids",
+        "B": "Formation of modified amino acids and reduced availability of essential residues",
+        "C": "Elimination of all cross-links",
+        "D": "Complete conversion of protein to starch"
+      }
+    },
+    {
+      "id": "U3A-Q061",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Plant protein texturization",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In fibre spinning of plant proteins, the spinning dope is typically:",
+      "options": {
+        "A": "A concentrated protein solution prepared for extrusion through a spinneret",
+        "B": "A solution of pure cellulose",
+        "C": "A fermented sugar syrup",
+        "D": "A dry starch powder with no liquid phase"
+      }
+    },
+    {
+      "id": "U3A-Q062",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Plant protein texturization",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about wheat gluten:\n1. Gliadin contributes viscosity and extensibility.\n2. Glutenin contributes elasticity and strength.\n3. Glutenin and gliadin are carbohydrate polymers.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q063",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Plant protein texturization",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which process condition is associated with the handout's plant-protein fibre-spinning description?",
+      "options": {
+        "A": "Alkaline solubilization near pH 10",
+        "B": "Complete carbonization before spinning",
+        "C": "Strongly acidic solubilization at pH 1",
+        "D": "No protein hydration"
+      }
+    },
+    {
+      "id": "U3A-Q064",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Plant protein texturization",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Thermoplastic extrusion of plant proteins differs from fibre spinning because it:",
+      "options": {
+        "A": "Produces only isolated single protein molecules",
+        "B": "Does not involve water",
+        "C": "Always uses a spinneret and acid coagulation bath",
+        "D": "Uses heat, moisture, pressure and shear to restructure protein in a barrel and die"
+      }
+    },
+    {
+      "id": "U3A-Q065",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Plant protein texturization",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which range is associated with the source's thermoplastic extrusion example?",
+      "options": {
+        "A": "150–200°C",
+        "B": "10–20°C",
+        "C": "500–600°C",
+        "D": "0–4°C"
+      }
+    },
+    {
+      "id": "U3A-Q066",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Wheat gluten",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The two major functional protein fractions in wheat gluten are:",
+      "options": {
+        "A": "Amylose and amylopectin",
+        "B": "Actin and myosin",
+        "C": "Albumin and casein",
+        "D": "Gliadin and glutenin"
+      }
+    },
+    {
+      "id": "U3A-Q067",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Wheat gluten",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A dough that stretches readily but has weak elastic recovery is most likely deficient in the functional contribution of:",
+      "options": {
+        "A": "Water only",
+        "B": "Starch granules",
+        "C": "Glutenin",
+        "D": "Gliadin"
+      }
+    },
+    {
+      "id": "U3A-Q068",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Milk proteins",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Chymosin initiates milk coagulation primarily by cleaving:",
+      "options": {
+        "A": "α-lactalbumin",
+        "B": "κ-casein",
+        "C": "Ovalbumin",
+        "D": "Gliadin"
+      }
+    },
+    {
+      "id": "U3A-Q069",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Milk proteins",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which sequence best represents chymosin-induced milk coagulation?",
+      "options": {
+        "A": "Micelle aggregation → κ-casein cleavage",
+        "B": "Whey protein precipitation → starch gelatinization",
+        "C": "κ-casein cleavage → micelle destabilization → aggregation",
+        "D": "Lactose hydrolysis → peptide formation"
+      }
+    },
+    {
+      "id": "U3A-Q070",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Egg proteins",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Avidin in egg white is notable because it:",
+      "options": {
+        "A": "Binds biotin strongly",
+        "B": "Forms amylose helices",
+        "C": "Catalyses pectin methylation",
+        "D": "Hydrolyses lactose"
+      }
+    },
+    {
+      "id": "U3A-Q071",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Browning mechanisms",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which combination correctly identifies the three major browning processes compared in the handout?",
+      "options": {
+        "A": "Denaturation, coagulation and proteolysis",
+        "B": "Hydrolysis, fermentation and oxidation only",
+        "C": "Maillard, caramelization and polyphenol-oxidase browning",
+        "D": "Gelatinization, retrogradation and syneresis"
+      }
+    },
+    {
+      "id": "U3A-Q072",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The initiating reaction of Maillard browning is principally between:",
+      "options": {
+        "A": "A triglyceride and oxygen only",
+        "B": "A starch branch point and calcium",
+        "C": "A phenolic compound and copper only",
+        "D": "A reducing carbonyl compound and an available amino group"
+      }
+    },
+    {
+      "id": "U3A-Q073",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about Maillard chemistry:\n1. It begins with reaction between a reactive carbonyl and an available amino group.\n2. It requires a proteinaceous enzyme.\n3. Its initial condensation does not require molecular oxygen as an obligatory reactant.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q074",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The rearrangement product classically associated with aldose-derived glycosylamine intermediates is:",
+      "options": {
+        "A": "Amylopectin",
+        "B": "Melanin",
+        "C": "Lysinoalanine",
+        "D": "Amadori product"
+      }
+    },
+    {
+      "id": "U3A-Q075",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about Maillard reaction and oxygen is correct?",
+      "options": {
+        "A": "Molecular oxygen is obligatory for the initial carbonyl–amine condensation",
+        "B": "Maillard reaction occurs only in the presence of copper enzyme",
+        "C": "Oxygen converts all reducing sugars into non-reducing sugars",
+        "D": "Oxygen is not obligatory for the initial carbonyl–amine condensation"
+      }
+    },
+    {
+      "id": "U3A-Q076",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The broad reactivity trend presented for reducing sugars is:",
+      "options": {
+        "A": "Sucrose > all reducing monosaccharides",
+        "B": "Reducing disaccharides > reducing hexoses > reducing pentoses",
+        "C": "All sugars have identical reactivity",
+        "D": "Reducing pentoses > reducing hexoses > reducing disaccharides"
+      }
+    },
+    {
+      "id": "U3A-Q077",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The more nucleophilic form of an amino group that attacks a carbonyl compound is:",
+      "options": {
+        "A": "R–COO−",
+        "B": "R–CONH2",
+        "C": "R–NH2",
+        "D": "R–NH3+"
+      }
+    },
+    {
+      "id": "U3A-Q078",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about Maillard reaction conditions:\n1. The handout's schematic maximum is near aw 0.6–0.7.\n2. At very low aw, restricted molecular mobility can limit reaction.\n3. At high aw, dilution can reduce reaction rate.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q079",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The Strecker degradation of an amino acid generally produces an aldehyde whose carbon skeleton has:",
+      "options": {
+        "A": "One fewer carbon than the amino acid",
+        "B": "No carbon atoms",
+        "C": "One more carbon than the amino acid",
+        "D": "The same number of carbons"
+      }
+    },
+    {
+      "id": "U3A-Q080",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which is the principal amino-acid precursor relationship associated with acrylamide formation in the handout?",
+      "options": {
+        "A": "Lysine with calcium",
+        "B": "Cysteine with starch",
+        "C": "Free asparagine with reducing sugars",
+        "D": "Proline with pectin"
+      }
+    },
+    {
+      "id": "U3A-Q081",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which nutritional change can occur during excessive Maillard processing of protein-rich foods?",
+      "options": {
+        "A": "Complete prevention of protein oxidation",
+        "B": "Loss of available lysine",
+        "C": "Conversion of all lysine into glucose",
+        "D": "Increase in biotin availability by avidin"
+      }
+    },
+    {
+      "id": "U3A-Q082",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement best distinguishes Strecker aldehydes from melanoidins?",
+      "options": {
+        "A": "Both terms refer only to reducing sugars",
+        "B": "Strecker aldehydes are volatile flavour compounds; melanoidins are later brown condensed products",
+        "C": "Melanoidins are enzymes and Strecker aldehydes are proteins",
+        "D": "Strecker aldehydes are the same as starch granules"
+      }
+    },
+    {
+      "id": "U3A-Q083",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Maillard reaction",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "An increase in temperature generally accelerates Maillard reaction steps because:",
+      "options": {
+        "A": "All products become enzymatically catalysed",
+        "B": "Water activity always becomes exactly 1",
+        "C": "The number of amino acids becomes zero",
+        "D": "The rate constants of chemical steps generally increase with temperature"
+      }
+    },
+    {
+      "id": "U3A-Q084",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Caramelization",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Caramelization differs from Maillard browning because caramelization:",
+      "options": {
+        "A": "Is sugar degradation without a required amino reactant",
+        "B": "Requires an amino compound as an essential reactant",
+        "C": "Occurs only through peptide hydrolysis",
+        "D": "Requires polyphenol oxidase and oxygen"
+      }
+    },
+    {
+      "id": "U3A-Q085",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Caramelization",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which sequence best represents the broad caramelization chemistry described in the handout?",
+      "options": {
+        "A": "Peptide cleavage → deamidation → cross-linking",
+        "B": "Rearrangement/enolization → dehydration → fragmentation → condensation",
+        "C": "Phenol hydroxylation → quinone reduction → starch swelling",
+        "D": "Gelatinization → retrogradation → syneresis"
+      }
+    },
+    {
+      "id": "U3A-Q086",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Caramelization",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about caramelization:\n1. It requires an amino compound as an essential reactant.\n2. It involves sugar rearrangement, dehydration and fragmentation.\n3. Its onset temperature is identical for all sugars and conditions.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q087",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Caramelization",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which traditional empirical formula is matched to caramelans in the handout?",
+      "options": {
+        "A": "C125H188O80",
+        "B": "C36H50O25",
+        "C": "C6H12O6",
+        "D": "C12H18O9"
+      }
+    },
+    {
+      "id": "U3A-Q088",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The essential requirements for polyphenol-oxidase browning include:",
+      "options": {
+        "A": "Reducing sugar, lysine and no oxygen",
+        "B": "Only starch and calcium",
+        "C": "Active enzyme, suitable phenolic substrate and oxygen",
+        "D": "Only heat above 160°C"
+      }
+    },
+    {
+      "id": "U3A-Q089",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Polyphenol oxidase is described in the handout as a:",
+      "options": {
+        "A": "Carbohydrate polymer",
+        "B": "Peptide cross-link",
+        "C": "Copper-containing oxidoreductase",
+        "D": "Zinc-dependent hydrolase"
+      }
+    },
+    {
+      "id": "U3A-Q090",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Cresolase (monophenolase) activity involves:",
+      "options": {
+        "A": "Hydroxylation of a suitable monophenol to an ortho-diphenol",
+        "B": "Oxidation of ortho-diphenol to ortho-quinone",
+        "C": "Reduction of quinone to glucose",
+        "D": "Hydrolysis of pectin"
+      }
+    },
+    {
+      "id": "U3A-Q091",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Catecholase activity is best described as:",
+      "options": {
+        "A": "Hydrolysis of peptide bonds",
+        "B": "Oxidation of an ortho-diphenol to an ortho-quinone",
+        "C": "Reduction of oxygen to water without substrate oxidation",
+        "D": "Hydroxylation of starch"
+      }
+    },
+    {
+      "id": "U3A-Q092",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The immediate products that participate in subsequent pigment formation during enzymatic browning are:",
+      "options": {
+        "A": "Amylose helices",
+        "B": "Amadori products only",
+        "C": "Ortho-quinones",
+        "D": "Lysinoalanine cross-links"
+      }
+    },
+    {
+      "id": "U3A-Q093",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about polyphenol oxidase:\n1. It is a copper-containing oxidoreductase.\n2. It can oxidize ortho-diphenols to ortho-quinones.\n3. Oxygen is irrelevant to its browning reaction.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q094",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Blanching controls enzymatic browning mainly by:",
+      "options": {
+        "A": "Increasing quinone concentration",
+        "B": "Thermally inactivating polyphenol oxidase",
+        "C": "Reducing water activity to zero",
+        "D": "Removing all phenolic substrates"
+      }
+    },
+    {
+      "id": "U3A-Q095",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Oxygen exclusion controls enzymatic browning by:",
+      "options": {
+        "A": "Removing the enzyme's copper permanently",
+        "B": "Converting quinones to amino acids",
+        "C": "Restricting an essential reactant for phenolic oxidation",
+        "D": "Increasing pH to 14"
+      }
+    },
+    {
+      "id": "U3A-Q096",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Citric acid can help control enzymatic browning through:",
+      "options": {
+        "A": "Providing a reducing sugar for Maillard reaction",
+        "B": "Acidification and some metal-complexing effects",
+        "C": "Hydrolysing all phenolic compounds",
+        "D": "Increasing pH and activating the enzyme"
+      }
+    },
+    {
+      "id": "U3A-Q097",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Enzymatic browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Sulfites and potassium metabisulfite can suppress browning partly by:",
+      "options": {
+        "A": "Raising oxygen solubility",
+        "B": "Converting protein into cellulose",
+        "C": "Intercepting quinones and forming sulfonated products",
+        "D": "Increasing the formation of ortho-quinones"
+      }
+    },
+    {
+      "id": "U3A-Q098",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Integrated browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement is correct when comparing Maillard and polyphenol-oxidase browning?",
+      "options": {
+        "A": "Both require oxygen for their initiating step",
+        "B": "Both require active copper-containing enzymes",
+        "C": "Both are forms of sugar caramelization",
+        "D": "Maillard begins with carbonyl–amine chemistry, while PPO browning begins with enzyme-catalysed phenol oxidation"
+      }
+    },
+    {
+      "id": "U3A-Q099",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Integrated browning",
+      "difficulty": "Moderate to Difficult",
+      "question_type": "count_based_statement_pairs",
+      "question": "Consider the following statements about industrial control of enzymatic browning:\n1. Ascorbic acid can reduce quinones but may be consumed during protection.\n2. Blanching can inactivate PPO if adequately validated.\n3. Sulfite use is automatically lawful in every food at any concentration.",
+      "options": {
+        "A": "Only 1 pair is correct",
+        "B": "Only 2 pairs are correct",
+        "C": "All 3 pairs are correct",
+        "D": "None of the pairs is correct"
+      }
+    },
+    {
+      "id": "U3A-Q100",
+      "unit": "Unit 3 Part A: Food Chemistry — Macromolecules",
+      "topic": "Integrated browning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which quality-control strategy is most defensible for an industrial fresh-cut fruit process?",
+      "options": {
+        "A": "Use sulfites without checking legal requirements",
+        "B": "Rely on one absolute pH value without testing",
+        "C": "Assume surface colour at time zero predicts shelf life",
+        "D": "Combine mechanism-based controls and validate residual enzyme activity, colour stability and product safety"
+      }
+    }
+  ],
+  "answer_key": [
+    {
+      "question_id": "U3A-Q001",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q002",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q003",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q004",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q005",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q006",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q007",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q008",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q009",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q010",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q011",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q012",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q013",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q014",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q015",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q016",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q017",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q018",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q019",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q020",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q021",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q022",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q023",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q024",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q025",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q026",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q027",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q028",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q029",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q030",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q031",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q032",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q033",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q034",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q035",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q036",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q037",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q038",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q039",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q040",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q041",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q042",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q043",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q044",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q045",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q046",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q047",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q048",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q049",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q050",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q051",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q052",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q053",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q054",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q055",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q056",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q057",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q058",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q059",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q060",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q061",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q062",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q063",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q064",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q065",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q066",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q067",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q068",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q069",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q070",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q071",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q072",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q073",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q074",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q075",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q076",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q077",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q078",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q079",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q080",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q081",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q082",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q083",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q084",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q085",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q086",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q087",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q088",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q089",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q090",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U3A-Q091",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q092",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q093",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q094",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q095",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q096",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q097",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U3A-Q098",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U3A-Q099",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U3A-Q100",
+      "correct_option": "D"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "question_id": "U3A-Q001",
+      "correct_option": "C",
+      "correct_answer": "104.5°",
+      "detailed_explanation": "The handout gives approximately 104.5° for the vapour-state H–O–H angle. Do not confuse it with the ideal tetrahedral angle of 109.5°.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q002",
+      "correct_option": "D",
+      "correct_answer": "Unequal sharing of O–H bonding electrons creates partial charges",
+      "detailed_explanation": "Oxygen attracts shared electrons more strongly, producing partial negative charge on oxygen and partial positive charges on hydrogen. The molecule remains neutral overall; the O–H bond is polar covalent, not completely ionic.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q003",
+      "correct_option": "A",
+      "correct_answer": "Donate two and accept two hydrogen bonds",
+      "detailed_explanation": "The model describes two hydrogen-bond donor directions through hydrogen atoms and two acceptor directions through oxygen lone-pair directions. In liquid water these associations are dynamic, not permanent.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q004",
+      "correct_option": "A",
+      "correct_answer": "High enthalpy of vaporization",
+      "detailed_explanation": "Vaporization requires molecules to escape the cohesive liquid network, so substantial energy is needed. This is why drying water-rich foods has a significant energy demand.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q005",
+      "correct_option": "A",
+      "correct_answer": "4°C",
+      "detailed_explanation": "Near 4°C, disruption of the relatively open hydrogen-bonded arrangement initially permits more compact packing. Above this temperature, thermal expansion predominates and density falls.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q006",
+      "correct_option": "A",
+      "correct_answer": "Only 1 pair is correct",
+      "detailed_explanation": "The first statement is correct: liquid water has a dynamic hydrogen-bond network. The second turns an idealized bonding capacity into permanent occupancy, which is incorrect. The third confuses liquid water with an ordered ice-like lattice. Thus, exactly one statement is correct.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q007",
+      "correct_option": "C",
+      "correct_answer": "The ability of a food matrix to retain liquid water against flow",
+      "detailed_explanation": "Water holding capacity is a matrix-level retention property. A gel may prevent bulk liquid flow while individual water molecules still move and participate in reactions.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q008",
+      "correct_option": "C",
+      "correct_answer": "Separation or expulsion of liquid from the gel network",
+      "detailed_explanation": "Syneresis is liquid separation from a gel. It indicates loss or rearrangement of matrix retention, not necessarily removal of all molecularly associated water.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q009",
+      "correct_option": "D",
+      "correct_answer": "Oxygen ends toward the positive ion",
+      "detailed_explanation": "The oxygen end carries a partial negative charge and is attracted to a positive sodium ion. Around a negative chloride ion, the hydrogen-rich positive ends orient toward the ion.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q010",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 3 are correct. Association of apolar regions reduces the interface with water and contributes to protein folding. It is not a new covalent bond, so statement 2 is false. Count = 2.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q011",
+      "correct_option": "B",
+      "correct_answer": "0.72",
+      "detailed_explanation": "At equilibrium, aw ≈ ERH/100. Thus 72% ERH corresponds to aw ≈ 0.72. This does not mean the food contains 72% moisture.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q012",
+      "correct_option": "B",
+      "correct_answer": "aw = ERH/100",
+      "detailed_explanation": "The handout gives aw = f/f0 ≈ p/p0 = ERH/100, with the food and pure-water reference evaluated at the same temperature.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q013",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 2 and 3 are correct. Water activity is not identical to moisture content; foods with different matrices can have different aw at the same moisture percentage. The vapour-pressure ratio compares food and pure water at the same temperature.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q014",
+      "correct_option": "B",
+      "correct_answer": "Equilibrium moisture content to water activity at constant temperature",
+      "detailed_explanation": "A sorption isotherm describes equilibrium moisture content against water activity at a fixed temperature. It is used in dehydration, packaging and stability decisions.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q015",
+      "correct_option": "D",
+      "correct_answer": "Sugars and other small soluble molecules",
+      "detailed_explanation": "The handout associates a J-shaped Type III curve with sugar-rich and other small-solute-rich foods. Many foods show a sigmoidal Type II curve.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q016",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. Hysteresis is the non-superimposition of adsorption/resorption and desorption curves and depends partly on sample history. An isotherm relates equilibrium moisture content to water activity at constant temperature, not time.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q017",
+      "correct_option": "C",
+      "correct_answer": "Zone III",
+      "detailed_explanation": "Zone III is the bulk aqueous fraction, with the highest mobility and solvent availability. Zone I is most strongly associated; Zone II has substantial plasticizing effects.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q018",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 3 are correct. The Maillard optimum is a qualified schematic near 0.6–0.7. Lipid oxidation is non-monotonic in the source schematic, with an initial decline and later rise. Lowering aw can inhibit growth but does not automatically kill microorganisms or remove preformed hazards.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q019",
+      "correct_option": "A",
+      "correct_answer": "0.60–0.70",
+      "detailed_explanation": "The source schematic places a maximum near aw 0.6–0.7: very low aw restricts mobility, while high aw can dilute reactants. This is a qualified teaching relationship, not a universal constant.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q020",
+      "correct_option": "A",
+      "correct_answer": "20%",
+      "detailed_explanation": "Initial sample mass = 35−30 = 5 g; apparent water loss = 35−34 = 1 g. Wet-basis moisture = 1/5 × 100 = 20%. Dry-basis moisture would be 1/4 × 100 = 25%.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q021",
+      "correct_option": "D",
+      "correct_answer": "Fructose",
+      "detailed_explanation": "Fructose is a six-carbon ketose, whereas glucose and galactose are aldoses. Ribose is a five-carbon aldose.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q022",
+      "correct_option": "C",
+      "correct_answer": "One principal monosaccharide type",
+      "detailed_explanation": "Homopolysaccharides contain one principal monomer type. Branching does not make a polymer heterogeneous; amylopectin is branched but glucose-based.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q023",
+      "correct_option": "B",
+      "correct_answer": "Inulin",
+      "detailed_explanation": "Inulin is fructose-based and is correctly identified as a fructan. Amylose, cellulose and glycogen are glucose-based homopolysaccharides.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q024",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. Amylose is mainly linear α(1→4)-linked glucose; amylopectin has α(1→4) chains and α(1→6) branches. Branching does not create a second monomer type, so amylopectin remains a glucose homopolysaccharide.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q025",
+      "correct_option": "B",
+      "correct_answer": "Lactose and maltose",
+      "detailed_explanation": "Lactose and maltose have reducing ends. Sucrose is non-reducing because both anomeric centres participate in its glycosidic linkage.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q026",
+      "correct_option": "B",
+      "correct_answer": "α(1→4)",
+      "detailed_explanation": "Amylose is predominantly linear with α(1→4) glycosidic linkages. Amylopectin also has α(1→4) chains but includes α(1→6) branch points.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q027",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. The handout reports blue iodine colour for amylose and describes amylopectin as highly branched. Amylose reassociates more rapidly; amylopectin contributes to slower storage-related reorganization.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q028",
+      "correct_option": "C",
+      "correct_answer": "Amylose reassociates more rapidly than amylopectin",
+      "detailed_explanation": "The handout describes amylose as predominantly linear and more rapidly reassociating, while amylopectin is highly branched and reorganizes more slowly during storage.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q029",
+      "correct_option": "B",
+      "correct_answer": "Blue",
+      "detailed_explanation": "Amylose is reported to give a blue iodine colour; amylopectin is described as purple in the source. The handout cautions that a fixed 660 nm specification is not verified in the accessible text.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q030",
+      "correct_option": "B",
+      "correct_answer": "Containing starch with very low amylose",
+      "detailed_explanation": "The source flags the phrase 'zero starch' as an error. Waxy maize is starch-rich but has very low amylose and a high amylopectin proportion.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q031",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 3 are correct. Gelatinization is a supramolecular transition involving hydration, swelling and loss of native order. It does not mean that all glycosidic bonds have been hydrolysed.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q032",
+      "correct_option": "C",
+      "correct_answer": "Disruption of the organized native granule structure",
+      "detailed_explanation": "Birefringence reflects ordered granule organization. Its disappearance is associated with gelatinization and loss of native structural order.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q033",
+      "correct_option": "C",
+      "correct_answer": "Gelatinization onset and swelling vary with botanical source and conditions",
+      "detailed_explanation": "The handout reconciles different ranges: some starches begin swelling near 55°C, others near 85°C, and observed thickening or extensive swelling can occur at different temperatures. Onset and endpoint are not identical.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q034",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 3 are correct. Amylose reassociates relatively rapidly, while amylopectin reorganizes more slowly during storage. Both fractions can participate, and staling also involves moisture redistribution, crumb firming and aroma changes.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q035",
+      "correct_option": "D",
+      "correct_answer": "A combination of starch reorganization, moisture redistribution and other quality changes",
+      "detailed_explanation": "The handout explicitly warns against reducing staling to evaporation alone. Retrogradation, crumb firming, reduced elasticity, moisture redistribution and aroma changes contribute.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q036",
+      "correct_option": "A",
+      "correct_answer": "Can develop viscosity or hydrate in cold water without the normal cooking step",
+      "detailed_explanation": "Pregelatinization disrupts native granule order before use, enabling cold-water hydration and thickening. It is a functional modification, not a guarantee of universal stability.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q037",
+      "correct_option": "C",
+      "correct_answer": "Granule/paste resistance under processing stresses",
+      "detailed_explanation": "Cross-links reinforce the starch structure and can improve tolerance to heat, shear and acidic processing. Exact performance depends on the reagent and degree of modification.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q038",
+      "correct_option": "C",
+      "correct_answer": "All 3 pairs are correct",
+      "detailed_explanation": "All three statements match the handout. Degree of esterification describes the esterified carboxyl fraction. High-methoxyl pectin requires acidic, high-soluble-solids conditions, whereas low-methoxyl pectin commonly forms calcium-mediated networks.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q039",
+      "correct_option": "A",
+      "correct_answer": "The proportion of galacturonic acid carboxyl groups present as methyl esters",
+      "detailed_explanation": "DE describes the proportion of galacturonic acid carboxyl groups esterified, commonly as methyl esters. It influences the conditions and mechanism of pectin gel formation.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q040",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. Alginate's principal residues are mannuronic and guluronic acids; guar and locust bean gums contain mannose backbones with galactose substitution. Inulin is a fructan, not a glucan.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q041",
+      "correct_option": "B",
+      "correct_answer": "Calcium-mediated bridges between pectin chains",
+      "detailed_explanation": "Calcium ions can bridge suitable carboxylate groups on low-methoxyl pectin chains. The handout flags exact universal pH/solids intervals and a detailed egg-box model as not fully verified in the accessible pages.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q042",
+      "correct_option": "B",
+      "correct_answer": "Red seaweeds",
+      "detailed_explanation": "Agar is a seaweed hydrocolloid associated with red algae. It forms thermoreversible gels and is used as a gelling agent.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q043",
+      "correct_option": "C",
+      "correct_answer": "Mannuronic and guluronic acid residues",
+      "detailed_explanation": "The detailed source passage correctly identifies alginate's monomers as mannuronic and guluronic acids. The handout flags an inconsistent table elsewhere and instructs readers not to follow the erroneous monomer identification.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q044",
+      "correct_option": "A",
+      "correct_answer": "Mannose and galactose",
+      "detailed_explanation": "The source describes galactomannans with mannose backbones and galactose side groups. A line giving a mannose-to-glucose ratio is flagged as an apparent error.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q045",
+      "correct_option": "B",
+      "correct_answer": "Recognition of particular glycosidic linkages and substrate structure",
+      "detailed_explanation": "Polysaccharide-degrading enzymes recognize particular linkage types and structural contexts. Therefore, polymers made from the same monomer can have very different digestibility and functionality.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q046",
+      "correct_option": "C",
+      "correct_answer": "Zero net charge on average",
+      "detailed_explanation": "At pI, positive and negative charges balance so the net charge is approximately zero. Individual ionizable groups may still carry charges; pI does not mean absence of local charge.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q047",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 3 are correct. At pI, positive and negative charges balance on average, but individual groups may remain charged. Reduced electrostatic repulsion can contribute to lower solubility or precipitation.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q048",
+      "correct_option": "B",
+      "correct_answer": "Salt increasing electrostatic screening and protein solubility",
+      "detailed_explanation": "At lower ionic strength, salts can screen attractive electrostatic interactions and improve solubility. At higher salt concentrations, competition for water and other effects can promote salting-out.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q049",
+      "correct_option": "C",
+      "correct_answer": "Albumin — soluble in water",
+      "detailed_explanation": "The source identifies albumins as water-soluble, globulins as soluble in suitable dilute salt solutions, prolamins as alcohol-soluble and glutelins as soluble under suitable dilute acid or base conditions.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q050",
+      "correct_option": "D",
+      "correct_answer": "Phosphoprotein",
+      "detailed_explanation": "Casein is a phosphoprotein. Some fractions may also have carbohydrate substitution, but the handout cautions against labelling every casein molecule identically as a glycoprotein.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q051",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 3 are correct. Denaturation changes conformation and accessibility without necessarily changing primary structure. Peptide-bond cleavage is hydrolysis, a distinct chemical event.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q052",
+      "correct_option": "A",
+      "correct_answer": "Heat",
+      "detailed_explanation": "Heat is a major denaturing treatment; pH, salts, solvents, pressure and interfaces can also alter protein conformation. The source's 60–90°C example is not a universal inactivation schedule.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q053",
+      "correct_option": "C",
+      "correct_answer": "Denaturation alters conformation, whereas hydrolysis cleaves peptide bonds",
+      "detailed_explanation": "Denaturation changes protein folding/association; hydrolysis chemically cleaves peptide bonds and can reduce chain length. They may occur together during processing but are not synonyms.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q054",
+      "correct_option": "C",
+      "correct_answer": "Removal or conversion of an amide group",
+      "detailed_explanation": "Deamidation changes side-chain amide functionality, for example in asparagine or glutamine residues. It can alter charge and protein functionality.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q055",
+      "correct_option": "B",
+      "correct_answer": "Conversion between D- and L-configurations at a chiral centre",
+      "detailed_explanation": "Racemization changes stereochemistry, producing the opposite enantiomeric configuration at a chiral amino-acid centre. Severe alkaline or thermal processing can promote it.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q056",
+      "correct_option": "D",
+      "correct_answer": "It can modify amino-acid side chains and affect functionality",
+      "detailed_explanation": "Oxidation can modify susceptible residues and promote aggregation or cross-linking, changing solubility, texture and nutritional quality. The effect depends on the protein and processing environment.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q057",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. Dehydroalanine is a reactive intermediate and lysine addition can form lysinoalanine. Severe alkaline processing can instead reduce nutritional availability and promote racemization or other modifications.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q058",
+      "correct_option": "C",
+      "correct_answer": "Lysine and dehydroalanine",
+      "detailed_explanation": "The ε-amino group of lysine can add to dehydroalanine, forming lysinoalanine cross-links. The reaction can reduce nutritional availability and alter proteolytic cleavage.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q059",
+      "correct_option": "B",
+      "correct_answer": "Lanthionine — cysteine",
+      "detailed_explanation": "Cysteine addition to dehydroalanine forms lanthionine; lysine forms lysinoalanine and ornithine can form ornithoalanine. These are distinct alkaline-processing cross-links.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q060",
+      "correct_option": "B",
+      "correct_answer": "Formation of modified amino acids and reduced availability of essential residues",
+      "detailed_explanation": "Severe alkaline exposure can cause dehydroalanine-mediated cross-links, racemization and other modifications. These can reduce digestibility or amino-acid availability.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q061",
+      "correct_option": "A",
+      "correct_answer": "A concentrated protein solution prepared for extrusion through a spinneret",
+      "detailed_explanation": "The handout describes purified protein isolate and a dope generally around 10–40% protein, solubilized under alkaline conditions and extruded through a spinneret into a coagulation bath.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q062",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. Gliadin and glutenin are protein fractions with complementary viscoelastic functions. They are not carbohydrate polymers.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q063",
+      "correct_option": "A",
+      "correct_answer": "Alkaline solubilization near pH 10",
+      "detailed_explanation": "The source describes alkaline solubilization near pH 10. Prolonged alkaline residence is a concern because it can promote protein damage and undesirable cross-links.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q064",
+      "correct_option": "D",
+      "correct_answer": "Uses heat, moisture, pressure and shear to restructure protein in a barrel and die",
+      "detailed_explanation": "The handout describes high-protein feed, roughly 30–40% moisture, elevated temperature and pressure, directional restructuring and die pressure release. It produces a textured matrix rather than the same spun-fibre structure.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q065",
+      "correct_option": "A",
+      "correct_answer": "150–200°C",
+      "detailed_explanation": "The handout gives approximately 150–200°C, 10–20 MPa and 30–40% moisture for its described extrusion process. These are process-specific examples, not universal specifications for every extruder.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q066",
+      "correct_option": "D",
+      "correct_answer": "Gliadin and glutenin",
+      "detailed_explanation": "Gliadin contributes viscosity and extensibility, while glutenin contributes elasticity and strength. Their hydrated network gives dough its characteristic viscoelastic behaviour.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q067",
+      "correct_option": "C",
+      "correct_answer": "Glutenin",
+      "detailed_explanation": "Glutenin contributes elastic strength and recovery, whereas gliadin contributes viscous flow and extensibility. Dough performance depends on the balance between the two.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q068",
+      "correct_option": "B",
+      "correct_answer": "κ-casein",
+      "detailed_explanation": "Chymosin cleaves κ-casein, destabilizing the casein micelle surface layer. Aggregation of destabilized micelles follows as a second stage.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q069",
+      "correct_option": "C",
+      "correct_answer": "κ-casein cleavage → micelle destabilization → aggregation",
+      "detailed_explanation": "Chymosin first cleaves κ-casein, weakening steric/electrostatic stabilization of micelles. The destabilized micelles then aggregate, especially under suitable calcium and temperature conditions.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q070",
+      "correct_option": "A",
+      "correct_answer": "Binds biotin strongly",
+      "detailed_explanation": "Avidin binds biotin with very high affinity, making biotin less available. The handout includes avidin as a key egg-white protein/function example.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q071",
+      "correct_option": "C",
+      "correct_answer": "Maillard, caramelization and polyphenol-oxidase browning",
+      "detailed_explanation": "Maillard browning and caramelization are non-enzymatic; polyphenol-oxidase browning is enzyme-initiated. Similar brown colour can arise through different substrates and mechanisms.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q072",
+      "correct_option": "D",
+      "correct_answer": "A reducing carbonyl compound and an available amino group",
+      "detailed_explanation": "Maillard chemistry begins with carbonyl–amine condensation, commonly involving a reducing sugar and amino groups in amino acids or proteins. It does not require a proteinaceous enzyme.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q073",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 3 are correct. Maillard browning is a non-enzymatic carbonyl–amine reaction. Oxygen is not obligatory for the initial condensation, unlike PPO browning.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q074",
+      "correct_option": "D",
+      "correct_answer": "Amadori product",
+      "detailed_explanation": "Aldose-derived Maillard intermediates undergo Amadori rearrangement to more stable deoxy-ketosyl products. The handout flags the detailed ketose-specific Heyns pathway as not fully developed in the accessible source pages.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q075",
+      "correct_option": "D",
+      "correct_answer": "Oxygen is not obligatory for the initial carbonyl–amine condensation",
+      "detailed_explanation": "The initial Maillard condensation does not require oxygen as an obligatory reactant. Oxygen is essential to the polyphenol-oxidase browning system.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q076",
+      "correct_option": "D",
+      "correct_answer": "Reducing pentoses > reducing hexoses > reducing disaccharides",
+      "detailed_explanation": "The handout gives reducing pentoses > reducing hexoses > reducing disaccharides as a useful general trend, while explicitly qualifying it as non-universal and dependent on conditions and reactant identity.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q077",
+      "correct_option": "C",
+      "correct_answer": "R–NH2",
+      "detailed_explanation": "The unprotonated amino form R–NH2 is generally the more effective nucleophile. Increasing pH often raises its fraction, although reaction pathways and matrix conditions also matter.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q078",
+      "correct_option": "C",
+      "correct_answer": "All 3 pairs are correct",
+      "detailed_explanation": "All three statements are supported. The schematic describes limited mobility at very low aw, increased mobility at intermediate aw and dilution at high aw. The numerical optimum is a qualified teaching relationship, not a universal constant.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q079",
+      "correct_option": "A",
+      "correct_answer": "One fewer carbon than the amino acid",
+      "detailed_explanation": "The carboxyl carbon is released as carbon dioxide, leaving a Strecker aldehyde with one fewer carbon atom. These aldehydes contribute characteristic food aromas.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q080",
+      "correct_option": "C",
+      "correct_answer": "Free asparagine with reducing sugars",
+      "detailed_explanation": "Free asparagine is the principal amino-acid precursor in the recognized sugar–asparagine route to acrylamide. Lysine blockage is a separate nutritional consequence of Maillard chemistry.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q081",
+      "correct_option": "B",
+      "correct_answer": "Loss of available lysine",
+      "detailed_explanation": "Reactive carbonyls can modify lysine's ε-amino group and reduce available lysine before conspicuous brown pigment appears. Colour intensity is therefore not a reliable direct measure of nutritional damage.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q082",
+      "correct_option": "B",
+      "correct_answer": "Strecker aldehydes are volatile flavour compounds; melanoidins are later brown condensed products",
+      "detailed_explanation": "Strecker degradation yields volatile aldehydes associated with aroma. Melanoidins are brown products formed through later condensation of Maillard intermediates.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q083",
+      "correct_option": "D",
+      "correct_answer": "The rate constants of chemical steps generally increase with temperature",
+      "detailed_explanation": "Higher temperature generally accelerates condensation, rearrangement and degradation steps. The overall reaction is a network, so different products can have different apparent kinetics.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q084",
+      "correct_option": "A",
+      "correct_answer": "Is sugar degradation without a required amino reactant",
+      "detailed_explanation": "Caramelization involves sugar rearrangement, dehydration, fragmentation and condensation without requiring an amino reactant. Maillard browning begins with carbonyl–amine chemistry.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q085",
+      "correct_option": "B",
+      "correct_answer": "Rearrangement/enolization → dehydration → fragmentation → condensation",
+      "detailed_explanation": "The handout describes structural rearrangement and enolization, dehydration, fragmentation, and condensation into coloured material. Volatile compounds contribute aroma while condensed products contribute colour.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q086",
+      "correct_option": "A",
+      "correct_answer": "Only 1 pair is correct",
+      "detailed_explanation": "Only statement 2 is correct. Caramelization is sugar degradation without a required amino reactant. The handout describes rearrangement/enolization, dehydration, fragmentation and condensation; temperature depends on sugar identity and processing conditions.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q087",
+      "correct_option": "D",
+      "correct_answer": "C12H18O9",
+      "detailed_explanation": "The handout lists caramelans as C12H18O9, caramelens as C36H50O25 and caramelins as C125H188O80. These are traditional empirical designations, not proof of unique pure compounds.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q088",
+      "correct_option": "C",
+      "correct_answer": "Active enzyme, suitable phenolic substrate and oxygen",
+      "detailed_explanation": "Tissue disruption brings active polyphenol oxidase, phenolic substrates and oxygen into contact. Quinones form and then undergo largely non-enzymatic reactions that generate brown pigments.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q089",
+      "correct_option": "C",
+      "correct_answer": "Copper-containing oxidoreductase",
+      "detailed_explanation": "Polyphenol oxidase is a copper-containing oxidoreductase. Copper is involved in its catalytic centre and oxygen participates in the oxidation reaction.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q090",
+      "correct_option": "A",
+      "correct_answer": "Hydroxylation of a suitable monophenol to an ortho-diphenol",
+      "detailed_explanation": "Cresolase activity hydroxylates a suitable monophenol to an ortho-diphenol. Catecholase activity then oxidizes an ortho-diphenol to an ortho-quinone.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q091",
+      "correct_option": "B",
+      "correct_answer": "Oxidation of an ortho-diphenol to an ortho-quinone",
+      "detailed_explanation": "Catecholase/diphenolase activity oxidizes ortho-diphenols to ortho-quinones. Quinones are reactive intermediates that can couple and condense into pigment-forming products.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q092",
+      "correct_option": "C",
+      "correct_answer": "Ortho-quinones",
+      "detailed_explanation": "Polyphenol oxidase generates reactive ortho-quinones. These undergo addition, coupling and condensation reactions, many of which are non-enzymatic, producing melanin-like pigments.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q093",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. PPO contains a copper catalytic centre and catalyses phenolic oxidation to quinones. Molecular oxygen is a required reactant in this oxidative browning system.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q094",
+      "correct_option": "B",
+      "correct_answer": "Thermally inactivating polyphenol oxidase",
+      "detailed_explanation": "A validated thermal blanching treatment denatures/inactivates the enzyme. It must be sufficient throughout the product, but excessive heating can soften tissue and cause nutrient losses.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q095",
+      "correct_option": "C",
+      "correct_answer": "Restricting an essential reactant for phenolic oxidation",
+      "detailed_explanation": "Molecular oxygen is required for the oxidative enzyme reaction. Deaeration, barrier packaging or immersion can reduce oxygen access, but leakage or later exposure can allow browning to resume.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q096",
+      "correct_option": "B",
+      "correct_answer": "Acidification and some metal-complexing effects",
+      "detailed_explanation": "Citric acid lowers pH and can complex metals, both of which may suppress productive enzyme activity. The handout cautions that a low-pH target is not a universal irreversible inactivation rule.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q097",
+      "correct_option": "C",
+      "correct_answer": "Intercepting quinones and forming sulfonated products",
+      "detailed_explanation": "Reactive sulfur species can intercept quinones and form sulfonated products, reducing pigment formation. Their use must comply with applicable legal limits, labelling and consumer-sensitivity requirements.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q098",
+      "correct_option": "D",
+      "correct_answer": "Maillard begins with carbonyl–amine chemistry, while PPO browning begins with enzyme-catalysed phenol oxidation",
+      "detailed_explanation": "Maillard initiation is carbonyl–amine condensation and does not require an enzyme or obligatory oxygen. PPO browning requires active copper-containing enzyme, phenolic substrate and oxygen.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q099",
+      "correct_option": "B",
+      "correct_answer": "Only 2 pairs are correct",
+      "detailed_explanation": "Statements 1 and 2 are correct. Ascorbic acid gives reserve-dependent quinone reduction, while blanching targets enzyme activity. Sulfite application is subject to applicable legal permissions, residual limits, labelling and consumer-sensitivity considerations.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    },
+    {
+      "question_id": "U3A-Q100",
+      "correct_option": "D",
+      "correct_answer": "Combine mechanism-based controls and validate residual enzyme activity, colour stability and product safety",
+      "detailed_explanation": "The handout recommends combined, product-specific controls and validation. Relevant checks include residual enzyme activity, storage colour, antioxidant depletion where relevant, sensory quality and microbiological safety.",
+      "source_reference": "Directly supported by the uploaded Unit 3 Part A handout."
+    }
+  ],
+  "quality_control": {
+    "question_count": 100,
+    "unique_question_ids": 100,
+    "all_questions_have_four_options": true,
+    "all_answer_keys_reference_existing_questions": true,
+    "all_questions_have_exactly_one_answer_key": true,
+    "all_questions_have_detailed_explanations": true,
+    "question_ids_match_across_sections": true,
+    "answer_options_are_valid": true,
+    "answer_position_distribution": {
+      "C": 27,
+      "D": 17,
+      "A": 18,
+      "B": 38
+    },
+    "pair_count_format_distribution": 20,
+    "note": "Structural and consistency checks passed. Scientific content has been checked against the uploaded handout and its stated qualifications; this is not an official HPSC paper or a guarantee of future questions."
+  }
+}

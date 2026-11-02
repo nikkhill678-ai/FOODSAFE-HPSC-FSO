@@ -1,0 +1,2351 @@
+{
+  "metadata": {
+    "title": "HPSC FSO Unit 6 — Food Toxicology, Inherent Toxicants, Contaminants, Residues & Heavy Metals",
+    "source_file": "06_Food_Toxicology_Contaminants_Biotoxins_Residues.docx",
+    "question_count": 100,
+    "option_format": "Four substantive options (A–D); single best answer",
+    "layout_order": [
+      "questions",
+      "answer_key",
+      "detailed_explanations"
+    ],
+    "source_coverage": {
+      "plant_toxicants_and_antinutritional_factors": "Legume toxicants, cyanogenic glycosides, favism, lectins, protease inhibitors, phytate, glycoalkaloids, glucosinolates, oxalates and argemone oil",
+      "marine_and_animal_biotoxins": "Shellfish poisoning syndromes, sodium-channel toxins, ciguatoxin, tetrodotoxin and scombroid/histamine poisoning",
+      "heavy_metals": "Lead, cadmium, mercury, arsenic and tin",
+      "residues_and_risk_assessment": "Organochlorines, organophosphates, carbamates, pyrethroids, veterinary residues, antimicrobial resistance, NOAEL, ADI and MRL",
+      "process_contaminants": "PAHs, acrylamide and ethyl carbamate",
+      "analysis_and_enforcement": "Relevant screening/confirmatory methods and representative sampling workflow"
+    },
+    "exam_style": {
+      "approach": "HPSC-oriented practice: mechanism-to-syndrome matching, food/toxin pairings, numerical anchors, analytical test identification, statutory concepts, absolute-qualifier distinctions and high-yield trap contrasts.",
+      "important_pattern_caveat": "This is a technical-topic MCQ practice bank, not a prediction of the exact main-paper format. The revised HPSC FSO 2026 scheme reported for the 16 October 2026 notice describes the Screening Test as General Studies/Haryana GK and the Subject Knowledge Test as subjective/descriptive. Use these MCQs for technical recall and concept testing, and convert the explanations into descriptive SKT answers.",
+      "screening_test_reported": "100 MCQs, 100 marks, 2 hours, English; five OMR options with the fifth for unattempted; one-fourth negative marking; minimum 25%; screening marks not counted in final merit.",
+      "subject_knowledge_test_reported": "150 marks, 3 hours, subjective/descriptive, English; 35% qualifying; 87.5% final merit weightage; interview 12.5%.",
+      "dates_reported": "Screening Test 6 December 2026; Subject Knowledge Test 31 January 2027. Verify any later HPSC corrigendum."
+    },
+    "source_limitations_and_cautions": [
+      "The uploaded handout warns that statutory numerical limits may change by Gazette amendment and that its figures are representative values drawn from the 2011 Regulations and 2018–2020 harmonisation amendments.",
+      "Questions involving legal limits are restricted to values explicitly stated in the handout. Verify the latest notified commodity-specific table before using any figure as current law.",
+      "International values (Codex, JECFA, EU or other jurisdictions) must not be confused with Indian statutory limits.",
+      "No question claims that a practice question is guaranteed to appear in the examination."
+    ],
+    "source_exam_trap_compendium_coverage": "The question set incorporates the handout's dedicated HPSC EXAM TRAP distinctions across plant toxicants, marine biotoxins, heavy metals, pesticide/veterinary residues and process contaminants.",
+    "correct_option_distribution": {
+      "A": 25,
+      "B": 25,
+      "C": 25,
+      "D": 25
+    },
+    "references_for_exam_pattern": [
+      "https://hpsc.gov.in/Portals/0/Ann_Scheme_Pattern_Syllabus_FSO_16_10_2026.pdf",
+      "https://hpsc.gov.in/Portals/0/Ann_withdraw_Syllabus_FSO_16_10_2026.pdf"
+    ]
+  },
+  "questions": [
+    {
+      "id": "U6-Q001",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Neurolathyrism is most directly associated with which toxin–food pairing?",
+      "options": {
+        "A": "BOAA/ODAP in Lathyrus sativus (khesari dal)",
+        "B": "Beta-aminopropionitrile in cassava",
+        "C": "Linamarin in faba bean",
+        "D": "Vicine in sweet pea"
+      }
+    },
+    {
+      "id": "U6-Q002",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "BOAA produces neurolathyrism primarily through agonism at which receptor class?",
+      "options": {
+        "A": "GABA-A receptors",
+        "B": "AMPA-type ionotropic glutamate receptors",
+        "C": "Nicotinic acetylcholine receptors",
+        "D": "Glycine receptors"
+      }
+    },
+    {
+      "id": "U6-Q003",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which clinical feature is most characteristic of established neurolathyrism?",
+      "options": {
+        "A": "Flaccid paralysis with sensory loss",
+        "B": "Acute haemolytic anaemia",
+        "C": "Spastic paraparesis with exaggerated lower-limb reflexes",
+        "D": "Ascending peripheral neuropathy with areflexia"
+      }
+    },
+    {
+      "id": "U6-Q004",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "three_statement_count_based",
+      "question": "For BOAA and khesari dal, consider the following statements:\n(i) BOAA is associated with Lathyrus sativus.\n(ii) BOAA acts as an AMPA-type glutamate receptor agonist.\n(iii) Dry roasting is an effective method for removing water-soluble BOAA.",
+      "options": {
+        "D": "Only 2",
+        "A": "Only 1",
+        "B": "All 3",
+        "C": "None"
+      }
+    },
+    {
+      "id": "U6-Q005",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Neurolathyrism must be distinguished from osteolathyrism. Which pairing is correct?",
+      "options": {
+        "A": "Neurolathyrism—Lathyrus sativus/BOAA; osteolathyrism—Lathyrus odoratus/beta-aminopropionitrile",
+        "B": "Neurolathyrism—Lathyrus odoratus/BAPN; osteolathyrism—Lathyrus sativus/BOAA",
+        "C": "Both are caused by BOAA in Lathyrus sativus",
+        "D": "Both are caused by linamarin in Lathyrus species"
+      }
+    },
+    {
+      "id": "U6-Q006",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which cyanogenic glycoside is the principal one in cassava?",
+      "options": {
+        "A": "Amygdalin",
+        "B": "Linamarin",
+        "C": "Dhurrin",
+        "D": "Vicine"
+      }
+    },
+    {
+      "id": "U6-Q007",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The final products of complete hydrolysis of amygdalin include:",
+      "options": {
+        "A": "Acetone and HCN",
+        "B": "p-Hydroxybenzaldehyde and HCN",
+        "C": "Benzaldehyde, HCN and two glucose units",
+        "D": "Butanone and HCN"
+      }
+    },
+    {
+      "id": "U6-Q008",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Cyanide causes histotoxic hypoxia by inhibiting:",
+      "options": {
+        "A": "Na+/K+-ATPase",
+        "B": "Succinate dehydrogenase only",
+        "C": "Acetylcholinesterase",
+        "D": "Cytochrome c oxidase (mitochondrial complex IV)"
+      }
+    },
+    {
+      "id": "U6-Q009",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "three_statement_count_based",
+      "question": "Regarding cyanogenic glycosides, consider:\n(i) Linamarin is associated with cassava.\n(ii) Amygdalin is associated with bitter almonds and apricot kernels.\n(iii) Dhurrin is associated with sorghum.",
+      "options": {
+        "A": "All 3",
+        "B": "Only 1",
+        "C": "Only 2",
+        "D": "None"
+      }
+    },
+    {
+      "id": "U6-Q010",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Why is grating or crushing bitter cassava before soaking important?",
+      "options": {
+        "A": "It removes all starch before fermentation",
+        "B": "It brings linamarin into contact with linamarase before heating can inactivate the enzyme",
+        "C": "It converts cyanide into methylmercury",
+        "D": "It prevents water-soluble cyanide from leaching out"
+      }
+    },
+    {
+      "id": "U6-Q011",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Favism is most strongly associated with deficiency of:",
+      "options": {
+        "A": "Phenylalanine hydroxylase",
+        "B": "Glutathione peroxidase",
+        "C": "Glucose-6-phosphate dehydrogenase",
+        "D": "Pyruvate kinase"
+      }
+    },
+    {
+      "id": "U6-Q012",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The immediate oxidant metabolites implicated in favism are:",
+      "options": {
+        "A": "Goitrin and thiocyanate",
+        "B": "Sanguinarine and dihydrosanguinarine",
+        "C": "Solanine and chaconine",
+        "D": "Divicine and isouramil"
+      }
+    },
+    {
+      "id": "U6-Q013",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about favism is correct?",
+      "options": {
+        "A": "It is an oxidant haemolytic crisis in susceptible G6PD-deficient individuals",
+        "B": "It is cyanide poisoning caused by linamarin",
+        "C": "It is an IgE-mediated allergy affecting all consumers",
+        "D": "It is prevented reliably by ordinary cooking"
+      }
+    },
+    {
+      "id": "U6-Q014",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Raw red kidney beans are hazardous mainly because they contain:",
+      "options": {
+        "A": "Aflatoxin B1",
+        "B": "Phytohaemagglutinin (PHA)",
+        "C": "Domoic acid",
+        "D": "Methylmercury"
+      }
+    },
+    {
+      "id": "U6-Q015",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which preparation is recommended to reduce kidney-bean lectin activity?",
+      "options": {
+        "A": "Slow cooking at 70–80°C",
+        "B": "Dry roasting only",
+        "C": "Soaking, discarding the water and vigorous boiling at 100°C for an adequate time",
+        "D": "Brief warming below 60°C"
+      }
+    },
+    {
+      "id": "U6-Q016",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The 'slow-cooker paradox' for kidney beans refers to:",
+      "options": {
+        "A": "Lectin being completely destroyed at 70°C",
+        "B": "Phytate being converted into oxalate",
+        "C": "Cyanide formation during pressure cooking",
+        "D": "Sub-boiling heating potentially increasing PHA activity rather than reliably inactivating it"
+      }
+    },
+    {
+      "id": "U6-Q017",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "three_statement_count_based",
+      "question": "Consider the following statements about favism:\n(i) Vicine and convicine are precursors of divicine and isouramil.\n(ii) Favism is associated with G6PD deficiency.\n(iii) Ordinary cooking reliably destroys vicine and convicine.",
+      "options": {
+        "A": "Only 2",
+        "B": "Only 1",
+        "C": "All 3",
+        "D": "None"
+      }
+    },
+    {
+      "id": "U6-Q018",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Trypsin inhibitors can stimulate pancreatic secretion by increasing release of:",
+      "options": {
+        "A": "Insulin",
+        "B": "Cholecystokinin (CCK)",
+        "C": "Thyroxine",
+        "D": "Aldosterone"
+      }
+    },
+    {
+      "id": "U6-Q019",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which assay is used directly to measure trypsin inhibitor activity in soybean products?",
+      "options": {
+        "A": "Kjeldahl nitrogen only",
+        "B": "Haugh unit",
+        "C": "Benzoyl-DL-arginine-p-nitroanilide substrate assay",
+        "D": "Mouse bioassay for saxitoxin"
+      }
+    },
+    {
+      "id": "U6-Q020",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Phytic acid is chemically known as:",
+      "options": {
+        "A": "A polyether fatty acid",
+        "B": "A steroidal alkaloid",
+        "C": "A cyanogenic disaccharide",
+        "D": "Myo-inositol hexakisphosphate (IP6)"
+      }
+    },
+    {
+      "id": "U6-Q021",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which mineral is generally most affected by phytate binding in the handout's ranking?",
+      "options": {
+        "A": "Zinc",
+        "B": "Sodium",
+        "C": "Chloride",
+        "D": "Iodide"
+      }
+    },
+    {
+      "id": "U6-Q022",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which processing methods most effectively reduce phytate?",
+      "options": {
+        "A": "Boiling alone and frying",
+        "B": "Germination and fermentation",
+        "C": "Dry roasting alone",
+        "D": "Refrigeration and freezing"
+      }
+    },
+    {
+      "id": "U6-Q023",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Legume toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A phytate-to-zinc molar ratio above which value is associated with markedly impaired zinc absorption in the handout?",
+      "options": {
+        "A": "Above 2",
+        "B": "Above 5",
+        "C": "Above 15",
+        "D": "Above 100"
+      }
+    },
+    {
+      "id": "U6-Q024",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Moderate",
+      "question_type": "three_statement_count_based",
+      "question": "For potato glycoalkaloids, consider:\n(i) The major compounds are alpha-solanine and alpha-chaconine.\n(ii) The 200 mg/kg ceiling refers to their combined total.\n(iii) Ordinary boiling reliably destroys the glycoalkaloids.",
+      "options": {
+        "D": "Only 2",
+        "A": "Only 1",
+        "B": "All 3",
+        "C": "None"
+      }
+    },
+    {
+      "id": "U6-Q025",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The commonly cited safe ceiling for total potato glycoalkaloids in the handout is:",
+      "options": {
+        "A": "200 mg/kg",
+        "B": "50 mg/kg",
+        "C": "20 mg/kg",
+        "D": "2,000 mg/kg"
+      }
+    },
+    {
+      "id": "U6-Q026",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about greening of potatoes is most accurate?",
+      "options": {
+        "A": "Chlorophyll itself is the principal toxin",
+        "B": "Greening is a marker associated with light exposure that can also stimulate glycoalkaloid synthesis",
+        "C": "Greening destroys solanine",
+        "D": "Only the central pith contains glycoalkaloids"
+      }
+    },
+    {
+      "id": "U6-Q027",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which treatment is least reliable for removing potato glycoalkaloids?",
+      "options": {
+        "A": "Thick peeling",
+        "B": "Removing sprouts and eyes",
+        "C": "Boiling",
+        "D": "Rejecting green and bitter tubers"
+      }
+    },
+    {
+      "id": "U6-Q028",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Goitrin is produced from which glucosinolate precursor?",
+      "options": {
+        "A": "Sinigrin",
+        "B": "Glucobrassicin",
+        "C": "Sinalbin",
+        "D": "Progoitrin"
+      }
+    },
+    {
+      "id": "U6-Q029",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Goitrin impairs thyroid hormone synthesis primarily by inhibiting:",
+      "options": {
+        "A": "Thyroid peroxidase-mediated organification and coupling",
+        "B": "Sodium–iodide symporter competitively",
+        "C": "Thyroglobulin secretion from the pituitary",
+        "D": "Renal iodine excretion"
+      }
+    },
+    {
+      "id": "U6-Q030",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Thiocyanate contributes to goitrogenesis by:",
+      "options": {
+        "A": "Blocking thyroid peroxidase irreversibly",
+        "B": "Competitively inhibiting iodide uptake through the sodium–iodide symporter",
+        "C": "Destroying thyroglobulin in the stomach",
+        "D": "Stimulating TSH secretion directly"
+      }
+    },
+    {
+      "id": "U6-Q031",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which pair is correctly matched?",
+      "options": {
+        "A": "Sinigrin—goitrin",
+        "B": "Vicine—sanguinarine",
+        "C": "Progoitrin—goitrin",
+        "D": "Glucobrassicin—solanine"
+      }
+    },
+    {
+      "id": "U6-Q032",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The acute acridity of colocasia (arbi) leaves is mainly associated with:",
+      "options": {
+        "A": "Ethyl carbamate",
+        "B": "Methylmercury",
+        "C": "Aflatoxin M1",
+        "D": "Calcium oxalate raphides"
+      }
+    },
+    {
+      "id": "U6-Q033",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "three_statement_count_based",
+      "question": "Regarding argemone oil detection, consider:\n(i) The nitric acid test is used as a screening test.\n(ii) Paper chromatography is more sensitive and confirmatory.\n(iii) Sanguinarine is the principal toxic alkaloid associated with epidemic dropsy.",
+      "options": {
+        "A": "All 3",
+        "B": "Only 1",
+        "C": "Only 2",
+        "D": "None"
+      }
+    },
+    {
+      "id": "U6-Q034",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why is spinach a poor source of bioavailable calcium despite containing calcium?",
+      "options": {
+        "A": "Calcium is converted into sodium chloride",
+        "B": "Much of its calcium is bound as calcium oxalate",
+        "C": "Calcium is destroyed by chlorophyll",
+        "D": "Spinach contains no calcium"
+      }
+    },
+    {
+      "id": "U6-Q035",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Epidemic dropsy is caused by adulteration of edible oil with:",
+      "options": {
+        "A": "Rice-bran oil",
+        "B": "Cottonseed oil",
+        "C": "Argemone mexicana oil",
+        "D": "Castor oil only"
+      }
+    },
+    {
+      "id": "U6-Q036",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The principal toxic alkaloid responsible for epidemic dropsy is:",
+      "options": {
+        "A": "Saxitoxin",
+        "B": "Domoic acid",
+        "C": "Solanidine",
+        "D": "Sanguinarine"
+      }
+    },
+    {
+      "id": "U6-Q037",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which test is the screening test for argemone oil described in the handout?",
+      "options": {
+        "A": "Nitric acid (Hofmann) test",
+        "B": "Haugh unit test",
+        "C": "Kreis test",
+        "D": "Biuret test"
+      }
+    },
+    {
+      "id": "U6-Q038",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Botanical toxicants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which method is described as the most sensitive confirmatory test for argemone oil, with detection around 0.0001%?",
+      "options": {
+        "A": "Ferric chloride test",
+        "B": "Paper chromatography",
+        "C": "Nitric acid test",
+        "D": "Simple visual seed sorting"
+      }
+    },
+    {
+      "id": "U6-Q039",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Paralytic shellfish poisoning (PSP) is principally associated with:",
+      "options": {
+        "A": "Domoic acid from Pseudo-nitzschia",
+        "B": "Okadaic acid from Dinophysis",
+        "C": "Saxitoxin and its analogues from dinoflagellates",
+        "D": "Histamine formed in tuna muscle"
+      }
+    },
+    {
+      "id": "U6-Q040",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Saxitoxin produces paralysis by:",
+      "options": {
+        "A": "Opening voltage-gated sodium channels at site 5",
+        "B": "Activating AMPA receptors",
+        "C": "Inhibiting PP2A",
+        "D": "Blocking site 1 of voltage-gated sodium channels"
+      }
+    },
+    {
+      "id": "U6-Q041",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The Codex/worldwide action level for PSP in shellfish meat stated in the handout is:",
+      "options": {
+        "A": "80 micrograms STX equivalents/100 g",
+        "B": "20 micrograms STX equivalents/100 g",
+        "C": "8 micrograms STX equivalents/100 g",
+        "D": "800 micrograms STX equivalents/100 g"
+      }
+    },
+    {
+      "id": "U6-Q042",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Amnesic shellfish poisoning (ASP) is associated with which organism group?",
+      "options": {
+        "A": "Dinoflagellates only",
+        "B": "Diatoms, especially Pseudo-nitzschia",
+        "C": "Cyanobacteria only",
+        "D": "Marine bacteria in pufferfish"
+      }
+    },
+    {
+      "id": "U6-Q043",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "three_statement_count_based",
+      "question": "For marine biotoxins, consider:\n(i) PSP is associated with saxitoxin.\n(ii) ASP is associated with domoic acid from Pseudo-nitzschia diatoms.\n(iii) DSP toxins such as okadaic acid inhibit PP2A/PP1.",
+      "options": {
+        "C": "All 3",
+        "A": "Only 1",
+        "B": "Only 2",
+        "D": "None"
+      }
+    },
+    {
+      "id": "U6-Q044",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Diarrhetic shellfish poisoning is caused mainly by okadaic acid and dinophysistoxins, which inhibit:",
+      "options": {
+        "A": "Ferrochelatase",
+        "B": "Cytochrome c oxidase",
+        "C": "Acetylcholinesterase",
+        "D": "Protein phosphatases PP2A and PP1"
+      }
+    },
+    {
+      "id": "U6-Q045",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which clinical picture best fits diarrhetic shellfish poisoning?",
+      "options": {
+        "A": "Profuse diarrhoea, nausea, vomiting and abdominal pain",
+        "B": "Rapid ascending paralysis",
+        "C": "Spastic paraparesis developing over months",
+        "D": "Haemolytic anaemia after faba-bean intake"
+      }
+    },
+    {
+      "id": "U6-Q046",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Neurotoxic shellfish poisoning (NSP) is associated with brevetoxins produced by:",
+      "options": {
+        "A": "Alexandrium",
+        "B": "Karenia brevis",
+        "C": "Pseudo-nitzschia",
+        "D": "Dinophysis"
+      }
+    },
+    {
+      "id": "U6-Q047",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Brevetoxins act on voltage-gated sodium channels by:",
+      "options": {
+        "A": "Blocking site 1 and preventing sodium entry",
+        "B": "Inhibiting acetylcholinesterase irreversibly",
+        "C": "Binding site 5 and promoting persistent channel opening",
+        "D": "Blocking calcium channels at the neuromuscular junction"
+      }
+    },
+    {
+      "id": "U6-Q048",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which pair of toxins blocks site 1 of voltage-gated sodium channels?",
+      "options": {
+        "A": "Brevetoxin and ciguatoxin",
+        "B": "Histamine and tetrodotoxin",
+        "C": "Okadaic acid and domoic acid",
+        "D": "Saxitoxin and tetrodotoxin"
+      }
+    },
+    {
+      "id": "U6-Q049",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Tetrodotoxin in pufferfish is associated in the handout with production by:",
+      "options": {
+        "A": "Bacteria associated with the animal",
+        "B": "Dinoflagellates in the fish liver",
+        "C": "Diatoms in the fish scales",
+        "D": "Moulds growing on stored fish"
+      }
+    },
+    {
+      "id": "U6-Q050",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Ciguatoxin is most strongly associated with:",
+      "options": {
+        "A": "Canned vegetables stored in acidic brine",
+        "B": "Reef fish and food-chain transfer from benthic dinoflagellates",
+        "C": "Faba beans containing vicine",
+        "D": "Milk contaminated with aflatoxin M1"
+      }
+    },
+    {
+      "id": "U6-Q051",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Scombroid poisoning is best described as:",
+      "options": {
+        "A": "An IgE-mediated fish allergy",
+        "B": "A viral infection acquired from raw fish",
+        "C": "Histamine intoxication from bacterial decarboxylation of histidine in fish",
+        "D": "A shellfish toxin produced by diatoms"
+      }
+    },
+    {
+      "id": "U6-Q052",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which measure is the key preventive control for scombroid poisoning?",
+      "options": {
+        "A": "Cooking fish thoroughly after prolonged room-temperature storage",
+        "B": "Freezing only after histamine has formed",
+        "C": "Adding extra salt immediately before serving",
+        "D": "Rapid chilling of fish below 4°C after catch"
+      }
+    },
+    {
+      "id": "U6-Q053",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Marine biotoxins",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about histamine in fish is correct according to the handout's comparison?",
+      "options": {
+        "A": "It is heat-stable and can persist after cooking or canning",
+        "B": "It is reliably destroyed by ordinary cooking",
+        "C": "It is produced only by dinoflagellates",
+        "D": "It is an allergen that affects only sensitised individuals"
+      }
+    },
+    {
+      "id": "U6-Q054",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Lead causes anaemia principally by inhibiting:",
+      "options": {
+        "A": "Cytochrome c oxidase and rhodanese",
+        "B": "ALAD and ferrochelatase in haem synthesis",
+        "C": "PP2A and PP1",
+        "D": "Thyroid peroxidase and iodide symporter"
+      }
+    },
+    {
+      "id": "U6-Q055",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which disease is classically associated with chronic cadmium exposure through contaminated rice in Japan?",
+      "options": {
+        "A": "Minamata disease",
+        "B": "Blackfoot disease",
+        "C": "Itai-itai disease",
+        "D": "Epidemic dropsy"
+      }
+    },
+    {
+      "id": "U6-Q056",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "three_statement_count_based",
+      "question": "Consider the following heavy-metal disease pairings:\n(i) Itai-itai disease—cadmium.\n(ii) Minamata disease—methylmercury.\n(iii) Blackfoot disease—arsenic exposure.",
+      "options": {
+        "D": "All 3",
+        "A": "Only 1",
+        "B": "Only 2",
+        "C": "None"
+      }
+    },
+    {
+      "id": "U6-Q057",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Minamata disease is caused by exposure to:",
+      "options": {
+        "A": "Methylmercury",
+        "B": "Inorganic tin",
+        "C": "Lead chromate",
+        "D": "Cadmium oxide"
+      }
+    },
+    {
+      "id": "U6-Q058",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Why are large predatory fish important in methylmercury exposure?",
+      "options": {
+        "A": "They convert all mercury into harmless elemental mercury",
+        "B": "Methylmercury biomagnifies through aquatic food chains",
+        "C": "They excrete methylmercury faster than small fish",
+        "D": "Methylmercury is produced only after cooking"
+      }
+    },
+    {
+      "id": "U6-Q059",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which clinical feature is characteristic of adult methylmercury neurotoxicity (Hunter–Russell pattern)?",
+      "options": {
+        "A": "Bilateral pitting oedema with glaucoma",
+        "B": "Heinz bodies and bite cells",
+        "C": "Visual-field constriction with paraesthesia and ataxia",
+        "D": "Rice-water diarrhoea and garlic odour"
+      }
+    },
+    {
+      "id": "U6-Q060",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement best distinguishes inorganic from methylmercury exposure in food?",
+      "options": {
+        "A": "All mercury species have identical toxicokinetics",
+        "B": "Inorganic mercury is always more bioavailable in fish muscle",
+        "C": "Methylmercury is destroyed by cooking",
+        "D": "Methylmercury is the major concern in fish because of efficient absorption and biomagnification"
+      }
+    },
+    {
+      "id": "U6-Q061",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Inorganic arsenic in flooded rice paddies is taken up in part because arsenite uses transporters normally involved in uptake of:",
+      "options": {
+        "A": "Silicon",
+        "B": "Calcium",
+        "C": "Sodium",
+        "D": "Iodine"
+      }
+    },
+    {
+      "id": "U6-Q062",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Trivalent arsenic (arsenite) disrupts metabolism mainly by binding:",
+      "options": {
+        "A": "Haem iron in haemoglobin only",
+        "B": "Vicinal sulphydryl groups in enzyme complexes",
+        "C": "DNA phosphate groups exclusively",
+        "D": "Iodide transport proteins"
+      }
+    },
+    {
+      "id": "U6-Q063",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Chronic arsenicosis is classically associated with:",
+      "options": {
+        "A": "Heinz bodies and haemoglobinuria",
+        "B": "Spastic paraparesis only",
+        "C": "Raindrop pigmentation and palmoplantar hyperkeratosis",
+        "D": "Temperature reversal sensation"
+      }
+    },
+    {
+      "id": "U6-Q064",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The handout identifies which region as a major arsenic-affected groundwater belt in India?",
+      "options": {
+        "A": "Only the Deccan volcanic plateau",
+        "B": "Only the Thar Desert",
+        "C": "Only the Western Ghats",
+        "D": "Ganga–Brahmaputra–Meghna delta and adjoining eastern states"
+      }
+    },
+    {
+      "id": "U6-Q065",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why can acidic canned foods promote tin migration from tinplate?",
+      "options": {
+        "A": "Acidity accelerates dissolution of the tin coating",
+        "B": "Acidity converts tin into methylmercury",
+        "C": "Acidity destroys the can's steel layer instantly",
+        "D": "Acidity prevents electrochemical reactions"
+      }
+    },
+    {
+      "id": "U6-Q066",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which factor is identified in the handout as an especially important accelerator of detinning?",
+      "options": {
+        "A": "Dietary fibre",
+        "B": "Nitrate in the food",
+        "C": "Ascorbic acid in all cases",
+        "D": "Low storage humidity outside the can"
+      }
+    },
+    {
+      "id": "U6-Q067",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The representative statutory ceiling for tin in canned foods given in the handout is:",
+      "options": {
+        "A": "25 mg/kg",
+        "B": "100 mg/kg",
+        "C": "250 mg/kg",
+        "D": "1,000 mg/kg"
+      }
+    },
+    {
+      "id": "U6-Q068",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Heavy metals",
+      "difficulty": "Hard",
+      "question_type": "three_statement_count_based",
+      "question": "For ADI and MRL, consider:\n(i) ADI is derived by dividing NOAEL by an uncertainty factor.\n(ii) MRL is a commodity-specific legal residue concentration.\n(iii) ADI and MRL are interchangeable expressions for the same value.",
+      "options": {
+        "D": "Only 2",
+        "A": "Only 1",
+        "B": "All 3",
+        "C": "None"
+      }
+    },
+    {
+      "id": "U6-Q069",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Toxicological parameters",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "NOAEL refers to the:",
+      "options": {
+        "A": "Highest tested dose at which no observed adverse effect is identified",
+        "B": "Lowest dose that always causes death",
+        "C": "Maximum residue permitted in a commodity",
+        "D": "Daily intake that causes acute poisoning"
+      }
+    },
+    {
+      "id": "U6-Q070",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Toxicological parameters",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "If the NOAEL is 2.5 mg/kg body weight/day and the uncertainty factor is 100, the ADI is:",
+      "options": {
+        "A": "250 mg/kg body weight/day",
+        "B": "0.025 mg/kg body weight/day",
+        "C": "0.25 mg/kg body weight/day",
+        "D": "2.5 mg/kg body weight/day"
+      }
+    },
+    {
+      "id": "U6-Q071",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Toxicological parameters",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The conventional 100-fold safety factor is commonly conceptualised as:",
+      "options": {
+        "A": "100-fold interspecies only",
+        "B": "5-fold animal × 20-fold child",
+        "C": "10-fold interspecies × 10-fold intraspecies",
+        "D": "2-fold acute × 50-fold chronic"
+      }
+    },
+    {
+      "id": "U6-Q072",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Toxicological parameters",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "A pesticide MRL is best understood as:",
+      "options": {
+        "A": "A universal threshold below which no toxic effect is possible",
+        "B": "A dose that produces cancer in half the population",
+        "C": "The same value as the ADI expressed in mg/kg food",
+        "D": "A commodity-specific legal residue limit derived with reference to good agricultural practice and dietary exposure assessment"
+      }
+    },
+    {
+      "id": "U6-Q073",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Toxicological parameters",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly distinguishes ADI from MRL?",
+      "options": {
+        "A": "ADI is a health-based acceptable daily exposure estimate; MRL is a legal residue concentration for a specified food/pesticide combination",
+        "B": "ADI is a food concentration limit; MRL is a body-weight-normalised daily intake",
+        "C": "Both are always identical numerically",
+        "D": "MRL is calculated by multiplying NOAEL by 100"
+      }
+    },
+    {
+      "id": "U6-Q074",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Organochlorine pesticides are characterised by:",
+      "options": {
+        "A": "Rapid hydrolysis and no environmental persistence",
+        "B": "High persistence, lipophilicity and bioaccumulation",
+        "C": "Exclusive inhibition of PP2A",
+        "D": "Formation only during frying"
+      }
+    },
+    {
+      "id": "U6-Q075",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "DDT produces neurotoxicity mainly by:",
+      "options": {
+        "A": "Chelating calcium in the intestine",
+        "B": "Blocking cytochrome c oxidase irreversibly",
+        "C": "Holding voltage-gated sodium channels open",
+        "D": "Inhibiting thyroid peroxidase"
+      }
+    },
+    {
+      "id": "U6-Q076",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Organophosphate insecticides inhibit acetylcholinesterase through:",
+      "options": {
+        "A": "Reversible carbamylation followed by spontaneous hydrolysis",
+        "B": "Binding to haem iron",
+        "C": "Competitive inhibition of the sodium–iodide symporter",
+        "D": "Phosphorylation of the active-site serine, with possible ageing"
+      }
+    },
+    {
+      "id": "U6-Q077",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which clinical combination is most consistent with acute organophosphate poisoning?",
+      "options": {
+        "A": "Miosis, bronchorrhoea, salivation, fasciculations and weakness",
+        "B": "Dry skin, mydriasis and urinary retention only",
+        "C": "Spastic paraparesis with preserved sensation",
+        "D": "Pitting oedema and glaucoma"
+      }
+    },
+    {
+      "id": "U6-Q078",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Pralidoxime (2-PAM) is most relevant in organophosphate poisoning when given:",
+      "options": {
+        "A": "After the enzyme has fully aged",
+        "B": "Before ageing prevents effective reactivation",
+        "C": "Only after all symptoms have resolved",
+        "D": "To reverse histamine already formed in fish"
+      }
+    },
+    {
+      "id": "U6-Q079",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Carbamate insecticides differ from organophosphates because carbamylated acetylcholinesterase generally:",
+      "options": {
+        "A": "Undergoes irreversible ageing",
+        "B": "Cannot bind acetylcholine",
+        "C": "Recovers spontaneously as the carbamyl-enzyme bond hydrolyses",
+        "D": "Is permanently destroyed by cooking"
+      }
+    },
+    {
+      "id": "U6-Q080",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which pesticide class prolongs the open state of voltage-gated sodium channels and can cause paraesthesia?",
+      "options": {
+        "A": "Neonicotinoids",
+        "B": "Triazine herbicides",
+        "C": "Benzimidazole fungicides",
+        "D": "Synthetic pyrethroids"
+      }
+    },
+    {
+      "id": "U6-Q081",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Pesticide residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The colour coding of pesticide toxicity labels under the Insecticides Rules, as summarised in the handout, is:",
+      "options": {
+        "A": "Red—extremely toxic; yellow—highly toxic; blue—moderately toxic; green—slightly toxic",
+        "B": "Green—extremely toxic; red—slightly toxic; blue—highly toxic; yellow—moderately toxic",
+        "C": "Blue—extremely toxic; green—highly toxic; red—moderately toxic; yellow—slightly toxic",
+        "D": "Yellow—extremely toxic; blue—slightly toxic; green—moderately toxic; red—highly toxic"
+      }
+    },
+    {
+      "id": "U6-Q082",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Veterinary residues",
+      "difficulty": "Hard",
+      "question_type": "three_statement_count_based",
+      "question": "For pesticide poisoning, consider:\n(i) Organophosphates phosphorylate acetylcholinesterase.\n(ii) Carbamates reversibly carbamylate acetylcholinesterase.\n(iii) Pralidoxime is routinely essential for every carbamate poisoning.",
+      "options": {
+        "B": "Only 2",
+        "A": "Only 1",
+        "C": "All 3",
+        "D": "None"
+      }
+    },
+    {
+      "id": "U6-Q083",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Veterinary residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which veterinary drug is identified in the handout as prohibited with zero tolerance because of aplastic anaemia risk?",
+      "options": {
+        "A": "Penicillin",
+        "B": "Oxytetracycline",
+        "C": "Chloramphenicol",
+        "D": "Sulphamethazine"
+      }
+    },
+    {
+      "id": "U6-Q084",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Veterinary residues",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A common screening approach for antibiotic residues in milk includes:",
+      "options": {
+        "A": "Nitric acid colour test",
+        "B": "Haugh unit measurement",
+        "C": "Mouse bioassay for saxitoxin",
+        "D": "Microbial inhibition tests such as Delvotest or Charm"
+      }
+    },
+    {
+      "id": "U6-Q085",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Veterinary residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The handout identifies which technique for confirmatory analysis of many veterinary drug residues?",
+      "options": {
+        "A": "Liquid chromatography–tandem mass spectrometry",
+        "B": "Simple visual inspection",
+        "C": "Hofmann nitric acid test",
+        "D": "Flame photometry only"
+      }
+    },
+    {
+      "id": "U6-Q086",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Veterinary residues",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The public-health concern arising from sub-therapeutic antibiotic use in animal production includes:",
+      "options": {
+        "A": "Conversion of all bacteria into viruses",
+        "B": "Selection and enrichment of antimicrobial-resistant bacteria",
+        "C": "Elimination of plasmid transfer",
+        "D": "Prevention of all foodborne infections"
+      }
+    },
+    {
+      "id": "U6-Q087",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Polycyclic aromatic hydrocarbons (PAHs) in grilled foods are mainly formed through:",
+      "options": {
+        "A": "Enzymatic hydrolysis of phytate",
+        "B": "Cold storage of potatoes",
+        "C": "Incomplete combustion and pyrolysis of organic matter",
+        "D": "Bacterial decarboxylation of histidine"
+      }
+    },
+    {
+      "id": "U6-Q088",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Benzo[a]pyrene is important in PAH analysis because it is:",
+      "options": {
+        "A": "A natural cyanogenic glycoside",
+        "B": "The precursor of domoic acid",
+        "C": "A veterinary antibiotic",
+        "D": "A marker compound for PAH contamination"
+      }
+    },
+    {
+      "id": "U6-Q089",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "The ultimate carcinogenic metabolite of benzo[a]pyrene described in the handout is:",
+      "options": {
+        "A": "BPDE (benzo[a]pyrene-7,8-dihydrodiol-9,10-epoxide)",
+        "B": "Glycidamide",
+        "C": "Vinyl carbamate",
+        "D": "Sanguinarine"
+      }
+    },
+    {
+      "id": "U6-Q090",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which practice helps reduce PAH formation during grilling or smoking?",
+      "options": {
+        "A": "Allowing fat to drip directly onto open flames",
+        "B": "Using indirect smoking and keeping food away from direct flames",
+        "C": "Maximising charring for flavour",
+        "D": "Increasing smoking temperature and duration"
+      }
+    },
+    {
+      "id": "U6-Q091",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Acrylamide formation in starchy foods is favoured by the reaction between:",
+      "options": {
+        "A": "Vicine and convicine",
+        "B": "Histidine and histamine",
+        "C": "Free asparagine and reducing sugars",
+        "D": "Urea and ethanol"
+      }
+    },
+    {
+      "id": "U6-Q092",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Moderate",
+      "question_type": "three_statement_count_based",
+      "question": "For process-induced contaminants, consider:\n(i) PAHs can form during incomplete combustion and pyrolysis.\n(ii) Acrylamide formation involves free asparagine and reducing sugars under high-temperature, low-moisture conditions.\n(iii) Ethyl carbamate can form from urea and ethanol.",
+      "options": {
+        "D": "All 3",
+        "A": "Only 1",
+        "B": "Only 2",
+        "C": "None"
+      }
+    },
+    {
+      "id": "U6-Q093",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Acrylamide is metabolically converted by CYP2E1 to:",
+      "options": {
+        "A": "Glycidamide",
+        "B": "BPDE",
+        "C": "Domoic acid",
+        "D": "Thiocyanate"
+      }
+    },
+    {
+      "id": "U6-Q094",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Why can storage of potatoes at very low temperatures increase acrylamide potential after frying?",
+      "options": {
+        "A": "Cold storage converts all starch to protein",
+        "B": "Cold sweetening increases reducing sugars",
+        "C": "Low temperature creates histamine",
+        "D": "Cold storage increases linamarin synthesis"
+      }
+    },
+    {
+      "id": "U6-Q095",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Ethyl carbamate (urethane) in fermented foods and beverages can form through reaction of:",
+      "options": {
+        "A": "Linamarin and linamarase",
+        "B": "Asparagine and glucose",
+        "C": "Urea and ethanol",
+        "D": "Sanguinarine and nitric acid"
+      }
+    },
+    {
+      "id": "U6-Q096",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Process contaminants",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which control can reduce ethyl carbamate formation in wine or sake?",
+      "options": {
+        "A": "Add histidine decarboxylase",
+        "B": "Increase storage temperature",
+        "C": "Retain stone-fruit pits during mashing",
+        "D": "Use low-urea yeast strains or acid urease"
+      }
+    },
+    {
+      "id": "U6-Q097",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Analytical methods",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which analytical technique is commonly used for heavy-metal determination in food?",
+      "options": {
+        "A": "Atomic absorption spectrometry or ICP–MS",
+        "B": "Haugh unit only",
+        "C": "Paper chromatography under UV only",
+        "D": "Microbial inhibition assay"
+      }
+    },
+    {
+      "id": "U6-Q098",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Analytical methods",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "QuEChERS is particularly associated with extraction and clean-up of:",
+      "options": {
+        "A": "Shellfish saxitoxin only",
+        "B": "Pesticide residues",
+        "C": "Potato glycoalkaloids only",
+        "D": "Haemoglobin in blood"
+      }
+    },
+    {
+      "id": "U6-Q099",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Analytical methods",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which instrument pairing is most appropriate for confirmatory analysis of many pesticide residues?",
+      "options": {
+        "A": "Haugh unit and penetrometer",
+        "B": "pH meter and refractometer only",
+        "C": "GC–MS/MS or LC–MS/MS",
+        "D": "Polarimeter only"
+      }
+    },
+    {
+      "id": "U6-Q100",
+      "unit": "Unit 6: Food Toxicology, Inherent Toxicants, Contaminants, Residues and Heavy Metals",
+      "topic": "Regulatory concepts",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "If a food regulation specifies a commodity-specific heavy-metal limit, which approach is scientifically and legally sound?",
+      "options": {
+        "A": "Apply one universal limit to every food",
+        "B": "Substitute the ADI for the food concentration limit",
+        "C": "Use the highest limit found for any food",
+        "D": "Identify the exact food category and relevant current notified limit"
+      }
+    }
+  ],
+  "answer_key": [
+    {
+      "question_id": "U6-Q001",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q002",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q003",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q004",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q005",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q006",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q007",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q008",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q009",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q010",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q011",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q012",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q013",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q014",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q015",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q016",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q017",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q018",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q019",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q020",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q021",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q022",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q023",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q024",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q025",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q026",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q027",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q028",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q029",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q030",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q031",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q032",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q033",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q034",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q035",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q036",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q037",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q038",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q039",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q040",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q041",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q042",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q043",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q044",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q045",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q046",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q047",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q048",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q049",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q050",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q051",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q052",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q053",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q054",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q055",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q056",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q057",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q058",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q059",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q060",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q061",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q062",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q063",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q064",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q065",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q066",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q067",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q068",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q069",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q070",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q071",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q072",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q073",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q074",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q075",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q076",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q077",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q078",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q079",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q080",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q081",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q082",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q083",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q084",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q085",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q086",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q087",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q088",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q089",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q090",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q091",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q092",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q093",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q094",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q095",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q096",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U6-Q097",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U6-Q098",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U6-Q099",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U6-Q100",
+      "correct_option": "D"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "question_id": "U6-Q001",
+      "correct_option": "A",
+      "explanation": "Lathyrus sativus contains beta-N-oxalyl-L-alpha,beta-diaminopropionic acid (BOAA), also called ODAP. It is a glutamate analogue that produces excitotoxic injury in motor pathways and can cause irreversible spastic paraparesis."
+    },
+    {
+      "question_id": "U6-Q002",
+      "correct_option": "B",
+      "explanation": "The handout identifies BOAA as a structural analogue of glutamate and an agonist at AMPA-type ionotropic glutamate receptors. Sustained sodium and calcium influx contributes to excitotoxicity and motor-neuron injury."
+    },
+    {
+      "question_id": "U6-Q003",
+      "correct_option": "C",
+      "explanation": "Neurolathyrism is a predominantly upper-motor-neuron syndrome. Spastic gait, hypertonia, exaggerated knee and ankle jerks, clonus and extensor plantar responses are typical; sensation and bladder function are usually spared."
+    },
+    {
+      "question_id": "U6-Q004",
+      "correct_option": "D",
+      "explanation": "Statements (i) and (ii) are correct: khesari dal (Lathyrus sativus) contains BOAA/ODAP, which acts as an AMPA-type glutamate receptor agonist. Statement (iii) is incorrect because dry roasting removes little or no ODAP; wet processing followed by discarding the water is required."
+    },
+    {
+      "question_id": "U6-Q005",
+      "correct_option": "A",
+      "explanation": "The handout distinguishes neurolathyrism due to BOAA in Lathyrus sativus from osteolathyrism due to beta-aminopropionitrile in Lathyrus odoratus. The latter interferes with lysyl oxidase and collagen cross-linking."
+    },
+    {
+      "question_id": "U6-Q006",
+      "correct_option": "B",
+      "explanation": "Linamarin is the major cyanogenic glycoside in cassava; lotaustralin is present in smaller amounts. Amygdalin is associated with bitter almonds and stone-fruit kernels, while dhurrin occurs in sorghum."
+    },
+    {
+      "question_id": "U6-Q007",
+      "correct_option": "C",
+      "explanation": "Amygdalin is a cyanogenic glycoside found in bitter almonds and apricot and related kernels. Hydrolysis releases benzaldehyde, hydrogen cyanide and two glucose units."
+    },
+    {
+      "question_id": "U6-Q008",
+      "correct_option": "D",
+      "explanation": "Cyanide binds ferric iron in cytochrome c oxidase, stopping electron transfer to oxygen and oxidative phosphorylation. Oxygen may remain in arterial blood, but tissues cannot utilise it, producing histotoxic hypoxia and lactic acidosis."
+    },
+    {
+      "question_id": "U6-Q009",
+      "correct_option": "A",
+      "explanation": "All three statements are correct. Linamarin is the principal cyanogenic glycoside of cassava, amygdalin occurs in bitter almonds and stone-fruit kernels, and dhurrin occurs in sorghum, especially young shoots."
+    },
+    {
+      "question_id": "U6-Q010",
+      "correct_option": "B",
+      "explanation": "Disruption of the plant tissue compartments permits endogenous linamarase to hydrolyse linamarin and release cyanohydrin/HCN. Boiling intact chunks first can denature the enzyme before adequate hydrolysis occurs."
+    },
+    {
+      "question_id": "U6-Q011",
+      "correct_option": "C",
+      "explanation": "G6PD supplies NADPH through the pentose phosphate pathway in mature red cells. NADPH is required to regenerate reduced glutathione, which protects haemoglobin and the red-cell membrane against oxidant stress from faba-bean metabolites."
+    },
+    {
+      "question_id": "U6-Q012",
+      "correct_option": "D",
+      "explanation": "Vicine and convicine are hydrolysed to divicine and isouramil. These unstable aglycones generate reactive oxygen species and oxidise glutathione, precipitating haemoglobin as Heinz bodies and causing haemolysis in susceptible G6PD-deficient individuals."
+    },
+    {
+      "question_id": "U6-Q013",
+      "correct_option": "A",
+      "explanation": "Favism is not an allergy or cyanide poisoning. It is triggered by oxidant metabolites of faba beans in people with G6PD deficiency; the handout notes that vicine and convicine are heat-stable, so ordinary cooking does not reliably prevent it."
+    },
+    {
+      "question_id": "U6-Q014",
+      "correct_option": "B",
+      "explanation": "Red kidney beans contain the lectin phytohaemagglutinin. The handout reports high haemagglutinating activity in raw beans and notes that even a small number of inadequately cooked beans can cause acute gastrointestinal illness."
+    },
+    {
+      "question_id": "U6-Q015",
+      "correct_option": "C",
+      "explanation": "PHA is a protein denatured by adequate moist heat at boiling temperature. The handout warns that sub-boiling slow-cooker temperatures may increase extractability/activity; dry heat is unreliable."
+    },
+    {
+      "question_id": "U6-Q016",
+      "correct_option": "D",
+      "explanation": "The handout specifically flags heating at about 70–80°C as unsafe because it may increase extractability and measured haemagglutinating activity. Proper vigorous boiling or pressure cooking is the reliable control described."
+    },
+    {
+      "question_id": "U6-Q017",
+      "correct_option": "A",
+      "explanation": "Statements (i) and (ii) are correct. Vicine and convicine are hydrolysed to oxidant aglycones, and G6PD-deficient red cells have limited NADPH-dependent glutathione regeneration. Statement (iii) is false because these glycosides are heat-stable."
+    },
+    {
+      "question_id": "U6-Q018",
+      "correct_option": "B",
+      "explanation": "Inhibition of luminal trypsin reduces feedback that normally limits CCK-releasing signals. Increased CCK chronically stimulates pancreatic acinar cells, increasing digestive-enzyme secretion and, particularly in rodents, causing hypertrophy/hyperplasia."
+    },
+    {
+      "question_id": "U6-Q019",
+      "correct_option": "C",
+      "explanation": "The handout identifies a trypsin inhibitor activity assay using benzoyl-DL-arginine-p-nitroanilide (BAPNA) substrate. Urease activity is an indirect heat-treatment indicator because urease and trypsin inhibitors have similar heat sensitivity."
+    },
+    {
+      "question_id": "U6-Q020",
+      "correct_option": "D",
+      "explanation": "Phytic acid is myo-inositol 1,2,3,4,5,6-hexakis(dihydrogen phosphate), commonly called IP6. Its multiple negatively charged phosphate groups bind mineral cations and reduce their bioavailability."
+    },
+    {
+      "question_id": "U6-Q021",
+      "correct_option": "A",
+      "explanation": "The handout ranks zinc as the most affected mineral, followed by iron, then calcium and magnesium. Phytate forms poorly soluble complexes at intestinal pH, reducing mineral absorption."
+    },
+    {
+      "question_id": "U6-Q022",
+      "correct_option": "B",
+      "explanation": "Germination activates/synthesises plant phytase, while fermentation provides microbial phytase and favourable acidic conditions. Ordinary cooking alone produces relatively little reduction because phytate is heat-stable."
+    },
+    {
+      "question_id": "U6-Q023",
+      "correct_option": "C",
+      "explanation": "The handout gives a phytate-to-zinc molar ratio above 15 as a marker of markedly impaired zinc absorption. This is a nutritional bioavailability indicator, not a direct acute-poisoning threshold."
+    },
+    {
+      "question_id": "U6-Q024",
+      "correct_option": "D",
+      "explanation": "Statements (i) and (ii) are correct. The 200 mg/kg value is for total glycoalkaloids (solanine plus chaconine), not a separate allowance for each. Statement (iii) is false because these compounds are relatively heat-stable and are little changed by ordinary boiling."
+    },
+    {
+      "question_id": "U6-Q025",
+      "correct_option": "A",
+      "explanation": "The handout gives 200 mg/kg fresh tuber as the total glycoalkaloid ceiling for solanine plus chaconine. It is not a separate 200 mg/kg allowance for each compound."
+    },
+    {
+      "question_id": "U6-Q026",
+      "correct_option": "B",
+      "explanation": "Greening reflects chlorophyll formation, but the same light exposure can stimulate glycoalkaloid synthesis. Chlorophyll is not the toxin; green, sprouted, bitter or damaged tubers should be discarded or carefully excluded."
+    },
+    {
+      "question_id": "U6-Q027",
+      "correct_option": "C",
+      "explanation": "The handout notes that glycoalkaloids are relatively heat-stable and are little changed by boiling, baking or microwaving. Peeling and removal of sprouts/eyes reduce exposure, while visibly green or bitter tubers should be discarded."
+    },
+    {
+      "question_id": "U6-Q028",
+      "correct_option": "D",
+      "explanation": "Progoitrin has a 2-hydroxy side chain and can cyclise to goitrin (5-vinyl-oxazolidine-2-thione). Sinigrin instead produces allyl isothiocyanate, associated with mustard pungency."
+    },
+    {
+      "question_id": "U6-Q029",
+      "correct_option": "A",
+      "explanation": "Goitrin and related thiones inhibit thyroid peroxidase, interfering with iodination of tyrosyl residues and coupling reactions. Unlike thiocyanate-mediated inhibition of iodide uptake, this mechanism is not overcome simply by increasing iodine intake."
+    },
+    {
+      "question_id": "U6-Q030",
+      "correct_option": "B",
+      "explanation": "Thiocyanate competes with iodide at the thyroid sodium–iodide symporter. The handout contrasts this with goitrin's inhibition of thyroid peroxidase and notes that adequate iodine can help overcome the uptake competition."
+    },
+    {
+      "question_id": "U6-Q031",
+      "correct_option": "C",
+      "explanation": "Progoitrin is the glucosinolate precursor of goitrin. Sinigrin gives allyl isothiocyanate, so assigning goitrin to sinigrin is a specific exam trap."
+    },
+    {
+      "question_id": "U6-Q032",
+      "correct_option": "D",
+      "explanation": "Colocasia contains insoluble calcium oxalate crystals called raphides. Needle-like crystals irritate and pierce oral mucosa, producing burning, itching and oedema; adequate cooking and acidic ingredients can reduce acridity."
+    },
+    {
+      "question_id": "U6-Q033",
+      "correct_option": "A",
+      "explanation": "All three statements are correct. The nitric acid (Hofmann) test is a screening test with lower sensitivity; paper chromatography is a highly sensitive confirmatory method. Sanguinarine is the key toxic alkaloid in argemone oil."
+    },
+    {
+      "question_id": "U6-Q034",
+      "correct_option": "B",
+      "explanation": "The handout highlights that calcium in spinach is substantially associated with oxalate, lowering its bioavailability. Calcium-rich foods consumed with an oxalate-rich meal can bind oxalate in the intestinal lumen."
+    },
+    {
+      "question_id": "U6-Q035",
+      "correct_option": "C",
+      "explanation": "Argemone mexicana seeds resemble mustard seeds and can contaminate mustard seed lots. Its oil contains sanguinarine and dihydrosanguinarine, which are associated with epidemic dropsy."
+    },
+    {
+      "question_id": "U6-Q036",
+      "correct_option": "D",
+      "explanation": "Argemone oil contains benzophenanthridine alkaloids, especially sanguinarine and its reduced form dihydrosanguinarine. Sanguinarine is associated with vascular endothelial effects and increased capillary permeability."
+    },
+    {
+      "question_id": "U6-Q037",
+      "correct_option": "A",
+      "explanation": "The nitric acid test produces a reddish-brown to orange-red colour in the acid layer and detects approximately 0.25% argemone oil and above. Paper chromatography is the more sensitive confirmatory test."
+    },
+    {
+      "question_id": "U6-Q038",
+      "correct_option": "B",
+      "explanation": "Paper chromatography separates sanguinarine and dihydrosanguinarine from the oil matrix and is described as detecting as low as 0.0001%. The nitric acid test is a less sensitive screening test."
+    },
+    {
+      "question_id": "U6-Q039",
+      "correct_option": "C",
+      "explanation": "PSP is caused by saxitoxin and related analogues, commonly produced by dinoflagellates such as Alexandrium. Filter-feeding shellfish can concentrate the toxin."
+    },
+    {
+      "question_id": "U6-Q040",
+      "correct_option": "D",
+      "explanation": "Saxitoxin plugs the outer pore (site 1) of voltage-gated sodium channels and prevents sodium entry. Nerve conduction fails, causing paraesthesia, weakness and potentially respiratory paralysis."
+    },
+    {
+      "question_id": "U6-Q041",
+      "correct_option": "A",
+      "explanation": "The handout gives 80 micrograms saxitoxin equivalents per 100 g shellfish meat, equivalent to 0.8 mg/kg. It is a high-yield numerical anchor and should be checked against the current applicable notification before regulatory use."
+    },
+    {
+      "question_id": "U6-Q042",
+      "correct_option": "B",
+      "explanation": "Domoic acid, the ASP toxin, is associated with diatoms of the genus Pseudo-nitzschia. The handout contrasts this with PSP, DSP and NSP, which are linked to dinoflagellates."
+    },
+    {
+      "question_id": "U6-Q043",
+      "correct_option": "C",
+      "explanation": "All three statements are correct. Saxitoxin causes PSP, domoic acid from Pseudo-nitzschia diatoms causes ASP, and okadaic acid/dinophysistoxins cause DSP through inhibition of serine/threonine protein phosphatases."
+    },
+    {
+      "question_id": "U6-Q044",
+      "correct_option": "D",
+      "explanation": "Okadaic acid and dinophysistoxins inhibit serine/threonine protein phosphatases, particularly PP2A and also PP1. Hyperphosphorylation disrupts epithelial barrier and transport functions, producing diarrhoea."
+    },
+    {
+      "question_id": "U6-Q045",
+      "correct_option": "A",
+      "explanation": "DSP typically presents with gastrointestinal symptoms, especially profuse diarrhoea, nausea, vomiting and abdominal pain. It is generally self-limiting, unlike the potentially life-threatening respiratory paralysis of PSP."
+    },
+    {
+      "question_id": "U6-Q046",
+      "correct_option": "B",
+      "explanation": "Karenia brevis is the dinoflagellate associated with brevetoxins and NSP. The handout also notes aerosolised toxin in sea spray during blooms as a cause of respiratory irritation."
+    },
+    {
+      "question_id": "U6-Q047",
+      "correct_option": "C",
+      "explanation": "Brevetoxins bind site 5 and shift channel activation while preventing normal inactivation. Persistent sodium influx produces membrane depolarisation and repetitive firing, the opposite functional outcome to site-1 blockers."
+    },
+    {
+      "question_id": "U6-Q048",
+      "correct_option": "D",
+      "explanation": "Saxitoxin and tetrodotoxin block the sodium-channel pore at site 1. Brevetoxin and ciguatoxin bind site 5 and promote channel opening; this distinction is repeatedly flagged in the handout."
+    },
+    {
+      "question_id": "U6-Q049",
+      "correct_option": "A",
+      "explanation": "Tetrodotoxin is associated with bacterial symbionts and accumulation in pufferfish. It blocks voltage-gated sodium channels, similar in mechanism to saxitoxin, but has a different source association."
+    },
+    {
+      "question_id": "U6-Q050",
+      "correct_option": "B",
+      "explanation": "Ciguatoxin enters reef fish through the marine food chain, with benthic dinoflagellates as the original source. It is heat-stable and can cause gastrointestinal and neurological symptoms, including temperature-reversal sensations."
+    },
+    {
+      "question_id": "U6-Q051",
+      "correct_option": "C",
+      "explanation": "Scombroid poisoning results when bacteria convert histidine in susceptible fish to histamine during temperature abuse. It can mimic allergy but is a pseudo-allergic intoxication and can affect non-allergic individuals."
+    },
+    {
+      "question_id": "U6-Q052",
+      "correct_option": "D",
+      "explanation": "Rapid chilling suppresses bacterial growth and histidine decarboxylase activity. Histamine is heat-stable, so cooking, canning or reheating does not reliably remove histamine already formed."
+    },
+    {
+      "question_id": "U6-Q053",
+      "correct_option": "A",
+      "explanation": "Histamine is a heat-stable preformed chemical hazard. It is not reliably removed by cooking or canning and scombroid poisoning is not an IgE-mediated allergy."
+    },
+    {
+      "question_id": "U6-Q054",
+      "correct_option": "B",
+      "explanation": "Lead interferes with haem synthesis by inhibiting delta-aminolevulinic acid dehydratase (ALAD) and ferrochelatase. This can cause anaemia and accumulation of haem precursors despite adequate iron stores."
+    },
+    {
+      "question_id": "U6-Q055",
+      "correct_option": "C",
+      "explanation": "Itai-itai disease occurred in the Jinzu River basin of Toyama, Japan, and was linked to cadmium-contaminated irrigation water and rice. Renal tubular dysfunction and bone demineralisation/osteomalacia were characteristic."
+    },
+    {
+      "question_id": "U6-Q056",
+      "correct_option": "D",
+      "explanation": "All three are correct as the disease–toxicant associations summarised in the handout. Itai-itai is linked to cadmium, Minamata to methylmercury, and blackfoot disease to chronic arsenic exposure in Taiwan."
+    },
+    {
+      "question_id": "U6-Q057",
+      "correct_option": "A",
+      "explanation": "Minamata disease was caused by methylmercury discharged into Minamata Bay and bioaccumulated in fish and shellfish. Methylmercury is neurotoxic and crosses the placenta, making foetal exposure particularly harmful."
+    },
+    {
+      "question_id": "U6-Q058",
+      "correct_option": "B",
+      "explanation": "In aquatic systems, microorganisms can methylate inorganic mercury. Methylmercury accumulates in organisms and biomagnifies up the food chain, so large predatory fish may carry higher concentrations."
+    },
+    {
+      "question_id": "U6-Q059",
+      "correct_option": "C",
+      "explanation": "The handout lists paraesthesia of lips and fingers, constriction of visual fields, cerebellar ataxia, dysarthria, deafness and tremor in adult methylmercury poisoning. Foetal exposure can cause severe developmental neurological injury."
+    },
+    {
+      "question_id": "U6-Q060",
+      "correct_option": "D",
+      "explanation": "Methylmercury binds strongly to proteins such as cysteine-containing compounds and is efficiently absorbed from fish. It crosses the blood–brain and placental barriers and biomagnifies in aquatic food chains."
+    },
+    {
+      "question_id": "U6-Q061",
+      "correct_option": "A",
+      "explanation": "The handout describes rice uptake of arsenite through silicon transporters Lsi1 and Lsi2. Anaerobic paddy conditions favour mobile As(III), and bran/husk tend to contain more arsenic than polished rice."
+    },
+    {
+      "question_id": "U6-Q062",
+      "correct_option": "B",
+      "explanation": "Arsenite binds paired sulphydryl groups, including those in dihydrolipoamide-dependent enzyme complexes such as pyruvate dehydrogenase. This impairs entry of pyruvate into the citric acid cycle and reduces ATP generation."
+    },
+    {
+      "question_id": "U6-Q063",
+      "correct_option": "C",
+      "explanation": "Chronic arsenic exposure can cause pigmentary changes, palmoplantar hyperkeratosis, neuropathy and cancers including skin, lung and bladder cancer. Arsenic-contaminated groundwater is a major public-health exposure route."
+    },
+    {
+      "question_id": "U6-Q064",
+      "correct_option": "D",
+      "explanation": "Arsenic-rich alluvial aquifers affect parts of West Bengal and adjoining areas including Bihar, Uttar Pradesh, Assam and Jharkhand. The handout emphasises shallow tube wells tapping geogenic arsenic-rich aquifers."
+    },
+    {
+      "question_id": "U6-Q065",
+      "correct_option": "A",
+      "explanation": "Acidic foods promote detinning, and nitrate and dissolved oxygen can further accelerate electrochemical dissolution. Internal can lacquering, oxygen exclusion and cool storage are control measures."
+    },
+    {
+      "question_id": "U6-Q066",
+      "correct_option": "B",
+      "explanation": "The handout identifies nitrate as a major accelerator, acting as a cathodic depolariser, alongside acidity and dissolved oxygen. The combination increases dissolution of tin from the can coating."
+    },
+    {
+      "question_id": "U6-Q067",
+      "correct_option": "C",
+      "explanation": "The handout gives 250 mg/kg for canned foods and 150 mg/kg for canned beverages. It notes that inorganic tin is poorly absorbed and primarily causes local gastrointestinal irritation at high concentrations."
+    },
+    {
+      "question_id": "U6-Q068",
+      "correct_option": "D",
+      "explanation": "Statements (i) and (ii) are correct. ADI is a health-based daily intake estimate derived from NOAEL divided by an uncertainty factor; MRL is a pesticide–commodity residue limit. Statement (iii) is false because they measure different things."
+    },
+    {
+      "question_id": "U6-Q069",
+      "correct_option": "A",
+      "explanation": "NOAEL is the highest tested exposure level at which no adverse effect is observed under the conditions of the study. It is used as a starting point in deriving health-based guidance values such as ADI."
+    },
+    {
+      "question_id": "U6-Q070",
+      "correct_option": "B",
+      "explanation": "ADI is derived by dividing the NOAEL by the uncertainty/safety factor: 2.5 ÷ 100 = 0.025 mg/kg body weight/day. Multiplying by 100 is the classic reversal trap."
+    },
+    {
+      "question_id": "U6-Q071",
+      "correct_option": "C",
+      "explanation": "A conventional uncertainty factor of 100 is often represented as 10 for extrapolation from animals to humans multiplied by 10 for variability among humans. It is an uncertainty factor, not a multiplier applied to the NOAEL."
+    },
+    {
+      "question_id": "U6-Q072",
+      "correct_option": "D",
+      "explanation": "MRLs are pesticide–commodity-specific trading/compliance limits, generally based on supervised residue trials under good agricultural practice and checked against dietary exposure. ADI is a health-based estimate of daily intake per body weight, so the two are not interchangeable."
+    },
+    {
+      "question_id": "U6-Q073",
+      "correct_option": "A",
+      "explanation": "ADI is expressed as an amount per kilogram body weight per day and is intended for lifetime daily exposure. MRL is expressed as residue concentration in a particular commodity and reflects authorised use and residue data."
+    },
+    {
+      "question_id": "U6-Q074",
+      "correct_option": "B",
+      "explanation": "Organochlorines are chemically stable and lipophilic, so they persist and accumulate in adipose tissue and may biomagnify. Their residues can enter dairy fat and breast milk."
+    },
+    {
+      "question_id": "U6-Q075",
+      "correct_option": "C",
+      "explanation": "The handout describes DDT as prolonging the open state of voltage-gated sodium channels, causing repetitive neuronal firing, tremor and convulsions. Cyclodienes and lindane are contrasted as GABA-A chloride-channel antagonists."
+    },
+    {
+      "question_id": "U6-Q076",
+      "correct_option": "D",
+      "explanation": "Organophosphates (often bioactivated from P=S to P=O oxons) phosphorylate the serine hydroxyl at the esteratic site of acetylcholinesterase. The enzyme may undergo ageing, making reactivation more difficult."
+    },
+    {
+      "question_id": "U6-Q077",
+      "correct_option": "A",
+      "explanation": "Acetylcholinesterase inhibition causes acetylcholine accumulation at muscarinic, nicotinic and central synapses. The resulting syndrome includes secretions, bronchospasm, miosis, bradycardia, fasciculations, weakness and potentially respiratory failure."
+    },
+    {
+      "question_id": "U6-Q078",
+      "correct_option": "B",
+      "explanation": "Pralidoxime can reactivate phosphorylated acetylcholinesterase if administered before the enzyme–organophosphate complex ages. Atropine treats muscarinic manifestations; pralidoxime is not routinely indicated for carbamate poisoning."
+    },
+    {
+      "question_id": "U6-Q079",
+      "correct_option": "C",
+      "explanation": "Carbamates reversibly carbamylate acetylcholinesterase and the enzyme generally recovers spontaneously within minutes to hours. This is why pralidoxime is not generally recommended as a routine treatment for carbamate poisoning."
+    },
+    {
+      "question_id": "U6-Q080",
+      "correct_option": "D",
+      "explanation": "Synthetic pyrethroids act on voltage-gated sodium channels. In humans, the handout identifies paraesthesia of exposed skin as a common effect, while severe exposure may cause tremor or seizures."
+    },
+    {
+      "question_id": "U6-Q081",
+      "correct_option": "A",
+      "explanation": "The handout lists red for extremely toxic, yellow for highly toxic, blue for moderately toxic and green for slightly toxic. Questions often test the order and exact pairing."
+    },
+    {
+      "question_id": "U6-Q082",
+      "correct_option": "B",
+      "explanation": "Statements (i) and (ii) are correct. Organophosphates can cause enzyme ageing after phosphorylation, whereas carbamate inhibition is generally reversible. Statement (iii) is false; pralidoxime is not routinely recommended for carbamate poisoning."
+    },
+    {
+      "question_id": "U6-Q083",
+      "correct_option": "C",
+      "explanation": "The handout identifies chloramphenicol as a prohibited residue, not a substance with an ordinary positive MRL. Its association with aplastic anaemia is the key reason for the zero-tolerance exam distinction."
+    },
+    {
+      "question_id": "U6-Q084",
+      "correct_option": "D",
+      "explanation": "Microbial inhibition tests such as Delvotest and Charm can screen for antimicrobial residues. Positive screens require appropriate confirmatory analysis, for example LC–MS/MS."
+    },
+    {
+      "question_id": "U6-Q085",
+      "correct_option": "A",
+      "explanation": "LC–MS/MS is a powerful confirmatory technique for veterinary drug residues because it combines chromatographic separation with selective mass transitions. Screening and confirmation should not be confused."
+    },
+    {
+      "question_id": "U6-Q086",
+      "correct_option": "B",
+      "explanation": "Antibiotic exposure creates selection pressure that favours resistant organisms. Resistance can spread through mutation or acquisition and transfer of resistance genes, including plasmid-borne genes."
+    },
+    {
+      "question_id": "U6-Q087",
+      "correct_option": "C",
+      "explanation": "PAHs form during incomplete combustion and pyrolysis, particularly when fat drips onto flames and smoke deposits on food. Direct charring and high-temperature smoking can increase contamination."
+    },
+    {
+      "question_id": "U6-Q088",
+      "correct_option": "D",
+      "explanation": "Benzo[a]pyrene is a five-ring PAH used as a marker compound. The handout also describes the PAH4 group used in some regulatory frameworks."
+    },
+    {
+      "question_id": "U6-Q089",
+      "correct_option": "A",
+      "explanation": "Benzo[a]pyrene is metabolically activated through cytochrome P450 and epoxide hydrolase pathways to BPDE. BPDE is the ultimate carcinogenic epoxide that can form DNA adducts."
+    },
+    {
+      "question_id": "U6-Q090",
+      "correct_option": "B",
+      "explanation": "Indirect smoking, lower temperatures, filtered/liquid smoke and avoiding fat dripping onto flames reduce PAH formation and deposition. Removing charred portions and limiting direct flame contact are additional mitigation measures."
+    },
+    {
+      "question_id": "U6-Q091",
+      "correct_option": "C",
+      "explanation": "Acrylamide forms mainly through Maillard chemistry involving free asparagine and reducing sugars in low-moisture foods heated above roughly 120°C. Potato chips, fries, toasted bread and roasted coffee are examples."
+    },
+    {
+      "question_id": "U6-Q092",
+      "correct_option": "D",
+      "explanation": "All three are correct. PAHs are associated with combustion/pyrolysis and smoke deposition; acrylamide forms mainly from asparagine and reducing sugars during high-temperature low-moisture processing; ethyl carbamate can form when urea reacts with ethanol."
+    },
+    {
+      "question_id": "U6-Q093",
+      "correct_option": "A",
+      "explanation": "Cytochrome P450 2E1 metabolises acrylamide to glycidamide, an epoxide that can form DNA adducts. Acrylamide itself is also associated with peripheral neurotoxicity in occupational exposure."
+    },
+    {
+      "question_id": "U6-Q094",
+      "correct_option": "B",
+      "explanation": "The handout notes that cold storage can cause cold sweetening, increasing reducing sugars in potatoes. More reducing sugar can react with free asparagine during frying and increase acrylamide formation."
+    },
+    {
+      "question_id": "U6-Q095",
+      "correct_option": "C",
+      "explanation": "One major route described is urea released during arginine metabolism reacting with ethanol to form ethyl carbamate. Heat and storage time can accelerate formation; citrulline may provide another precursor in some fermentations."
+    },
+    {
+      "question_id": "U6-Q096",
+      "correct_option": "D",
+      "explanation": "The handout lists low-urea yeast strains and acid urease addition as mitigation strategies. Limiting precursor formation and controlling processing/storage conditions can reduce ethyl carbamate."
+    },
+    {
+      "question_id": "U6-Q097",
+      "correct_option": "A",
+      "explanation": "The handout lists atomic absorption spectrometry and inductively coupled plasma mass spectrometry for metals. These instrumental methods support quantitative determination after suitable sample digestion and quality control."
+    },
+    {
+      "question_id": "U6-Q098",
+      "correct_option": "B",
+      "explanation": "QuEChERS is a widely used sample-preparation approach for pesticide residue analysis. The handout links it to subsequent GC- or LC-based instrumental analysis, including tandem mass spectrometry."
+    },
+    {
+      "question_id": "U6-Q099",
+      "correct_option": "C",
+      "explanation": "Pesticides vary in volatility and polarity, so GC–MS/MS and LC–MS/MS are both used depending on the analyte. The handout emphasises screening followed by confirmatory analysis and comparison with current commodity-specific limits."
+    },
+    {
+      "question_id": "U6-Q100",
+      "correct_option": "D",
+      "explanation": "The handout repeatedly warns that heavy-metal limits are commodity-specific. The correct legal comparison requires identifying the food category, metal species where relevant, units and latest applicable notification."
+    }
+  ]
+}

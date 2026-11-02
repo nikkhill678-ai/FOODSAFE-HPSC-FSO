@@ -1,0 +1,3009 @@
+{
+  "title": "HPSC Food Safety Officer — FSN 421 Unit 1: 100-Question Practice Bank",
+  "version": "1.0",
+  "language": "English",
+  "format": "Four-option single-best-answer MCQ practice bank",
+  "source_document": "01_Unit1_Food_Safety_Law_HACCP(1).docx",
+  "coverage": [
+    "Module 1: Food Hazards & Foodborne Illness",
+    "Module 2: Food Additives & Plant-Origin Toxicants",
+    "Module 3: Microbiological Principles & Spoilage",
+    "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+    "Module 5: Packaging & Labelling Statutory Standards",
+    "Module 6: The HACCP System & Quality Assurance"
+  ],
+  "exam_alignment_note": "This is an MCQ practice bank based on the uploaded study manual. It is not an exact reproduction or prediction of an HPSC paper. The current HPSC scheme distinguishes the screening MCQ stage from the descriptive Subject Knowledge Test; use this bank for objective practice and convert the themes into written answers for the descriptive stage.",
+  "source_and_currency_note": "Question content is primarily grounded in the uploaded study manual. The manual includes older labelling references; the current FSSAI Labelling and Display Regulations, 2020 and subsequent amendments should be consulted for live regulatory compliance.",
+  "question_design": {
+    "total_questions": 100,
+    "options_per_question": 4,
+    "difficulty_distribution": {
+      "Easy": 39,
+      "Moderate": 52,
+      "Hard": 9
+    },
+    "question_type_distribution": {
+      "Definition": 10,
+      "Conceptual distinction": 3,
+      "Classification": 7,
+      "Conceptual": 9,
+      "Recall": 12,
+      "Application": 5,
+      "Pairing": 9,
+      "Scenario": 4,
+      "Numeric fact": 4,
+      "Process reasoning": 1,
+      "Trap": 1,
+      "Mechanism": 6,
+      "Function": 5,
+      "Matching": 2,
+      "Numeric/conceptual": 1,
+      "Comparison": 4,
+      "Reaction": 1,
+      "Regulatory fact": 3,
+      "Detection pairing": 1,
+      "Commodity matching": 1,
+      "Negative selection": 1,
+      "Regulatory interpretation": 1,
+      "Units": 1,
+      "Interpretation": 1,
+      "Numeric/regulatory": 1,
+      "Current-law awareness": 1,
+      "History": 2,
+      "Scope distinction": 1,
+      "Principle identification": 2
+    },
+    "module_distribution": {
+      "Module 1: Food Hazards & Foodborne Illness": 17,
+      "Module 2: Food Additives & Plant-Origin Toxicants": 17,
+      "Module 3: Microbiological Principles & Spoilage": 16,
+      "Module 4: Post-Harvest Adulteration & Chemical Treatments": 16,
+      "Module 5: Packaging & Labelling Statutory Standards": 17,
+      "Module 6: HACCP System & Quality Assurance": 17
+    },
+    "answer_position_distribution": {
+      "A": 25,
+      "B": 25,
+      "C": 25,
+      "D": 25
+    }
+  },
+  "research_sources": [
+    {
+      "source": "HPSC FSO 2026 scheme and pattern summary",
+      "url": "https://prayasexam.in/syllabus/hpsc-food-safety-officer-2026-syllabus-exam-pattern/",
+      "use": "Cross-check of screening MCQ versus descriptive Subject Knowledge Test; verify against the official HPSC notice."
+    },
+    {
+      "source": "FSSAI — Hygiene Requirements / Schedule 4",
+      "url": "https://fssai.gov.in/inspection/hygiene-requirements",
+      "use": "Official overview of FSMS, HACCP, GMP, GHP and Schedule 4."
+    },
+    {
+      "source": "FSSAI — Product Standards and Regulations",
+      "url": "https://fssai.gov.in/standards/product-standards",
+      "use": "Official index of product standards, additives, contaminants and packaging/labelling instruments."
+    },
+    {
+      "source": "FSSAI — Labelling and Display Regulations and amendments",
+      "url": "https://fssai.gov.in/food-law/regulations/amendments/labelling-display",
+      "use": "Current regulatory reference; uploaded manual cites older 2011 packaging/labelling rules in parts."
+    }
+  ],
+  "questions": [
+    {
+      "id": "FSN421-Q001",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Codex hazard definition",
+      "difficulty": "Easy",
+      "question_type": "Definition",
+      "question": "According to the Codex definition reproduced in the study manual, a food hazard is best described as:",
+      "options": {
+        "A": "A biological, chemical or physical agent in food, or a condition of food, with the potential to cause an adverse health effect",
+        "B": "Any defect that reduces the commercial value of food",
+        "C": "Any organism that causes visible spoilage",
+        "D": "Only a chemical contaminant present above a legal limit"
+      }
+    },
+    {
+      "id": "FSN421-Q002",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Toxicity versus hazard",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual distinction",
+      "question": "Which statement most accurately distinguishes toxicity from hazard?",
+      "options": {
+        "A": "Toxicity and hazard are interchangeable terms",
+        "B": "Toxicity is the capacity to cause harm; hazard depends on the circumstances of exposure and use",
+        "C": "Hazard is an intrinsic property, while toxicity depends only on food price",
+        "D": "Toxicity applies only to biological agents"
+      }
+    },
+    {
+      "id": "FSN421-Q003",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Biological hazards",
+      "difficulty": "Easy",
+      "question_type": "Classification",
+      "question": "Which of the following is classified in the manual as a macro-biological hazard?",
+      "options": {
+        "A": "Salmonella cells",
+        "B": "Aflatoxin",
+        "C": "Rodent droppings or visible insect larvae",
+        "D": "Mercury"
+      }
+    },
+    {
+      "id": "FSN421-Q004",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Viruses in food",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "Which statement about viruses in food is consistent with the uploaded module?",
+      "options": {
+        "A": "Viruses multiply rapidly in all refrigerated foods",
+        "B": "Viruses are classified as physical hazards",
+        "C": "Viruses can only be transmitted through cooked food",
+        "D": "Viruses may survive in food and be transmitted through it, but do not multiply in food"
+      }
+    },
+    {
+      "id": "FSN421-Q005",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Chemical hazards",
+      "difficulty": "Easy",
+      "question_type": "Classification",
+      "question": "Lead, mercury, arsenic and cadmium are grouped in the module as:",
+      "options": {
+        "A": "Environmental pollutant chemical hazards",
+        "B": "Physical hazards",
+        "C": "Macro-biological hazards",
+        "D": "Food quality indicators"
+      }
+    },
+    {
+      "id": "FSN421-Q006",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Physical hazards",
+      "difficulty": "Easy",
+      "question_type": "Classification",
+      "question": "Which group contains only examples listed as physical hazards in the module?",
+      "options": {
+        "A": "Aflatoxin, glass, Salmonella and wood",
+        "B": "Glass, wood, stones and metal fragments",
+        "C": "Mercury, cadmium, stones and yeast",
+        "D": "Pesticides, allergens, viruses and metal"
+      }
+    },
+    {
+      "id": "FSN421-Q007",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Food allergens",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which option reproduces four items from the module’s “Big 8” allergen list?",
+      "options": {
+        "A": "Rice, maize, potato and banana",
+        "B": "Milk, rice, yeast and sesame",
+        "C": "Milk, egg, fish and peanuts",
+        "D": "Egg, wheat, tea and coffee"
+      }
+    },
+    {
+      "id": "FSN421-Q008",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Infection versus intoxication",
+      "difficulty": "Moderate",
+      "question_type": "Application",
+      "question": "A group develops rapid vomiting after eating food in which a pre-formed bacterial toxin had accumulated. This is most accurately classified as:",
+      "options": {
+        "A": "Food infection",
+        "B": "Food allergy",
+        "C": "Food spoilage without illness",
+        "D": "Food intoxication"
+      }
+    },
+    {
+      "id": "FSN421-Q009",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Infection versus intoxication",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual distinction",
+      "question": "Which feature is more characteristic of food infection than food intoxication, according to the module?",
+      "options": {
+        "A": "Ingestion of live pathogens followed by invasion and/or multiplication in the host",
+        "B": "Ingestion of a pre-formed toxin only",
+        "C": "No involvement of a living pathogen at any stage",
+        "D": "A universally shorter incubation period"
+      }
+    },
+    {
+      "id": "FSN421-Q010",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Examples of intoxication",
+      "difficulty": "Easy",
+      "question_type": "Pairing",
+      "question": "Which organism-toxin pairing is identified in the module as a classic food-intoxication example?",
+      "options": {
+        "A": "Salmonella — pre-formed enterotoxin",
+        "B": "Staphylococcus aureus — enterotoxin",
+        "C": "Lactobacillus — botulinum neurotoxin",
+        "D": "Saccharomyces — tetanus toxin"
+      }
+    },
+    {
+      "id": "FSN421-Q011",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Foodborne outbreak",
+      "difficulty": "Moderate",
+      "question_type": "Definition",
+      "question": "Under the definition in the uploaded module, a foodborne disease outbreak may be identified by:",
+      "options": {
+        "A": "Any single case of indigestion after a meal",
+        "B": "Only ten or more cases occurring in different districts",
+        "C": "Two or more similar illness cases linked to a common food source, or cases exceeding the expected baseline",
+        "D": "Only laboratory-confirmed cases caused by viruses"
+      }
+    },
+    {
+      "id": "FSN421-Q012",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Transmission routes",
+      "difficulty": "Easy",
+      "question_type": "Scenario",
+      "question": "Using the same cutting board for raw poultry and ready-to-eat salad without adequate cleaning most directly creates which route?",
+      "options": {
+        "A": "Chemical bioaccumulation",
+        "B": "Pre-formed toxin formation by definition",
+        "C": "Food irradiation",
+        "D": "Cross-contamination"
+      }
+    },
+    {
+      "id": "FSN421-Q013",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "WHO Five Keys",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which sequence correctly states the WHO Five Keys to Safer Food as presented in the module?",
+      "options": {
+        "A": "Keep clean; separate raw and cooked; cook thoroughly; keep at safe temperatures; use safe water and raw materials",
+        "B": "Keep cold; add preservatives; wash once; freeze all food; use glass containers",
+        "C": "Inspect labels; irradiate; ferment; dry; vacuum-pack",
+        "D": "Separate cooked foods; add salt; boil water; freeze meat; use metal utensils"
+      }
+    },
+    {
+      "id": "FSN421-Q014",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Temperature guidance",
+      "difficulty": "Easy",
+      "question_type": "Numeric fact",
+      "question": "According to the module’s WHO Five Keys guidance, cooked food should preferably be refrigerated:",
+      "options": {
+        "A": "At 10–15°C",
+        "B": "Below 5°C",
+        "C": "At 20°C",
+        "D": "At or above 60°C"
+      }
+    },
+    {
+      "id": "FSN421-Q015",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Food handling",
+      "difficulty": "Moderate",
+      "question_type": "Application",
+      "question": "A cooked dish is left at room temperature for three hours before service. Which WHO Five Keys principle is most directly breached?",
+      "options": {
+        "A": "Use safe water and raw materials",
+        "B": "Separate raw and cooked foods",
+        "C": "Keep food at safe temperatures",
+        "D": "Keep clean"
+      }
+    },
+    {
+      "id": "FSN421-Q016",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Hazard versus spoilage",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "A food looks and smells normal but contains a pathogenic microorganism. Which conclusion is best supported by the module?",
+      "options": {
+        "A": "Normal appearance proves the food is safe",
+        "B": "Only spoiled food can contain pathogens",
+        "C": "Pathogens always produce visible colour changes",
+        "D": "Absence of visible spoilage does not establish microbiological safety"
+      }
+    },
+    {
+      "id": "FSN421-Q017",
+      "module": "Module 1: Food Hazards & Foodborne Illness",
+      "topic": "Food safety chain",
+      "difficulty": "Moderate",
+      "question_type": "Process reasoning",
+      "question": "In the food-safety chain described in the module, the hazard causes illness when it:",
+      "options": {
+        "A": "Survives processing or storage and reaches the consumer at a harmful dose",
+        "B": "Is detected in a laboratory",
+        "C": "Is present only in the farm environment",
+        "D": "Is removed before consumption"
+      }
+    },
+    {
+      "id": "FSN421-Q018",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Class I preservatives",
+      "difficulty": "Easy",
+      "question_type": "Classification",
+      "question": "Which of the following is listed as a Class I preservative in the uploaded module?",
+      "options": {
+        "A": "Benzoic acid and its salts",
+        "B": "Honey",
+        "C": "Sorbic acid and its salts",
+        "D": "Nitrites and nitrates"
+      }
+    },
+    {
+      "id": "FSN421-Q019",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Class II preservatives",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which group consists entirely of Class II preservatives in the module?",
+      "options": {
+        "A": "Honey; common salt; spices; wood smoke",
+        "B": "Sugar; vinegar; glucose syrup; honey",
+        "C": "Benzoic acid and salts; sulphites; nitrites/nitrates; sorbic acid and salts",
+        "D": "Wood smoke; acetic acid; common salt; spices"
+      }
+    },
+    {
+      "id": "FSN421-Q020",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Preservative classification trap",
+      "difficulty": "Moderate",
+      "question_type": "Trap",
+      "question": "A substance occurs naturally in some fruits. Does that fact alone make benzoic acid a Class I preservative under the module’s classification?",
+      "options": {
+        "A": "Yes. Any naturally occurring chemical is Class I",
+        "B": "Yes, but only in beverages",
+        "C": "No. Benzoic acid is a physical hazard",
+        "D": "No. Benzoic acid and its salts are classified as Class II"
+      }
+    },
+    {
+      "id": "FSN421-Q021",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Antioxidants",
+      "difficulty": "Moderate",
+      "question_type": "Mechanism",
+      "question": "What is the principal function of an antioxidant in fat-containing food, as explained in the module?",
+      "options": {
+        "A": "Interrupt lipid free-radical chain reactions and delay oxidative rancidity",
+        "B": "Increase water activity to promote microbial growth",
+        "C": "Convert all saturated fatty acids into proteins",
+        "D": "Cause enzymatic browning"
+      }
+    },
+    {
+      "id": "FSN421-Q022",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Antioxidant examples",
+      "difficulty": "Easy",
+      "question_type": "Pairing",
+      "question": "Which pair is identified as synthetic antioxidants in the module?",
+      "options": {
+        "A": "Tocopherols and lecithin",
+        "B": "BHA and BHT",
+        "C": "Gelatin and PVP",
+        "D": "Nisin and MSG"
+      }
+    },
+    {
+      "id": "FSN421-Q023",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Emulsifiers",
+      "difficulty": "Moderate",
+      "question_type": "Mechanism",
+      "question": "An emulsifier stabilizes an oil–water system primarily because it is:",
+      "options": {
+        "A": "Entirely water-soluble and lacks affinity for oil",
+        "B": "A microbial toxin",
+        "C": "Amphiphilic, with hydrophilic and lipophilic portions",
+        "D": "A substance that removes all water from food"
+      }
+    },
+    {
+      "id": "FSN421-Q024",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Clarifying agents",
+      "difficulty": "Moderate",
+      "question_type": "Pairing",
+      "question": "Which agent is identified in the module as a synthetic resin with selective affinity for polyphenols?",
+      "options": {
+        "A": "Gelatin",
+        "B": "Nisin",
+        "C": "BHA",
+        "D": "PVP (polyvinylpyrrolidone)"
+      }
+    },
+    {
+      "id": "FSN421-Q025",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "MSG",
+      "difficulty": "Easy",
+      "question_type": "Function",
+      "question": "According to the module, monosodium glutamate primarily:",
+      "options": {
+        "A": "Enhances and synergizes the flavour of other foods",
+        "B": "Acts as a high-intensity sweetener",
+        "C": "Sterilizes low-acid canned foods",
+        "D": "Removes heavy metals from food"
+      }
+    },
+    {
+      "id": "FSN421-Q026",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Anticaking agents",
+      "difficulty": "Moderate",
+      "question_type": "Function",
+      "question": "What is the principal purpose of an anticaking agent in powdered food?",
+      "options": {
+        "A": "To increase microbial growth rate",
+        "B": "To maintain free flow by controlling moisture, coating particles or acting as an insoluble diluent",
+        "C": "To convert oil-in-water emulsions to proteins",
+        "D": "To produce a pre-formed toxin"
+      }
+    },
+    {
+      "id": "FSN421-Q027",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Nisin",
+      "difficulty": "Moderate",
+      "question_type": "Mechanism",
+      "question": "Nisin is described in the module as being particularly active against:",
+      "options": {
+        "A": "Gram-negative organisms only",
+        "B": "Viruses only",
+        "C": "Gram-positive organisms, including spore-formers",
+        "D": "All fungi and protozoa equally"
+      }
+    },
+    {
+      "id": "FSN421-Q028",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Nitrites and nitrates",
+      "difficulty": "Moderate",
+      "question_type": "Function",
+      "question": "Which dual function of nitrites/nitrates in cured meat is emphasized in the module?",
+      "options": {
+        "A": "Sweetness enhancement and yeast fermentation",
+        "B": "Emulsification and clarification",
+        "C": "Removal of cyanogenic glycosides",
+        "D": "Cured-colour stabilization and inhibition of Clostridium botulinum"
+      }
+    },
+    {
+      "id": "FSN421-Q029",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Glycoalkaloids",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which two compounds are identified as the principal potato glycoalkaloids?",
+      "options": {
+        "A": "α-Chaconine and α-solanine",
+        "B": "Linamarin and amygdalin",
+        "C": "BHA and BHT",
+        "D": "Glucosinolates and cucurbitacins"
+      }
+    },
+    {
+      "id": "FSN421-Q030",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Glycoalkaloid control",
+      "difficulty": "Moderate",
+      "question_type": "Application",
+      "question": "Which statement best reflects the module’s advice for reducing potato glycoalkaloid exposure?",
+      "options": {
+        "A": "Frying completely destroys all glycoalkaloids",
+        "B": "Peeling is the most effective listed measure; ordinary cooking does not significantly destroy the compounds",
+        "C": "Boiling guarantees total removal",
+        "D": "Refrigeration converts glycoalkaloids into harmless sugars"
+      }
+    },
+    {
+      "id": "FSN421-Q031",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Cyanogenic glycosides",
+      "difficulty": "Easy",
+      "question_type": "Pairing",
+      "question": "Which cyanogenic glycoside is identified as the principal cyanogen in cassava?",
+      "options": {
+        "A": "Amygdalin",
+        "B": "α-Solanine",
+        "C": "Linamarin",
+        "D": "Tomatine"
+      }
+    },
+    {
+      "id": "FSN421-Q032",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Cyanogenic glycosides",
+      "difficulty": "Hard",
+      "question_type": "Mechanism",
+      "question": "Which enzyme is identified in the module as catalysing the initial hydrolysis of cyanogenic glycosides after plant tissue is disrupted?",
+      "options": {
+        "A": "Exogenous pepsin added during cooking",
+        "B": "Catalase from animal tissue",
+        "C": "Amylase from yeast only",
+        "D": "Endogenous β-glycosidase"
+      }
+    },
+    {
+      "id": "FSN421-Q033",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Lectins",
+      "difficulty": "Moderate",
+      "question_type": "Definition",
+      "question": "Lectins are described in the module as:",
+      "options": {
+        "A": "Carbohydrate-binding glycoproteins that can interact with gut mucosal receptors",
+        "B": "Steroidal pigments found only in citrus peel",
+        "C": "Volatile gases produced by yeasts",
+        "D": "Synthetic preservatives used in cured meat"
+      }
+    },
+    {
+      "id": "FSN421-Q034",
+      "module": "Module 2: Food Additives & Plant-Origin Toxicants",
+      "topic": "Plant anti-nutrients",
+      "difficulty": "Moderate",
+      "question_type": "Matching",
+      "question": "Which plant-family pairing is correct according to the module’s anti-nutrient table?",
+      "options": {
+        "A": "Glucosinolates — Cucurbitaceae",
+        "B": "Glycoalkaloids — Solanaceae",
+        "C": "Cucurbitacins — Cruciferae",
+        "D": "Lectins — Umbelliferae"
+      }
+    },
+    {
+      "id": "FSN421-Q035",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Microbial growth temperatures",
+      "difficulty": "Moderate",
+      "question_type": "Numeric/conceptual",
+      "question": "According to the temperature table in the module, psychrotrophs can grow well at:",
+      "options": {
+        "A": "Only at −20°C",
+        "B": "Only above 55°C",
+        "C": "7°C or below, although their optimum is higher (about 20–30°C)",
+        "D": "Only between 30°C and 40°C"
+      }
+    },
+    {
+      "id": "FSN421-Q036",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Microbial growth temperatures",
+      "difficulty": "Easy",
+      "question_type": "Numeric fact",
+      "question": "Which optimum temperature range is given for thermophiles in the module?",
+      "options": {
+        "A": "20–30°C",
+        "B": "30–40°C",
+        "C": "0–7°C",
+        "D": "55–65°C"
+      }
+    },
+    {
+      "id": "FSN421-Q037",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Refrigeration",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "Why does refrigeration extend shelf life without guaranteeing indefinite stability?",
+      "options": {
+        "A": "Psychrotrophic organisms may continue to grow slowly at chill temperatures",
+        "B": "All microorganisms are destroyed at 5°C",
+        "C": "Refrigeration raises food pH above neutrality",
+        "D": "Refrigeration eliminates water activity"
+      }
+    },
+    {
+      "id": "FSN421-Q038",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "pH threshold",
+      "difficulty": "Easy",
+      "question_type": "Numeric fact",
+      "question": "Which pH value is identified as the critical threshold below which Clostridium botulinum cannot grow in the module?",
+      "options": {
+        "A": "2.0",
+        "B": "4.6",
+        "C": "3.5",
+        "D": "7.0"
+      }
+    },
+    {
+      "id": "FSN421-Q039",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Low-acid foods",
+      "difficulty": "Easy",
+      "question_type": "Definition",
+      "question": "According to the uploaded module, low-acid foods are those with:",
+      "options": {
+        "A": "pH equal to 2.0",
+        "B": "pH equal to or below 4.6",
+        "C": "pH greater than 4.6",
+        "D": "Water activity below 0.80 only"
+      }
+    },
+    {
+      "id": "FSN421-Q040",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Acid identity",
+      "difficulty": "Hard",
+      "question_type": "Mechanism",
+      "question": "Why can two foods at the same measured pH show different antimicrobial effects when different acids are used?",
+      "options": {
+        "A": "All acids have identical membrane effects at a given pH",
+        "B": "pH measures only the food’s fat content",
+        "C": "Acid identity changes the food’s physical hazard category",
+        "D": "The identity and dissociation behaviour of the acid affect antimicrobial action"
+      }
+    },
+    {
+      "id": "FSN421-Q041",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Water activity",
+      "difficulty": "Moderate",
+      "question_type": "Definition",
+      "question": "Water activity (aw) is best understood as a measure of:",
+      "options": {
+        "A": "The fraction of water available for microbial metabolic activity",
+        "B": "Total water content expressed only as grams",
+        "C": "The amount of dissolved oxygen in food",
+        "D": "The acidity of the food"
+      }
+    },
+    {
+      "id": "FSN421-Q042",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Water activity thresholds",
+      "difficulty": "Easy",
+      "question_type": "Numeric fact",
+      "question": "Which minimum water-activity value is given for growth of filamentous fungi in the module?",
+      "options": {
+        "A": "Above 0.99 only",
+        "B": "As low as 0.80",
+        "C": "Above 0.91 only",
+        "D": "Exactly 1.00"
+      }
+    },
+    {
+      "id": "FSN421-Q043",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Water activity hierarchy",
+      "difficulty": "Hard",
+      "question_type": "Comparison",
+      "question": "Which hierarchy of minimum water activity requirements is stated in the module?",
+      "options": {
+        "A": "Fungi require more aw than Gram-negative bacteria",
+        "B": "All bacteria and fungi have identical aw requirements",
+        "C": "Gram-negative bacteria generally require more aw than Gram-positive bacteria, which require more than fungi",
+        "D": "Gram-positive bacteria require more aw than Gram-negative bacteria and fungi"
+      }
+    },
+    {
+      "id": "FSN421-Q044",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Osmotic stress",
+      "difficulty": "Moderate",
+      "question_type": "Mechanism",
+      "question": "Salting and sugaring preserve foods partly by:",
+      "options": {
+        "A": "Increasing the food’s oxygen content",
+        "B": "Raising all foods to pH 7",
+        "C": "Converting bacteria into viruses",
+        "D": "Reducing available water and imposing osmotic stress on microorganisms"
+      }
+    },
+    {
+      "id": "FSN421-Q045",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Yeast spoilage",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "Yeasts gain a competitive advantage over many bacteria in foods that are:",
+      "options": {
+        "A": "High in sugar or salt and/or low in pH",
+        "B": "Always neutral in pH and high in available oxygen only",
+        "C": "Sterile and completely dry",
+        "D": "High in heavy metals"
+      }
+    },
+    {
+      "id": "FSN421-Q046",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Yeast genera",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which pair consists of yeast genera specifically listed in the module?",
+      "options": {
+        "A": "Salmonella and Clostridium",
+        "B": "Zygosaccharomyces and Candida",
+        "C": "Aspergillus and Penicillium",
+        "D": "Bacillus and Listeria"
+      }
+    },
+    {
+      "id": "FSN421-Q047",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Filamentous fungi",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "Which statement about filamentous fungi is consistent with the module?",
+      "options": {
+        "A": "They are strict anaerobes",
+        "B": "They cannot grow on high-fat foods",
+        "C": "They are obligate aerobes and can grow over a wide range of pH, temperature and water activity",
+        "D": "They require aw above 0.99 in all cases"
+      }
+    },
+    {
+      "id": "FSN421-Q048",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Spoilage control",
+      "difficulty": "Moderate",
+      "question_type": "Recall",
+      "question": "Which option correctly represents the four broad strategies for controlling microbiological spoilage in the module?",
+      "options": {
+        "A": "Colour, sweeten, emulsify and clarify",
+        "B": "Inspect, label, advertise and distribute",
+        "C": "Increase pH, increase aw, add oxygen and warm",
+        "D": "Prevent access, remove cells/spores, inhibit growth, and inactivate"
+      }
+    },
+    {
+      "id": "FSN421-Q049",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Intrinsic and extrinsic factors",
+      "difficulty": "Moderate",
+      "question_type": "Classification",
+      "question": "Which of the following is an intrinsic food factor in the module’s model answer framework?",
+      "options": {
+        "A": "Water activity",
+        "B": "Storage atmosphere",
+        "C": "Warehouse temperature",
+        "D": "External packaging conditions"
+      }
+    },
+    {
+      "id": "FSN421-Q050",
+      "module": "Module 3: Microbiological Principles & Spoilage",
+      "topic": "Hurdle technology",
+      "difficulty": "Moderate",
+      "question_type": "Application",
+      "question": "A pickled food combines low pH with reduced available water. This illustrates:",
+      "options": {
+        "A": "Bioaccumulation",
+        "B": "Hurdle technology",
+        "C": "Food irradiation only",
+        "D": "Cross-contamination"
+      }
+    },
+    {
+      "id": "FSN421-Q051",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Calcium carbide reaction",
+      "difficulty": "Easy",
+      "question_type": "Reaction",
+      "question": "When calcium carbide contacts moisture, which gas is released and used to mimic ethylene signalling?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Ammonia",
+        "C": "Acetylene",
+        "D": "Hydrogen sulphide"
+      }
+    },
+    {
+      "id": "FSN421-Q052",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Calcium carbide safety",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "Which is the central reason calcium-carbide ripening is not equivalent to safe ethylene ripening in the uploaded module?",
+      "options": {
+        "A": "It produces no gas at all",
+        "B": "It is identical to regulated ethylene and only acts more slowly",
+        "C": "It sterilizes the fruit interior",
+        "D": "It produces superficial colour change without equivalent internal ripening and may carry toxic contaminants"
+      }
+    },
+    {
+      "id": "FSN421-Q053",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Ripening agents",
+      "difficulty": "Easy",
+      "question_type": "Pairing",
+      "question": "Which substance is presented as a safer alternative that releases ethylene?",
+      "options": {
+        "A": "Ethephon",
+        "B": "Calcium carbide",
+        "C": "Malachite green",
+        "D": "Formaldehyde"
+      }
+    },
+    {
+      "id": "FSN421-Q054",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Calcium carbide legal status",
+      "difficulty": "Moderate",
+      "question_type": "Regulatory fact",
+      "question": "What tolerance status does the module assign to calcium carbide as a fruit-ripening agent?",
+      "options": {
+        "A": "Permitted up to 1% in all fruits",
+        "B": "Strictly prohibited, with no tolerance limit",
+        "C": "Permitted under GMP without labelling",
+        "D": "Permitted only for citrus fruits"
+      }
+    },
+    {
+      "id": "FSN421-Q055",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Malachite green",
+      "difficulty": "Easy",
+      "question_type": "Detection pairing",
+      "question": "Which simple detection test is paired with malachite green in the module?",
+      "options": {
+        "A": "Iodine test",
+        "B": "Biuret test",
+        "C": "Moistened white blotting-paper test",
+        "D": "Benedict’s test"
+      }
+    },
+    {
+      "id": "FSN421-Q056",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Copper sulphate",
+      "difficulty": "Moderate",
+      "question_type": "Commodity matching",
+      "question": "In the uploaded module, copper sulphate is associated with which adulteration practice?",
+      "options": {
+        "A": "Injecting watermelons to increase sweetness",
+        "B": "Ripening bananas by releasing ethylene",
+        "C": "Whitening milk",
+        "D": "Dipping green vegetables to make them appear greener or fresher"
+      }
+    },
+    {
+      "id": "FSN421-Q057",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Hazardous dyes",
+      "difficulty": "Moderate",
+      "question_type": "Pairing",
+      "question": "Which chemical is associated in the module with neurotoxic effects such as brain damage, blindness and anaemia?",
+      "options": {
+        "A": "Lead chromate",
+        "B": "Malachite green",
+        "C": "Saccharin",
+        "D": "Carnauba wax"
+      }
+    },
+    {
+      "id": "FSN421-Q058",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Hazardous dyes",
+      "difficulty": "Easy",
+      "question_type": "Pairing",
+      "question": "Which adulterant is associated with red-colour enhancement and carcinogenic concern in the module?",
+      "options": {
+        "A": "Copper sulphate",
+        "B": "Sudan red",
+        "C": "Ethephon",
+        "D": "Shellac wax"
+      }
+    },
+    {
+      "id": "FSN421-Q059",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Formaldehyde misuse",
+      "difficulty": "Moderate",
+      "question_type": "Matching",
+      "question": "Which commodity and purpose pairing is given for formaldehyde in the post-harvest adulteration table?",
+      "options": {
+        "A": "Green chillies — sweetness enhancement",
+        "B": "Potatoes — removal of glycoalkaloids",
+        "C": "Cabbage heads — freshness extension",
+        "D": "Citrus fruits — natural waxing"
+      }
+    },
+    {
+      "id": "FSN421-Q060",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Oxytocin misuse",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "Why is oxytocin misuse on cucurbits/gourds described as improper in the module?",
+      "options": {
+        "A": "Oxytocin is a naturally occurring plant pigment",
+        "B": "Oxytocin is an approved fruit wax",
+        "C": "Oxytocin is the same substance as ethylene",
+        "D": "Oxytocin is a mammalian hormone, not a legitimate plant growth hormone"
+      }
+    },
+    {
+      "id": "FSN421-Q061",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Food-grade waxes",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which set contains the three food-grade waxes listed in the uploaded module?",
+      "options": {
+        "A": "Carnauba wax, beeswax and shellac wax",
+        "B": "Mineral oil, paraffin and petroleum jelly",
+        "C": "Malachite green, beeswax and Sudan red",
+        "D": "Calcium carbide, shellac and formaldehyde"
+      }
+    },
+    {
+      "id": "FSN421-Q062",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Wax sources",
+      "difficulty": "Easy",
+      "question_type": "Pairing",
+      "question": "Carnauba wax is obtained from:",
+      "options": {
+        "A": "Honeybee secretion",
+        "B": "Carnauba palm tree",
+        "C": "Lac insect secretion",
+        "D": "Petroleum refining"
+      }
+    },
+    {
+      "id": "FSN421-Q063",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Wax sources",
+      "difficulty": "Easy",
+      "question_type": "Pairing",
+      "question": "Shellac wax is associated in the module with:",
+      "options": {
+        "A": "Carnauba palm leaves",
+        "B": "Honeybee secretion",
+        "C": "Secretion of the lac insect/beetle",
+        "D": "Industrial petroleum distillate"
+      }
+    },
+    {
+      "id": "FSN421-Q064",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Waxing function",
+      "difficulty": "Moderate",
+      "question_type": "Negative selection",
+      "question": "Which is NOT identified as a purpose or benefit of food-grade waxing in the module?",
+      "options": {
+        "A": "Reducing water loss",
+        "B": "Reducing surface abrasion",
+        "C": "Extending shelf life and improving appearance",
+        "D": "Increasing the intrinsic protein content of the produce"
+      }
+    },
+    {
+      "id": "FSN421-Q065",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Waxing restrictions",
+      "difficulty": "Hard",
+      "question_type": "Regulatory interpretation",
+      "question": "Which statement is consistent with the uploaded module’s treatment of fresh-produce coatings?",
+      "options": {
+        "A": "Only the named food-grade waxes are permitted under GMP; mineral oil and colour are not permitted on fresh fruits and vegetables",
+        "B": "All mineral oils are permitted without restriction",
+        "C": "Any petroleum wax is automatically food-grade",
+        "D": "Food colours may be applied to fresh produce under GMP"
+      }
+    },
+    {
+      "id": "FSN421-Q066",
+      "module": "Module 4: Post-Harvest Adulteration & Chemical Treatments",
+      "topic": "Ethephon versus carbide",
+      "difficulty": "Moderate",
+      "question_type": "Comparison",
+      "question": "Which comparison is given in the module for ethephon/ethylene-ripened fruit versus calcium-carbide-ripened fruit?",
+      "options": {
+        "A": "Carbide produces more uniform internal ripening and longer shelf life",
+        "B": "Ethephon/ethylene produces more uniform internal ripening and is associated with a longer shelf life",
+        "C": "Both have identical mechanisms and legal status",
+        "D": "Ethephon works by releasing acetylene"
+      }
+    },
+    {
+      "id": "FSN421-Q067",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Date of manufacture",
+      "difficulty": "Moderate",
+      "question_type": "Definition",
+      "question": "According to the uploaded module, date of manufacture refers to:",
+      "options": {
+        "A": "The date on which the product reaches the retailer",
+        "B": "The date on which the consumer opens the package",
+        "C": "The date on which the food becomes the product as described, with its identity/composition finalized",
+        "D": "The date on which the outer carton is printed"
+      }
+    },
+    {
+      "id": "FSN421-Q068",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Date of packaging",
+      "difficulty": "Easy",
+      "question_type": "Definition",
+      "question": "Date of packaging refers to:",
+      "options": {
+        "A": "The date on which raw ingredients are harvested",
+        "B": "The date on which the product is consumed",
+        "C": "The date on which the batch is recalled",
+        "D": "The date on which the food is placed in the immediate container in which it will ultimately be sold"
+      }
+    },
+    {
+      "id": "FSN421-Q069",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Best before",
+      "difficulty": "Moderate",
+      "question_type": "Definition",
+      "question": "What does “best before” principally signify in the module?",
+      "options": {
+        "A": "The end of the period during which the food is fully marketable and retains its claimed qualities under stated storage conditions",
+        "B": "An unconditional declaration that the food becomes toxic the next day",
+        "C": "The date after which sale is always prohibited regardless of safety",
+        "D": "The date of manufacture"
+      }
+    },
+    {
+      "id": "FSN421-Q070",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Use-by/expiry",
+      "difficulty": "Moderate",
+      "question_type": "Comparison",
+      "question": "Which statement best reflects the module’s distinction between best-before and use-by/expiry?",
+      "options": {
+        "A": "Best-before is always a stricter safety cutoff than use-by",
+        "B": "Use-by/expiry marks the end of the estimated period after which the food should not be sold; best-before is primarily a quality marker",
+        "C": "Use-by is only a batch identification code",
+        "D": "The two terms are always legally interchangeable"
+      }
+    },
+    {
+      "id": "FSN421-Q071",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Lot or batch number",
+      "difficulty": "Easy",
+      "question_type": "Function",
+      "question": "A lot/code/batch number is primarily used to:",
+      "options": {
+        "A": "Indicate the product’s vitamin content",
+        "B": "Replace the date of expiry",
+        "C": "Trace food through manufacture and identify it in distribution",
+        "D": "Certify that the food is organic"
+      }
+    },
+    {
+      "id": "FSN421-Q072",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Prepackaged food",
+      "difficulty": "Moderate",
+      "question_type": "Definition",
+      "question": "Which description best matches the module’s definition of prepackaged food?",
+      "options": {
+        "A": "Food wrapped loosely after the consumer selects it",
+        "B": "Food stored in an open vessel for bulk sale only",
+        "C": "Food that has been frozen, regardless of packaging",
+        "D": "Food placed in a package so the contents cannot be changed without tampering and which is ready for sale to the consumer"
+      }
+    },
+    {
+      "id": "FSN421-Q073",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Principal Display Panel",
+      "difficulty": "Moderate",
+      "question_type": "Definition",
+      "question": "The Principal Display Panel (PDP) is the part of a package:",
+      "options": {
+        "A": "Intended or likely to be displayed, presented, shown or examined by the customer under customary conditions",
+        "B": "Always hidden at the bottom of the package",
+        "C": "Used only by the manufacturer during production",
+        "D": "Reserved exclusively for the batch number"
+      }
+    },
+    {
+      "id": "FSN421-Q074",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Label purpose",
+      "difficulty": "Easy",
+      "question_type": "Conceptual",
+      "question": "The study module organizes the consumer function of food labels around which three questions?",
+      "options": {
+        "A": "How much profit? Which warehouse? Which machine?",
+        "B": "Is it safe now? What am I eating? Who is accountable?",
+        "C": "Who transported it? What is the retailer’s margin? What is the colour?",
+        "D": "How old is the shop? Who designed the logo? What is the shelf size?"
+      }
+    },
+    {
+      "id": "FSN421-Q075",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Vegetarian/non-vegetarian",
+      "difficulty": "Moderate",
+      "question_type": "Classification",
+      "question": "Under the distinction stated in the uploaded module, milk and milk products are treated as:",
+      "options": {
+        "A": "Non-vegetarian solely because they are animal-derived",
+        "B": "Neither vegetarian nor non-vegetarian",
+        "C": "Vegetarian for the purpose of the described food-labelling classification",
+        "D": "Non-vegetarian only when pasteurized"
+      }
+    },
+    {
+      "id": "FSN421-Q076",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Vegetarian/non-vegetarian",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which item is classified as non-vegetarian in the module’s labelling discussion?",
+      "options": {
+        "A": "Milk",
+        "B": "Curd",
+        "C": "Paneer",
+        "D": "Egg"
+      }
+    },
+    {
+      "id": "FSN421-Q077",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Nutrition declaration",
+      "difficulty": "Easy",
+      "question_type": "Units",
+      "question": "Which unit pairing is given for mandatory nutritional declarations in the uploaded module?",
+      "options": {
+        "A": "Energy in kilocalories (kcal); protein, carbohydrate and fat in grams",
+        "B": "Energy in grams; protein in kilocalories",
+        "C": "All nutrients in milligrams only",
+        "D": "Energy in litres; fat in percentage only"
+      }
+    },
+    {
+      "id": "FSN421-Q078",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Nutrition claims",
+      "difficulty": "Moderate",
+      "question_type": "Interpretation",
+      "question": "According to the uploaded module, vitamin content must be declared:",
+      "options": {
+        "A": "On every food label regardless of claims",
+        "B": "When a nutrition or health claim is made for that nutrient, rather than unconditionally for every product",
+        "C": "Only on glass bottles",
+        "D": "Only when the food is imported"
+      }
+    },
+    {
+      "id": "FSN421-Q079",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Packaging materials",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which packaging container condition is identified in the module as unfit for use?",
+      "options": {
+        "A": "Clean, intact food-grade containers",
+        "B": "Containers conforming to applicable standards",
+        "C": "Rusty containers",
+        "D": "Suitable food-grade glass bottles"
+      }
+    },
+    {
+      "id": "FSN421-Q080",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Metal containers",
+      "difficulty": "Moderate",
+      "question_type": "Regulatory fact",
+      "question": "Which container type is identified in the module as prohibited?",
+      "options": {
+        "A": "Food-grade stainless steel",
+        "B": "Suitable glass containers",
+        "C": "Compliant food-grade plastic",
+        "D": "Untinned copper or brass containers"
+      }
+    },
+    {
+      "id": "FSN421-Q081",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Plastic packaging",
+      "difficulty": "Moderate",
+      "question_type": "Regulatory fact",
+      "question": "Which statement about plastic containers is consistent with the uploaded module?",
+      "options": {
+        "A": "They are subject to a mandatory conformity requirement with the relevant Indian Standards Specification (BIS)",
+        "B": "They are exempt from all conformity requirements",
+        "C": "They may be made from any recycled plastic without restriction",
+        "D": "They are prohibited for every food category"
+      }
+    },
+    {
+      "id": "FSN421-Q082",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Tomato ketchup packaging",
+      "difficulty": "Hard",
+      "question_type": "Numeric/regulatory",
+      "question": "According to the module’s stated rule, open-top sanitary cans may be used for ketchup/sauce only when acidity does not exceed:",
+      "options": {
+        "A": "0.05% as citric acid",
+        "B": "0.5% as acetic acid",
+        "C": "5% as lactic acid",
+        "D": "10% as acetic acid"
+      }
+    },
+    {
+      "id": "FSN421-Q083",
+      "module": "Module 5: Packaging & Labelling Statutory Standards",
+      "topic": "Current labelling framework",
+      "difficulty": "Hard",
+      "question_type": "Current-law awareness",
+      "question": "For a candidate preparing current Indian food-labelling law, which caution is most appropriate when using an older study note that cites the 2011 Packaging and Labelling Regulations?",
+      "options": {
+        "A": "Assume the 2011 regulations remain the only current labelling instrument",
+        "B": "Ignore all later amendments",
+        "C": "Check the current FSSAI Labelling and Display Regulations, 2020 and subsequent amendments before relying on the older citation",
+        "D": "Treat the study note as a substitute for the current Gazette text"
+      }
+    },
+    {
+      "id": "FSN421-Q084",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP rationale",
+      "difficulty": "Moderate",
+      "question_type": "Conceptual",
+      "question": "Why did HACCP move food safety control away from reliance on end-product testing alone?",
+      "options": {
+        "A": "End-product testing always detects every unsafe unit",
+        "B": "HACCP was designed to increase the number of finished-product defects",
+        "C": "HACCP eliminates the need for monitoring",
+        "D": "End-product testing cannot provide near-total assurance without destructive testing of a very large number of units and may detect a problem too late"
+      }
+    },
+    {
+      "id": "FSN421-Q085",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP history",
+      "difficulty": "Easy",
+      "question_type": "History",
+      "question": "Which company is identified with the early practical development of HACCP for the U.S. space programme?",
+      "options": {
+        "A": "Pillsbury Company",
+        "B": "Codex Alimentarius Commission",
+        "C": "WHO",
+        "D": "NACMCF"
+      }
+    },
+    {
+      "id": "FSN421-Q086",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP history",
+      "difficulty": "Easy",
+      "question_type": "History",
+      "question": "Which body is identified in the module as formulating the seven HACCP principles in 1985?",
+      "options": {
+        "A": "Pillsbury Company",
+        "B": "NACMCF",
+        "C": "FSSAI",
+        "D": "WHO Regional Office for Europe"
+      }
+    },
+    {
+      "id": "FSN421-Q087",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP hazard scope",
+      "difficulty": "Moderate",
+      "question_type": "Scope distinction",
+      "question": "Which condition is an undesirable defect rather than automatically a HACCP hazard under the module’s distinction?",
+      "options": {
+        "A": "Salmonella capable of causing illness",
+        "B": "A metal fragment capable of causing injury",
+        "C": "Hair present in food without a demonstrated illness or injury mechanism",
+        "D": "A chemical contaminant capable of causing toxic effects"
+      }
+    },
+    {
+      "id": "FSN421-Q088",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP hazard categories",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which three categories are used for HACCP hazards in the uploaded module?",
+      "options": {
+        "A": "Quality, economic and sensory",
+        "B": "Nutritional, financial and legal",
+        "C": "Microbial, thermal and packaging only",
+        "D": "Biological, chemical and physical"
+      }
+    },
+    {
+      "id": "FSN421-Q089",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP Principle 1",
+      "difficulty": "Easy",
+      "question_type": "Principle identification",
+      "question": "What is the central task under HACCP Principle 1?",
+      "options": {
+        "A": "Conduct a hazard analysis",
+        "B": "Establish documentation and record-keeping",
+        "C": "Establish corrective actions",
+        "D": "Establish verification procedures"
+      }
+    },
+    {
+      "id": "FSN421-Q090",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP Principle 2",
+      "difficulty": "Easy",
+      "question_type": "Principle identification",
+      "question": "Which activity corresponds to HACCP Principle 2?",
+      "options": {
+        "A": "Establish critical limits",
+        "B": "Determine Critical Control Points (CCPs)",
+        "C": "Conduct hazard analysis",
+        "D": "Establish verification procedures"
+      }
+    },
+    {
+      "id": "FSN421-Q091",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP Principle 3",
+      "difficulty": "Moderate",
+      "question_type": "Application",
+      "question": "A processor sets a minimum pasteurization temperature and holding time at a designated CCP. This is an example of:",
+      "options": {
+        "A": "Establishing a prerequisite programme",
+        "B": "Conducting a product recall",
+        "C": "Establishing critical limits",
+        "D": "Establishing record retention only"
+      }
+    },
+    {
+      "id": "FSN421-Q092",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP Principle 4",
+      "difficulty": "Easy",
+      "question_type": "Recall",
+      "question": "Which four elements must CCP monitoring procedures specify according to the module?",
+      "options": {
+        "A": "Why, where, cost and profit",
+        "B": "Product, package, price and retailer",
+        "C": "Hazard, supplier, shelf life and colour",
+        "D": "What, how, frequency and who"
+      }
+    },
+    {
+      "id": "FSN421-Q093",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP Principle 5",
+      "difficulty": "Moderate",
+      "question_type": "Scenario",
+      "question": "A monitored CCP exceeds its critical limit. Which response is required under the module’s corrective-action framework?",
+      "options": {
+        "A": "Restore control and segregate, assess and determine the disposition of affected product",
+        "B": "Ignore the deviation if the final product looks normal",
+        "C": "Change the label date and release all product",
+        "D": "Record the deviation but take no action"
+      }
+    },
+    {
+      "id": "FSN421-Q094",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP Principle 6",
+      "difficulty": "Hard",
+      "question_type": "Conceptual distinction",
+      "question": "Which statement best distinguishes validation from ongoing verification in the module?",
+      "options": {
+        "A": "Validation and verification are identical and both occur only once",
+        "B": "Validation is performed before implementation to establish scientific sufficiency; verification checks that the system continues to work",
+        "C": "Verification occurs only before implementation",
+        "D": "Validation is a synonym for corrective action"
+      }
+    },
+    {
+      "id": "FSN421-Q095",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP Principle 7",
+      "difficulty": "Moderate",
+      "question_type": "Recall",
+      "question": "Which is NOT one of the four record categories listed under HACCP Principle 7?",
+      "options": {
+        "A": "HACCP-plan support documents",
+        "B": "Monitoring records",
+        "C": "Retail advertising records",
+        "D": "Corrective-action records"
+      }
+    },
+    {
+      "id": "FSN421-Q096",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "CCP versus PRP",
+      "difficulty": "Moderate",
+      "question_type": "Comparison",
+      "question": "Which feature most clearly distinguishes a CCP from a prerequisite programme (PRP)?",
+      "options": {
+        "A": "A PRP always has a stricter critical limit than a CCP",
+        "B": "A CCP is plant-wide and not linked to a hazard",
+        "C": "A PRP is always a criminal enforcement action",
+        "D": "A CCP is a specific process point controlling an identified significant hazard against a measurable critical limit; a PRP is a broad foundational programme"
+      }
+    },
+    {
+      "id": "FSN421-Q097",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "CCP decision tree",
+      "difficulty": "Hard",
+      "question_type": "Scenario",
+      "question": "A hazard is controlled at an early process step, but a later validated step will eliminate it to an acceptable level. Under the decision-tree logic in the module, the early step is generally:",
+      "options": {
+        "A": "Not designated a CCP on that basis alone",
+        "B": "Automatically a CCP",
+        "C": "Automatically a critical limit",
+        "D": "A verification record"
+      }
+    },
+    {
+      "id": "FSN421-Q098",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "CCP decision tree",
+      "difficulty": "Hard",
+      "question_type": "Scenario",
+      "question": "If no control measure exists at a process step where control is necessary for safety, what does the module’s decision-tree explanation require?",
+      "options": {
+        "A": "Declare the hazard acceptable without control",
+        "B": "Modify the step, process or product to introduce a control measure",
+        "C": "Automatically classify the step as a PRP",
+        "D": "Wait for end-product testing to detect the hazard"
+      }
+    },
+    {
+      "id": "FSN421-Q099",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "CCP versus PRP examples",
+      "difficulty": "Moderate",
+      "question_type": "Classification",
+      "question": "Which is presented as a typical PRP example rather than a specific CCP?",
+      "options": {
+        "A": "A specified pasteurization time-temperature limit at a process step",
+        "B": "A metal detector control at a designated packaging CCP",
+        "C": "A plant-wide personnel hygiene training programme",
+        "D": "A specific critical pH limit at a designated CCP"
+      }
+    },
+    {
+      "id": "FSN421-Q100",
+      "module": "Module 6: HACCP System & Quality Assurance",
+      "topic": "HACCP documentation",
+      "difficulty": "Moderate",
+      "question_type": "Function",
+      "question": "Why are monitoring records important beyond documenting daily operations?",
+      "options": {
+        "A": "They replace hazard analysis",
+        "B": "They prove that every product unit was laboratory-tested",
+        "C": "They remove the need for corrective action",
+        "D": "They provide evidence of control at CCPs and support verification of the HACCP system"
+      }
+    }
+  ],
+  "answer_key": [
+    {
+      "question_id": "FSN421-Q001",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q002",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q003",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q004",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q005",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q006",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q007",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q008",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q009",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q010",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q011",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q012",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q013",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q014",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q015",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q016",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q017",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q018",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q019",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q020",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q021",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q022",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q023",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q024",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q025",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q026",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q027",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q028",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q029",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q030",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q031",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q032",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q033",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q034",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q035",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q036",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q037",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q038",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q039",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q040",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q041",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q042",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q043",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q044",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q045",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q046",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q047",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q048",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q049",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q050",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q051",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q052",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q053",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q054",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q055",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q056",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q057",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q058",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q059",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q060",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q061",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q062",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q063",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q064",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q065",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q066",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q067",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q068",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q069",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q070",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q071",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q072",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q073",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q074",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q075",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q076",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q077",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q078",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q079",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q080",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q081",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q082",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q083",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q084",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q085",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q086",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q087",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q088",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q089",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q090",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q091",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q092",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q093",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q094",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q095",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q096",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSN421-Q097",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSN421-Q098",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSN421-Q099",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSN421-Q100",
+      "correct_option": "D"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "question_id": "FSN421-Q001",
+      "correct_option": "A",
+      "correct_answer": "A biological, chemical or physical agent in food, or a condition of food, with the potential to cause an adverse health effect",
+      "detailed_explanation": "The manual reproduces the Codex formulation: a hazard is an agent or condition with the potential to cause an adverse health effect. The word “potential” matters; actual illness need not already have occurred.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Any defect that reduces the commercial value of food.",
+        "C": "This option does not match the concept or fact tested: Any organism that causes visible spoilage.",
+        "D": "This option does not match the concept or fact tested: Only a chemical contaminant present above a legal limit."
+      }
+    },
+    {
+      "question_id": "FSN421-Q002",
+      "correct_option": "B",
+      "correct_answer": "Toxicity is the capacity to cause harm; hazard depends on the circumstances of exposure and use",
+      "detailed_explanation": "The manual treats toxicity as an intrinsic capacity of a substance and hazard as contextual, affected by dose, exposure route and conditions of use. A toxic substance may pose a low practical hazard when appropriately controlled.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Toxicity and hazard are interchangeable terms.",
+        "C": "This option does not match the concept or fact tested: Hazard is an intrinsic property, while toxicity depends only on food price.",
+        "D": "This option does not match the concept or fact tested: Toxicity applies only to biological agents."
+      }
+    },
+    {
+      "question_id": "FSN421-Q003",
+      "correct_option": "C",
+      "correct_answer": "Rodent droppings or visible insect larvae",
+      "detailed_explanation": "Macro-biological hazards are visible pests or pest-related matter such as larvae, adult insects, rodent droppings and hair. Salmonella is microbiological; aflatoxin and mercury are chemical hazards.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Salmonella cells.",
+        "B": "This option does not match the concept or fact tested: Aflatoxin.",
+        "D": "This option does not match the concept or fact tested: Mercury."
+      }
+    },
+    {
+      "question_id": "FSN421-Q004",
+      "correct_option": "D",
+      "correct_answer": "Viruses may survive in food and be transmitted through it, but do not multiply in food",
+      "detailed_explanation": "The module identifies viruses as microbiological hazards that can survive in food and transmit by the faecal–oral route, but do not multiply in food itself.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Viruses multiply rapidly in all refrigerated foods.",
+        "B": "This option does not match the concept or fact tested: Viruses are classified as physical hazards.",
+        "C": "This option does not match the concept or fact tested: Viruses can only be transmitted through cooked food."
+      }
+    },
+    {
+      "question_id": "FSN421-Q005",
+      "correct_option": "A",
+      "correct_answer": "Environmental pollutant chemical hazards",
+      "detailed_explanation": "The module lists Pb, Hg, As and Cd as heavy-metal environmental pollutants. It links their entry to industrial discharge and accumulation through the food chain.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Physical hazards.",
+        "C": "This option does not match the concept or fact tested: Macro-biological hazards.",
+        "D": "This option does not match the concept or fact tested: Food quality indicators."
+      }
+    },
+    {
+      "question_id": "FSN421-Q006",
+      "correct_option": "B",
+      "correct_answer": "Glass, wood, stones and metal fragments",
+      "detailed_explanation": "Glass, wood, stones and metal are listed as physical materials capable of causing injury, choking or dental damage. The other options mix chemical and biological hazards.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Aflatoxin, glass, Salmonella and wood.",
+        "C": "This option does not match the concept or fact tested: Mercury, cadmium, stones and yeast.",
+        "D": "This option does not match the concept or fact tested: Pesticides, allergens, viruses and metal."
+      }
+    },
+    {
+      "question_id": "FSN421-Q007",
+      "correct_option": "C",
+      "correct_answer": "Milk, egg, fish and peanuts",
+      "detailed_explanation": "The uploaded module lists milk, egg, fish, crustacean shellfish, tree nuts, wheat, peanuts and soybeans. The correct option contains four members of that list.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Rice, maize, potato and banana.",
+        "B": "This option does not match the concept or fact tested: Milk, rice, yeast and sesame.",
+        "D": "This option does not match the concept or fact tested: Egg, wheat, tea and coffee."
+      }
+    },
+    {
+      "question_id": "FSN421-Q008",
+      "correct_option": "D",
+      "correct_answer": "Food intoxication",
+      "detailed_explanation": "Intoxication results from ingesting a toxin already present in food; multiplication or invasion by the organism in the consumer is not required. The module contrasts this with infection caused by live pathogens.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Food infection.",
+        "B": "This option does not match the concept or fact tested: Food allergy.",
+        "C": "This option does not match the concept or fact tested: Food spoilage without illness."
+      }
+    },
+    {
+      "question_id": "FSN421-Q009",
+      "correct_option": "A",
+      "correct_answer": "Ingestion of live pathogens followed by invasion and/or multiplication in the host",
+      "detailed_explanation": "Food infection involves live pathogenic organisms that invade or multiply in the host. Intoxication is caused by a pre-formed toxin and generally has a shorter onset.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Ingestion of a pre-formed toxin only.",
+        "C": "This option does not match the concept or fact tested: No involvement of a living pathogen at any stage.",
+        "D": "This option does not match the concept or fact tested: A universally shorter incubation period."
+      }
+    },
+    {
+      "question_id": "FSN421-Q010",
+      "correct_option": "B",
+      "correct_answer": "Staphylococcus aureus — enterotoxin",
+      "detailed_explanation": "The manual lists Staphylococcus aureus enterotoxin, Clostridium botulinum toxin and Bacillus cereus toxin as classic intoxication examples. Salmonella is used as a food-infection example.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Salmonella — pre-formed enterotoxin.",
+        "C": "This option does not match the concept or fact tested: Lactobacillus — botulinum neurotoxin.",
+        "D": "This option does not match the concept or fact tested: Saccharomyces — tetanus toxin."
+      }
+    },
+    {
+      "question_id": "FSN421-Q011",
+      "correct_option": "C",
+      "correct_answer": "Two or more similar illness cases linked to a common food source, or cases exceeding the expected baseline",
+      "detailed_explanation": "The source gives two alternatives: at least two similar cases from a common food source, or observed cases above the expected baseline. It does not impose a ten-case threshold.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Any single case of indigestion after a meal.",
+        "B": "This option does not match the concept or fact tested: Only ten or more cases occurring in different districts.",
+        "D": "This option does not match the concept or fact tested: Only laboratory-confirmed cases caused by viruses."
+      }
+    },
+    {
+      "question_id": "FSN421-Q012",
+      "correct_option": "D",
+      "correct_answer": "Cross-contamination",
+      "detailed_explanation": "The manual describes cross-contamination as transfer between raw and ready-to-eat foods through shared equipment or utensils without adequate washing and disinfection.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Chemical bioaccumulation.",
+        "B": "This option does not match the concept or fact tested: Pre-formed toxin formation by definition.",
+        "C": "This option does not match the concept or fact tested: Food irradiation."
+      }
+    },
+    {
+      "question_id": "FSN421-Q013",
+      "correct_option": "A",
+      "correct_answer": "Keep clean; separate raw and cooked; cook thoroughly; keep at safe temperatures; use safe water and raw materials",
+      "detailed_explanation": "The five keys are exactly those five operational principles. The distractors replace them with preservation methods or unrelated practices.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Keep cold; add preservatives; wash once; freeze all food; use glass containers.",
+        "C": "This option does not match the concept or fact tested: Inspect labels; irradiate; ferment; dry; vacuum-pack.",
+        "D": "This option does not match the concept or fact tested: Separate cooked foods; add salt; boil water; freeze meat; use metal utensils."
+      }
+    },
+    {
+      "question_id": "FSN421-Q014",
+      "correct_option": "B",
+      "correct_answer": "Below 5°C",
+      "detailed_explanation": "The source says cooked food should be refrigerated promptly, preferably below 5°C, while hot-held cooked food should be kept above 60°C. These are distinct controls.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: At 10–15°C.",
+        "C": "This option does not match the concept or fact tested: At 20°C.",
+        "D": "This option does not match the concept or fact tested: At or above 60°C."
+      }
+    },
+    {
+      "question_id": "FSN421-Q015",
+      "correct_option": "C",
+      "correct_answer": "Keep food at safe temperatures",
+      "detailed_explanation": "The manual advises not leaving cooked food at room temperature for more than two hours and emphasizes prompt refrigeration or hot holding.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Use safe water and raw materials.",
+        "B": "This option does not match the concept or fact tested: Separate raw and cooked foods.",
+        "D": "This option does not match the concept or fact tested: Keep clean."
+      }
+    },
+    {
+      "question_id": "FSN421-Q016",
+      "correct_option": "D",
+      "correct_answer": "Absence of visible spoilage does not establish microbiological safety",
+      "detailed_explanation": "The manual explicitly warns that spoilage organisms and pathogenic organisms are not synonymous. Food may appear normal and still carry a biological hazard.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Normal appearance proves the food is safe.",
+        "B": "This option does not match the concept or fact tested: Only spoiled food can contain pathogens.",
+        "C": "This option does not match the concept or fact tested: Pathogens always produce visible colour changes."
+      }
+    },
+    {
+      "question_id": "FSN421-Q017",
+      "correct_option": "A",
+      "correct_answer": "Survives processing or storage and reaches the consumer at a harmful dose",
+      "detailed_explanation": "The chain runs from source to hazard entry, survival through processing/storage, consumer exposure at a sufficient dose, and adverse health effect. Control can break the chain at an earlier point.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Is detected in a laboratory.",
+        "C": "This option does not match the concept or fact tested: Is present only in the farm environment.",
+        "D": "This option does not match the concept or fact tested: Is removed before consumption."
+      }
+    },
+    {
+      "question_id": "FSN421-Q018",
+      "correct_option": "B",
+      "correct_answer": "Honey",
+      "detailed_explanation": "The module lists common salt, sugar, dextrose/glucose syrup, wood smoke, spices, vinegar/acetic acid and honey as Class I. Benzoates, sorbates and nitrites/nitrates are Class II.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Benzoic acid and its salts.",
+        "C": "This option does not match the concept or fact tested: Sorbic acid and its salts.",
+        "D": "This option does not match the concept or fact tested: Nitrites and nitrates."
+      }
+    },
+    {
+      "question_id": "FSN421-Q019",
+      "correct_option": "C",
+      "correct_answer": "Benzoic acid and salts; sulphites; nitrites/nitrates; sorbic acid and salts",
+      "detailed_explanation": "Class II includes benzoic acid and salts, sulphurous acid and sulphites, nitrites and nitrates, and sorbic acid and salts. Class I includes traditional substances such as salt, sugar and vinegar.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Honey; common salt; spices; wood smoke.",
+        "B": "This option does not match the concept or fact tested: Sugar; vinegar; glucose syrup; honey.",
+        "D": "This option does not match the concept or fact tested: Wood smoke; acetic acid; common salt; spices."
+      }
+    },
+    {
+      "question_id": "FSN421-Q020",
+      "correct_option": "D",
+      "correct_answer": "No. Benzoic acid and its salts are classified as Class II",
+      "detailed_explanation": "The source expressly warns that natural occurrence does not determine the statutory class. Benzoic acid and its salts are listed under Class II.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Yes. Any naturally occurring chemical is Class I.",
+        "B": "This option does not match the concept or fact tested: Yes, but only in beverages.",
+        "C": "This option does not match the concept or fact tested: No. Benzoic acid is a physical hazard."
+      }
+    },
+    {
+      "question_id": "FSN421-Q021",
+      "correct_option": "A",
+      "correct_answer": "Interrupt lipid free-radical chain reactions and delay oxidative rancidity",
+      "detailed_explanation": "Antioxidants donate hydrogen/electrons to reactive radicals and terminate or slow the oxidation chain. This helps prevent rancid off-flavours and associated quality deterioration.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Increase water activity to promote microbial growth.",
+        "C": "This option does not match the concept or fact tested: Convert all saturated fatty acids into proteins.",
+        "D": "This option does not match the concept or fact tested: Cause enzymatic browning."
+      }
+    },
+    {
+      "question_id": "FSN421-Q022",
+      "correct_option": "B",
+      "correct_answer": "BHA and BHT",
+      "detailed_explanation": "The module identifies tocopherols as natural antioxidants and BHA/BHT as synthetic antioxidants. Lecithin is an emulsifier; gelatin and PVP are clarifying agents.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Tocopherols and lecithin.",
+        "C": "This option does not match the concept or fact tested: Gelatin and PVP.",
+        "D": "This option does not match the concept or fact tested: Nisin and MSG."
+      }
+    },
+    {
+      "question_id": "FSN421-Q023",
+      "correct_option": "C",
+      "correct_answer": "Amphiphilic, with hydrophilic and lipophilic portions",
+      "detailed_explanation": "The module explains that an emulsifier sits at the oil–water interface because it has both water-loving and fat-loving regions. This reduces separation of the phases.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Entirely water-soluble and lacks affinity for oil.",
+        "B": "This option does not match the concept or fact tested: A microbial toxin.",
+        "D": "This option does not match the concept or fact tested: A substance that removes all water from food."
+      }
+    },
+    {
+      "question_id": "FSN421-Q024",
+      "correct_option": "D",
+      "correct_answer": "PVP (polyvinylpyrrolidone)",
+      "detailed_explanation": "The module names gelatin as a common beverage clarifier and PVP as a synthetic resin with selective affinity for polyphenols, helping remove chill haze.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Gelatin.",
+        "B": "This option does not match the concept or fact tested: Nisin.",
+        "C": "This option does not match the concept or fact tested: BHA."
+      }
+    },
+    {
+      "question_id": "FSN421-Q025",
+      "correct_option": "A",
+      "correct_answer": "Enhances and synergizes the flavour of other foods",
+      "detailed_explanation": "MSG is described as a flavour enhancer. It does not itself provide a primary flavour profile in the same way as a conventional flavouring ingredient; it intensifies other flavours.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Acts as a high-intensity sweetener.",
+        "C": "This option does not match the concept or fact tested: Sterilizes low-acid canned foods.",
+        "D": "This option does not match the concept or fact tested: Removes heavy metals from food."
+      }
+    },
+    {
+      "question_id": "FSN421-Q026",
+      "correct_option": "B",
+      "correct_answer": "To maintain free flow by controlling moisture, coating particles or acting as an insoluble diluent",
+      "detailed_explanation": "The module describes three mechanisms: absorb excess moisture, coat particles to repel water, or act as an insoluble particulate diluent so powders remain free-flowing.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: To increase microbial growth rate.",
+        "C": "This option does not match the concept or fact tested: To convert oil-in-water emulsions to proteins.",
+        "D": "This option does not match the concept or fact tested: To produce a pre-formed toxin."
+      }
+    },
+    {
+      "question_id": "FSN421-Q027",
+      "correct_option": "C",
+      "correct_answer": "Gram-positive organisms, including spore-formers",
+      "detailed_explanation": "The source identifies nisin as a polypeptide antibiotic produced by streptococci, active against Gram-positive organisms and useful against outgrowth of Clostridium botulinum in processed cheese.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Gram-negative organisms only.",
+        "B": "This option does not match the concept or fact tested: Viruses only.",
+        "D": "This option does not match the concept or fact tested: All fungi and protozoa equally."
+      }
+    },
+    {
+      "question_id": "FSN421-Q028",
+      "correct_option": "D",
+      "correct_answer": "Cured-colour stabilization and inhibition of Clostridium botulinum",
+      "detailed_explanation": "The manual highlights both colour stabilization in cured meat and anti-botulinal action. These are separate but important technological functions.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Sweetness enhancement and yeast fermentation.",
+        "B": "This option does not match the concept or fact tested: Emulsification and clarification.",
+        "C": "This option does not match the concept or fact tested: Removal of cyanogenic glycosides."
+      }
+    },
+    {
+      "question_id": "FSN421-Q029",
+      "correct_option": "A",
+      "correct_answer": "α-Chaconine and α-solanine",
+      "detailed_explanation": "The module identifies α-chaconine and α-solanine as the key potato glycoalkaloids and gives a combined safety limit of 200 mg/kg in its study notes.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Linamarin and amygdalin.",
+        "C": "This option does not match the concept or fact tested: BHA and BHT.",
+        "D": "This option does not match the concept or fact tested: Glucosinolates and cucurbitacins."
+      }
+    },
+    {
+      "question_id": "FSN421-Q030",
+      "correct_option": "B",
+      "correct_answer": "Peeling is the most effective listed measure; ordinary cooking does not significantly destroy the compounds",
+      "detailed_explanation": "The source describes glycoalkaloids as relatively heat-stable and says baking, cooking and frying do not significantly reduce them. Peeling removes some of the toxin-rich outer layers, but not necessarily all.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Frying completely destroys all glycoalkaloids.",
+        "C": "This option does not match the concept or fact tested: Boiling guarantees total removal.",
+        "D": "This option does not match the concept or fact tested: Refrigeration converts glycoalkaloids into harmless sugars."
+      }
+    },
+    {
+      "question_id": "FSN421-Q031",
+      "correct_option": "C",
+      "correct_answer": "Linamarin",
+      "detailed_explanation": "The source pairs linamarin with cassava and amygdalin with stone-fruit pits. Tissue disruption allows endogenous enzymes to release hydrogen cyanide from cyanogenic glycosides.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Amygdalin.",
+        "B": "This option does not match the concept or fact tested: α-Solanine.",
+        "D": "This option does not match the concept or fact tested: Tomatine."
+      }
+    },
+    {
+      "question_id": "FSN421-Q032",
+      "correct_option": "D",
+      "correct_answer": "Endogenous β-glycosidase",
+      "detailed_explanation": "The substrate and plant enzyme are normally compartmentalized. Chopping, grinding or chewing brings them together; endogenous β-glycosidase hydrolyses the glycoside, leading to cyanohydrin and HCN release.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Exogenous pepsin added during cooking.",
+        "B": "This option does not match the concept or fact tested: Catalase from animal tissue.",
+        "C": "This option does not match the concept or fact tested: Amylase from yeast only."
+      }
+    },
+    {
+      "question_id": "FSN421-Q033",
+      "correct_option": "A",
+      "correct_answer": "Carbohydrate-binding glycoproteins that can interact with gut mucosal receptors",
+      "detailed_explanation": "The manual describes lectins/haemagglutinins as carbohydrate-binding glycoproteins, especially relevant in legumes. It discusses their potential to disturb gut mucosal function and nutrient absorption.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Steroidal pigments found only in citrus peel.",
+        "C": "This option does not match the concept or fact tested: Volatile gases produced by yeasts.",
+        "D": "This option does not match the concept or fact tested: Synthetic preservatives used in cured meat."
+      }
+    },
+    {
+      "question_id": "FSN421-Q034",
+      "correct_option": "B",
+      "correct_answer": "Glycoalkaloids — Solanaceae",
+      "detailed_explanation": "The source pairs glycoalkaloids with Solanaceae, glucosinolates with Cruciferae, cucurbitacins with Cucurbitaceae and lectins with Leguminosae.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Glucosinolates — Cucurbitaceae.",
+        "C": "This option does not match the concept or fact tested: Cucurbitacins — Cruciferae.",
+        "D": "This option does not match the concept or fact tested: Lectins — Umbelliferae."
+      }
+    },
+    {
+      "question_id": "FSN421-Q035",
+      "correct_option": "C",
+      "correct_answer": "7°C or below, although their optimum is higher (about 20–30°C)",
+      "detailed_explanation": "The defining feature is ability to grow at refrigeration temperatures, not an optimum at refrigeration temperature. The source gives an optimum of 20–30°C while noting growth at 7°C or below.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Only at −20°C.",
+        "B": "This option does not match the concept or fact tested: Only above 55°C.",
+        "D": "This option does not match the concept or fact tested: Only between 30°C and 40°C."
+      }
+    },
+    {
+      "question_id": "FSN421-Q036",
+      "correct_option": "D",
+      "correct_answer": "55–65°C",
+      "detailed_explanation": "The source gives thermophiles a growth range beginning around 45°C and an optimum of 55–65°C. The other ranges correspond to psychrotrophs and mesophiles.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: 20–30°C.",
+        "B": "This option does not match the concept or fact tested: 30–40°C.",
+        "C": "This option does not match the concept or fact tested: 0–7°C."
+      }
+    },
+    {
+      "question_id": "FSN421-Q037",
+      "correct_option": "A",
+      "correct_answer": "Psychrotrophic organisms may continue to grow slowly at chill temperatures",
+      "detailed_explanation": "The manual states that refrigeration slows microbial growth and can lengthen lag phase, but psychrotrophs can remain active at low temperatures. Thus, chilled shelf life remains finite.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: All microorganisms are destroyed at 5°C.",
+        "C": "This option does not match the concept or fact tested: Refrigeration raises food pH above neutrality.",
+        "D": "This option does not match the concept or fact tested: Refrigeration eliminates water activity."
+      }
+    },
+    {
+      "question_id": "FSN421-Q038",
+      "correct_option": "B",
+      "correct_answer": "4.6",
+      "detailed_explanation": "The source emphasizes pH 4.6 as the key technical cutoff associated with C. botulinum growth. Foods above this value are treated as low-acid in the manual’s discussion.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: 2.0.",
+        "C": "This option does not match the concept or fact tested: 3.5.",
+        "D": "This option does not match the concept or fact tested: 7.0."
+      }
+    },
+    {
+      "question_id": "FSN421-Q039",
+      "correct_option": "C",
+      "correct_answer": "pH greater than 4.6",
+      "detailed_explanation": "The module classifies low-acid foods as pH >4.6 and acid/high-acid foods as pH ≤4.6. The distinction is linked to control of C. botulinum outgrowth.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: pH equal to 2.0.",
+        "B": "This option does not match the concept or fact tested: pH equal to or below 4.6.",
+        "D": "This option does not match the concept or fact tested: Water activity below 0.80 only."
+      }
+    },
+    {
+      "question_id": "FSN421-Q040",
+      "correct_option": "D",
+      "correct_answer": "The identity and dissociation behaviour of the acid affect antimicrobial action",
+      "detailed_explanation": "The manual explains that undissociated weak organic acid molecules such as acetic and lactic acid can penetrate microbial membranes and may inhibit more effectively than certain mineral acids at the same pH.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: All acids have identical membrane effects at a given pH.",
+        "B": "This option does not match the concept or fact tested: pH measures only the food’s fat content.",
+        "C": "This option does not match the concept or fact tested: Acid identity changes the food’s physical hazard category."
+      }
+    },
+    {
+      "question_id": "FSN421-Q041",
+      "correct_option": "A",
+      "correct_answer": "The fraction of water available for microbial metabolic activity",
+      "detailed_explanation": "The module distinguishes water activity from total moisture. Water bound by solutes or food structures is less available; aw ranges from 0 to 1, with pure water at 1.0.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Total water content expressed only as grams.",
+        "C": "This option does not match the concept or fact tested: The amount of dissolved oxygen in food.",
+        "D": "This option does not match the concept or fact tested: The acidity of the food."
+      }
+    },
+    {
+      "question_id": "FSN421-Q042",
+      "correct_option": "B",
+      "correct_answer": "As low as 0.80",
+      "detailed_explanation": "The source gives most spoilage bacteria as growing above aw 0.91 and filamentous fungi as capable of growth down to aw 0.80. Fungi tolerate lower aw than most bacteria.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Above 0.99 only.",
+        "C": "This option does not match the concept or fact tested: Above 0.91 only.",
+        "D": "This option does not match the concept or fact tested: Exactly 1.00."
+      }
+    },
+    {
+      "question_id": "FSN421-Q043",
+      "correct_option": "C",
+      "correct_answer": "Gram-negative bacteria generally require more aw than Gram-positive bacteria, which require more than fungi",
+      "detailed_explanation": "The uploaded module gives the general ordering Gram-negative bacteria > Gram-positive bacteria > fungi in terms of minimum aw required. This is a comparative generalization, not an absolute for every species.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Fungi require more aw than Gram-negative bacteria.",
+        "B": "This option does not match the concept or fact tested: All bacteria and fungi have identical aw requirements.",
+        "D": "This option does not match the concept or fact tested: Gram-positive bacteria require more aw than Gram-negative bacteria and fungi."
+      }
+    },
+    {
+      "question_id": "FSN421-Q044",
+      "correct_option": "D",
+      "correct_answer": "Reducing available water and imposing osmotic stress on microorganisms",
+      "detailed_explanation": "Lowering aw reduces microbial growth rate and increases lag phase through osmotic stress. Salting, sugaring and drying exploit this principle.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Increasing the food’s oxygen content.",
+        "B": "This option does not match the concept or fact tested: Raising all foods to pH 7.",
+        "C": "This option does not match the concept or fact tested: Converting bacteria into viruses."
+      }
+    },
+    {
+      "question_id": "FSN421-Q045",
+      "correct_option": "A",
+      "correct_answer": "High in sugar or salt and/or low in pH",
+      "detailed_explanation": "The manual explains that yeasts tolerate selective environments such as high sugar/salt and low pH, where competing bacteria may be disadvantaged. This is important in fruit and vegetable spoilage.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Always neutral in pH and high in available oxygen only.",
+        "C": "This option does not match the concept or fact tested: Sterile and completely dry.",
+        "D": "This option does not match the concept or fact tested: High in heavy metals."
+      }
+    },
+    {
+      "question_id": "FSN421-Q046",
+      "correct_option": "B",
+      "correct_answer": "Zygosaccharomyces and Candida",
+      "detailed_explanation": "The module lists Saccharomyces, Candida, Zygosaccharomyces, Debaryomyces, Rhodotorula and Pichia as key spoilage yeast genera. Aspergillus and Penicillium are mould genera, not the pair requested.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Salmonella and Clostridium.",
+        "C": "This option does not match the concept or fact tested: Aspergillus and Penicillium.",
+        "D": "This option does not match the concept or fact tested: Bacillus and Listeria."
+      }
+    },
+    {
+      "question_id": "FSN421-Q047",
+      "correct_option": "C",
+      "correct_answer": "They are obligate aerobes and can grow over a wide range of pH, temperature and water activity",
+      "detailed_explanation": "The manual describes filamentous fungi as obligate aerobes with broad environmental tolerance and the ability to grow at aw as low as 0.80. They can spoil grains, meats, milk, fruits, vegetables and high-fat products.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: They are strict anaerobes.",
+        "B": "This option does not match the concept or fact tested: They cannot grow on high-fat foods.",
+        "D": "This option does not match the concept or fact tested: They require aw above 0.99 in all cases."
+      }
+    },
+    {
+      "question_id": "FSN421-Q048",
+      "correct_option": "D",
+      "correct_answer": "Prevent access, remove cells/spores, inhibit growth, and inactivate",
+      "detailed_explanation": "The source’s control framework groups strategies into preventing entry, removing microorganisms, inhibiting growth through conditions such as temperature/pH/aw, and inactivating by thermal or non-thermal methods.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Colour, sweeten, emulsify and clarify.",
+        "B": "This option does not match the concept or fact tested: Inspect, label, advertise and distribute.",
+        "C": "This option does not match the concept or fact tested: Increase pH, increase aw, add oxygen and warm."
+      }
+    },
+    {
+      "question_id": "FSN421-Q049",
+      "correct_option": "A",
+      "correct_answer": "Water activity",
+      "detailed_explanation": "Intrinsic factors are food-inherent, including pH, water activity, redox potential and nutrient composition. Extrinsic factors are imposed by the storage environment, such as temperature and atmosphere.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Storage atmosphere.",
+        "C": "This option does not match the concept or fact tested: Warehouse temperature.",
+        "D": "This option does not match the concept or fact tested: External packaging conditions."
+      }
+    },
+    {
+      "question_id": "FSN421-Q050",
+      "correct_option": "B",
+      "correct_answer": "Hurdle technology",
+      "detailed_explanation": "The module explains that combining barriers such as low pH and reduced aw can produce synergistic control of microbial growth. This multi-barrier approach is known as hurdle technology.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Bioaccumulation.",
+        "C": "This option does not match the concept or fact tested: Food irradiation only.",
+        "D": "This option does not match the concept or fact tested: Cross-contamination."
+      }
+    },
+    {
+      "question_id": "FSN421-Q051",
+      "correct_option": "C",
+      "correct_answer": "Acetylene",
+      "detailed_explanation": "The source gives the reaction of calcium carbide with moisture as producing acetylene and calcium hydroxide. Acetylene is analogous to ethylene but is not the same compound.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Carbon dioxide.",
+        "B": "This option does not match the concept or fact tested: Ammonia.",
+        "D": "This option does not match the concept or fact tested: Hydrogen sulphide."
+      }
+    },
+    {
+      "question_id": "FSN421-Q052",
+      "correct_option": "D",
+      "correct_answer": "It produces superficial colour change without equivalent internal ripening and may carry toxic contaminants",
+      "detailed_explanation": "The manual states that acetylene can trigger surface-level ripening signals, while internal development is not equivalent. It also notes possible arsenic and phosphorus-hydride contamination in industrial-grade carbide.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: It produces no gas at all.",
+        "B": "This option does not match the concept or fact tested: It is identical to regulated ethylene and only acts more slowly.",
+        "C": "This option does not match the concept or fact tested: It sterilizes the fruit interior."
+      }
+    },
+    {
+      "question_id": "FSN421-Q053",
+      "correct_option": "A",
+      "correct_answer": "Ethephon",
+      "detailed_explanation": "The module contrasts banned calcium carbide with ethephon/ethylene, describing ethephon as releasing actual ethylene under regulated application.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Calcium carbide.",
+        "C": "This option does not match the concept or fact tested: Malachite green.",
+        "D": "This option does not match the concept or fact tested: Formaldehyde."
+      }
+    },
+    {
+      "question_id": "FSN421-Q054",
+      "correct_option": "B",
+      "correct_answer": "Strictly prohibited, with no tolerance limit",
+      "detailed_explanation": "The source characterizes calcium carbide as prohibited outright, not as an additive with a permitted maximum residue limit. Questions should distinguish prohibition from a capped allowance.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Permitted up to 1% in all fruits.",
+        "C": "This option does not match the concept or fact tested: Permitted under GMP without labelling.",
+        "D": "This option does not match the concept or fact tested: Permitted only for citrus fruits."
+      }
+    },
+    {
+      "question_id": "FSN421-Q055",
+      "correct_option": "C",
+      "correct_answer": "Moistened white blotting-paper test",
+      "detailed_explanation": "The manual states that malachite green colour transfers onto moistened white blotting paper. It is associated with artificial enhancement of green colour in vegetables.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Iodine test.",
+        "B": "This option does not match the concept or fact tested: Biuret test.",
+        "D": "This option does not match the concept or fact tested: Benedict’s test."
+      }
+    },
+    {
+      "question_id": "FSN421-Q056",
+      "correct_option": "D",
+      "correct_answer": "Dipping green vegetables to make them appear greener or fresher",
+      "detailed_explanation": "Copper sulphate is listed for green vegetables such as bitter gourd and lady finger. The source describes colour enhancement and possible health effects from prolonged exposure.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Injecting watermelons to increase sweetness.",
+        "B": "This option does not match the concept or fact tested: Ripening bananas by releasing ethylene.",
+        "C": "This option does not match the concept or fact tested: Whitening milk."
+      }
+    },
+    {
+      "question_id": "FSN421-Q057",
+      "correct_option": "A",
+      "correct_answer": "Lead chromate",
+      "detailed_explanation": "The module’s toxicant table links lead chromate with colour enhancement in watermelons/fruits and neurotoxic effects. The other options have different uses or are not listed as this neurotoxic dye.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Malachite green.",
+        "C": "This option does not match the concept or fact tested: Saccharin.",
+        "D": "This option does not match the concept or fact tested: Carnauba wax."
+      }
+    },
+    {
+      "question_id": "FSN421-Q058",
+      "correct_option": "B",
+      "correct_answer": "Sudan red",
+      "detailed_explanation": "The source associates Sudan red with red-colour enhancement in watermelon/fruits and carcinogenic and stomach-related concerns.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Copper sulphate.",
+        "C": "This option does not match the concept or fact tested: Ethephon.",
+        "D": "This option does not match the concept or fact tested: Shellac wax."
+      }
+    },
+    {
+      "question_id": "FSN421-Q059",
+      "correct_option": "C",
+      "correct_answer": "Cabbage heads — freshness extension",
+      "detailed_explanation": "The source describes formaldehyde being sprayed or applied to the cut stem of cabbage heads to extend apparent freshness. It identifies carcinogenic and irritant concerns.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Green chillies — sweetness enhancement.",
+        "B": "This option does not match the concept or fact tested: Potatoes — removal of glycoalkaloids.",
+        "D": "This option does not match the concept or fact tested: Citrus fruits — natural waxing."
+      }
+    },
+    {
+      "question_id": "FSN421-Q060",
+      "correct_option": "D",
+      "correct_answer": "Oxytocin is a mammalian hormone, not a legitimate plant growth hormone",
+      "detailed_explanation": "The manual distinguishes mammalian oxytocin from genuine plant growth regulators such as gibberellic acid or NAA. It lists bottle gourd, bitter gourd, pumpkin and cucumber among the commodities associated with misuse.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Oxytocin is a naturally occurring plant pigment.",
+        "B": "This option does not match the concept or fact tested: Oxytocin is an approved fruit wax.",
+        "C": "This option does not match the concept or fact tested: Oxytocin is the same substance as ethylene."
+      }
+    },
+    {
+      "question_id": "FSN421-Q061",
+      "correct_option": "A",
+      "correct_answer": "Carnauba wax, beeswax and shellac wax",
+      "detailed_explanation": "The manual lists carnauba wax, beeswax (white and yellow) and shellac wax as approved waxes under GMP. It contrasts these with petroleum-based waxes and states that mineral oil is not permitted on fresh produce.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Mineral oil, paraffin and petroleum jelly.",
+        "C": "This option does not match the concept or fact tested: Malachite green, beeswax and Sudan red.",
+        "D": "This option does not match the concept or fact tested: Calcium carbide, shellac and formaldehyde."
+      }
+    },
+    {
+      "question_id": "FSN421-Q062",
+      "correct_option": "B",
+      "correct_answer": "Carnauba palm tree",
+      "detailed_explanation": "The source table pairs carnauba wax with the carnauba palm, beeswax with bee secretion and shellac wax with the lac insect/beetle.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Honeybee secretion.",
+        "C": "This option does not match the concept or fact tested: Lac insect secretion.",
+        "D": "This option does not match the concept or fact tested: Petroleum refining."
+      }
+    },
+    {
+      "question_id": "FSN421-Q063",
+      "correct_option": "C",
+      "correct_answer": "Secretion of the lac insect/beetle",
+      "detailed_explanation": "The source explicitly gives shellac wax as a secretion of the lac insect/beetle. Beeswax and carnauba wax have different origins.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Carnauba palm leaves.",
+        "B": "This option does not match the concept or fact tested: Honeybee secretion.",
+        "D": "This option does not match the concept or fact tested: Industrial petroleum distillate."
+      }
+    },
+    {
+      "question_id": "FSN421-Q064",
+      "correct_option": "D",
+      "correct_answer": "Increasing the intrinsic protein content of the produce",
+      "detailed_explanation": "The module lists replacement of natural wax, reduced water loss and abrasion, influence on internal gas composition, improved appearance and shelf-life extension. It does not claim that waxing increases protein content.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Reducing water loss.",
+        "B": "This option does not match the concept or fact tested: Reducing surface abrasion.",
+        "C": "This option does not match the concept or fact tested: Extending shelf life and improving appearance."
+      }
+    },
+    {
+      "question_id": "FSN421-Q065",
+      "correct_option": "A",
+      "correct_answer": "Only the named food-grade waxes are permitted under GMP; mineral oil and colour are not permitted on fresh fruits and vegetables",
+      "detailed_explanation": "The source identifies carnauba, beeswax and shellac wax under GMP and warns against assuming all waxes or mineral oils are permitted. Because regulations can change, this item is source-based and should be checked against the current FSSAI text before treating it as a legal update.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: All mineral oils are permitted without restriction.",
+        "C": "This option does not match the concept or fact tested: Any petroleum wax is automatically food-grade.",
+        "D": "This option does not match the concept or fact tested: Food colours may be applied to fresh produce under GMP."
+      }
+    },
+    {
+      "question_id": "FSN421-Q066",
+      "correct_option": "B",
+      "correct_answer": "Ethephon/ethylene produces more uniform internal ripening and is associated with a longer shelf life",
+      "detailed_explanation": "The manual contrasts actual ethylene release from ethephon with acetylene from calcium carbide. It describes more genuine, uniform ripening and a better shelf-life profile for the regulated alternative.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Carbide produces more uniform internal ripening and longer shelf life.",
+        "C": "This option does not match the concept or fact tested: Both have identical mechanisms and legal status.",
+        "D": "This option does not match the concept or fact tested: Ethephon works by releasing acetylene."
+      }
+    },
+    {
+      "question_id": "FSN421-Q067",
+      "correct_option": "C",
+      "correct_answer": "The date on which the food becomes the product as described, with its identity/composition finalized",
+      "detailed_explanation": "The module distinguishes manufacture from packaging. Manufacture is when the food becomes the described product; packaging is when it is placed in the immediate container for sale.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: The date on which the product reaches the retailer.",
+        "B": "This option does not match the concept or fact tested: The date on which the consumer opens the package.",
+        "D": "This option does not match the concept or fact tested: The date on which the outer carton is printed."
+      }
+    },
+    {
+      "question_id": "FSN421-Q068",
+      "correct_option": "D",
+      "correct_answer": "The date on which the food is placed in the immediate container in which it will ultimately be sold",
+      "detailed_explanation": "The source defines packaging as placement in the immediate container intended for sale. This may occur later than manufacture.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: The date on which raw ingredients are harvested.",
+        "B": "This option does not match the concept or fact tested: The date on which the product is consumed.",
+        "C": "This option does not match the concept or fact tested: The date on which the batch is recalled."
+      }
+    },
+    {
+      "question_id": "FSN421-Q069",
+      "correct_option": "A",
+      "correct_answer": "The end of the period during which the food is fully marketable and retains its claimed qualities under stated storage conditions",
+      "detailed_explanation": "The source treats best-before as a quality/marketability marker. Food may remain safe beyond it, although quality may decline; it must not be sold if it has become unsafe.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: An unconditional declaration that the food becomes toxic the next day.",
+        "C": "This option does not match the concept or fact tested: The date after which sale is always prohibited regardless of safety.",
+        "D": "This option does not match the concept or fact tested: The date of manufacture."
+      }
+    },
+    {
+      "question_id": "FSN421-Q070",
+      "correct_option": "B",
+      "correct_answer": "Use-by/expiry marks the end of the estimated period after which the food should not be sold; best-before is primarily a quality marker",
+      "detailed_explanation": "The module emphasizes that best-before is not an automatic safety cutoff, while use-by/expiry is a sale cutoff under the described framework. Do not confuse the two concepts.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Best-before is always a stricter safety cutoff than use-by.",
+        "C": "This option does not match the concept or fact tested: Use-by is only a batch identification code.",
+        "D": "This option does not match the concept or fact tested: The two terms are always legally interchangeable."
+      }
+    },
+    {
+      "question_id": "FSN421-Q071",
+      "correct_option": "C",
+      "correct_answer": "Trace food through manufacture and identify it in distribution",
+      "detailed_explanation": "The source defines lot/code/batch number as numerals, letters or a combination used to trace food in manufacture and identify it in distribution.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Indicate the product’s vitamin content.",
+        "B": "This option does not match the concept or fact tested: Replace the date of expiry.",
+        "D": "This option does not match the concept or fact tested: Certify that the food is organic."
+      }
+    },
+    {
+      "question_id": "FSN421-Q072",
+      "correct_option": "D",
+      "correct_answer": "Food placed in a package so the contents cannot be changed without tampering and which is ready for sale to the consumer",
+      "detailed_explanation": "The key features are packaging that prevents alteration without tampering and readiness for sale to the consumer. Mere storage or freezing does not make food prepackaged.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Food wrapped loosely after the consumer selects it.",
+        "B": "This option does not match the concept or fact tested: Food stored in an open vessel for bulk sale only.",
+        "C": "This option does not match the concept or fact tested: Food that has been frozen, regardless of packaging."
+      }
+    },
+    {
+      "question_id": "FSN421-Q073",
+      "correct_option": "A",
+      "correct_answer": "Intended or likely to be displayed, presented, shown or examined by the customer under customary conditions",
+      "detailed_explanation": "The module defines PDP by how the package is normally displayed or examined by the customer. It is not simply any panel chosen by the manufacturer.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Always hidden at the bottom of the package.",
+        "C": "This option does not match the concept or fact tested: Used only by the manufacturer during production.",
+        "D": "This option does not match the concept or fact tested: Reserved exclusively for the batch number."
+      }
+    },
+    {
+      "question_id": "FSN421-Q074",
+      "correct_option": "B",
+      "correct_answer": "Is it safe now? What am I eating? Who is accountable?",
+      "detailed_explanation": "The module’s first-principles framework groups label information into safety/date/allergen information, identity/ingredients/nutrition, and accountability/traceability details.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: How much profit? Which warehouse? Which machine?.",
+        "C": "This option does not match the concept or fact tested: Who transported it? What is the retailer’s margin? What is the colour?.",
+        "D": "This option does not match the concept or fact tested: How old is the shop? Who designed the logo? What is the shelf size?."
+      }
+    },
+    {
+      "question_id": "FSN421-Q075",
+      "correct_option": "C",
+      "correct_answer": "Vegetarian for the purpose of the described food-labelling classification",
+      "detailed_explanation": "The module specifically notes that milk and milk products are excluded from the non-vegetarian definition in the scheme it describes. Eggs are treated as non-vegetarian in that section.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Non-vegetarian solely because they are animal-derived.",
+        "B": "This option does not match the concept or fact tested: Neither vegetarian nor non-vegetarian.",
+        "D": "This option does not match the concept or fact tested: Non-vegetarian only when pasteurized."
+      }
+    },
+    {
+      "question_id": "FSN421-Q076",
+      "correct_option": "D",
+      "correct_answer": "Egg",
+      "detailed_explanation": "The module’s revision bank states that eggs are non-vegetarian, while milk and milk products are excluded from the non-vegetarian definition and therefore treated as vegetarian in that scheme.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Milk.",
+        "B": "This option does not match the concept or fact tested: Curd.",
+        "C": "This option does not match the concept or fact tested: Paneer."
+      }
+    },
+    {
+      "question_id": "FSN421-Q077",
+      "correct_option": "A",
+      "correct_answer": "Energy in kilocalories (kcal); protein, carbohydrate and fat in grams",
+      "detailed_explanation": "The source states that energy is declared in Kcal and protein, carbohydrate and fat in grams. Additional nutrient declarations depend on the relevant claim conditions described in the source.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Energy in grams; protein in kilocalories.",
+        "C": "This option does not match the concept or fact tested: All nutrients in milligrams only.",
+        "D": "This option does not match the concept or fact tested: Energy in litres; fat in percentage only."
+      }
+    },
+    {
+      "question_id": "FSN421-Q078",
+      "correct_option": "B",
+      "correct_answer": "When a nutrition or health claim is made for that nutrient, rather than unconditionally for every product",
+      "detailed_explanation": "The source explicitly rejects the claim that vitamins must always be declared regardless of claims. It describes additional nutrient declaration as relevant when a nutrition or health claim is made.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: On every food label regardless of claims.",
+        "C": "This option does not match the concept or fact tested: Only on glass bottles.",
+        "D": "This option does not match the concept or fact tested: Only when the food is imported."
+      }
+    },
+    {
+      "question_id": "FSN421-Q079",
+      "correct_option": "C",
+      "correct_answer": "Rusty containers",
+      "detailed_explanation": "The source lists rusty containers as unfit. It also notes restrictions on untinned copper or brass and a conformity requirement for plastic containers.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Clean, intact food-grade containers.",
+        "B": "This option does not match the concept or fact tested: Containers conforming to applicable standards.",
+        "D": "This option does not match the concept or fact tested: Suitable food-grade glass bottles."
+      }
+    },
+    {
+      "question_id": "FSN421-Q080",
+      "correct_option": "D",
+      "correct_answer": "Untinned copper or brass containers",
+      "detailed_explanation": "The module’s revision bank states that untinned copper or brass containers are prohibited. It also identifies rusty containers as unfit and plastic containers as subject to Indian Standards conformity requirements.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Food-grade stainless steel.",
+        "B": "This option does not match the concept or fact tested: Suitable glass containers.",
+        "C": "This option does not match the concept or fact tested: Compliant food-grade plastic."
+      }
+    },
+    {
+      "question_id": "FSN421-Q081",
+      "correct_option": "A",
+      "correct_answer": "They are subject to a mandatory conformity requirement with the relevant Indian Standards Specification (BIS)",
+      "detailed_explanation": "The module expressly marks as false the statement that plastic containers have no BIS conformity requirement. The exact current standard and amendments should be checked in the applicable FSSAI packaging framework.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: They are exempt from all conformity requirements.",
+        "C": "This option does not match the concept or fact tested: They may be made from any recycled plastic without restriction.",
+        "D": "This option does not match the concept or fact tested: They are prohibited for every food category."
+      }
+    },
+    {
+      "question_id": "FSN421-Q082",
+      "correct_option": "B",
+      "correct_answer": "0.5% as acetic acid",
+      "detailed_explanation": "The source gives a specific acidity condition of not more than 0.5% expressed as acetic acid for the stated can-use exception. This is a narrow commodity-and-container pairing.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: 0.05% as citric acid.",
+        "C": "This option does not match the concept or fact tested: 5% as lactic acid.",
+        "D": "This option does not match the concept or fact tested: 10% as acetic acid."
+      }
+    },
+    {
+      "question_id": "FSN421-Q083",
+      "correct_option": "C",
+      "correct_answer": "Check the current FSSAI Labelling and Display Regulations, 2020 and subsequent amendments before relying on the older citation",
+      "detailed_explanation": "FSSAI’s current regulations index lists the Labelling and Display Regulations, 2020 and subsequent amendments. The uploaded module contains older 2011 terminology, so current-law claims require checking the updated instrument.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Assume the 2011 regulations remain the only current labelling instrument.",
+        "B": "This option does not match the concept or fact tested: Ignore all later amendments.",
+        "D": "This option does not match the concept or fact tested: Treat the study note as a substitute for the current Gazette text."
+      }
+    },
+    {
+      "question_id": "FSN421-Q084",
+      "correct_option": "D",
+      "correct_answer": "End-product testing cannot provide near-total assurance without destructive testing of a very large number of units and may detect a problem too late",
+      "detailed_explanation": "The module explains that destructive testing of enough finished units would consume much of the product, while sampling may miss contamination and reveal it after distribution. HACCP controls hazards during processing.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: End-product testing always detects every unsafe unit.",
+        "B": "This option does not match the concept or fact tested: HACCP was designed to increase the number of finished-product defects.",
+        "C": "This option does not match the concept or fact tested: HACCP eliminates the need for monitoring."
+      }
+    },
+    {
+      "question_id": "FSN421-Q085",
+      "correct_option": "A",
+      "correct_answer": "Pillsbury Company",
+      "detailed_explanation": "The manual attributes the early-1960s practical development to Pillsbury in connection with NASA’s space-food needs. NACMCF is associated with later formalization of the seven principles.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Codex Alimentarius Commission.",
+        "C": "This option does not match the concept or fact tested: WHO.",
+        "D": "This option does not match the concept or fact tested: NACMCF."
+      }
+    },
+    {
+      "question_id": "FSN421-Q086",
+      "correct_option": "B",
+      "correct_answer": "NACMCF",
+      "detailed_explanation": "The source distinguishes Pillsbury’s early practical development in the 1960s from NACMCF’s formalization of the seven principles in 1985.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Pillsbury Company.",
+        "C": "This option does not match the concept or fact tested: FSSAI.",
+        "D": "This option does not match the concept or fact tested: WHO Regional Office for Europe."
+      }
+    },
+    {
+      "question_id": "FSN421-Q087",
+      "correct_option": "C",
+      "correct_answer": "Hair present in food without a demonstrated illness or injury mechanism",
+      "detailed_explanation": "The manual narrows HACCP hazards to conditions with potential to cause illness or injury. Hair, filth, spoilage and economic fraud are listed as undesirable defects unless a specific health or injury mechanism is demonstrated.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Salmonella capable of causing illness.",
+        "B": "This option does not match the concept or fact tested: A metal fragment capable of causing injury.",
+        "D": "This option does not match the concept or fact tested: A chemical contaminant capable of causing toxic effects."
+      }
+    },
+    {
+      "question_id": "FSN421-Q088",
+      "correct_option": "D",
+      "correct_answer": "Biological, chemical and physical",
+      "detailed_explanation": "The source applies the familiar tripartite hazard classification to HACCP: biological, chemical and physical hazards. The key is that the condition must have illness/injury potential.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Quality, economic and sensory.",
+        "B": "This option does not match the concept or fact tested: Nutritional, financial and legal.",
+        "C": "This option does not match the concept or fact tested: Microbial, thermal and packaging only."
+      }
+    },
+    {
+      "question_id": "FSN421-Q089",
+      "correct_option": "A",
+      "correct_answer": "Conduct a hazard analysis",
+      "detailed_explanation": "Principle 1 identifies and evaluates hazards that may be significant and need control. The source describes a worksheet organizing process step, hazard, evaluation result and justification.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Establish documentation and record-keeping.",
+        "C": "This option does not match the concept or fact tested: Establish corrective actions.",
+        "D": "This option does not match the concept or fact tested: Establish verification procedures."
+      }
+    },
+    {
+      "question_id": "FSN421-Q090",
+      "correct_option": "B",
+      "correct_answer": "Determine Critical Control Points (CCPs)",
+      "detailed_explanation": "The seven principles in the source place CCP determination second, after hazard analysis and before establishment of critical limits.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Establish critical limits.",
+        "C": "This option does not match the concept or fact tested: Conduct hazard analysis.",
+        "D": "This option does not match the concept or fact tested: Establish verification procedures."
+      }
+    },
+    {
+      "question_id": "FSN421-Q091",
+      "correct_option": "C",
+      "correct_answer": "Establishing critical limits",
+      "detailed_explanation": "A critical limit is the boundary used to ensure safe product at a CCP. It may involve one or more measurable parameters, such as time and temperature.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Establishing a prerequisite programme.",
+        "B": "This option does not match the concept or fact tested: Conducting a product recall.",
+        "D": "This option does not match the concept or fact tested: Establishing record retention only."
+      }
+    },
+    {
+      "question_id": "FSN421-Q092",
+      "correct_option": "D",
+      "correct_answer": "What, how, frequency and who",
+      "detailed_explanation": "The source lists the four monitoring elements as what characteristic is monitored, how it is measured, how often it is measured, and who is responsible.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Why, where, cost and profit.",
+        "B": "This option does not match the concept or fact tested: Product, package, price and retailer.",
+        "C": "This option does not match the concept or fact tested: Hazard, supplier, shelf life and colour."
+      }
+    },
+    {
+      "question_id": "FSN421-Q093",
+      "correct_option": "A",
+      "correct_answer": "Restore control and segregate, assess and determine the disposition of affected product",
+      "detailed_explanation": "Corrective actions must address the cause of loss of control and determine what happens to non-compliant product. Options listed include holding, diversion, reprocessing or destruction as appropriate.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Ignore the deviation if the final product looks normal.",
+        "C": "This option does not match the concept or fact tested: Change the label date and release all product.",
+        "D": "This option does not match the concept or fact tested: Record the deviation but take no action."
+      }
+    },
+    {
+      "question_id": "FSN421-Q094",
+      "correct_option": "B",
+      "correct_answer": "Validation is performed before implementation to establish scientific sufficiency; verification checks that the system continues to work",
+      "detailed_explanation": "The source describes validation as a pre-implementation component that substantiates the plan’s scientific basis. Verification is broader and ongoing, confirming continued effective operation.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Validation and verification are identical and both occur only once.",
+        "C": "This option does not match the concept or fact tested: Verification occurs only before implementation.",
+        "D": "This option does not match the concept or fact tested: Validation is a synonym for corrective action."
+      }
+    },
+    {
+      "question_id": "FSN421-Q095",
+      "correct_option": "C",
+      "correct_answer": "Retail advertising records",
+      "detailed_explanation": "The module lists HACCP-plan support documents, monitoring records, corrective-action records and verification records. Retail advertising records are not part of that four-category list.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: HACCP-plan support documents.",
+        "B": "This option does not match the concept or fact tested: Monitoring records.",
+        "D": "This option does not match the concept or fact tested: Corrective-action records."
+      }
+    },
+    {
+      "question_id": "FSN421-Q096",
+      "correct_option": "D",
+      "correct_answer": "A CCP is a specific process point controlling an identified significant hazard against a measurable critical limit; a PRP is a broad foundational programme",
+      "detailed_explanation": "The source describes CCPs as hazard- and process-point-specific, while PRPs such as GMP, GHP, sanitation and pest control establish general conditions for the HACCP system to function.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: A PRP always has a stricter critical limit than a CCP.",
+        "B": "This option does not match the concept or fact tested: A CCP is plant-wide and not linked to a hazard.",
+        "C": "This option does not match the concept or fact tested: A PRP is always a criminal enforcement action."
+      }
+    },
+    {
+      "question_id": "FSN421-Q097",
+      "correct_option": "A",
+      "correct_answer": "Not designated a CCP on that basis alone",
+      "detailed_explanation": "The decision tree asks whether a subsequent step will eliminate or reduce the hazard to an acceptable level. If yes, the earlier step is not designated a CCP merely because a control measure exists there.",
+      "why_other_options_are_incorrect": {
+        "B": "This option does not match the concept or fact tested: Automatically a CCP.",
+        "C": "This option does not match the concept or fact tested: Automatically a critical limit.",
+        "D": "This option does not match the concept or fact tested: A verification record."
+      }
+    },
+    {
+      "question_id": "FSN421-Q098",
+      "correct_option": "B",
+      "correct_answer": "Modify the step, process or product to introduce a control measure",
+      "detailed_explanation": "The source’s decision-tree branch directs the team to modify the process or product where control is necessary but no control measure exists. HACCP is preventive, so the gap must be addressed.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: Declare the hazard acceptable without control.",
+        "C": "This option does not match the concept or fact tested: Automatically classify the step as a PRP.",
+        "D": "This option does not match the concept or fact tested: Wait for end-product testing to detect the hazard."
+      }
+    },
+    {
+      "question_id": "FSN421-Q099",
+      "correct_option": "C",
+      "correct_answer": "A plant-wide personnel hygiene training programme",
+      "detailed_explanation": "The source lists personnel hygiene, sanitation, pest control and calibration as foundational PRPs. Specific process controls with measurable critical limits are examples of CCPs.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: A specified pasteurization time-temperature limit at a process step.",
+        "B": "This option does not match the concept or fact tested: A metal detector control at a designated packaging CCP.",
+        "D": "This option does not match the concept or fact tested: A specific critical pH limit at a designated CCP."
+      }
+    },
+    {
+      "question_id": "FSN421-Q100",
+      "correct_option": "D",
+      "correct_answer": "They provide evidence of control at CCPs and support verification of the HACCP system",
+      "detailed_explanation": "The manual links monitoring records to real-time detection of deviations and evidence that critical limits were met. They also feed into verification and documentation requirements.",
+      "why_other_options_are_incorrect": {
+        "A": "This option does not match the concept or fact tested: They replace hazard analysis.",
+        "B": "This option does not match the concept or fact tested: They prove that every product unit was laboratory-tested.",
+        "C": "This option does not match the concept or fact tested: They remove the need for corrective action."
+      }
+    }
+  ],
+  "quality_control": {
+    "valid_json_structure": true,
+    "question_count": 100,
+    "unique_question_ids": true,
+    "four_options_each": true,
+    "all_answers_match_options": true,
+    "answer_distribution_balanced": true,
+    "all_questions_have_explanations": true,
+    "important_limit": "Structural and answer-mapping checks are automated. Regulatory claims in the source manual, especially older labelling provisions, should be verified against the latest Gazette text before being treated as current law."
+  }
+}

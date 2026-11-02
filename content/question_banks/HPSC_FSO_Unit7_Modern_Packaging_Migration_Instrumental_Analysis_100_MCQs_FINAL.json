@@ -1,0 +1,2376 @@
+{
+  "metadata": {
+    "title": "HPSC FSO Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+    "source_file": "07_Modern_Packaging_Migration_Instrumental_Analysis.docx",
+    "source_basis": "Grounded in the uploaded 81-page handout. Terminology, numerical values, statutory references, mechanisms and highlighted HPSC EXAM TRAP callouts are used as the primary basis.",
+    "exam_orientation": {
+      "style": "HPSC-oriented technical MCQ practice with single-best-answer items, plausible distractors, factual recall, mechanisms, applications, numerical values and regulatory interpretation.",
+      "current_pattern_caveat": "The handout's opening exam-strategy section describes an earlier objective/descriptive pattern. Publicly reported HPSC revision dated 16 October 2026 distinguishes a 100-question objective Screening Test (if held; General Studies/Haryana GK syllabus) from a 150-mark descriptive Subject Knowledge Test. This technical MCQ bank is therefore for technical recall and concept checking, not a claim that the current technical SKT is an MCQ paper.",
+      "probability_note": "No question bank can guarantee or reliably quantify the probability of an item appearing. The set prioritises high-yield concepts and explicit trap callouts in the uploaded handout."
+    },
+    "structure": {
+      "total_questions": 100,
+      "options_per_question": 4,
+      "question_order": "All questions and options appear first; no answers are shown in this section.",
+      "answer_key_order": "Consolidated answer key follows all questions.",
+      "explanations_order": "Detailed explanations for every question follow the complete answer key."
+    },
+    "coverage": {
+      "barrier_science": 10,
+      "packaging_materials": 18,
+      "active_intelligent_MAP": 15,
+      "migration_chemistry_and_FSSAI_packaging_regulations": 18,
+      "instrumental_analysis": 18,
+      "proximate_analysis": 15,
+      "integrated_FSO_applications": 6
+    },
+    "high_priority_exam_traps": {
+      "covered": [
+        "solution–diffusion model and P = D × S",
+        "barrier paradox: polyolefins versus EVOH/nylon and PVDC",
+        "C-enamel versus R-enamel",
+        "thin aluminium foil pinholes and lamination",
+        "PVC versus PVDC",
+        "active versus intelligent packaging; TTI versus freshness indicator",
+        "overall migration versus specific migration",
+        "food simulant letter matching",
+        "newspaper prohibition and printed-surface contact",
+        "RID incompatibility with gradient elution",
+        "PDA/DAD versus fluorescence versus RID",
+        "FID versus ECD and 63Ni source",
+        "triple-quadrupole Q1/q2/Q3 roles",
+        "mercury cold-vapour AAS versus arsenic hydride-generation AAS",
+        "Kjeldahl measures nitrogen, not protein",
+        "ash temperature and crude-fibre acid/alkali sequence"
+      ],
+      "emphasis": "Highlighted HPSC EXAM TRAP callouts, statutory numbers, material/detector comparisons and procedural parameters receive deliberate weight."
+    },
+    "source_limitations": "Regulatory values and standards are reproduced as stated in the supplied handout; verify current amendments and official standards before enforcement use. Method-dependent values can vary with matrix and test conditions.",
+    "current_pattern_sources": [
+      {
+        "source": "HPSC scheme and syllabus notice (official PDF URL)",
+        "url": "https://hpsc.gov.in/Portals/0/Ann_Scheme_Pattern_Syllabus_FSO_16_10_2026.pdf"
+      },
+      {
+        "source": "HPSC notice withdrawing earlier syllabus (official PDF URL)",
+        "url": "https://hpsc.gov.in/Portals/0/Ann_withdraw_Syllabus_FSO_16_10_2026.pdf"
+      },
+      {
+        "source": "Secondary summary updated 29 October 2026",
+        "url": "https://sarkaripoint.com/hpsc-food-safety-officer-recruitment-2026-for-45-posts-advt-no-25-2026-online-form-re-open"
+      }
+    ],
+    "answer_distribution": {
+      "A": 25,
+      "B": 25,
+      "C": 25,
+      "D": 25
+    }
+  },
+  "questions": [
+    {
+      "id": "U7-Q001",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In the solution–diffusion model, the permeability coefficient (P) of a polymer film is expressed as:",
+      "options": {
+        "A": "D × S",
+        "B": "D ÷ S",
+        "C": "S ÷ D",
+        "D": "D + S"
+      }
+    },
+    {
+      "id": "U7-Q002",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which sequence correctly describes gas transport through a polymer film?",
+      "options": {
+        "A": "Diffusion → dissolution → desorption",
+        "B": "Dissolution → diffusion → desorption",
+        "C": "Desorption → diffusion → dissolution",
+        "D": "Adsorption → polymerisation → desorption"
+      }
+    },
+    {
+      "id": "U7-Q003",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Increasing polymer crystallinity generally reduces gas permeability because:",
+      "options": {
+        "A": "Crystallites provide additional diffusion channels",
+        "B": "Crystallites dissolve the permeant",
+        "C": "Crystallites are effectively impermeable and force a tortuous path through amorphous regions",
+        "D": "Crystallinity increases film thickness automatically"
+      }
+    },
+    {
+      "id": "U7-Q004",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which pairing correctly describes the usual barrier balance of polyolefins?",
+      "options": {
+        "A": "Poor oxygen barrier, good moisture barrier",
+        "B": "Good oxygen barrier, poor moisture barrier",
+        "C": "Excellent oxygen and moisture barrier",
+        "D": "Poor barrier to both oxygen and water vapour"
+      }
+    },
+    {
+      "id": "U7-Q005",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which polymer has an excellent oxygen barrier when dry but loses barrier performance markedly at high relative humidity?",
+      "options": {
+        "A": "HDPE",
+        "B": "EVOH",
+        "C": "LDPE",
+        "D": "PP"
+      }
+    },
+    {
+      "id": "U7-Q006",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Why is EVOH normally used as a core layer between polyolefin skins?",
+      "options": {
+        "A": "It is soluble in water and needs a water-soluble cover",
+        "B": "It has poor dry oxygen barrier",
+        "C": "It cannot adhere to any polymer",
+        "D": "The skins protect its humidity-sensitive core from moisture"
+      }
+    },
+    {
+      "id": "U7-Q007",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which common polymer is described in the handout as providing a strong barrier to both oxygen and water vapour, with less humidity sensitivity than EVOH?",
+      "options": {
+        "A": "PVDC",
+        "B": "LDPE",
+        "C": "PS",
+        "D": "EVA"
+      }
+    },
+    {
+      "id": "U7-Q008",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The WVTR is conventionally expressed in which unit in the handout?",
+      "options": {
+        "A": "mg/kg·day",
+        "B": "cm³/m²·day·atm",
+        "C": "g/m²·day",
+        "D": "ppm·hour"
+      }
+    },
+    {
+      "id": "U7-Q009",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The oxygen transmission rate (OTR) should be reported with relative humidity particularly for:",
+      "options": {
+        "A": "Aluminium foil",
+        "B": "HDPE",
+        "C": "Glass",
+        "D": "EVOH"
+      }
+    },
+    {
+      "id": "U7-Q010",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Barrier science",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about thickness and transmission rate is correct, all else being equal?",
+      "options": {
+        "A": "Transmission rate rises linearly with thickness",
+        "B": "Transmission rate is inversely proportional to thickness",
+        "C": "Thickness has no effect",
+        "D": "Transmission rate depends only on colour"
+      }
+    },
+    {
+      "id": "U7-Q011",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The approximate silica content of soda-lime-silica container glass is:",
+      "options": {
+        "A": "10–13%",
+        "B": "12–16%",
+        "C": "70–74%",
+        "D": "30–60%"
+      }
+    },
+    {
+      "id": "U7-Q012",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "In soda-lime glass, the principal role of soda (Na₂O) is to:",
+      "options": {
+        "A": "Lower the melting temperature as a flux",
+        "B": "Increase melting temperature",
+        "C": "Provide the principal network structure",
+        "D": "Absorb all ultraviolet radiation"
+      }
+    },
+    {
+      "id": "U7-Q013",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which glass type has a much lower coefficient of thermal expansion and therefore better thermal-shock resistance?",
+      "options": {
+        "A": "Soda-lime glass",
+        "B": "Borosilicate glass",
+        "C": "Lead-free crystal glass",
+        "D": "Amber soda glass"
+      }
+    },
+    {
+      "id": "U7-Q014",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The annealing lehr for formed glass containers is typically maintained around:",
+      "options": {
+        "A": "100–150 °C",
+        "B": "250–300 °C",
+        "C": "900–1000 °C",
+        "D": "550–600 °C"
+      }
+    },
+    {
+      "id": "U7-Q015",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Which instrument is used to assess residual stress in an annealed glass container?",
+      "options": {
+        "A": "Polariscope",
+        "B": "Refractometer",
+        "C": "Nephelometer",
+        "D": "Flame photometer"
+      }
+    },
+    {
+      "id": "U7-Q016",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In tinplate, the iron–tin alloy layer is commonly represented as:",
+      "options": {
+        "A": "Fe₂O₃",
+        "B": "SnCl₂",
+        "C": "FeSn₂",
+        "D": "Al₂O₃"
+      }
+    },
+    {
+      "id": "U7-Q017",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "C-enamel is especially suitable for:",
+      "options": {
+        "A": "Acid fruits and fruit juices",
+        "B": "Highly acidic pickles only",
+        "C": "Unlacquered citrus products",
+        "D": "Sulfur-bearing protein foods such as peas, corn, meat and fish"
+      }
+    },
+    {
+      "id": "U7-Q018",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "R-enamel (regular oleoresinous enamel) is generally preferred for:",
+      "options": {
+        "A": "Sulfur-rich meat products",
+        "B": "Acid fruits, juices and tomato products",
+        "C": "High-sulphide fish products only",
+        "D": "Foods requiring zinc-sulfide formation"
+      }
+    },
+    {
+      "id": "U7-Q019",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The principal reason for laminating aluminium foil below about 15 µm is:",
+      "options": {
+        "A": "It becomes water-soluble",
+        "B": "It melts at room temperature",
+        "C": "Its pinhole count rises sharply",
+        "D": "It becomes magnetic"
+      }
+    },
+    {
+      "id": "U7-Q020",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A typical retort pouch structure, from outside to inside, is:",
+      "options": {
+        "A": "BOPET / aluminium foil / CPP",
+        "B": "CPP / aluminium / PET",
+        "C": "Aluminium / PVC / paper",
+        "D": "LDPE / glassine / nylon"
+      }
+    },
+    {
+      "id": "U7-Q021",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "What is the function of the CPP layer in a conventional retort pouch?",
+      "options": {
+        "A": "Outer print layer",
+        "B": "Food-contact heat-seal layer that withstands retorting",
+        "C": "Oxygen-scavenging layer",
+        "D": "Rigid structural support"
+      }
+    },
+    {
+      "id": "U7-Q022",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why does a retort pouch generally heat faster than a conventional cylindrical can containing a conduction-heating food?",
+      "options": {
+        "A": "Its surface area is always lower",
+        "B": "It has a higher metal content",
+        "C": "It is processed without pressure",
+        "D": "It is a thin slab with a shorter conduction path"
+      }
+    },
+    {
+      "id": "U7-Q023",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly distinguishes PVC from PVDC?",
+      "options": {
+        "A": "PVC commonly raises plasticiser-migration concerns; PVDC is an excellent dual barrier",
+        "B": "PVC has excellent dual barrier; PVDC has moderate barrier",
+        "C": "Both are chemically identical",
+        "D": "PVDC is the usual rigid water bottle polymer"
+      }
+    },
+    {
+      "id": "U7-Q024",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Which polymer has the highest density among the common packaging polymers listed in the handout?",
+      "options": {
+        "A": "PP",
+        "B": "HDPE",
+        "C": "PVDC",
+        "D": "PET"
+      }
+    },
+    {
+      "id": "U7-Q025",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which polymer is the lightest among the common packaging polymers in the handout?",
+      "options": {
+        "A": "PET",
+        "B": "PVC",
+        "C": "PVDC",
+        "D": "PP"
+      }
+    },
+    {
+      "id": "U7-Q026",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The principal structural difference that gives HDPE higher density than LDPE is:",
+      "options": {
+        "A": "Greater long-chain branching",
+        "B": "Near-linear chains that pack more closely",
+        "C": "Higher chlorine content",
+        "D": "Greater plasticiser concentration"
+      }
+    },
+    {
+      "id": "U7-Q027",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "LLDPE is typically produced by:",
+      "options": {
+        "A": "High-pressure free-radical polymerisation only",
+        "B": "Condensation of terephthalic acid and ethylene glycol",
+        "C": "Copolymerising ethylene with an alpha-olefin using Ziegler–Natta or metallocene catalysts",
+        "D": "Hydrolysis of vinyl acetate without ethylene"
+      }
+    },
+    {
+      "id": "U7-Q028",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Packaging materials",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which PP form is commonly used as the inner sealant layer of retort pouches?",
+      "options": {
+        "A": "BOPP",
+        "B": "Foamed PP",
+        "C": "Metallised BOPP",
+        "D": "CPP"
+      }
+    },
+    {
+      "id": "U7-Q029",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Active packaging is best defined as packaging that:",
+      "options": {
+        "A": "Only displays product information",
+        "B": "Deliberately absorbs or releases substances to influence the food or its surrounding environment",
+        "C": "Has no interaction with the food system",
+        "D": "Only records the product's barcode"
+      }
+    },
+    {
+      "id": "U7-Q030",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Intelligent packaging primarily:",
+      "options": {
+        "A": "Changes the food composition",
+        "B": "Destroys all microorganisms",
+        "C": "Monitors and communicates the condition of food or its environment",
+        "D": "Replaces the need for food labelling"
+      }
+    },
+    {
+      "id": "U7-Q031",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A time–temperature indicator (TTI) is classified as:",
+      "options": {
+        "A": "Intelligent packaging",
+        "B": "Active packaging",
+        "C": "Modified atmosphere packaging",
+        "D": "Aseptic packaging"
+      }
+    },
+    {
+      "id": "U7-Q032",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is an active packaging component?",
+      "options": {
+        "A": "Freshness indicator label",
+        "B": "Oxygen scavenger sachet",
+        "C": "RFID tag",
+        "D": "Time–temperature indicator"
+      }
+    },
+    {
+      "id": "U7-Q033",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The iron-based oxygen scavenger works mainly through:",
+      "options": {
+        "A": "Reduction of oxygen to ozone",
+        "B": "Fermentation of glucose",
+        "C": "Photolysis of nitrogen",
+        "D": "Electrochemical oxidation (rusting) of iron"
+      }
+    },
+    {
+      "id": "U7-Q034",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "According to the handout, approximately how much oxygen can 1 g of finely divided iron absorb?",
+      "options": {
+        "A": "300 mL",
+        "B": "3 mL",
+        "C": "30 mL",
+        "D": "3 L"
+      }
+    },
+    {
+      "id": "U7-Q035",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Moisture-dependent iron oxygen scavengers generally require food water activity above approximately:",
+      "options": {
+        "A": "0.05",
+        "B": "0.25",
+        "C": "0.65",
+        "D": "0.99"
+      }
+    },
+    {
+      "id": "U7-Q036",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "A key operational concern when using iron-based oxygen-scavenger sachets on a line with metal detection is that:",
+      "options": {
+        "A": "Iron sachets are invisible to all detectors",
+        "B": "Iron sachets increase oxygen transmission",
+        "C": "Iron is chemically inert to oxygen",
+        "D": "The sachets may trigger the metal detector"
+      }
+    },
+    {
+      "id": "U7-Q037",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Silica gel removes moisture mainly by:",
+      "options": {
+        "A": "Chemical conversion of water to hydrogen",
+        "B": "Physical adsorption in micropores",
+        "C": "Oxidation of water",
+        "D": "Polymerisation of water"
+      }
+    },
+    {
+      "id": "U7-Q038",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which desiccant reaches very low humidity through size-selective adsorption in crystalline cages?",
+      "options": {
+        "A": "Calcium chloride",
+        "B": "Superabsorbent polyacrylate pad",
+        "C": "Molecular sieve",
+        "D": "Ethanol emitter"
+      }
+    },
+    {
+      "id": "U7-Q039",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Potassium permanganate ethylene absorbers are normally placed in sachets or filters rather than incorporated directly into food-contact films because:",
+      "options": {
+        "A": "KMnO₄ is strongly oxidising and toxic",
+        "B": "KMnO₄ is a food flavour",
+        "C": "KMnO₄ is volatile and harmless",
+        "D": "It cannot react with ethylene"
+      }
+    },
+    {
+      "id": "U7-Q040",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The purple-to-brown colour change in a potassium permanganate ethylene absorber indicates formation of:",
+      "options": {
+        "A": "Sodium chloride",
+        "B": "Manganese dioxide",
+        "C": "Calcium carbonate",
+        "D": "Ethylene glycol"
+      }
+    },
+    {
+      "id": "U7-Q041",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "1-methylcyclopropene (1-MCP) should be classified as:",
+      "options": {
+        "A": "An ethylene-absorbing sachet",
+        "B": "An oxygen scavenger",
+        "C": "A desiccant",
+        "D": "A ripening inhibitor that blocks ethylene action"
+      }
+    },
+    {
+      "id": "U7-Q042",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly describes modified atmosphere packaging (MAP)?",
+      "options": {
+        "A": "Air is replaced with a defined gas mixture at packing, without subsequent active control",
+        "B": "Gas composition is continuously maintained throughout storage",
+        "C": "It always uses pure nitrogen",
+        "D": "It is identical to controlled-atmosphere storage"
+      }
+    },
+    {
+      "id": "U7-Q043",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Active & intelligent packaging",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A freshness indicator differs from a TTI because it is designed to respond to:",
+      "options": {
+        "A": "Cumulative temperature history only",
+        "B": "Package weight only",
+        "C": "Spoilage-related metabolites or changes in the food environment",
+        "D": "The barcode format"
+      }
+    },
+    {
+      "id": "U7-Q044",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Migration from food-contact materials is fundamentally a process of:",
+      "options": {
+        "A": "Food moving into the polymer only",
+        "B": "Polymer combustion",
+        "C": "Microbial fermentation in the package",
+        "D": "Mass transfer from the material into food or simulant"
+      }
+    },
+    {
+      "id": "U7-Q045",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Which condition generally increases migration from a food-contact material?",
+      "options": {
+        "A": "Lower temperature and shorter contact time",
+        "B": "Higher temperature and longer contact time",
+        "C": "Lower food fat content in all cases",
+        "D": "Higher migrant molecular weight in every case"
+      }
+    },
+    {
+      "id": "U7-Q046",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Set-off migration refers to:",
+      "options": {
+        "A": "Migration caused only by sunlight",
+        "B": "Transfer of water from food to air",
+        "C": "Transfer of printing components from the printed outer surface to the food-contact side in a reel or stack",
+        "D": "Movement of metals during can welding"
+      }
+    },
+    {
+      "id": "U7-Q047",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A functional barrier is a layer that:",
+      "options": {
+        "A": "Reduces migration from layers behind it to below the relevant detection level, subject to restrictions",
+        "B": "Increases migration deliberately",
+        "C": "Allows any carcinogen behind it",
+        "D": "Replaces all migration testing in every case"
+      }
+    },
+    {
+      "id": "U7-Q048",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Overall migration (OM) measures:",
+      "options": {
+        "A": "Only one named migrant",
+        "B": "The total mass of non-volatile substances transferred to a food simulant",
+        "C": "Only heavy metals",
+        "D": "Only volatile ink components"
+      }
+    },
+    {
+      "id": "U7-Q049",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Specific migration (SM) measures:",
+      "options": {
+        "A": "The total mass of all migrants",
+        "B": "The thickness of the packaging",
+        "C": "The total moisture content of the food",
+        "D": "The amount of a particular named substance transferred"
+      }
+    },
+    {
+      "id": "U7-Q050",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The overall migration limit for plastics stated in the handout is:",
+      "options": {
+        "A": "60 mg/kg or 10 mg/dm²",
+        "B": "6 mg/kg or 1 mg/dm²",
+        "C": "200 mg/kg or 20 mg/dm²",
+        "D": "250 mg/kg or 25 mg/dm²"
+      }
+    },
+    {
+      "id": "U7-Q051",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The arithmetic relationship between 10 mg/dm² and 60 mg/kg is based on the assumed packaging contact area of:",
+      "options": {
+        "A": "1 dm² per kg food",
+        "B": "3 dm² per kg food",
+        "C": "6 dm² per kg food",
+        "D": "10 dm² per kg food"
+      }
+    },
+    {
+      "id": "U7-Q052",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about passing the overall migration test is correct?",
+      "options": {
+        "A": "It proves that every individual migrant is below its SML",
+        "B": "It makes specific migration testing unnecessary",
+        "C": "It proves that no NIAS are present",
+        "D": "It does not prove that a potent individual migrant is below its SML"
+      }
+    },
+    {
+      "id": "U7-Q053",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which food simulant is 3% acetic acid in water and represents acidic aqueous foods?",
+      "options": {
+        "A": "Simulant B",
+        "B": "Simulant A",
+        "C": "Simulant D1",
+        "D": "Simulant E"
+      }
+    },
+    {
+      "id": "U7-Q054",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Which simulant is based on 10% ethanol in water?",
+      "options": {
+        "A": "B",
+        "B": "D2",
+        "C": "A",
+        "D": "E"
+      }
+    },
+    {
+      "id": "U7-Q055",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which simulant represents fatty foods using a vegetable-oil simulant?",
+      "options": {
+        "A": "B",
+        "B": "C",
+        "C": "E",
+        "D": "D2"
+      }
+    },
+    {
+      "id": "U7-Q056",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which simulant is used for dry foods and is a solid simulant?",
+      "options": {
+        "A": "A",
+        "B": "E",
+        "C": "B",
+        "D": "D1"
+      }
+    },
+    {
+      "id": "U7-Q057",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The specific migration limit for DEHP stated in the handout is:",
+      "options": {
+        "A": "0.04 mg/kg",
+        "B": "0.5 mg/kg",
+        "C": "1.5 mg/kg",
+        "D": "25 mg/kg"
+      }
+    },
+    {
+      "id": "U7-Q058",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The specific migration limit for antimony stated in the handout is:",
+      "options": {
+        "A": "0.04 mg/kg",
+        "B": "1.5 mg/kg",
+        "C": "10 mg/kg",
+        "D": "60 mg/kg"
+      }
+    },
+    {
+      "id": "U7-Q059",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The FSS (Packaging) Regulations, 2018 were notified on:",
+      "options": {
+        "A": "1 July 2019",
+        "B": "24 December 2018",
+        "C": "1 January 2020",
+        "D": "16 October 2026"
+      }
+    },
+    {
+      "id": "U7-Q060",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Under the structure described in the handout, Schedule IV of the Packaging Regulations primarily covers:",
+      "options": {
+        "A": "Paper and paperboard",
+        "B": "Glass containers",
+        "C": "Metals and alloys",
+        "D": "Plastic materials and migration limits"
+      }
+    },
+    {
+      "id": "U7-Q061",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Migration & regulation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which Indian Standard is identified for testing overall migration?",
+      "options": {
+        "A": "IS 9845",
+        "B": "IS 9833",
+        "C": "IS 15495",
+        "D": "IS 7219"
+      }
+    },
+    {
+      "id": "U7-Q062",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Chromatography separates mixture components by differential partitioning between:",
+      "options": {
+        "A": "Two stationary phases",
+        "B": "Two detectors",
+        "C": "A stationary phase and a mobile phase",
+        "D": "A flame and a monochromator"
+      }
+    },
+    {
+      "id": "U7-Q063",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The retention factor k is defined as:",
+      "options": {
+        "A": "t₀/tR",
+        "B": "tR + t₀",
+        "C": "W/tR",
+        "D": "(tR − t₀)/t₀"
+      }
+    },
+    {
+      "id": "U7-Q064",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A chromatographic resolution (Rs) of approximately 1.5 generally indicates:",
+      "options": {
+        "A": "No separation",
+        "B": "Baseline separation",
+        "C": "Only partial injection",
+        "D": "Detector saturation"
+      }
+    },
+    {
+      "id": "U7-Q065",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In the van Deemter equation H = A + B/u + C·u, the B/u term represents:",
+      "options": {
+        "A": "Eddy diffusion",
+        "B": "Resistance to mass transfer",
+        "C": "Longitudinal diffusion",
+        "D": "Detector noise"
+      }
+    },
+    {
+      "id": "U7-Q066",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Which HPLC mode uses a non-polar C18 stationary phase and a polar aqueous-organic mobile phase?",
+      "options": {
+        "A": "Reversed-phase HPLC",
+        "B": "Normal-phase HPLC",
+        "C": "Ion-exchange GC",
+        "D": "Size-exclusion TLC only"
+      }
+    },
+    {
+      "id": "U7-Q067",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In reversed-phase HPLC, increasing the organic fraction of the mobile phase generally:",
+      "options": {
+        "A": "Increases retention of all analytes",
+        "B": "Shortens retention of hydrophobic analytes",
+        "C": "Stops the pump",
+        "D": "Converts the method to normal phase"
+      }
+    },
+    {
+      "id": "U7-Q068",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which detector is generally incompatible with gradient elution because changing mobile-phase composition changes the baseline refractive index?",
+      "options": {
+        "A": "UV detector",
+        "B": "Fluorescence detector",
+        "C": "PDA detector",
+        "D": "Refractive index detector"
+      }
+    },
+    {
+      "id": "U7-Q069",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Which HPLC detector records a broad absorption spectrum and supports spectral identity/peak-purity checks?",
+      "options": {
+        "A": "PDA/DAD",
+        "B": "RID",
+        "C": "ECD",
+        "D": "FID"
+      }
+    },
+    {
+      "id": "U7-Q070",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Fluorescence detection is especially suitable for aflatoxins because it:",
+      "options": {
+        "A": "Measures refractive index",
+        "B": "Measures flame temperature",
+        "C": "Measures emitted light from fluorescent molecules or derivatives",
+        "D": "Counts ions by mass-to-charge ratio"
+      }
+    },
+    {
+      "id": "U7-Q071",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why are aflatoxins B1 and G1 often derivatised before fluorescence detection?",
+      "options": {
+        "A": "They are too volatile for HPLC",
+        "B": "They have no molecular mass",
+        "C": "They are metals",
+        "D": "They fluoresce weakly in aqueous mobile phases"
+      }
+    },
+    {
+      "id": "U7-Q072",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Sugars such as glucose and sucrose are commonly analysed by HPLC with refractive-index detection because they:",
+      "options": {
+        "A": "Are strongly fluorescent",
+        "B": "Have no useful UV chromophore",
+        "C": "Are volatile at room temperature",
+        "D": "Are all metal ions"
+      }
+    },
+    {
+      "id": "U7-Q073",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which technique is generally preferred for volatile, thermally stable analytes such as flavour volatiles and many pesticide residues?",
+      "options": {
+        "A": "HPLC-UV only",
+        "B": "AAS",
+        "C": "GC",
+        "D": "Karl Fischer titration"
+      }
+    },
+    {
+      "id": "U7-Q074",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The flame ionisation detector (FID) is characterised by:",
+      "options": {
+        "A": "Broad response to organic carbon-containing compounds and destructive detection",
+        "B": "Selective response to halogens and a ⁶³Ni source",
+        "C": "Universal response to all inorganic elements",
+        "D": "Measurement of refractive index"
+      }
+    },
+    {
+      "id": "U7-Q075",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The electron capture detector (ECD) is particularly selective for:",
+      "options": {
+        "A": "Sugars",
+        "B": "Halogenated/electron-capturing compounds",
+        "C": "Alkali metals",
+        "D": "Proteins"
+      }
+    },
+    {
+      "id": "U7-Q076",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The electron capture detector commonly uses which radioactive source?",
+      "options": {
+        "A": "²⁴¹Am",
+        "B": "¹³⁷Cs",
+        "C": "⁹⁰Sr",
+        "D": "⁶³Ni"
+      }
+    },
+    {
+      "id": "U7-Q077",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In a triple-quadrupole mass spectrometer, the role of q2 is to:",
+      "options": {
+        "A": "Fragment precursor ions in a collision gas",
+        "B": "Select precursor ions by mass",
+        "C": "Select product ions by mass",
+        "D": "Generate the chromatographic separation"
+      }
+    },
+    {
+      "id": "U7-Q078",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "In multiple reaction monitoring (MRM), a transition refers to:",
+      "options": {
+        "A": "A change in column temperature only",
+        "B": "A selected precursor-ion to product-ion pair",
+        "C": "A change from liquid to gas chromatography",
+        "D": "A pair of atomic absorption wavelengths"
+      }
+    },
+    {
+      "id": "U7-Q079",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Instrumental analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which element–technique pairing is correct according to the handout?",
+      "options": {
+        "A": "Arsenic — cold vapour AAS at 253.7 nm",
+        "B": "Mercury — hydride generation AAS",
+        "C": "Lead at trace levels — flame AAS as the preferred method",
+        "D": "Mercury — cold vapour AAS at 253.7 nm"
+      }
+    },
+    {
+      "id": "U7-Q080",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The Weende proximate system divides food into how many conventional fractions?",
+      "options": {
+        "A": "Six",
+        "B": "Four",
+        "C": "Five",
+        "D": "Eight"
+      }
+    },
+    {
+      "id": "U7-Q081",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Nitrogen-free extract (NFE) is calculated as:",
+      "options": {
+        "A": "Moisture + protein + fat",
+        "B": "Ash − crude fibre",
+        "C": "100 − (moisture + protein + fat + ash + crude fibre)",
+        "D": "Protein × 6.25"
+      }
+    },
+    {
+      "id": "U7-Q082",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The general nitrogen-to-protein conversion factor is:",
+      "options": {
+        "A": "5.70",
+        "B": "6.38",
+        "C": "9.00",
+        "D": "6.25"
+      }
+    },
+    {
+      "id": "U7-Q083",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which nitrogen-to-protein factor is specified for milk in the handout?",
+      "options": {
+        "A": "5.70",
+        "B": "6.38",
+        "C": "6.00",
+        "D": "6.25"
+      }
+    },
+    {
+      "id": "U7-Q084",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The Kjeldahl method directly determines:",
+      "options": {
+        "A": "True protein molecules",
+        "B": "Only essential amino acids",
+        "C": "Total nitrogen within the method's scope",
+        "D": "Only peptide bonds"
+      }
+    },
+    {
+      "id": "U7-Q085",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which substance can inflate the apparent crude-protein result in a Kjeldahl-based calculation without being protein?",
+      "options": {
+        "A": "Urea",
+        "B": "Starch",
+        "C": "Cellulose",
+        "D": "Water"
+      }
+    },
+    {
+      "id": "U7-Q086",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In Kjeldahl digestion, the principal role of concentrated sulfuric acid is to:",
+      "options": {
+        "A": "Extract lipids",
+        "B": "Oxidise organic matter and convert nitrogen to ammonium sulfate",
+        "C": "Precipitate ash",
+        "D": "Neutralise the receiving boric acid"
+      }
+    },
+    {
+      "id": "U7-Q087",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "Potassium sulfate is added during Kjeldahl digestion mainly to:",
+      "options": {
+        "A": "Act as the titrant",
+        "B": "Absorb ammonia in the receiver",
+        "C": "Reduce nitrate to nitrite",
+        "D": "Raise the boiling point of sulfuric acid"
+      }
+    },
+    {
+      "id": "U7-Q088",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "After Kjeldahl digestion, sodium hydroxide is added to:",
+      "options": {
+        "A": "Make the digest strongly alkaline and liberate ammonia",
+        "B": "Convert ammonia into nitrate",
+        "C": "Absorb oxygen",
+        "D": "Precipitate all protein"
+      }
+    },
+    {
+      "id": "U7-Q089",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In the boric-acid receiving variant of Kjeldahl, the distilled ammonia is titrated with:",
+      "options": {
+        "A": "Standard sodium hydroxide",
+        "B": "Potassium permanganate",
+        "C": "Standard hydrochloric acid",
+        "D": "Silver nitrate"
+      }
+    },
+    {
+      "id": "U7-Q090",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "The nitrogen calculation factor used in the handout's Kjeldahl formula is:",
+      "options": {
+        "A": "0.14007",
+        "B": "14.007",
+        "C": "140.07",
+        "D": "1.4007"
+      }
+    },
+    {
+      "id": "U7-Q091",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In the worked wheat-flour example, why does the protein estimate differ when 6.25 is replaced by 5.70?",
+      "options": {
+        "A": "The nitrogen titre changes",
+        "B": "The wheat-specific factor is lower than the general factor",
+        "C": "The sample weight doubles",
+        "D": "The blank becomes negative"
+      }
+    },
+    {
+      "id": "U7-Q092",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The Soxhlet apparatus operates through repeated:",
+      "options": {
+        "A": "Distillation and neutralisation cycles",
+        "B": "Combustion and cooling cycles",
+        "C": "Solvent condensation, extraction and siphoning cycles",
+        "D": "Precipitation and filtration cycles"
+      }
+    },
+    {
+      "id": "U7-Q093",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "A common solvent boiling range for petroleum ether used in Soxhlet extraction is:",
+      "options": {
+        "A": "40–60 °C",
+        "B": "4–10 °C",
+        "C": "20–30 °C",
+        "D": "100–120 °C"
+      }
+    },
+    {
+      "id": "U7-Q094",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Proximate analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why should a sample generally be dried before Soxhlet extraction?",
+      "options": {
+        "A": "Water increases lipid solubility in non-polar solvent",
+        "B": "Moisture blocks penetration of the non-polar solvent and may be co-extracted",
+        "C": "Drying converts all fat to protein",
+        "D": "Water is the Soxhlet solvent"
+      }
+    },
+    {
+      "id": "U7-Q095",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Integrated application",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A food-contact plastic has overall migration below 60 mg/kg but its DEHP migration exceeds 1.5 mg/kg. What is the correct compliance interpretation under the handout's framework?",
+      "options": {
+        "A": "Compliant because OM passed",
+        "B": "Compliant if the food is dry",
+        "C": "No conclusion is possible because OM replaces SM",
+        "D": "Non-compliant because the specific migration limit is exceeded"
+      }
+    },
+    {
+      "id": "U7-Q096",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Integrated application",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "A laboratory must quantify trace lead and cadmium at µg/kg levels in a food sample. Which option is most appropriate?",
+      "options": {
+        "A": "Graphite furnace AAS or ICP-MS",
+        "B": "Flame AAS as the only preferred method",
+        "C": "Refractive-index HPLC",
+        "D": "FID"
+      }
+    },
+    {
+      "id": "U7-Q097",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Integrated application",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A sample contains a volatile, thermally stable flavour compound and a non-volatile polar vitamin. Which analytical pairing is most appropriate?",
+      "options": {
+        "A": "AAS for both",
+        "B": "RID for flavour volatile; GC for vitamin",
+        "C": "GC for flavour volatile; HPLC/LC-MS for vitamin",
+        "D": "ICP-MS for both"
+      }
+    },
+    {
+      "id": "U7-Q098",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Integrated application",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A canned product shows black staining in a sulfur-containing protein food. Which packaging-coating concept is most relevant to preventing this defect?",
+      "options": {
+        "A": "Use R-enamel because it forms zinc sulfide",
+        "B": "Use uncoated aluminium",
+        "C": "Use EVOH as the can lacquer",
+        "D": "Use C-enamel containing zinc oxide"
+      }
+    },
+    {
+      "id": "U7-Q099",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Integrated application",
+      "difficulty": "High",
+      "question_type": "single_best_answer",
+      "question": "A transparent oxygen-barrier pack is required for a moist, retorted product. Which design consideration is most important when using EVOH?",
+      "options": {
+        "A": "Use EVOH as an exposed single layer",
+        "B": "Protect EVOH between moisture-resistant polymer skins and assess post-retort barrier recovery",
+        "C": "Replace CPP with paper",
+        "D": "Increase humidity to improve its barrier"
+      }
+    },
+    {
+      "id": "U7-Q100",
+      "unit": "Unit 7 — Modern Food Packaging, Migration Regulations & Instrumental Food Analysis",
+      "topic": "Integrated application",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A Food Safety Officer investigates newspaper used to wrap fried snacks. Which regulatory point from the handout is directly relevant?",
+      "options": {
+        "A": "Newspaper is allowed if the oil is drained",
+        "B": "Only coloured newspaper is prohibited",
+        "C": "Newspaper is prohibited for packing or wrapping food",
+        "D": "The prohibition applies only to liquids"
+      }
+    }
+  ],
+  "answer_key": [
+    {
+      "question_id": "U7-Q001",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q002",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q003",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q004",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q005",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q006",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q007",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q008",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q009",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q010",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q011",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q012",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q013",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q014",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q015",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q016",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q017",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q018",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q019",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q020",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q021",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q022",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q023",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q024",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q025",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q026",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q027",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q028",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q029",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q030",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q031",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q032",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q033",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q034",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q035",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q036",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q037",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q038",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q039",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q040",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q041",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q042",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q043",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q044",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q045",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q046",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q047",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q048",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q049",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q050",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q051",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q052",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q053",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q054",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q055",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q056",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q057",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q058",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q059",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q060",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q061",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q062",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q063",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q064",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q065",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q066",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q067",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q068",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q069",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q070",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q071",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q072",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q073",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q074",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q075",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q076",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q077",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q078",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q079",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q080",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q081",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q082",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q083",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q084",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q085",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q086",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q087",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q088",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q089",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q090",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q091",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q092",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q093",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q094",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q095",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q096",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U7-Q097",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U7-Q098",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U7-Q099",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U7-Q100",
+      "correct_option": "C"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "question_id": "U7-Q001",
+      "correct_option": "A",
+      "explanation": "A permeant first dissolves in the polymer (solubility coefficient S), diffuses through it (diffusion coefficient D), and desorbs. Their product, P = D × S, governs steady-state permeation."
+    },
+    {
+      "question_id": "U7-Q002",
+      "correct_option": "B",
+      "explanation": "The permeant dissolves at the upstream surface, diffuses down its concentration gradient, and desorbs at the downstream surface."
+    },
+    {
+      "question_id": "U7-Q003",
+      "correct_option": "C",
+      "explanation": "Crystalline regions are largely impermeable. Higher crystallinity lengthens the path through the amorphous phase and reduces transmission; this helps explain HDPE's better barrier than LDPE."
+    },
+    {
+      "question_id": "U7-Q004",
+      "correct_option": "A",
+      "explanation": "PE and PP are hydrophobic and therefore resist water vapour, but their non-polar structures provide relatively poor oxygen barrier."
+    },
+    {
+      "question_id": "U7-Q005",
+      "correct_option": "B",
+      "explanation": "EVOH's hydroxyl-rich hydrogen-bonded structure gives exceptional dry oxygen barrier. Water plasticises this network, increasing free volume and oxygen transmission."
+    },
+    {
+      "question_id": "U7-Q006",
+      "correct_option": "D",
+      "explanation": "EVOH is hygroscopic. Hydrophobic PE or PP skins and tie layers protect it from moisture while retaining its exceptional oxygen barrier."
+    },
+    {
+      "question_id": "U7-Q007",
+      "correct_option": "A",
+      "explanation": "PVDC's high chlorine content and crystallinity give it excellent dual gas and moisture barrier, and its performance is comparatively stable with humidity."
+    },
+    {
+      "question_id": "U7-Q008",
+      "correct_option": "C",
+      "explanation": "Water vapour transmission rate is expressed as mass transmitted per unit area per day, commonly g/m²·day, under stated temperature and relative humidity."
+    },
+    {
+      "question_id": "U7-Q009",
+      "correct_option": "D",
+      "explanation": "EVOH's oxygen barrier is strongly humidity-dependent; its OTR may rise by an order of magnitude or more at high RH."
+    },
+    {
+      "question_id": "U7-Q010",
+      "correct_option": "B",
+      "explanation": "A thicker film gives a longer diffusion path, reducing steady-state transmission rate when material properties and other conditions are held constant."
+    },
+    {
+      "question_id": "U7-Q011",
+      "correct_option": "C",
+      "explanation": "Silica is the network former and forms about 70–74% of soda-lime container glass. Soda acts as a flux and lime as a stabiliser."
+    },
+    {
+      "question_id": "U7-Q012",
+      "correct_option": "A",
+      "explanation": "Soda lowers the melting temperature of silica-rich glass, improving manufacturability. Lime is added to stabilise the glass against water attack."
+    },
+    {
+      "question_id": "U7-Q013",
+      "correct_option": "B",
+      "explanation": "Borosilicate glass contains about 12% B₂O₃ and has a lower thermal expansion coefficient than soda-lime glass, so it tolerates larger temperature differentials."
+    },
+    {
+      "question_id": "U7-Q014",
+      "correct_option": "D",
+      "explanation": "Annealing near 550–600 °C allows locked-in stresses to relax; controlled slow cooling prevents residual stress and spontaneous breakage."
+    },
+    {
+      "question_id": "U7-Q015",
+      "correct_option": "A",
+      "explanation": "A polariscope (strain viewer) reveals stress patterns through optical effects in glass, helping assess annealing quality."
+    },
+    {
+      "question_id": "U7-Q016",
+      "correct_option": "C",
+      "explanation": "The FeSn₂ alloy layer forms during reflow and contributes to corrosion resistance between the steel base and free tin layer."
+    },
+    {
+      "question_id": "U7-Q017",
+      "correct_option": "D",
+      "explanation": "C-enamel contains zinc oxide. It reacts with H₂S to form white zinc sulfide, avoiding the black iron/tin sulfide staining that can occur in sulfur-rich foods."
+    },
+    {
+      "question_id": "U7-Q018",
+      "correct_option": "B",
+      "explanation": "R-enamel offers acid resistance and is used for fruit and tomato products. It is not the preferred coating for sulfur-bearing foods where C-enamel prevents black sulfide staining."
+    },
+    {
+      "question_id": "U7-Q019",
+      "correct_option": "C",
+      "explanation": "Thin foil is prone to pinholes caused by rolling inclusions and thin-gauge processing. Polymer layers bridge these defects in a laminate."
+    },
+    {
+      "question_id": "U7-Q020",
+      "correct_option": "A",
+      "explanation": "The common three-ply structure is PET outside for printability and strength, aluminium foil as barrier, and CPP inside as the heat-seal food-contact layer."
+    },
+    {
+      "question_id": "U7-Q021",
+      "correct_option": "B",
+      "explanation": "Cast polypropylene forms the inner food-contact sealant. It provides heat sealing and withstands retort temperatures of about 121–135 °C."
+    },
+    {
+      "question_id": "U7-Q022",
+      "correct_option": "D",
+      "explanation": "The pouch is typically only 15–25 mm thick, so its half-thickness is far less than the can's radial conduction distance. The cold spot heats sooner."
+    },
+    {
+      "question_id": "U7-Q023",
+      "correct_option": "A",
+      "explanation": "PVC and PVDC are distinct polymers. Plasticised PVC can contain mobile plasticisers, while PVDC's high chlorine content and crystallinity provide excellent oxygen and moisture barrier."
+    },
+    {
+      "question_id": "U7-Q024",
+      "correct_option": "C",
+      "explanation": "PVDC density is about 1.6–1.7 g/cm³, higher than PET, PVC and the polyolefins. This density makes it the densest common polymer in the comparison table."
+    },
+    {
+      "question_id": "U7-Q025",
+      "correct_option": "D",
+      "explanation": "PP has a density around 0.90–0.91 g/cm³, lower than LDPE/LLDPE and the other listed packaging polymers."
+    },
+    {
+      "question_id": "U7-Q026",
+      "correct_option": "B",
+      "explanation": "HDPE has little branching, allowing close chain packing and higher crystallinity. LDPE has extensive branching, reducing packing efficiency."
+    },
+    {
+      "question_id": "U7-Q027",
+      "correct_option": "C",
+      "explanation": "LLDPE has short-chain branches introduced by alpha-olefin comonomers such as butene, hexene or octene. It offers improved tensile, puncture and tear strength."
+    },
+    {
+      "question_id": "U7-Q028",
+      "correct_option": "D",
+      "explanation": "CPP is cast and unoriented, offering a soft, tough, heat-sealable layer that withstands retorting. BOPP is oriented and commonly used for outer packaging films."
+    },
+    {
+      "question_id": "U7-Q029",
+      "correct_option": "B",
+      "explanation": "Active packaging deliberately interacts, for example by absorbing oxygen or ethylene, releasing antimicrobial agents, or regulating moisture."
+    },
+    {
+      "question_id": "U7-Q030",
+      "correct_option": "C",
+      "explanation": "Intelligent packaging senses and reports information. It informs rather than deliberately changing the food environment."
+    },
+    {
+      "question_id": "U7-Q031",
+      "correct_option": "A",
+      "explanation": "A TTI reports the temperature history of a package and is therefore intelligent packaging. It does not itself remove oxygen or inhibit microbial growth."
+    },
+    {
+      "question_id": "U7-Q032",
+      "correct_option": "B",
+      "explanation": "An oxygen scavenger removes oxygen from the headspace or incoming permeant. Indicators and RFID tags communicate information and are intelligent packaging."
+    },
+    {
+      "question_id": "U7-Q033",
+      "correct_option": "D",
+      "explanation": "Reduced iron reacts with oxygen and water to form iron hydroxide/oxide products. The sachet consumes oxygen and lowers headspace oxygen concentration."
+    },
+    {
+      "question_id": "U7-Q034",
+      "correct_option": "A",
+      "explanation": "The stated stoichiometry is approximately 1 g iron for 300 mL oxygen at standard conditions, making iron sachets high-capacity scavengers."
+    },
+    {
+      "question_id": "U7-Q035",
+      "correct_option": "C",
+      "explanation": "The electrochemical rusting reaction requires water. Moisture-dependent systems therefore need sufficient water activity; self-reacting types carry their own moisture."
+    },
+    {
+      "question_id": "U7-Q036",
+      "correct_option": "D",
+      "explanation": "Iron is ferromagnetic and can be detected. Sachet insertion may need to occur after metal detection, or a non-metallic scavenger may be selected."
+    },
+    {
+      "question_id": "U7-Q037",
+      "correct_option": "B",
+      "explanation": "Silica gel is an amorphous porous adsorbent. Water molecules are physically adsorbed on its internal surface; it can be regenerated."
+    },
+    {
+      "question_id": "U7-Q038",
+      "correct_option": "C",
+      "explanation": "Molecular sieves are synthetic zeolites with defined pore sizes (e.g., 3A and 4A) that selectively adsorb water and can achieve very low humidity."
+    },
+    {
+      "question_id": "U7-Q039",
+      "correct_option": "A",
+      "explanation": "Potassium permanganate is a strong oxidant and toxic. It is immobilised on an inert carrier and kept physically separated from food."
+    },
+    {
+      "question_id": "U7-Q040",
+      "correct_option": "B",
+      "explanation": "Permanganate is reduced during ethylene oxidation, producing brown manganese dioxide (MnO₂), which signals exhaustion of the absorber."
+    },
+    {
+      "question_id": "U7-Q041",
+      "correct_option": "D",
+      "explanation": "1-MCP binds ethylene receptors and inhibits ethylene action. It is a gas treatment/ripening inhibitor, not a packaging absorber."
+    },
+    {
+      "question_id": "U7-Q042",
+      "correct_option": "A",
+      "explanation": "MAP establishes a selected gas mixture at the time of packaging. Controlled-atmosphere storage differs because gas composition is actively maintained during storage."
+    },
+    {
+      "question_id": "U7-Q043",
+      "correct_option": "C",
+      "explanation": "A freshness indicator may detect metabolites such as volatile amines or other spoilage markers. A TTI records time–temperature exposure, not actual microbial status."
+    },
+    {
+      "question_id": "U7-Q044",
+      "correct_option": "D",
+      "explanation": "Migration is transfer of constituents—monomers, additives, processing aids, NIAS, inks or adhesive components—from food-contact materials into food or simulants."
+    },
+    {
+      "question_id": "U7-Q045",
+      "correct_option": "B",
+      "explanation": "Higher temperature and longer contact time increase diffusion and migration. Fatty foods can also extract lipophilic migrants more effectively."
+    },
+    {
+      "question_id": "U7-Q046",
+      "correct_option": "C",
+      "explanation": "Printed surfaces can contact the food-contact side of adjacent packaging in reels or stacks, allowing ink components to transfer without direct food contact."
+    },
+    {
+      "question_id": "U7-Q047",
+      "correct_option": "A",
+      "explanation": "A functional barrier such as foil or sufficiently thick PET limits migration from underlying layers. The handout notes a no-carcinogen restriction; it is not a blanket exemption."
+    },
+    {
+      "question_id": "U7-Q048",
+      "correct_option": "B",
+      "explanation": "OM is a gravimetric measure of the total non-volatile material transferred, irrespective of chemical identity. It is a general inertness criterion."
+    },
+    {
+      "question_id": "U7-Q049",
+      "correct_option": "D",
+      "explanation": "SM is analyte-specific and compared with a substance-specific migration limit (SML), derived from toxicological considerations."
+    },
+    {
+      "question_id": "U7-Q050",
+      "correct_option": "A",
+      "explanation": "The handout states 60 mg/kg of food/simulant or 10 mg/dm² of contact surface under Schedule IV of the FSS (Packaging) Regulations, 2018."
+    },
+    {
+      "question_id": "U7-Q051",
+      "correct_option": "C",
+      "explanation": "Using the convention of 6 dm² packaging contact per kg food, 10 mg/dm² × 6 dm²/kg = 60 mg/kg."
+    },
+    {
+      "question_id": "U7-Q052",
+      "correct_option": "D",
+      "explanation": "OM and SM answer different questions. A material can pass the total-mass limit yet exceed the SML for a potent migrant such as a plasticiser or primary aromatic amine."
+    },
+    {
+      "question_id": "U7-Q053",
+      "correct_option": "A",
+      "explanation": "Simulant B is 3% acetic acid and represents acidic foods (pH below 4.5), such as fruit juices and pickles."
+    },
+    {
+      "question_id": "U7-Q054",
+      "correct_option": "C",
+      "explanation": "Simulant A is 10% ethanol and represents hydrophilic/aqueous foods with pH above 4.5. Remember that B, not A, is the acidic simulant."
+    },
+    {
+      "question_id": "U7-Q055",
+      "correct_option": "D",
+      "explanation": "D2 is the vegetable-oil simulant for fatty foods. Simulant E is a solid simulant for dry foods."
+    },
+    {
+      "question_id": "U7-Q056",
+      "correct_option": "B",
+      "explanation": "Simulant E is the solid simulant used for dry foods. The letter-based simulant mapping is a high-yield recall trap."
+    },
+    {
+      "question_id": "U7-Q057",
+      "correct_option": "C",
+      "explanation": "The handout gives an SML of 1.5 mg/kg for DEHP (bis(2-ethylhexyl) phthalate). Do not confuse this with the antimony SML."
+    },
+    {
+      "question_id": "U7-Q058",
+      "correct_option": "A",
+      "explanation": "Antimony is associated with PET polymerisation catalyst residues; the stated SML is 0.04 mg/kg. It must not be confused with the 1.5 mg/kg DEHP limit."
+    },
+    {
+      "question_id": "U7-Q059",
+      "correct_option": "B",
+      "explanation": "The handout records notification on 24 December 2018 and enforcement/effective date of 1 July 2019."
+    },
+    {
+      "question_id": "U7-Q060",
+      "correct_option": "D",
+      "explanation": "Schedule IV addresses plastics, listed Indian Standards and migration requirements. Schedule I covers paper/board, II glass and III metals/alloys."
+    },
+    {
+      "question_id": "U7-Q061",
+      "correct_option": "A",
+      "explanation": "IS 9845 is identified for overall migration testing. IS 9833 concerns pigments/colourants and IS 15495 printing inks for food packaging."
+    },
+    {
+      "question_id": "U7-Q062",
+      "correct_option": "C",
+      "explanation": "Components distribute differently between a stationary phase and a moving mobile phase, producing different migration/retention times."
+    },
+    {
+      "question_id": "U7-Q063",
+      "correct_option": "D",
+      "explanation": "The retention factor is adjusted retention time divided by hold-up time: k = (tR − t0)/t0."
+    },
+    {
+      "question_id": "U7-Q064",
+      "correct_option": "B",
+      "explanation": "Rs = 2(tR2 − tR1)/(W1 + W2). A value around 1.5 is conventionally taken as baseline separation for comparable peaks."
+    },
+    {
+      "question_id": "U7-Q065",
+      "correct_option": "C",
+      "explanation": "B/u represents longitudinal diffusion, which is more influential at low linear velocity. A is eddy diffusion and C·u is mass-transfer resistance."
+    },
+    {
+      "question_id": "U7-Q066",
+      "correct_option": "A",
+      "explanation": "Reversed-phase HPLC uses a non-polar bonded stationary phase such as C18 and a polar mobile phase of water with methanol or acetonitrile."
+    },
+    {
+      "question_id": "U7-Q067",
+      "correct_option": "B",
+      "explanation": "A stronger organic mobile phase competes more effectively with hydrophobic analytes for the non-polar stationary phase, reducing retention."
+    },
+    {
+      "question_id": "U7-Q068",
+      "correct_option": "D",
+      "explanation": "RID responds to refractive-index differences between eluent and reference. A gradient changes the eluent refractive index and causes baseline drift."
+    },
+    {
+      "question_id": "U7-Q069",
+      "correct_option": "A",
+      "explanation": "A photodiode-array/diode-array detector records multiple wavelengths across a spectrum, allowing comparison with characteristic absorption maxima and peak-purity checks."
+    },
+    {
+      "question_id": "U7-Q070",
+      "correct_option": "C",
+      "explanation": "Fluorescence detection is highly sensitive for naturally fluorescent compounds or derivatives. Aflatoxins B1 and G1 may need derivatisation to enhance fluorescence."
+    },
+    {
+      "question_id": "U7-Q071",
+      "correct_option": "D",
+      "explanation": "The handout explains that B1 and G1 fluoresce weakly in aqueous mobile phases; post-column bromination/iodination or other derivatisation enhances their fluorescence."
+    },
+    {
+      "question_id": "U7-Q072",
+      "correct_option": "B",
+      "explanation": "Simple sugars lack a strong UV-absorbing chromophore. RID can detect them, though it is less sensitive and generally requires isocratic elution."
+    },
+    {
+      "question_id": "U7-Q073",
+      "correct_option": "C",
+      "explanation": "Gas chromatography is suited to volatile and thermally stable analytes. Non-volatile, polar or thermolabile compounds are generally analysed by HPLC/LC-MS/MS."
+    },
+    {
+      "question_id": "U7-Q074",
+      "correct_option": "A",
+      "explanation": "FID produces ions from organic compounds in a hydrogen-air flame. It has a broad response to carbon-containing compounds and is destructive."
+    },
+    {
+      "question_id": "U7-Q075",
+      "correct_option": "B",
+      "explanation": "ECD responds strongly to compounds that capture electrons, especially halogenated pesticides. The handout identifies a ⁶³Ni beta source."
+    },
+    {
+      "question_id": "U7-Q076",
+      "correct_option": "D",
+      "explanation": "A ⁶³Ni beta source generates electrons in the detector. Electron-capturing analytes reduce the standing electron current."
+    },
+    {
+      "question_id": "U7-Q077",
+      "correct_option": "A",
+      "explanation": "Q1 selects the precursor ion, q2 is the collision cell where fragmentation occurs, and Q3 selects product ions. q2 is not a mass analyser."
+    },
+    {
+      "question_id": "U7-Q078",
+      "correct_option": "B",
+      "explanation": "MRM monitors defined precursor/product transitions by fixing Q1 and Q3. A quantifier and at least one qualifier transition support identification and confirmation."
+    },
+    {
+      "question_id": "U7-Q079",
+      "correct_option": "D",
+      "explanation": "Mercury is reduced to elemental vapour and measured by cold-vapour AAS at 253.7 nm. Arsenic/selenium use hydride generation; trace lead/cadmium require GFAAS or ICP-MS."
+    },
+    {
+      "question_id": "U7-Q080",
+      "correct_option": "A",
+      "explanation": "The six fractions are moisture, crude protein, crude fat/ether extract, total ash, crude fibre and nitrogen-free extract (NFE)."
+    },
+    {
+      "question_id": "U7-Q081",
+      "correct_option": "C",
+      "explanation": "NFE is estimated by difference from 100 after subtracting the five measured fractions. Errors in those measurements accumulate in NFE."
+    },
+    {
+      "question_id": "U7-Q082",
+      "correct_option": "D",
+      "explanation": "The general factor 6.25 assumes protein contains about 16% nitrogen. Specific factors include 6.38 for milk and 5.70 for wheat in the handout."
+    },
+    {
+      "question_id": "U7-Q083",
+      "correct_option": "B",
+      "explanation": "The handout lists 6.38 for milk and 5.70 for wheat. These differ from the general factor 6.25."
+    },
+    {
+      "question_id": "U7-Q084",
+      "correct_option": "C",
+      "explanation": "Kjeldahl converts nitrogen to ammonium during digestion, releases ammonia on alkalisation and measures it by titration. Protein is then estimated using a conversion factor."
+    },
+    {
+      "question_id": "U7-Q085",
+      "correct_option": "A",
+      "explanation": "Kjeldahl measures nitrogen, not protein identity. Non-protein nitrogen such as urea, ammonium salts or melamine can raise the apparent protein estimate."
+    },
+    {
+      "question_id": "U7-Q086",
+      "correct_option": "B",
+      "explanation": "Sulfuric acid digests organic matter and converts amino nitrogen into ammonium sulfate. Catalysts accelerate digestion; potassium sulfate raises the boiling point."
+    },
+    {
+      "question_id": "U7-Q087",
+      "correct_option": "D",
+      "explanation": "K₂SO₄ raises the boiling point of the acid mixture, allowing digestion at a higher temperature and speeding oxidation."
+    },
+    {
+      "question_id": "U7-Q088",
+      "correct_option": "A",
+      "explanation": "Strong alkali converts ammonium ions into volatile ammonia, which is steam-distilled into a receiving solution."
+    },
+    {
+      "question_id": "U7-Q089",
+      "correct_option": "C",
+      "explanation": "Ammonia is trapped by boric acid; the borate-containing receiver is titrated with standard acid, commonly 0.1 N HCl. Alkali is used earlier to liberate ammonia."
+    },
+    {
+      "question_id": "U7-Q090",
+      "correct_option": "D",
+      "explanation": "Nitrogen (%) = [(Vsample − Vblank) × N × 1.4007] ÷ sample weight in grams. The factor incorporates the milliequivalent mass and percentage conversion."
+    },
+    {
+      "question_id": "U7-Q091",
+      "correct_option": "B",
+      "explanation": "The same nitrogen result is multiplied by different conversion factors. The handout's example gives about 9.02% using 6.25 and 8.22% using the wheat factor 5.70."
+    },
+    {
+      "question_id": "U7-Q092",
+      "correct_option": "C",
+      "explanation": "Solvent vapour condenses onto the sample in a thimble, dissolves lipid, and siphons back to the boiling flask when the chamber reaches the siphon level."
+    },
+    {
+      "question_id": "U7-Q093",
+      "correct_option": "A",
+      "explanation": "The handout identifies petroleum ether with a 40–60 °C boiling range for Soxhlet extraction. This is a solvent boiling range, not the furnace temperature."
+    },
+    {
+      "question_id": "U7-Q094",
+      "correct_option": "B",
+      "explanation": "Soxhlet commonly uses a non-polar solvent. Moisture impedes solvent access to lipid and can contaminate the extract, so the sample is dried and finely ground."
+    },
+    {
+      "question_id": "U7-Q095",
+      "correct_option": "D",
+      "explanation": "Both OM and SM criteria apply. Passing OM cannot offset an SML exceedance for an individual migrant such as DEHP."
+    },
+    {
+      "question_id": "U7-Q096",
+      "correct_option": "A",
+      "explanation": "The handout highlights GFAAS or ICP-MS for trace lead/cadmium. Flame AAS is generally insufficiently sensitive at these very low concentrations."
+    },
+    {
+      "question_id": "U7-Q097",
+      "correct_option": "C",
+      "explanation": "GC is suited to volatile and thermally stable analytes. Non-volatile, polar or thermolabile vitamins are more appropriately analysed by HPLC or LC-MS/MS."
+    },
+    {
+      "question_id": "U7-Q098",
+      "correct_option": "D",
+      "explanation": "C-enamel is formulated for sulfur-bearing foods; zinc oxide reacts with hydrogen sulfide to form white zinc sulfide rather than black iron/tin sulfide."
+    },
+    {
+      "question_id": "U7-Q099",
+      "correct_option": "B",
+      "explanation": "EVOH is humidity-sensitive. Coextruded skins protect the core; retort can cause temporary barrier loss ('retort shock') that may recover as the layer dries."
+    },
+    {
+      "question_id": "U7-Q100",
+      "correct_option": "C",
+      "explanation": "The handout identifies the use of newspaper and similar materials for food wrapping as prohibited. The example of snacks drained on newspaper is specifically flagged."
+    }
+  ]
+}

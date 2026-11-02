@@ -1,0 +1,2591 @@
+{
+  "title": "HPSC Food Safety Officer — Unit 2: Food Microbiology, Spoilage and Preservation — 100-Question Practice Bank",
+  "version": "1.0",
+  "language": "English",
+  "format": "Four-option, single-best-answer MCQ practice bank",
+  "source_document": "02_Unit2_Food_Microbiology_Preservation.docx",
+  "coverage": [
+    "Module 1: Food-borne bacteria — taxonomy, physiology, pathogenesis and foodborne disease classification",
+    "Module 2: Food-borne moulds and mycotoxins",
+    "Module 3: Food-borne yeasts",
+    "Module 4: Microbial destruction and thermal-death kinetics",
+    "Module 5: Low-temperature preservation",
+    "Module 6: High-temperature preservation",
+    "Module 7: Moisture reduction and hurdle technology",
+    "Module 8: Chemical preservatives and food irradiation dosimetry"
+  ],
+  "exam_alignment_note": "This bank is an MCQ-based topic practice set, not an exact reproduction or prediction of an HPSC paper. The October 2023 HPSC FSO paper available for review used four alternatives and direct factual/conceptual single-best-answer questions in its Food Safety Standards & Nutrition section. However, reports of the HPSC FSO Advt. 25/2026 scheme dated 16.10.2026 describe a separate Screening Test (if held) and a 150-mark, 3-hour subjective Subject Knowledge Test; the Screening Test is reported as general studies/Haryana GK rather than a unit-wise food-microbiology paper. Therefore these 100 MCQs are best used for technical recall and concept testing, not as a claim about the format of the 2026 Subject Knowledge Test. Confirm the latest scheme and syllabus directly on hpsc.gov.in.",
+  "source_and_currency_note": "Question content is primarily grounded in the uploaded Unit 2 master study manual. The manual explicitly distinguishes reported historical course wording from scientifically corrected interpretation and warns that approximate physiological values, historical textbook values and international benchmarks must not be presented as current Indian statutory requirements without checking the applicable FSSAI regulation, food category, amendment and notification. No current legal maximum has been invented in this bank.",
+  "question_design": {
+    "total_questions": 100,
+    "options_per_question": 4,
+    "difficulty_distribution": {
+      "moderate": 43,
+      "easy": 42,
+      "difficult": 15
+    },
+    "question_type_distribution": {
+      "applied_scenario": 15,
+      "factual_single_best": 52,
+      "conceptual_single_best": 29,
+      "numerical_or_conceptual": 4
+    },
+    "module_distribution": {
+      "Module 1 — Food-borne bacteria": 29,
+      "Module 2 — Food-borne moulds and mycotoxins": 12,
+      "Module 3 — Food-borne yeasts": 8,
+      "Module 4 — Microbial destruction and thermal-death kinetics": 11,
+      "Module 5 — Low-temperature preservation": 8,
+      "Module 6 — High-temperature preservation": 12,
+      "Module 7 — Moisture reduction and hurdle technology": 11,
+      "Module 8 — Chemical preservatives and food irradiation": 9
+    },
+    "answer_position_distribution": {
+      "C": 24,
+      "A": 23,
+      "D": 32,
+      "B": 21
+    },
+    "design_features": [
+      "Direct factual and concept-based single-best-answer questions",
+      "Applied food-processing and outbreak scenarios",
+      "Numerical questions on growth kinetics and thermal lethality",
+      "Organism-to-toxin and preservation-method distinctions",
+      "Common examination traps explicitly identified in the source manual"
+    ]
+  },
+  "research_sources": [
+    {
+      "source": "HPSC FSO October 2023 question booklet (Food Safety Standards & Nutrition section)",
+      "url": "https://megeducations.com/wp-content/uploads/2024/07/Food-Safety-Officer-2024_0001.pdf",
+      "use": "Historical paper-style calibration: four answer alternatives, direct factual/conceptual MCQs; paper cover indicates 150 total questions, with 100 in Part B."
+    },
+    {
+      "source": "HPSC FSO Advt. 25/2026 scheme and syllabus update reporting, including 16.10.2026 announcement and withdrawal/revision notice",
+      "url": "https://hpsc.gov.in/Portals/0/Ann_Scheme_Pattern_Syllabus_FSO_16_10_2026.pdf",
+      "use": "Current scheme context. The official PDF was not directly retrievable in the research session; secondary reports indicate a subjective Subject Knowledge Test and a separate screening stage. Check HPSC for authoritative current wording."
+    },
+    {
+      "source": "HPSC FSO recruitment update reporting revised syllabus and examination scheme",
+      "url": "https://sarkaripoint.com/hpsc-food-safety-officer-recruitment-2026-for-45-posts-advt-no-25-2026-online-form-re-open",
+      "use": "Cross-check of reported 2026 examination structure and distinction between Screening Test and Subject Knowledge Test."
+    }
+  ],
+  "questions": [
+    {
+      "id": "FSO-U2-Q001",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Foodborne disease classification",
+      "question_type": "applied_scenario",
+      "question": "A consumer develops vomiting 2 hours after eating a cream-filled pastry. The food contains preformed staphylococcal enterotoxin. This is best classified as:",
+      "options": {
+        "A": "Toxicoinfection",
+        "B": "Invasive infection",
+        "C": "Food-borne intoxication",
+        "D": "Food-borne infection"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q002",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Foodborne disease classification",
+      "question_type": "factual_single_best",
+      "question": "Which of the following is the best example of a classical food-borne toxicoinfection?",
+      "options": {
+        "A": "Clostridium perfringens food poisoning",
+        "B": "Emetic Bacillus cereus illness",
+        "C": "Food-borne botulism",
+        "D": "Staphylococcus aureus enterotoxin poisoning"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q003",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bacterial physiology",
+      "question_type": "factual_single_best",
+      "question": "The Gram stain primarily differentiates bacteria on the basis of:",
+      "options": {
+        "A": "Ability to form endospores",
+        "B": "Oxygen requirement",
+        "C": "Presence of flagella",
+        "D": "Cell-envelope properties affecting retention of the crystal-violet–iodine complex"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q004",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bacterial physiology",
+      "question_type": "factual_single_best",
+      "question": "A catalase-positive culture is mixed with hydrogen peroxide and visible bubbles appear. The bubbles are due to:",
+      "options": {
+        "A": "Nitrogen released from amino acids",
+        "B": "Carbon dioxide released by fermentation",
+        "C": "Hydrogen released by reduction",
+        "D": "Oxygen released during decomposition of hydrogen peroxide"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q005",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bacterial physiology",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement about the oxidase test is most accurate?",
+      "options": {
+        "A": "It detects every form of aerobic respiration",
+        "B": "An oxidase-negative organism must be anaerobic",
+        "C": "It detects activity associated with particular cytochrome-c-dependent respiratory systems",
+        "D": "It determines whether a bacterium forms spores"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q006",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bacterial physiology",
+      "question_type": "conceptual_single_best",
+      "question": "Which pairing is most characteristic in routine food-microbiology identification?",
+      "options": {
+        "A": "Acinetobacter — oxidase-negative; many Pseudomonas — oxidase-positive",
+        "B": "Both genera — Gram-positive cocci",
+        "C": "Acinetobacter — oxidase-positive; Pseudomonas — oxidase-negative",
+        "D": "Both genera — endospore-forming"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q007",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Oxygen relationships",
+      "question_type": "factual_single_best",
+      "question": "A bacterium grows in the presence and absence of oxygen, using respiration when oxygen is available and fermentation when it is absent. It is:",
+      "options": {
+        "A": "Microaerophile",
+        "B": "Facultative anaerobe",
+        "C": "Obligate anaerobe",
+        "D": "Obligate aerobe"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q008",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Oxygen relationships",
+      "question_type": "conceptual_single_best",
+      "question": "Vacuum packaging of chilled meat suppresses many aerobic spoilage organisms. Which conclusion is scientifically sound?",
+      "options": {
+        "A": "Vacuum packaging changes microbial selection but is not a sterilising treatment",
+        "B": "All anaerobic pathogens are destroyed",
+        "C": "Only obligate aerobes can survive in the package",
+        "D": "The food becomes sterile"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q009",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Endospores",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement correctly describes a bacterial endospore?",
+      "options": {
+        "A": "It is a dormant survival structure formed by certain bacteria",
+        "B": "It is a reproductive structure that increases cell number",
+        "C": "It multiplies by binary fission while dormant",
+        "D": "It is produced by all Gram-positive bacteria"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q010",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Endospore resistance",
+      "question_type": "conceptual_single_best",
+      "question": "Which combination contributes to the resistance of bacterial endospores?",
+      "options": {
+        "A": "High metabolic activity and rapid cell division",
+        "B": "Dehydrated core and calcium–dipicolinate",
+        "C": "Absence of all protective proteins",
+        "D": "High intracellular water content"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q011",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Growth kinetics",
+      "question_type": "numerical_or_conceptual",
+      "question": "A food initially contains 10³ cells. Under ideal conditions, the population doubles every 30 minutes. What is the theoretical population after 2 hours?",
+      "options": {
+        "A": "6.4 × 10⁴",
+        "B": "8 × 10³",
+        "C": "3.2 × 10⁴",
+        "D": "1.6 × 10⁴"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q012",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Pseudomonas and chilled spoilage",
+      "question_type": "applied_scenario",
+      "question": "A pasteurised milk sample develops bitterness during refrigerated storage. The most plausible explanation is:",
+      "options": {
+        "A": "Survival and growth of bacterial endospores of Pseudomonas",
+        "B": "Extracellular proteases produced by psychrotrophic Pseudomonas before heat treatment remain active",
+        "C": "Conversion of lactose directly into botulinum toxin",
+        "D": "Cereulide production by all Pseudomonas strains"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q013",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bacillus cereus",
+      "question_type": "factual_single_best",
+      "question": "Which toxin is chiefly associated with the emetic form of Bacillus cereus food poisoning?",
+      "options": {
+        "A": "Cereulide",
+        "B": "Clostridium perfringens enterotoxin",
+        "C": "Non-haemolytic enterotoxin",
+        "D": "Haemolysin BL"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q014",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bacillus cereus",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement best distinguishes diarrhoeal B. cereus illness from emetic B. cereus illness?",
+      "options": {
+        "A": "Both syndromes are caused by the same toxin",
+        "B": "Diarrhoeal illness involves preformed cereulide in rice",
+        "C": "Emetic illness involves intestinal production of Hbl",
+        "D": "Diarrhoeal illness is classically a toxicoinfection; emetic illness is an intoxication"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q015",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bacillus cereus",
+      "question_type": "applied_scenario",
+      "question": "A reheated rice dish causes rapid nausea and vomiting. Which statement explains why reheating may fail to make the dish safe?",
+      "options": {
+        "A": "Cereulide is relatively heat-stable and may persist after vegetative cells are killed",
+        "B": "B. cereus is unable to form spores",
+        "C": "Cereulide is a heat-labile enzyme",
+        "D": "The illness requires live cells to multiply in the stomach"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q016",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Bread spoilage",
+      "question_type": "factual_single_best",
+      "question": "Sticky, stringy crumb and a fruity unpleasant odour in bread are characteristic of:",
+      "options": {
+        "A": "Aflatoxin formation by yeasts",
+        "B": "Botulism",
+        "C": "Rope spoilage associated with Bacillus species",
+        "D": "Staphylococcal intoxication"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q017",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Carnobacterium",
+      "question_type": "factual_single_best",
+      "question": "Carnobacterium is particularly relevant to which food environment?",
+      "options": {
+        "A": "Highly oxygenated dry cereals only",
+        "B": "Refrigerated vacuum- or modified-atmosphere-packed meat and seafood",
+        "C": "Acidic fruit juice with no protein",
+        "D": "Sterile UHT milk before opening"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q018",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Carnobacterium",
+      "question_type": "applied_scenario",
+      "question": "A Carnobacterium strain inhibits Listeria in a challenge test but also produces tyramine. What is the best interpretation?",
+      "options": {
+        "A": "Tyramine proves the strain is a pathogen",
+        "B": "It is automatically safe as a protective culture",
+        "C": "Bacteriocins always destroy tyramine",
+        "D": "Anti-listerial activity alone is insufficient; strain-level safety and biogenic-amine production must be assessed"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q019",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Clostridium perfringens",
+      "question_type": "applied_scenario",
+      "question": "A bulk meat stew is cooked, held warm for several hours, and then causes abdominal cramps and diarrhoea. The most relevant control failure is:",
+      "options": {
+        "A": "Rapid freezing",
+        "B": "Excessive acidification",
+        "C": "Formation of fungal conidia",
+        "D": "Slow cooling that permits surviving spores to germinate and vegetative cells to multiply"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q020",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Clostridium perfringens",
+      "question_type": "factual_single_best",
+      "question": "The enterotoxin CPE associated with ordinary C. perfringens food poisoning is principally produced:",
+      "options": {
+        "A": "By the same pathway as botulinum neurotoxin",
+        "B": "In the food during cooking",
+        "C": "During intestinal sporulation after ingestion",
+        "D": "Only in the liver"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q021",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Clostridium botulinum",
+      "question_type": "conceptual_single_best",
+      "question": "Which condition is a central concern for growth and toxin formation by proteolytic C. botulinum in low-acid canned foods?",
+      "options": {
+        "A": "A food containing only lactic acid bacteria",
+        "B": "Acidic food with equilibrium pH safely below 4.6",
+        "C": "Low-acid food, anaerobiosis and a permissive time–temperature history",
+        "D": "High oxygen and very low water activity"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q022",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Clostridium botulinum",
+      "question_type": "factual_single_best",
+      "question": "Food-borne botulism and infant botulism differ most directly because:",
+      "options": {
+        "A": "Infant botulism is caused by vegetative Salmonella",
+        "B": "Both are caused only by preformed toxin in food",
+        "C": "Food-borne botulism is a toxicoinfection in every case",
+        "D": "Food-borne botulism follows ingestion of preformed toxin, whereas infant botulism follows spore ingestion and intestinal toxin production"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q023",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Listeria monocytogenes",
+      "question_type": "conceptual_single_best",
+      "question": "Which feature makes Listeria monocytogenes especially important in refrigerated ready-to-eat foods?",
+      "options": {
+        "A": "It forms highly heat-resistant endospores",
+        "B": "It is reliably destroyed by freezing",
+        "C": "It can grow at refrigeration temperatures and persist in food-processing environments",
+        "D": "It is an obligate anaerobe"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q024",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Listeria pathogenesis",
+      "question_type": "factual_single_best",
+      "question": "Which Listeria factor is most directly associated with actin-based intracellular motility and cell-to-cell spread?",
+      "options": {
+        "A": "ActA",
+        "B": "Cereulide",
+        "C": "Listeriolysin O",
+        "D": "CPE"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q025",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Salmonella",
+      "question_type": "applied_scenario",
+      "question": "A low-moisture chocolate product has no detectable bacterial growth during storage but is implicated in salmonellosis. The best explanation is:",
+      "options": {
+        "A": "Low water activity can prevent growth while allowing viable Salmonella to survive",
+        "B": "Chocolate neutralises all gastric acid",
+        "C": "Salmonella forms endospores",
+        "D": "Salmonella multiplies rapidly at zero water activity"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q026",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Staphylococcus aureus",
+      "question_type": "applied_scenario",
+      "question": "A food handler contaminates a salad, which is held at an unsuitable temperature. Later, viable S. aureus are no longer detected after reheating, but illness still occurs. The likely reason is:",
+      "options": {
+        "A": "The illness is caused by bacterial flagella",
+        "B": "The toxin is destroyed only by freezing",
+        "C": "The organism formed endospores",
+        "D": "Preformed staphylococcal enterotoxin may persist after cells are killed"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q027",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "E. coli pathotypes",
+      "question_type": "factual_single_best",
+      "question": "Which E. coli pathotype is most strongly associated with Shiga toxin and haemolytic uraemic syndrome?",
+      "options": {
+        "A": "EPEC",
+        "B": "ETEC",
+        "C": "EAEC",
+        "D": "STEC/EHEC"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q028",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Lactic acid bacteria",
+      "question_type": "factual_single_best",
+      "question": "The principal net ATP yield of classical homolactic fermentation of one glucose molecule is:",
+      "options": {
+        "A": "0 ATP",
+        "B": "4 ATP",
+        "C": "2 ATP",
+        "D": "1 ATP"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q029",
+      "module": "Module 1 — Food-borne bacteria",
+      "topic": "Lactic acid bacteria",
+      "question_type": "conceptual_single_best",
+      "question": "Which product combination is classically associated with obligately heterofermentative LAB fermenting glucose?",
+      "options": {
+        "A": "Acetate and oxygen only",
+        "B": "Lactate, ethanol and carbon dioxide",
+        "C": "Only lactate",
+        "D": "Acetone and methane"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q030",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Mould morphology",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement correctly distinguishes a fungal conidium from a bacterial endospore?",
+      "options": {
+        "A": "A conidium is a fungal asexual spore; a bacterial endospore is a bacterial survival structure",
+        "B": "Both are identical bacterial survival structures",
+        "C": "Endospores are the normal reproductive units of moulds",
+        "D": "Conidia are produced only by bacteria"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q031",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Mould ecology",
+      "question_type": "factual_single_best",
+      "question": "Why can filamentous moulds grow on the surface of foods where oxygen is available?",
+      "options": {
+        "A": "Most food-associated moulds are obligately aerobic",
+        "B": "Moulds require complete absence of oxygen",
+        "C": "Moulds cannot use carbohydrates",
+        "D": "Oxygen converts all spores into bacterial cells"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q032",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Mould ecology",
+      "question_type": "applied_scenario",
+      "question": "A food has high sugar concentration and low pH. Which microbial group may be selected despite suppression of many bacteria?",
+      "options": {
+        "A": "Only strict anaerobic bacteria",
+        "B": "No microorganism can grow",
+        "C": "Osmophilic yeasts and xerophilic moulds",
+        "D": "All bacterial endospore-formers are destroyed"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q033",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Mycotoxin biology",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement about mould growth and mycotoxin production is correct?",
+      "options": {
+        "A": "Every toxigenic mould produces toxin whenever it grows",
+        "B": "Toxin production can have a different optimum from biomass formation",
+        "C": "Visible mould is required for toxin to be present",
+        "D": "Mycotoxins disappear immediately when mould cells die"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q034",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Aflatoxins",
+      "question_type": "factual_single_best",
+      "question": "Which mould species is classically associated with production of both B- and G-series aflatoxins?",
+      "options": {
+        "A": "Aspergillus parasiticus",
+        "B": "Aspergillus niger (all strains)",
+        "C": "Penicillium expansum",
+        "D": "Rhizopus stolonifer"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q035",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Aflatoxins",
+      "question_type": "factual_single_best",
+      "question": "Aflatoxin B1 requires metabolic activation to a reactive epoxide. Which structural feature is central to this activation?",
+      "options": {
+        "A": "A saturated six-carbon ring",
+        "B": "A sulphate group",
+        "C": "A peptide bond",
+        "D": "Terminal 8,9 double bond"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q036",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Aflatoxins",
+      "question_type": "factual_single_best",
+      "question": "Aflatoxin M1 in milk is most directly linked to:",
+      "options": {
+        "A": "Use of UHT treatment",
+        "B": "Conversion of milk lactose into aflatoxin",
+        "C": "Carry-over of aflatoxin B1 from contaminated animal feed into milk",
+        "D": "Growth of Listeria in milk"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q037",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Ochratoxin A",
+      "question_type": "factual_single_best",
+      "question": "Ochratoxin A is important in food toxicology primarily because of its:",
+      "options": {
+        "A": "Ability to cause botulism",
+        "B": "Use as a food-grade starter culture",
+        "C": "Role as a bacterial enterotoxin",
+        "D": "Nephrotoxic potential"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q038",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Patulin",
+      "question_type": "conceptual_single_best",
+      "question": "Which commodity is classically associated with patulin contamination?",
+      "options": {
+        "A": "Freshly pasteurised milk only",
+        "B": "Apple juice and products from mould-damaged apples",
+        "C": "Cooked rice only",
+        "D": "Cured meat only"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q039",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Mycotoxin control",
+      "question_type": "applied_scenario",
+      "question": "A processor removes visible mould from a batch of grain but does not test or segregate the remaining lot. Why is this inadequate as the sole control?",
+      "options": {
+        "A": "Mycotoxins may have diffused beyond visible mould and may persist after fungal death",
+        "B": "Removal of mould always increases water activity",
+        "C": "Mould toxins are always volatile",
+        "D": "Visible mould is the only source of mycotoxin"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q040",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Mycotoxin regulation",
+      "question_type": "applied_scenario",
+      "question": "A candidate quotes an EU maximum limit as if it were the current Indian legal limit for a food. What is the principal flaw?",
+      "options": {
+        "A": "Mycotoxins are not regulated",
+        "B": "EU limits always override Indian regulations",
+        "C": "Legal maximum levels are jurisdiction- and commodity-specific; current FSSAI schedules must be checked",
+        "D": "All international limits are identical"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q041",
+      "module": "Module 2 — Food-borne moulds and mycotoxins",
+      "topic": "Mould prevention",
+      "question_type": "factual_single_best",
+      "question": "Which is the most appropriate integrated strategy for reducing post-harvest mycotoxin risk in grain?",
+      "options": {
+        "A": "Remove only the visible surface mould before sale",
+        "B": "Rely only on roasting at the point of consumption",
+        "C": "Allow insect damage and store grain warm",
+        "D": "Harvest appropriately, dry promptly, prevent moisture ingress and monitor storage conditions"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q042",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Yeast structure",
+      "question_type": "factual_single_best",
+      "question": "Which cell-wall components are characteristic of food yeasts?",
+      "options": {
+        "A": "Only lignin",
+        "B": "Peptidoglycan and teichoic acid",
+        "C": "Lipopolysaccharide and cellulose",
+        "D": "Glucans, mannoproteins and chitin"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q043",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Yeast reproduction",
+      "question_type": "factual_single_best",
+      "question": "The most common asexual reproductive process among many food yeasts is:",
+      "options": {
+        "A": "Binary fission of endospores",
+        "B": "Budding",
+        "C": "Sporulation into bacterial spores",
+        "D": "Conidial fragmentation only"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q044",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Yeast physiology",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement about yeast metabolism is correct?",
+      "options": {
+        "A": "All yeasts require oxygen for growth",
+        "B": "Yeasts are prokaryotes",
+        "C": "Many yeasts can ferment in the absence of oxygen",
+        "D": "Yeasts cannot tolerate acidic foods"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q045",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Yeast spoilage",
+      "question_type": "applied_scenario",
+      "question": "A high-sugar fruit preserve shows gas formation and package swelling despite low bacterial counts. Which explanation is plausible?",
+      "options": {
+        "A": "Endospore germination by Salmonella",
+        "B": "Osmophilic yeast fermentation",
+        "C": "Botulinum neurotoxin formation by yeast",
+        "D": "Only lipid oxidation"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q046",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Preservative resistance",
+      "question_type": "factual_single_best",
+      "question": "Which yeast is particularly noted for acid tolerance and resistance to weak-acid preservatives?",
+      "options": {
+        "A": "Debaryomyces hansenii only",
+        "B": "Zygosaccharomyces bailii",
+        "C": "Saccharomyces cerevisiae only",
+        "D": "Candida albicans only"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q047",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Yeast ecology",
+      "question_type": "factual_single_best",
+      "question": "Debaryomyces hansenii is associated with:",
+      "options": {
+        "A": "Only sterile bottled water",
+        "B": "Salted meats, cheeses, brines and other high-salt environments",
+        "C": "Only raw rice",
+        "D": "Only anaerobic canned vegetables"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q048",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Yeast spoilage",
+      "question_type": "conceptual_single_best",
+      "question": "Which observation is NOT required for yeast spoilage to be occurring?",
+      "options": {
+        "A": "Turbidity",
+        "B": "Visible colonies on the food surface",
+        "C": "Gas production",
+        "D": "Off-flavour"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q049",
+      "module": "Module 3 — Food-borne yeasts",
+      "topic": "Yeast preservation",
+      "question_type": "factual_single_best",
+      "question": "Why can low pH and high sugar fail to guarantee microbiological stability?",
+      "options": {
+        "A": "They may select acid-tolerant and osmotolerant yeasts",
+        "B": "They prevent all fermentation",
+        "C": "They increase water activity in every food",
+        "D": "They sterilise bacteria but generate viruses"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q050",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "D-value",
+      "question_type": "factual_single_best",
+      "question": "The decimal reduction time (D-value) is the time required at a specified temperature to:",
+      "options": {
+        "A": "Increase the population tenfold",
+        "B": "Reduce a microbial population by 90% or one log cycle",
+        "C": "Destroy all microorganisms",
+        "D": "Reduce the population by 50%"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q051",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "D-value calculation",
+      "question_type": "numerical_or_conceptual",
+      "question": "A food contains 10⁶ target cells. If D at the process temperature is 2 minutes, how many survivors are theoretically expected after 6 minutes under the log-linear model?",
+      "options": {
+        "A": "10⁵",
+        "B": "10²",
+        "C": "10³",
+        "D": "10⁴"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q052",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "D-value",
+      "question_type": "factual_single_best",
+      "question": "A D-value should always be interpreted together with:",
+      "options": {
+        "A": "Only the initial pH of water",
+        "B": "Only the organism's genus",
+        "C": "Only the package colour",
+        "D": "Temperature and food matrix"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q053",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "z-value",
+      "question_type": "factual_single_best",
+      "question": "The z-value is defined as the temperature increase required to:",
+      "options": {
+        "A": "Destroy 90% of the food nutrients",
+        "B": "Increase water activity by 0.1",
+        "C": "Reduce the D-value by one log cycle",
+        "D": "Cause one generation of growth"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q054",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "F-value",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement correctly distinguishes F-value from D-value?",
+      "options": {
+        "A": "F-value measures water activity",
+        "B": "Both are always identical",
+        "C": "F-value is equivalent lethality time at a reference temperature; D-value is time for one-log reduction at a stated temperature",
+        "D": "D-value is equivalent process time; F-value is one-log reduction time"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q055",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "F0 calculation",
+      "question_type": "numerical_or_conceptual",
+      "question": "Using the conventional F₀ reference (121.1°C, z = 10°C), what is the equivalent F₀ lethality of a 10-minute hold at 111.1°C, assuming the model applies?",
+      "options": {
+        "A": "100 min",
+        "B": "10 min",
+        "C": "1 min",
+        "D": "0.1 min"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q056",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "12D process",
+      "question_type": "numerical_or_conceptual",
+      "question": "The classical 12D botulinum cook calculation using D121.1°C = 0.21 min gives:",
+      "options": {
+        "A": "0.21 min",
+        "B": "1.21 min",
+        "C": "12.0 min",
+        "D": "2.52 min"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q057",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "Commercial sterility",
+      "question_type": "factual_single_best",
+      "question": "Commercial sterility in low-acid canned foods means:",
+      "options": {
+        "A": "Only destruction of vegetative cells",
+        "B": "Absolute absence of every viable organism under all conditions",
+        "C": "Absence of microorganisms capable of growing under normal non-refrigerated storage and distribution conditions, with process and package integrity considered",
+        "D": "Only absence of visible spoilage"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q058",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "Thermal processing",
+      "question_type": "factual_single_best",
+      "question": "The cold spot in a retorted container is important because:",
+      "options": {
+        "A": "It is the hottest point",
+        "B": "It is the slowest-heating location and may receive the least lethality",
+        "C": "It determines the product's water activity",
+        "D": "It is always at the geometric centre in every product"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q059",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "Survivor curves",
+      "question_type": "factual_single_best",
+      "question": "A survivor curve displays a pronounced tail at long treatment times. A plausible explanation is:",
+      "options": {
+        "A": "The D-value must be zero",
+        "B": "All cells become more sensitive over time",
+        "C": "The food has become sterile",
+        "D": "A resistant subpopulation or protective microenvironment survives longer"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q060",
+      "module": "Module 4 — Microbial destruction and thermal-death kinetics",
+      "topic": "Thermal resistance",
+      "question_type": "factual_single_best",
+      "question": "Which food component can increase microbial thermal resistance by reducing water availability or providing protection?",
+      "options": {
+        "A": "High fat, sugar or salt under some conditions",
+        "B": "Only vitamin C",
+        "C": "Only oxygen",
+        "D": "Pure water in every case"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q061",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Chilling",
+      "question_type": "factual_single_best",
+      "question": "The principal effect of chilling on most food microorganisms is to:",
+      "options": {
+        "A": "Sterilise the food",
+        "B": "Slow metabolic and growth rates and often extend lag time",
+        "C": "Inactivate every preformed toxin",
+        "D": "Destroy all spores"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q062",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Psychrotrophs",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement correctly distinguishes psychrotrophs from psychrophiles?",
+      "options": {
+        "A": "Psychrotrophs cannot grow at refrigeration temperatures",
+        "B": "Psychrophiles have an optimum of 40°C",
+        "C": "The terms are always identical",
+        "D": "Psychrotrophs can grow at refrigeration temperatures but commonly have a warmer optimum, often around 20–30°C"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q063",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Freezing",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement about freezing is correct?",
+      "options": {
+        "A": "Freezing reliably destroys all vegetative cells and spores",
+        "B": "Freezing generally inhibits growth but many microorganisms survive",
+        "C": "Frozen food cannot undergo chemical deterioration",
+        "D": "Freezing always destroys preformed toxins"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q064",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Freezing injury",
+      "question_type": "factual_single_best",
+      "question": "Rapid freezing generally improves food quality compared with slow freezing because it:",
+      "options": {
+        "A": "Always produces only intracellular ice",
+        "B": "Destroys all microorganisms",
+        "C": "Prevents all thaw drip",
+        "D": "Usually produces smaller ice crystals and less structural damage"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q065",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Thawing",
+      "question_type": "factual_single_best",
+      "question": "A major microbiological risk during thawing is:",
+      "options": {
+        "A": "Water activity becomes zero",
+        "B": "All pathogens are instantly destroyed",
+        "C": "Surviving microorganisms may multiply as the food warms, especially at the surface",
+        "D": "All toxins are neutralised"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q066",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Frozen storage",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement about microbial survival in frozen foods is most accurate?",
+      "options": {
+        "A": "All spores germinate during freezing",
+        "B": "Many pathogens can survive frozen storage even when they do not multiply",
+        "C": "Freezing is equivalent to sterilisation",
+        "D": "Frozen storage guarantees toxin destruction"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q067",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Cold chain",
+      "question_type": "factual_single_best",
+      "question": "Why is maintaining an uninterrupted cold chain important for chilled ready-to-eat foods?",
+      "options": {
+        "A": "It removes mycotoxins",
+        "B": "It guarantees no pathogen can survive",
+        "C": "It substitutes for hygienic processing",
+        "D": "It limits growth of organisms that may multiply slowly under refrigeration"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q068",
+      "module": "Module 5 — Low-temperature preservation",
+      "topic": "Low-temperature selection",
+      "question_type": "factual_single_best",
+      "question": "Vacuum-packed chilled fish may select for which group of organisms?",
+      "options": {
+        "A": "LAB and psychrotrophic facultative or anaerobic organisms",
+        "B": "Only thermophilic moulds",
+        "C": "Only strict aerobic pseudomonads",
+        "D": "Only bacterial endospores"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q069",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Blanching",
+      "question_type": "factual_single_best",
+      "question": "The primary purpose of blanching vegetables before freezing is to:",
+      "options": {
+        "A": "Remove all water",
+        "B": "Destroy all bacterial spores",
+        "C": "Inactivate quality-degrading enzymes and reduce surface microbial load",
+        "D": "Achieve absolute sterility"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q070",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Blanching",
+      "question_type": "factual_single_best",
+      "question": "Peroxidase is often used as an indicator enzyme in blanching because it is:",
+      "options": {
+        "A": "A bacterial enterotoxin",
+        "B": "A measure of water activity",
+        "C": "Highly heat-labile",
+        "D": "Relatively heat-resistant and difficult to inactivate in some vegetables"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q071",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Pasteurisation",
+      "question_type": "factual_single_best",
+      "question": "Which pair gives the classic milk pasteurisation schedules stated in the manual?",
+      "options": {
+        "A": "LTLT 62.8°C/30 min; HTST 71.7°C/15 s",
+        "B": "LTLT 135°C/3 s; HTST 150°C/1 s",
+        "C": "LTLT 100°C/1 min; HTST 121.1°C/15 min",
+        "D": "LTLT 50°C/30 s; HTST 60°C/1 min"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q072",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Alkaline phosphatase",
+      "question_type": "factual_single_best",
+      "question": "A negative alkaline phosphatase test in pasteurised milk is best interpreted as:",
+      "options": {
+        "A": "Consistent with adequate pasteurisation, assuming test validity",
+        "B": "Proof that the milk contains no microorganisms",
+        "C": "Proof that no post-pasteurisation contamination occurred",
+        "D": "A direct test for Salmonella"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q073",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "UHT processing",
+      "question_type": "factual_single_best",
+      "question": "Which temperature range is commonly associated with UHT processing of milk in the manual's correction ledger?",
+      "options": {
+        "A": "Exactly 93.4°C for 3 seconds",
+        "B": "62–64°C for 30 minutes",
+        "C": "71–72°C for 15 seconds",
+        "D": "Approximately 135–150°C for a few seconds"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q074",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "UHT packaging",
+      "question_type": "factual_single_best",
+      "question": "Why is aseptic packaging essential to the UHT system?",
+      "options": {
+        "A": "It raises the product's pH",
+        "B": "It destroys all enzymes in the package",
+        "C": "It replaces the heating step",
+        "D": "It prevents recontamination after the high-temperature treatment"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q075",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Retorting",
+      "question_type": "factual_single_best",
+      "question": "A hermetically sealed low-acid canned food is underprocessed. Which hazard is of greatest classical concern?",
+      "options": {
+        "A": "Only surface yeasts",
+        "B": "Proteolytic Clostridium botulinum spores",
+        "C": "Lactic acid bacteria that require oxygen",
+        "D": "Only aerobic Pseudomonas"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q076",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Retorting",
+      "question_type": "conceptual_single_best",
+      "question": "Which factor is most likely to cause underprocessing in a retort even when the retort temperature is correct?",
+      "options": {
+        "A": "The food has a printed label",
+        "B": "The retort gauge is located outside the building",
+        "C": "The container is made of glass",
+        "D": "A cold spot in the product receives insufficient accumulated lethality"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q077",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Thermal process comparison",
+      "question_type": "conceptual_single_best",
+      "question": "Which method is most directly associated with destruction of bacterial spores in hermetically sealed low-acid foods?",
+      "options": {
+        "A": "Blanching",
+        "B": "Validated retorting",
+        "C": "Ordinary pasteurisation",
+        "D": "Refrigeration"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q078",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Thermal targets",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement is correct regarding heat treatment of food?",
+      "options": {
+        "A": "Pasteurisation may destroy vegetative pathogens but leave spores and some heat-stable toxins",
+        "B": "Killing vegetative cells guarantees destruction of preformed heat-stable toxins",
+        "C": "UHT eliminates the need for package integrity",
+        "D": "Blanching is designed to destroy all spores"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q079",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Thermal process selection",
+      "question_type": "applied_scenario",
+      "question": "A food processor wants to prevent enzymatic deterioration of frozen peas during storage. Which process should precede freezing?",
+      "options": {
+        "A": "Blanching",
+        "B": "Irradiation at a sterilising dose",
+        "C": "Vacuum sealing without heat",
+        "D": "Only chilling"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q080",
+      "module": "Module 6 — High-temperature preservation",
+      "topic": "Commercial sterility",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement best distinguishes commercial sterility from absolute sterility?",
+      "options": {
+        "A": "Commercial sterility means every molecule is free of microbes",
+        "B": "Commercial sterility is a sensory score",
+        "C": "Absolute sterility is routinely achieved by pasteurisation",
+        "D": "Commercial sterility allows controlled survival of organisms unable to grow under normal intended storage conditions"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q081",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Water activity",
+      "question_type": "factual_single_best",
+      "question": "Water activity is defined as:",
+      "options": {
+        "A": "Total dissolved solids in a food",
+        "B": "Percentage of moisture on a dry basis",
+        "C": "Ratio of water vapour pressure above food to that above pure water at the same temperature",
+        "D": "Mass of water divided by total food mass"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q082",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Water activity",
+      "question_type": "factual_single_best",
+      "question": "At equilibrium, the approximate relationship between equilibrium relative humidity and water activity is:",
+      "options": {
+        "A": "ERH (%) ≈ 100 × a_w",
+        "B": "ERH (%) = a_w²",
+        "C": "ERH (%) ≈ 10 × a_w",
+        "D": "ERH (%) is unrelated to a_w"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q083",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Water activity",
+      "question_type": "conceptual_single_best",
+      "question": "Two foods have the same moisture percentage but different salt and sugar contents. Which conclusion is most defensible?",
+      "options": {
+        "A": "Moisture percentage always predicts microbial growth exactly",
+        "B": "Water activity depends only on food colour",
+        "C": "They must have identical water activity",
+        "D": "Their water activities may differ because solutes alter vapour pressure and water availability"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q084",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Water activity",
+      "question_type": "applied_scenario",
+      "question": "A food has a_w = 0.55. Which statement is most accurate?",
+      "options": {
+        "A": "All preformed toxins are destroyed",
+        "B": "The food is absolutely sterile",
+        "C": "Multiplication of ordinary food-associated microorganisms is generally prevented, but viable cells or spores may remain",
+        "D": "All microorganisms and spores are immediately killed"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q085",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Sorption isotherms",
+      "question_type": "factual_single_best",
+      "question": "A moisture sorption isotherm plots:",
+      "options": {
+        "A": "Equilibrium moisture content against water activity at a fixed temperature",
+        "B": "pH against acidity",
+        "C": "Temperature against microbial count",
+        "D": "D-value against time"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q086",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Sorption isotherms",
+      "question_type": "factual_single_best",
+      "question": "The phenomenon in which adsorption and desorption curves do not coincide is called:",
+      "options": {
+        "A": "Synergism",
+        "B": "Hysteresis",
+        "C": "Tailing",
+        "D": "Thermal lag"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q087",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Intermediate moisture foods",
+      "question_type": "factual_single_best",
+      "question": "Intermediate moisture foods are commonly characterised in the manual by:",
+      "options": {
+        "A": "a_w exactly 1.00",
+        "B": "Only frozen storage",
+        "C": "Complete absence of water",
+        "D": "a_w approximately 0.60–0.85 and moisture often approximately 15–40%"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q088",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Hurdle technology",
+      "question_type": "factual_single_best",
+      "question": "The central principle of hurdle technology is to:",
+      "options": {
+        "A": "Increase microbial adaptation",
+        "B": "Use preservatives without process validation",
+        "C": "Combine several preservation factors that disrupt different microbial homeostatic systems",
+        "D": "Rely on one extreme preservation treatment"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q089",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Hurdle technology",
+      "question_type": "applied_scenario",
+      "question": "A processor combines low pH, reduced water activity, mild heat and an approved preservative. The intended effect is:",
+      "options": {
+        "A": "The food becomes radioactive",
+        "B": "The combined hurdles guarantee absolute sterility",
+        "C": "Each hurdle acts independently and cannot interact",
+        "D": "Multiple stresses act on different microbial functions and may act synergistically"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q090",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Hurdle technology",
+      "question_type": "factual_single_best",
+      "question": "Which is a potential failure mode in an intermediate-moisture food?",
+      "options": {
+        "A": "No possibility of mould growth",
+        "B": "Automatic destruction of preformed toxins",
+        "C": "Localised high-a_w pockets caused by moisture migration",
+        "D": "No need for packaging integrity"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q091",
+      "module": "Module 7 — Moisture reduction and hurdle technology",
+      "topic": "Hurdle technology",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement about pH 4.6 is correct in the context of low-acid canned foods?",
+      "options": {
+        "A": "It is an important growth-control/classification boundary but does not prove spore destruction or toxin inactivation",
+        "B": "It is a universal spore-killing pH",
+        "C": "It destroys all bacterial toxins",
+        "D": "It is the optimum pH for C. botulinum"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q092",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Weak organic acids",
+      "question_type": "factual_single_best",
+      "question": "Weak organic acids such as benzoic and sorbic acid are generally more effective against susceptible microorganisms when:",
+      "options": {
+        "A": "The acid is fully converted to a salt",
+        "B": "The food pH is always above 10",
+        "C": "Oxygen is absent in every case",
+        "D": "The acid is predominantly undissociated at lower pH"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "FSO-U2-Q093",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Weak organic acids",
+      "question_type": "conceptual_single_best",
+      "question": "Which relationship is used to describe the dissociation of a weak acid in relation to pH?",
+      "options": {
+        "A": "Arrhenius equation only",
+        "B": "Henderson–Hasselbalch relationship",
+        "C": "Hardy–Weinberg equation",
+        "D": "Michaelis–Menten equation only"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q094",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Biopreservatives",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement correctly compares nisin and natamycin?",
+      "options": {
+        "A": "Both are broad-spectrum antibiotics against all pathogens",
+        "B": "Both are ionising radiation sources",
+        "C": "Nisin is mainly antifungal; natamycin is mainly antibacterial",
+        "D": "Nisin is a bacteriocin active mainly against susceptible Gram-positive bacteria; natamycin is antifungal"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q095",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Preservative regulation",
+      "question_type": "applied_scenario",
+      "question": "A historical textbook lists a preservative limit for a food category. What should a candidate do before stating it as current Indian law?",
+      "options": {
+        "A": "Assume the value is still current",
+        "B": "Treat physiological tolerance as a legal limit",
+        "C": "Replace it with any Codex value",
+        "D": "Verify the current FSSAI regulation, food category, amendment and notification"
+      },
+      "difficulty": "moderate"
+    },
+    {
+      "id": "FSO-U2-Q096",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Irradiation",
+      "question_type": "factual_single_best",
+      "question": "Which radionuclide is a recognised gamma-radiation source used in food irradiation?",
+      "options": {
+        "A": "Cerium-137",
+        "B": "Sodium-24 only",
+        "C": "Cobalt-60",
+        "D": "Iodine-131 only"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q097",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Irradiation",
+      "question_type": "conceptual_single_best",
+      "question": "Which statement about approved food irradiation is correct?",
+      "options": {
+        "A": "It makes food radioactive",
+        "B": "It works only by heating food to boiling",
+        "C": "It destroys every toxin and spore at any dose",
+        "D": "It can damage microbial DNA directly and indirectly and does not make food radioactive when properly applied under approved conditions"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q098",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Irradiation terminology",
+      "question_type": "conceptual_single_best",
+      "question": "Which pairing of irradiation terms is correct?",
+      "options": {
+        "A": "Radurisation — low-dose shelf-life extension; radicidation — reduction of specified pathogens",
+        "B": "Radicidation — enzyme activation; radurisation — mycotoxin synthesis",
+        "C": "All three terms mean identical treatments",
+        "D": "Radurisation — absolute sterility; radappertisation — sprout inhibition only"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q099",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Irradiation dosimetry",
+      "question_type": "factual_single_best",
+      "question": "The SI unit of absorbed radiation dose is:",
+      "options": {
+        "A": "Sievert (Sv) only",
+        "B": "Celsius (°C)",
+        "C": "Gray (Gy)",
+        "D": "Becquerel (Bq)"
+      },
+      "difficulty": "difficult"
+    },
+    {
+      "id": "FSO-U2-Q100",
+      "module": "Module 8 — Chemical preservatives and food irradiation",
+      "topic": "Irradiation applications",
+      "question_type": "conceptual_single_best",
+      "question": "Which application is commonly associated with relatively low irradiation doses compared with spice decontamination?",
+      "options": {
+        "A": "Universal detoxification of all mycotoxins",
+        "B": "Conversion of food into a radioactive source",
+        "C": "Complete destruction of all bacterial spores in every food",
+        "D": "Sprout inhibition in bulbs and tubers"
+      },
+      "difficulty": "difficult"
+    }
+  ],
+  "answer_key": [
+    {
+      "question_id": "FSO-U2-Q001",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q002",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q003",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q004",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q005",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q006",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q007",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q008",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q009",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q010",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q011",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q012",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q013",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q014",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q015",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q016",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q017",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q018",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q019",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q020",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q021",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q022",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q023",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q024",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q025",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q026",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q027",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q028",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q029",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q030",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q031",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q032",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q033",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q034",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q035",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q036",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q037",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q038",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q039",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q040",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q041",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q042",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q043",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q044",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q045",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q046",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q047",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q048",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q049",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q050",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q051",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q052",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q053",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q054",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q055",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q056",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q057",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q058",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q059",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q060",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q061",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q062",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q063",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q064",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q065",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q066",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q067",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q068",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q069",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q070",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q071",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q072",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q073",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q074",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q075",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q076",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q077",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q078",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q079",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q080",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q081",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q082",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q083",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q084",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q085",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q086",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q087",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q088",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q089",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q090",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q091",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q092",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q093",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "FSO-U2-Q094",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q095",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q096",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q097",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "FSO-U2-Q098",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "FSO-U2-Q099",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "FSO-U2-Q100",
+      "correct_option": "D"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "question_id": "FSO-U2-Q001",
+      "correct_option": "C",
+      "correct_answer": "Food-borne intoxication",
+      "detailed_explanation": "The consumer ingests toxin already formed in the food, so the illness is an intoxication. In infection, viable organisms are ingested and establish infection; in toxicoinfection, viable organisms are ingested and produce the clinically important toxin in the intestine. The short onset is compatible with preformed staphylococcal enterotoxin but incubation alone is not diagnostic.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Foodborne disease classification."
+    },
+    {
+      "question_id": "FSO-U2-Q002",
+      "correct_option": "A",
+      "correct_answer": "Clostridium perfringens food poisoning",
+      "detailed_explanation": "In classical C. perfringens food poisoning, viable cells are ingested and sporulate in the intestine, where CPE is produced and released. Staphylococcal poisoning, food-borne botulism and emetic B. cereus illness are classically intoxications caused by preformed toxins in food.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Foodborne disease classification."
+    },
+    {
+      "question_id": "FSO-U2-Q003",
+      "correct_option": "D",
+      "correct_answer": "Cell-envelope properties affecting retention of the crystal-violet–iodine complex",
+      "detailed_explanation": "Gram staining reflects cell-envelope architecture and differential retention of the crystal-violet–iodine complex during decolourisation. It does not directly test pathogenicity, sporulation, motility or oxygen requirement. Gram-positive bacteria generally retain the primary stain; Gram-negative cells are decolourised and take the counterstain.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bacterial physiology."
+    },
+    {
+      "question_id": "FSO-U2-Q004",
+      "correct_option": "D",
+      "correct_answer": "Oxygen released during decomposition of hydrogen peroxide",
+      "detailed_explanation": "Catalase catalyses 2H₂O₂ → 2H₂O + O₂. The visible bubbles are oxygen. Catalase protects cells against hydrogen peroxide, a reactive oxygen species. A positive catalase reaction is not proof of pathogenicity or aerobic growth.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bacterial physiology."
+    },
+    {
+      "question_id": "FSO-U2-Q005",
+      "correct_option": "C",
+      "correct_answer": "It detects activity associated with particular cytochrome-c-dependent respiratory systems",
+      "detailed_explanation": "The oxidase reagent detects activity associated with certain cytochrome-c oxidase systems. It does not test all respiration. Acinetobacter is an important food-microbiology example of an aerobic organism that is typically oxidase-negative.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bacterial physiology."
+    },
+    {
+      "question_id": "FSO-U2-Q006",
+      "correct_option": "A",
+      "correct_answer": "Acinetobacter — oxidase-negative; many Pseudomonas — oxidase-positive",
+      "detailed_explanation": "Acinetobacter is typically Gram-negative, catalase-positive and oxidase-negative, and is conventionally non-motile. Many familiar food-associated Pseudomonas are Gram-negative, oxidase-positive and motile. Neither genus forms bacterial endospores.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bacterial physiology."
+    },
+    {
+      "question_id": "FSO-U2-Q007",
+      "correct_option": "B",
+      "correct_answer": "Facultative anaerobe",
+      "detailed_explanation": "Facultative anaerobes can grow with or without oxygen, switching metabolic pathways according to conditions. E. coli, Salmonella, Listeria and S. aureus are common examples. A microaerophile prefers oxygen below atmospheric concentration; an obligate anaerobe requires sufficiently anaerobic conditions.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Oxygen relationships."
+    },
+    {
+      "question_id": "FSO-U2-Q008",
+      "correct_option": "A",
+      "correct_answer": "Vacuum packaging changes microbial selection but is not a sterilising treatment",
+      "detailed_explanation": "Vacuum packaging lowers oxygen availability and suppresses many aerobic organisms, but it does not sterilise food. Facultative and anaerobic organisms, including LAB and Carnobacterium, may persist or grow. Anaerobic hazards require additional controls such as temperature, pH, water activity and validated processing.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Oxygen relationships."
+    },
+    {
+      "question_id": "FSO-U2-Q009",
+      "correct_option": "A",
+      "correct_answer": "It is a dormant survival structure formed by certain bacteria",
+      "detailed_explanation": "An endospore is a survival structure, not a reproductive structure. A vegetative cell ordinarily forms one endospore; germination and outgrowth produce a vegetative cell. Bacillus and Clostridium are important endospore-forming genera. Many Gram-positive organisms, including Listeria and Staphylococcus, are non-spore-formers.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Endospores."
+    },
+    {
+      "question_id": "FSO-U2-Q010",
+      "correct_option": "B",
+      "correct_answer": "Dehydrated core and calcium–dipicolinate",
+      "detailed_explanation": "Endospore resistance is multifactorial. A dehydrated core, calcium–dipicolinate, small acid-soluble spore proteins, cortex and coat structures, low metabolic activity and repair during return to growth all contribute. No single feature alone explains the full resistance.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Endospore resistance."
+    },
+    {
+      "question_id": "FSO-U2-Q011",
+      "correct_option": "D",
+      "correct_answer": "1.6 × 10⁴",
+      "detailed_explanation": "Two hours is 120 minutes, giving 120/30 = 4 generations. The multiplier is 2⁴ = 16; therefore 10³ × 16 = 1.6 × 10⁴ cells. This is an idealised calculation, not a prediction for all food-storage conditions.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Growth kinetics."
+    },
+    {
+      "question_id": "FSO-U2-Q012",
+      "correct_option": "B",
+      "correct_answer": "Extracellular proteases produced by psychrotrophic Pseudomonas before heat treatment remain active",
+      "detailed_explanation": "Psychrotrophic Pseudomonas can grow in raw chilled milk and produce extracellular proteases and lipases. A later heat treatment may kill cells without fully inactivating all previously produced enzymes. Residual proteolytic activity can contribute to bitterness and instability.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Pseudomonas and chilled spoilage."
+    },
+    {
+      "question_id": "FSO-U2-Q013",
+      "correct_option": "A",
+      "correct_answer": "Cereulide",
+      "detailed_explanation": "Cereulide is a cyclic dodecadepsipeptide produced by emetic B. cereus strains in food. It is relatively resistant to heat, acid and digestive proteolysis and acts as a potassium ionophore. Hbl, Nhe and CytK are associated with the diarrhoeal syndrome.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bacillus cereus."
+    },
+    {
+      "question_id": "FSO-U2-Q014",
+      "correct_option": "D",
+      "correct_answer": "Diarrhoeal illness is classically a toxicoinfection; emetic illness is an intoxication",
+      "detailed_explanation": "The classical diarrhoeal model involves viable cells/spores followed by enterotoxin production in the intestine (Hbl, Nhe, CytK), making it a toxicoinfection. Emetic illness follows ingestion of preformed cereulide in food and is an intoxication. The syndromes differ in toxin, site of production and usual incubation.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bacillus cereus."
+    },
+    {
+      "question_id": "FSO-U2-Q015",
+      "correct_option": "A",
+      "correct_answer": "Cereulide is relatively heat-stable and may persist after vegetative cells are killed",
+      "detailed_explanation": "Emetic B. cereus strains can produce cereulide in food during improper holding. Cereulide is comparatively heat-stable, so reheating that kills vegetative cells may not inactivate toxin already formed. Prompt cooling and controlled storage prevent toxin accumulation.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bacillus cereus."
+    },
+    {
+      "question_id": "FSO-U2-Q016",
+      "correct_option": "C",
+      "correct_answer": "Rope spoilage associated with Bacillus species",
+      "detailed_explanation": "Rope spoilage is commonly associated with Bacillus subtilis and related bacilli. Spores may survive baking, germinate in moist crumb and produce enzymes and extracellular polymers that break down crumb structure. It is bacterial spoilage, not necessarily mould growth.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Bread spoilage."
+    },
+    {
+      "question_id": "FSO-U2-Q017",
+      "correct_option": "B",
+      "correct_answer": "Refrigerated vacuum- or modified-atmosphere-packed meat and seafood",
+      "detailed_explanation": "Carnobacterium includes psychrotrophic lactic acid bacteria that can grow in chilled, vacuum- or modified-atmosphere-packed foods. Reduced oxygen suppresses many aerobic competitors but does not eliminate fermentative organisms. Some strains can contribute to spoilage or produce anti-Listeria bacteriocins.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Carnobacterium."
+    },
+    {
+      "question_id": "FSO-U2-Q018",
+      "correct_option": "D",
+      "correct_answer": "Anti-listerial activity alone is insufficient; strain-level safety and biogenic-amine production must be assessed",
+      "detailed_explanation": "Protective-culture suitability is strain- and food-specific. The strain must be evaluated for efficacy in the actual matrix, sensory effects, stability, resistance development and undesirable metabolites. Some strains decarboxylate tyrosine to tyramine, so beneficial antimicrobial activity does not establish universal safety.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Carnobacterium."
+    },
+    {
+      "question_id": "FSO-U2-Q019",
+      "correct_option": "D",
+      "correct_answer": "Slow cooling that permits surviving spores to germinate and vegetative cells to multiply",
+      "detailed_explanation": "C. perfringens spores may survive cooking. Large food masses cool slowly, allowing germination and rapid vegetative growth. After ingestion, intestinal sporulation is associated with CPE production and diarrhoeal illness. Validated cooling, portioning and hot/cold holding are key controls.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Clostridium perfringens."
+    },
+    {
+      "question_id": "FSO-U2-Q020",
+      "correct_option": "C",
+      "correct_answer": "During intestinal sporulation after ingestion",
+      "detailed_explanation": "In classical C. perfringens food poisoning, CPE expression is strongly associated with sporulation in the intestine. Toxin released during mother-cell lysis binds susceptible claudin receptors, forms pores and injures intestinal epithelium. It is distinct from alpha toxin and beta toxin.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Clostridium perfringens."
+    },
+    {
+      "question_id": "FSO-U2-Q021",
+      "correct_option": "C",
+      "correct_answer": "Low-acid food, anaerobiosis and a permissive time–temperature history",
+      "detailed_explanation": "Low-acid hermetically sealed foods can provide anaerobic conditions. If spores survive and pH, water activity and temperature permit, growth and neurotoxin production may occur. The pH 4.6 boundary is a key low-acid canned-food classification/control concept, not a universal spore-killing or toxin-destruction condition.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Clostridium botulinum."
+    },
+    {
+      "question_id": "FSO-U2-Q022",
+      "correct_option": "D",
+      "correct_answer": "Food-borne botulism follows ingestion of preformed toxin, whereas infant botulism follows spore ingestion and intestinal toxin production",
+      "detailed_explanation": "Classical food-borne botulism is an intoxication: neurotoxin is formed in food before ingestion. Infant botulism is intestinal toxemia: ingested spores colonise the infant intestine and produce toxin there. Honey is a recognised preventable spore source and should not be given to infants under 12 months.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Clostridium botulinum."
+    },
+    {
+      "question_id": "FSO-U2-Q023",
+      "correct_option": "C",
+      "correct_answer": "It can grow at refrigeration temperatures and persist in food-processing environments",
+      "detailed_explanation": "L. monocytogenes is psychrotrophic, facultatively anaerobic and non-spore-forming. It can grow slowly at refrigeration temperatures, persist in processing niches and contaminate ready-to-eat foods after a lethality step. Freezing generally prevents multiplication but does not reliably eliminate it.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Listeria monocytogenes."
+    },
+    {
+      "question_id": "FSO-U2-Q024",
+      "correct_option": "A",
+      "correct_answer": "ActA",
+      "detailed_explanation": "ActA recruits host actin-polymerisation machinery, enabling intracellular movement and spread into adjacent cells. Listeriolysin O and phospholipases facilitate escape from the vacuole; they are not the principal actin-motility factor.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Listeria pathogenesis."
+    },
+    {
+      "question_id": "FSO-U2-Q025",
+      "correct_option": "A",
+      "correct_answer": "Low water activity can prevent growth while allowing viable Salmonella to survive",
+      "detailed_explanation": "Low water activity suppresses multiplication but does not guarantee microbial death. Salmonella can persist in low-moisture foods and may show increased heat resistance in such matrices. Validated lethality in the actual food and prevention of post-process contamination are essential.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Salmonella."
+    },
+    {
+      "question_id": "FSO-U2-Q026",
+      "correct_option": "D",
+      "correct_answer": "Preformed staphylococcal enterotoxin may persist after cells are killed",
+      "detailed_explanation": "S. aureus can contaminate handled ready-to-eat foods and produce enterotoxin during growth. The toxin is relatively heat-stable compared with vegetative cells. Thus a later treatment may kill cells without reliably removing the hazard of preformed toxin.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Staphylococcus aureus."
+    },
+    {
+      "question_id": "FSO-U2-Q027",
+      "correct_option": "D",
+      "correct_answer": "STEC/EHEC",
+      "detailed_explanation": "STEC/EHEC produces Shiga toxins and can cause haemorrhagic colitis and haemolytic uraemic syndrome. The toxin A subunit inhibits protein synthesis by damaging the 28S rRNA of the 60S ribosomal subunit. ETEC causes secretory watery diarrhoea through LT/ST enterotoxins.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: E. coli pathotypes."
+    },
+    {
+      "question_id": "FSO-U2-Q028",
+      "correct_option": "C",
+      "correct_answer": "2 ATP",
+      "detailed_explanation": "In classical homolactic fermentation, glucose is converted through glycolysis to two pyruvate molecules, which are reduced to lactate to regenerate NAD⁺. The net glycolytic yield is 2 ATP per glucose. The exact pathway and products depend on the LAB group and substrate.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Lactic acid bacteria."
+    },
+    {
+      "question_id": "FSO-U2-Q029",
+      "correct_option": "B",
+      "correct_answer": "Lactate, ethanol and carbon dioxide",
+      "detailed_explanation": "Obligately heterofermentative LAB use the phosphoketolase pathway. The classical product pattern includes lactate, ethanol and CO₂, with acetate replacing ethanol under some electron-acceptor conditions. The simplified net ATP yield is generally one ATP per glucose in the ethanol-forming route.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 1 — Food-borne bacteria, topic: Lactic acid bacteria."
+    },
+    {
+      "question_id": "FSO-U2-Q030",
+      "correct_option": "A",
+      "correct_answer": "A conidium is a fungal asexual spore; a bacterial endospore is a bacterial survival structure",
+      "detailed_explanation": "Conidia are asexual fungal spores formed externally on specialised structures such as conidiophores. Bacterial endospores are dormant survival structures formed internally by certain bacteria. The terms are not interchangeable and have different biological functions.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Mould morphology."
+    },
+    {
+      "question_id": "FSO-U2-Q031",
+      "correct_option": "A",
+      "correct_answer": "Most food-associated moulds are obligately aerobic",
+      "detailed_explanation": "Most food-associated filamentous moulds are aerobic and commonly grow at oxygenated surfaces. Oxygen availability can affect both fungal biomass and secondary metabolite production, including mycotoxin formation. Vacuum or modified atmosphere may be a hurdle but does not guarantee removal of mycotoxin risk.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Mould ecology."
+    },
+    {
+      "question_id": "FSO-U2-Q032",
+      "correct_option": "C",
+      "correct_answer": "Osmophilic yeasts and xerophilic moulds",
+      "detailed_explanation": "High sugar and acidity inhibit many bacteria but may select for osmotolerant/osmophilic yeasts and xerophilic moulds. Preservation hurdles change the microbial ecology rather than uniformly sterilising the food.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Mould ecology."
+    },
+    {
+      "question_id": "FSO-U2-Q033",
+      "correct_option": "B",
+      "correct_answer": "Toxin production can have a different optimum from biomass formation",
+      "detailed_explanation": "Mycotoxin biosynthesis is secondary metabolism and depends on strain, substrate and environmental conditions. The optimum for toxin production may differ from the optimum for fungal biomass. Toxins can persist after the producing mould is no longer viable, and visible mould removal does not guarantee toxin removal.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Mycotoxin biology."
+    },
+    {
+      "question_id": "FSO-U2-Q034",
+      "correct_option": "A",
+      "correct_answer": "Aspergillus parasiticus",
+      "detailed_explanation": "A. parasiticus commonly produces both B- and G-series aflatoxins. A. flavus commonly produces B-series aflatoxins, although not every strain is toxigenic. Toxin production is strain-dependent; species identification alone is not proof of toxin concentration.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Aflatoxins."
+    },
+    {
+      "question_id": "FSO-U2-Q035",
+      "correct_option": "D",
+      "correct_answer": "Terminal 8,9 double bond",
+      "detailed_explanation": "Aflatoxin B1 can be metabolically activated to the reactive 8,9-epoxide, which forms adducts with DNA and proteins. This is central to its genotoxic and carcinogenic action. The question tests the structural feature highlighted in the manual.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Aflatoxins."
+    },
+    {
+      "question_id": "FSO-U2-Q036",
+      "correct_option": "C",
+      "correct_answer": "Carry-over of aflatoxin B1 from contaminated animal feed into milk",
+      "detailed_explanation": "Animals consuming feed contaminated with aflatoxin B1 can metabolise part of it to aflatoxin M1, which may be excreted in milk. Feed-quality control is therefore an important intervention for milk safety. Ordinary pasteurisation does not reliably eliminate AFM1.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Aflatoxins."
+    },
+    {
+      "question_id": "FSO-U2-Q037",
+      "correct_option": "D",
+      "correct_answer": "Nephrotoxic potential",
+      "detailed_explanation": "Ochratoxin A is a mycotoxin produced by selected Aspergillus and Penicillium species. Its toxicological significance includes nephrotoxicity and other systemic effects. Producer identity and occurrence vary by species, strain and commodity.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Ochratoxin A."
+    },
+    {
+      "question_id": "FSO-U2-Q038",
+      "correct_option": "B",
+      "correct_answer": "Apple juice and products from mould-damaged apples",
+      "detailed_explanation": "Patulin is associated particularly with Penicillium expansum and damaged or mouldy apples and apple juice. Sorting and removal of damaged fruit reduce risk, but ordinary juice pasteurisation does not guarantee patulin removal.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Patulin."
+    },
+    {
+      "question_id": "FSO-U2-Q039",
+      "correct_option": "A",
+      "correct_answer": "Mycotoxins may have diffused beyond visible mould and may persist after fungal death",
+      "detailed_explanation": "Mycotoxins can remain in the commodity after fungal viability is lost and may not be confined to visibly mouldy portions. Control requires prevention, sorting, representative sampling, validated testing and appropriate handling. Physical removal alone is not proof of detoxification.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Mycotoxin control."
+    },
+    {
+      "question_id": "FSO-U2-Q040",
+      "correct_option": "C",
+      "correct_answer": "Legal maximum levels are jurisdiction- and commodity-specific; current FSSAI schedules must be checked",
+      "detailed_explanation": "The manual explicitly cautions that physiological values, historical textbook values and international benchmarks must not be presented as current Indian statutory requirements. The applicable FSSAI contaminant/toxin schedule, food category and amendments must be checked.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Mycotoxin regulation."
+    },
+    {
+      "question_id": "FSO-U2-Q041",
+      "correct_option": "D",
+      "correct_answer": "Harvest appropriately, dry promptly, prevent moisture ingress and monitor storage conditions",
+      "detailed_explanation": "Pre-harvest stress and insect damage can increase susceptibility, while poor post-harvest drying and storage permit mould growth and toxin production. Prompt drying, moisture control, clean storage, pest management, sorting and representative monitoring are complementary controls.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 2 — Food-borne moulds and mycotoxins, topic: Mould prevention."
+    },
+    {
+      "question_id": "FSO-U2-Q042",
+      "correct_option": "D",
+      "correct_answer": "Glucans, mannoproteins and chitin",
+      "detailed_explanation": "Yeasts are eukaryotic fungi. Their cell walls commonly contain glucans, mannoproteins and chitin; their membranes contain sterols, principally ergosterol. Peptidoglycan and lipopolysaccharide are bacterial envelope components.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Yeast structure."
+    },
+    {
+      "question_id": "FSO-U2-Q043",
+      "correct_option": "B",
+      "correct_answer": "Budding",
+      "detailed_explanation": "Many food yeasts multiply by multilateral or polar budding: a bud forms, the nucleus divides and the daughter cell separates. Some yeasts also form sexual ascospores; these are fungal spores and are not bacterial endospores.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Yeast reproduction."
+    },
+    {
+      "question_id": "FSO-U2-Q044",
+      "correct_option": "C",
+      "correct_answer": "Many yeasts can ferment in the absence of oxygen",
+      "detailed_explanation": "Many yeasts can ferment sugars anaerobically, although oxygen may increase biomass formation and change metabolic products. Their flexible physiology helps some species grow in acidic, sugary or low-oxygen foods where many bacteria are disadvantaged.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Yeast physiology."
+    },
+    {
+      "question_id": "FSO-U2-Q045",
+      "correct_option": "B",
+      "correct_answer": "Osmophilic yeast fermentation",
+      "detailed_explanation": "High sugar suppresses many bacteria but selects for osmophilic yeasts. Fermentation can produce carbon dioxide, gas, turbidity and off-flavours, sometimes before visible growth becomes obvious. High sugar is therefore not an absolute preservation barrier.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Yeast spoilage."
+    },
+    {
+      "question_id": "FSO-U2-Q046",
+      "correct_option": "B",
+      "correct_answer": "Zygosaccharomyces bailii",
+      "detailed_explanation": "Zygosaccharomyces bailii is a notable spoilage yeast in acidic foods and can show resistance to weak-acid preservatives. Effective control requires appropriate formulation, hygiene, processing and packaging rather than assuming benzoate or sorbate will always prevent growth.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Preservative resistance."
+    },
+    {
+      "question_id": "FSO-U2-Q047",
+      "correct_option": "B",
+      "correct_answer": "Salted meats, cheeses, brines and other high-salt environments",
+      "detailed_explanation": "D. hansenii is salt-tolerant and can be found in salted meats, cheeses, brines and related environments. The manual specifically corrects the misconception that it occurs only in dairy products.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Yeast ecology."
+    },
+    {
+      "question_id": "FSO-U2-Q048",
+      "correct_option": "B",
+      "correct_answer": "Visible colonies on the food surface",
+      "detailed_explanation": "Yeast spoilage may present as gas, off-flavour, turbidity or package swelling without obvious surface colonies. Visible growth is not a necessary condition for recognising spoilage.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Yeast spoilage."
+    },
+    {
+      "question_id": "FSO-U2-Q049",
+      "correct_option": "A",
+      "correct_answer": "They may select acid-tolerant and osmotolerant yeasts",
+      "detailed_explanation": "Low pH and high sugar are selective hurdles. Some yeasts tolerate acidity and osmotic stress, accumulate compatible solutes such as glycerol and ferment without oxygen. Product-specific hurdle combinations and process validation are required.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 3 — Food-borne yeasts, topic: Yeast preservation."
+    },
+    {
+      "question_id": "FSO-U2-Q050",
+      "correct_option": "B",
+      "correct_answer": "Reduce a microbial population by 90% or one log cycle",
+      "detailed_explanation": "D is the time at a specified temperature and in a specified matrix required for a one-log (90%) reduction in survivors. It is not absolute sterilisation. D-values depend on organism, temperature, food composition, pH, water activity and other process conditions.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: D-value."
+    },
+    {
+      "question_id": "FSO-U2-Q051",
+      "correct_option": "C",
+      "correct_answer": "10³",
+      "detailed_explanation": "Six minutes represents 6/2 = 3 decimal reductions. The population falls from 10⁶ to 10³. This calculation assumes log-linear inactivation and constant process conditions; real survivor curves can show shoulders or tailing.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: D-value calculation."
+    },
+    {
+      "question_id": "FSO-U2-Q052",
+      "correct_option": "D",
+      "correct_answer": "Temperature and food matrix",
+      "detailed_explanation": "D-values are not universal constants for a species. They must be associated with a specified temperature and matrix because fat, salt, sugar, protein, pH, water activity, spore state and heating method can change thermal resistance.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: D-value."
+    },
+    {
+      "question_id": "FSO-U2-Q053",
+      "correct_option": "C",
+      "correct_answer": "Reduce the D-value by one log cycle",
+      "detailed_explanation": "The z-value is the temperature change that produces a tenfold change in D-value. It is obtained from the log D versus temperature relationship and is expressed in degrees Celsius, not minutes. A smaller z-value indicates greater temperature sensitivity.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: z-value."
+    },
+    {
+      "question_id": "FSO-U2-Q054",
+      "correct_option": "C",
+      "correct_answer": "F-value is equivalent lethality time at a reference temperature; D-value is time for one-log reduction at a stated temperature",
+      "detailed_explanation": "D describes the time for one decimal reduction at a specified temperature. F expresses equivalent time at a reference temperature for a defined lethality. For a constant-temperature process, F can be related to D multiplied by the number of decimal reductions.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: F-value."
+    },
+    {
+      "question_id": "FSO-U2-Q055",
+      "correct_option": "C",
+      "correct_answer": "1 min",
+      "detailed_explanation": "The relative lethality is 10^[(111.1−121.1)/10] = 10⁻¹ = 0.1. F₀ = time × relative lethality = 10 × 0.1 = 1 minute. F₀ integrates lethality relative to the reference temperature; it is not simply the physical holding time.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: F0 calculation."
+    },
+    {
+      "question_id": "FSO-U2-Q056",
+      "correct_option": "D",
+      "correct_answer": "2.52 min",
+      "detailed_explanation": "Under the stated classical assumptions, 12 × 0.21 = 2.52 minutes of equivalent lethality at 121.1°C. This is a theoretical derivation, not a universal scheduled process for every low-acid canned food. Actual processes require product- and container-specific validation.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: 12D process."
+    },
+    {
+      "question_id": "FSO-U2-Q057",
+      "correct_option": "C",
+      "correct_answer": "Absence of microorganisms capable of growing under normal non-refrigerated storage and distribution conditions, with process and package integrity considered",
+      "detailed_explanation": "Commercial sterility is not absolute sterility. It is a process-and-product concept intended to prevent growth of organisms of public-health significance or spoilage concern under normal storage and distribution. Hermetic sealing and validated processing are essential.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: Commercial sterility."
+    },
+    {
+      "question_id": "FSO-U2-Q058",
+      "correct_option": "B",
+      "correct_answer": "It is the slowest-heating location and may receive the least lethality",
+      "detailed_explanation": "Heat penetration is not uniform in all products and containers. The cold spot is the location that heats most slowly or receives the least accumulated lethality. Process validation must consider container geometry, product properties, fill, headspace and heating behaviour.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: Thermal processing."
+    },
+    {
+      "question_id": "FSO-U2-Q059",
+      "correct_option": "D",
+      "correct_answer": "A resistant subpopulation or protective microenvironment survives longer",
+      "detailed_explanation": "Tailing can result from heterogeneous resistance, clumping, protective food particles or a resistant subpopulation. It means the ideal straight-line log-linear model may not describe the entire inactivation curve. Validation must account for actual survival behaviour.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: Survivor curves."
+    },
+    {
+      "question_id": "FSO-U2-Q060",
+      "correct_option": "A",
+      "correct_answer": "High fat, sugar or salt under some conditions",
+      "detailed_explanation": "Food matrix effects can materially alter thermal resistance. High fat may protect cells by reducing water contact, while high sugar or salt can lower water activity and increase resistance. Protein and clumps may also protect. The effect is matrix-specific, so lethality data cannot be transferred blindly.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 4 — Microbial destruction and thermal-death kinetics, topic: Thermal resistance."
+    },
+    {
+      "question_id": "FSO-U2-Q061",
+      "correct_option": "B",
+      "correct_answer": "Slow metabolic and growth rates and often extend lag time",
+      "detailed_explanation": "Chilling generally slows enzyme activity, membrane transport and microbial growth, often extending lag time and shelf life. It is not a universal lethal treatment. Psychrotrophic organisms such as Listeria and some spoilage bacteria may still grow during prolonged refrigerated storage.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Chilling."
+    },
+    {
+      "question_id": "FSO-U2-Q062",
+      "correct_option": "D",
+      "correct_answer": "Psychrotrophs can grow at refrigeration temperatures but commonly have a warmer optimum, often around 20–30°C",
+      "detailed_explanation": "Psychrotrophs are able to grow at refrigeration temperatures but their optimum is commonly warmer, often around 20–30°C. Psychrophiles are adapted to low temperatures and often have lower optima. Growth threshold and optimum temperature are different parameters.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Psychrotrophs."
+    },
+    {
+      "question_id": "FSO-U2-Q063",
+      "correct_option": "B",
+      "correct_answer": "Freezing generally inhibits growth but many microorganisms survive",
+      "detailed_explanation": "Freezing converts water to ice and reduces available liquid water, greatly inhibiting microbial multiplication. It does not reliably destroy all microorganisms or toxins. Chemical and enzymatic changes can continue slowly, and survivors may grow after thawing.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Freezing."
+    },
+    {
+      "question_id": "FSO-U2-Q064",
+      "correct_option": "D",
+      "correct_answer": "Usually produces smaller ice crystals and less structural damage",
+      "detailed_explanation": "Rapid freezing generally forms smaller crystals and causes less tissue disruption than slow freezing. However, intracellular ice can itself be damaging and crystal location depends on freezing rate, cell type and matrix. It is incorrect to say quick freezing always produces harmless intracellular ice.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Freezing injury."
+    },
+    {
+      "question_id": "FSO-U2-Q065",
+      "correct_option": "C",
+      "correct_answer": "Surviving microorganisms may multiply as the food warms, especially at the surface",
+      "detailed_explanation": "Thawing can create temperature gradients, with the surface warming while the centre remains frozen. Surviving organisms may multiply in the thawed region. Thawing can also cause drip loss, nutrient loss and recrystallisation; controlled thawing is important.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Thawing."
+    },
+    {
+      "question_id": "FSO-U2-Q066",
+      "correct_option": "B",
+      "correct_answer": "Many pathogens can survive frozen storage even when they do not multiply",
+      "detailed_explanation": "Freezing usually prevents or greatly slows multiplication, but pathogens can remain viable. After thawing, they may resume growth if conditions permit. Freezing should therefore be considered a growth-control hurdle, not a validated kill step.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Frozen storage."
+    },
+    {
+      "question_id": "FSO-U2-Q067",
+      "correct_option": "D",
+      "correct_answer": "It limits growth of organisms that may multiply slowly under refrigeration",
+      "detailed_explanation": "Cold-chain control reduces growth rate and delays population increase, but does not eliminate organisms such as L. monocytogenes. It must be combined with hygienic design, prevention of post-lethality contamination, shelf-life control and validated formulation.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Cold chain."
+    },
+    {
+      "question_id": "FSO-U2-Q068",
+      "correct_option": "A",
+      "correct_answer": "LAB and psychrotrophic facultative or anaerobic organisms",
+      "detailed_explanation": "Reduced oxygen suppresses many aerobic spoilage organisms and changes competitive ecology. LAB and Carnobacterium may grow in vacuum or modified-atmosphere foods. Non-proteolytic C. botulinum is also an important hazard in some chilled anaerobically packaged foods if other controls fail.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 5 — Low-temperature preservation, topic: Low-temperature selection."
+    },
+    {
+      "question_id": "FSO-U2-Q069",
+      "correct_option": "C",
+      "correct_answer": "Inactivate quality-degrading enzymes and reduce surface microbial load",
+      "detailed_explanation": "Blanching is a mild heat treatment used principally to inactivate enzymes such as peroxidase, catalase, polyphenol oxidase and lipoxygenase, reduce surface flora, remove intercellular gases and prepare tissues for subsequent processing. It is not a commercial sterilisation step.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Blanching."
+    },
+    {
+      "question_id": "FSO-U2-Q070",
+      "correct_option": "D",
+      "correct_answer": "Relatively heat-resistant and difficult to inactivate in some vegetables",
+      "detailed_explanation": "Peroxidase is relatively heat-resistant compared with several quality-degrading enzymes, so its residual activity can be used as an indicator of blanching adequacy in selected vegetables. A blanching test is an enzyme-control test, not proof of commercial sterility.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Blanching."
+    },
+    {
+      "question_id": "FSO-U2-Q071",
+      "correct_option": "A",
+      "correct_answer": "LTLT 62.8°C/30 min; HTST 71.7°C/15 s",
+      "detailed_explanation": "The manual gives the classical LTLT/batch schedule as 62.8°C for 30 minutes and HTST as 71.7°C for 15 seconds. These are classic reference schedules; current legal standards may recognise additional validated methods. They should not be used to imply that all spores or heat-stable toxins are destroyed.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Pasteurisation."
+    },
+    {
+      "question_id": "FSO-U2-Q072",
+      "correct_option": "A",
+      "correct_answer": "Consistent with adequate pasteurisation, assuming test validity",
+      "detailed_explanation": "Alkaline phosphatase is naturally present in raw milk and is more heat-resistant than many milk-borne vegetative pathogens. Adequate pasteurisation should inactivate it below the validated detection threshold. A negative test supports process adequacy but does not prove absence of post-process contamination.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Alkaline phosphatase."
+    },
+    {
+      "question_id": "FSO-U2-Q073",
+      "correct_option": "D",
+      "correct_answer": "Approximately 135–150°C for a few seconds",
+      "detailed_explanation": "The manual corrects the reported historical figure of 93.4°C for 3 seconds. UHT commonly operates around 135–150°C for a few seconds, using a validated process followed by aseptic packaging. UHT treatment and aseptic packaging work together to achieve commercial sterility.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: UHT processing."
+    },
+    {
+      "question_id": "FSO-U2-Q074",
+      "correct_option": "D",
+      "correct_answer": "It prevents recontamination after the high-temperature treatment",
+      "detailed_explanation": "UHT treatment reduces viable microorganisms, but the product can be recontaminated during filling if packaging and filling conditions are not aseptic. Commercial sterility therefore depends on the validated thermal process, sterile product path and package integrity.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: UHT packaging."
+    },
+    {
+      "question_id": "FSO-U2-Q075",
+      "correct_option": "B",
+      "correct_answer": "Proteolytic Clostridium botulinum spores",
+      "detailed_explanation": "Low-acid hermetically sealed foods provide anaerobic conditions. Proteolytic C. botulinum spores are a central public-health target in retorting. A validated scheduled process must account for spore resistance, heat penetration, cold spots and container integrity.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Retorting."
+    },
+    {
+      "question_id": "FSO-U2-Q076",
+      "correct_option": "D",
+      "correct_answer": "A cold spot in the product receives insufficient accumulated lethality",
+      "detailed_explanation": "Retort temperature does not equal product cold-spot temperature. Container size, geometry, viscosity, convection/conduction, fill weight and come-up time affect heat penetration. Validation must demonstrate adequate lethality at the slowest-heating location.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Retorting."
+    },
+    {
+      "question_id": "FSO-U2-Q077",
+      "correct_option": "B",
+      "correct_answer": "Validated retorting",
+      "detailed_explanation": "Retorting uses a validated high-temperature process to achieve commercial sterility in hermetically sealed foods, including control of relevant spores. Refrigeration and pasteurisation are not equivalent spore-destruction processes; blanching principally targets enzymes.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Thermal process comparison."
+    },
+    {
+      "question_id": "FSO-U2-Q078",
+      "correct_option": "A",
+      "correct_answer": "Pasteurisation may destroy vegetative pathogens but leave spores and some heat-stable toxins",
+      "detailed_explanation": "Thermal processes act differently on vegetative cells, spores, toxins and enzymes. Pasteurisation targets specified vegetative pathogens and spoilage organisms but does not destroy all spores or all heat-stable toxins. Package integrity and post-process hygiene remain important.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Thermal targets."
+    },
+    {
+      "question_id": "FSO-U2-Q079",
+      "correct_option": "A",
+      "correct_answer": "Blanching",
+      "detailed_explanation": "Blanching inactivates enzymes that could otherwise remain active during frozen storage and cause colour, flavour and texture deterioration. It is followed by cooling or subsequent processing and then freezing. Underblanching leaves residual enzyme activity; overblanching damages quality.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Thermal process selection."
+    },
+    {
+      "question_id": "FSO-U2-Q080",
+      "correct_option": "D",
+      "correct_answer": "Commercial sterility allows controlled survival of organisms unable to grow under normal intended storage conditions",
+      "detailed_explanation": "Commercial sterility is defined in relation to organisms capable of growing under normal non-refrigerated storage and distribution conditions and the integrity of the sealed package. It is not a claim that no viable organism exists under every possible laboratory condition.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 6 — High-temperature preservation, topic: Commercial sterility."
+    },
+    {
+      "question_id": "FSO-U2-Q081",
+      "correct_option": "C",
+      "correct_answer": "Ratio of water vapour pressure above food to that above pure water at the same temperature",
+      "detailed_explanation": "Water activity (a_w) is p/p₀, where p is the vapour pressure above the food and p₀ is the vapour pressure above pure water at the same temperature. It describes thermodynamic availability of water, not simply total moisture content.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Water activity."
+    },
+    {
+      "question_id": "FSO-U2-Q082",
+      "correct_option": "A",
+      "correct_answer": "ERH (%) ≈ 100 × a_w",
+      "detailed_explanation": "At equilibrium, ERH (%) is approximately 100 times water activity. Thus a food with a_w = 0.80 equilibrates with approximately 80% relative humidity. The relationship assumes equilibrium and the same temperature.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Water activity."
+    },
+    {
+      "question_id": "FSO-U2-Q083",
+      "correct_option": "D",
+      "correct_answer": "Their water activities may differ because solutes alter vapour pressure and water availability",
+      "detailed_explanation": "Moisture content is the amount of water; a_w reflects its thermodynamic availability. Solutes such as salt, sucrose, glucose syrup and glycerol reduce a_w. Equal moisture content does not imply equal a_w because food composition and water binding differ.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Water activity."
+    },
+    {
+      "question_id": "FSO-U2-Q084",
+      "correct_option": "C",
+      "correct_answer": "Multiplication of ordinary food-associated microorganisms is generally prevented, but viable cells or spores may remain",
+      "detailed_explanation": "The manual gives approximately a_w 0.60 as a practical lower boundary for multiplication of ordinary food-associated microorganisms. Below this, growth is generally prevented, but cells, spores and toxins may survive, and chemical deterioration can continue.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Water activity."
+    },
+    {
+      "question_id": "FSO-U2-Q085",
+      "correct_option": "A",
+      "correct_answer": "Equilibrium moisture content against water activity at a fixed temperature",
+      "detailed_explanation": "A moisture sorption isotherm describes the relationship between equilibrium moisture content and a_w at a fixed temperature. Adsorption and desorption curves may not coincide; this phenomenon is called hysteresis.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Sorption isotherms."
+    },
+    {
+      "question_id": "FSO-U2-Q086",
+      "correct_option": "B",
+      "correct_answer": "Hysteresis",
+      "detailed_explanation": "Hysteresis occurs because a food can contain different moisture levels at the same a_w depending on whether it is gaining or losing moisture. Capillary condensation, swelling, structural collapse and matrix changes can contribute.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Sorption isotherms."
+    },
+    {
+      "question_id": "FSO-U2-Q087",
+      "correct_option": "D",
+      "correct_answer": "a_w approximately 0.60–0.85 and moisture often approximately 15–40%",
+      "detailed_explanation": "Intermediate moisture foods retain enough moisture for a soft or plastic texture while having reduced a_w, often around 0.60–0.85 depending on definition. Their stability depends on a combination of reduced a_w, pH, preservatives, packaging, heat and hygienic manufacture.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Intermediate moisture foods."
+    },
+    {
+      "question_id": "FSO-U2-Q088",
+      "correct_option": "C",
+      "correct_answer": "Combine several preservation factors that disrupt different microbial homeostatic systems",
+      "detailed_explanation": "Hurdle technology combines temperature, pH, a_w, redox potential, preservatives, competitive flora, modified atmosphere, packaging and heat, among others. Interactions can be synergistic, but the complete system must be validated because hurdles can interact and affect quality.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Hurdle technology."
+    },
+    {
+      "question_id": "FSO-U2-Q089",
+      "correct_option": "D",
+      "correct_answer": "Multiple stresses act on different microbial functions and may act synergistically",
+      "detailed_explanation": "Hurdles may act synergistically by disrupting proton balance, water balance, membranes, enzymes and repair systems. However, the order and interaction matter: low a_w can sometimes increase heat resistance, and packaging can create anaerobic conditions. Validation is essential.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Hurdle technology."
+    },
+    {
+      "question_id": "FSO-U2-Q090",
+      "correct_option": "C",
+      "correct_answer": "Localised high-a_w pockets caused by moisture migration",
+      "detailed_explanation": "Surface moisture migration can create local high-a_w niches even when average product a_w is low. These pockets may support mould growth or spoilage. Preservative redistribution, texture changes and chemical browning are additional limitations.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Hurdle technology."
+    },
+    {
+      "question_id": "FSO-U2-Q091",
+      "correct_option": "A",
+      "correct_answer": "It is an important growth-control/classification boundary but does not prove spore destruction or toxin inactivation",
+      "detailed_explanation": "Equilibrium pH 4.6 is a key boundary in low-acid canned-food control because adequate acidification inhibits growth and toxin formation by the central proteolytic C. botulinum target. It does not kill all spores, destroy preformed toxin or eliminate acid-tolerant hazards.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 7 — Moisture reduction and hurdle technology, topic: Hurdle technology."
+    },
+    {
+      "question_id": "FSO-U2-Q092",
+      "correct_option": "D",
+      "correct_answer": "The acid is predominantly undissociated at lower pH",
+      "detailed_explanation": "The undissociated form of a weak acid can cross microbial membranes more readily. It dissociates in the higher-pH cytoplasm, causing intracellular acidification, anion accumulation and energy stress. Therefore efficacy depends strongly on pH, acid pKa, food matrix and organism.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Weak organic acids."
+    },
+    {
+      "question_id": "FSO-U2-Q093",
+      "correct_option": "B",
+      "correct_answer": "Henderson–Hasselbalch relationship",
+      "detailed_explanation": "The Henderson–Hasselbalch relationship links pH, pKa and the ratio of dissociated to undissociated acid. It helps explain why a greater fraction of a weak organic acid is undissociated at lower pH, supporting membrane entry and antimicrobial activity.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Weak organic acids."
+    },
+    {
+      "question_id": "FSO-U2-Q094",
+      "correct_option": "D",
+      "correct_answer": "Nisin is a bacteriocin active mainly against susceptible Gram-positive bacteria; natamycin is antifungal",
+      "detailed_explanation": "Nisin is a bacteriocin produced by selected lactic acid bacteria and is mainly active against susceptible Gram-positive bacteria. Natamycin is an antifungal agent that targets fungal membrane sterols. Their spectra and applications differ, and neither is a universal preservative.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Biopreservatives."
+    },
+    {
+      "question_id": "FSO-U2-Q095",
+      "correct_option": "D",
+      "correct_answer": "Verify the current FSSAI regulation, food category, amendment and notification",
+      "detailed_explanation": "Preservative permissions and maximum levels are food-category-specific and may change through amendments. A historical value or international benchmark is not automatically a current Indian statutory requirement. The relevant FSSAI regulation and notification must be checked.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Preservative regulation."
+    },
+    {
+      "question_id": "FSO-U2-Q096",
+      "correct_option": "C",
+      "correct_answer": "Cobalt-60",
+      "detailed_explanation": "Cobalt-60 is a recognised gamma source for food irradiation. The manual also flags the common misprint 'Ce-137': the correct radionuclide is caesium-137 (Cs-137), while Ce denotes cerium.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Irradiation."
+    },
+    {
+      "question_id": "FSO-U2-Q097",
+      "correct_option": "D",
+      "correct_answer": "It can damage microbial DNA directly and indirectly and does not make food radioactive when properly applied under approved conditions",
+      "detailed_explanation": "Ionising radiation damages microbial structures and DNA directly and through reactive species generated by water radiolysis. Approved irradiation does not make food radioactive. Effectiveness depends on absorbed dose, dose uniformity, target organism, food matrix and process validation.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Irradiation."
+    },
+    {
+      "question_id": "FSO-U2-Q098",
+      "correct_option": "A",
+      "correct_answer": "Radurisation — low-dose shelf-life extension; radicidation — reduction of specified pathogens",
+      "detailed_explanation": "Radurisation is a low-dose treatment concept used to extend shelf life by reducing spoilage organisms. Radicidation refers to reducing specified pathogens. Radappertisation is a high-dose commercial sterilisation concept, but should not be described as absolute sterility in every circumstance.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Irradiation terminology."
+    },
+    {
+      "question_id": "FSO-U2-Q099",
+      "correct_option": "C",
+      "correct_answer": "Gray (Gy)",
+      "detailed_explanation": "Absorbed dose is measured in gray: 1 Gy = 1 joule of energy absorbed per kilogram of matter. Food irradiation doses are commonly expressed in kilogray (kGy). Becquerel measures radioactive activity, while sievert is used for radiation protection dose quantities.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Irradiation dosimetry."
+    },
+    {
+      "question_id": "FSO-U2-Q100",
+      "correct_option": "D",
+      "correct_answer": "Sprout inhibition in bulbs and tubers",
+      "detailed_explanation": "Sprout inhibition in commodities such as potatoes and onions generally uses lower doses than microbial decontamination applications such as spice treatment. Dose selection is commodity- and purpose-specific; dose mapping, uniformity, legal authorisation and verification are required.",
+      "source_basis": "Uploaded Unit 2 master study manual — Module 8 — Chemical preservatives and food irradiation, topic: Irradiation applications."
+    }
+  ],
+  "quality_control": {
+    "valid_json_structure": true,
+    "question_count": 100,
+    "unique_question_ids": true,
+    "four_options_each": true,
+    "all_answers_match_options": true,
+    "all_questions_have_explanations": true,
+    "answer_positions_balanced": true,
+    "question_ids_consistent": true,
+    "important_limit": "Content accuracy has been checked for internal structure, answer-key matching and arithmetic; this is not an official HPSC-issued question bank, and no prediction of question appearance is possible."
+  }
+}

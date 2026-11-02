@@ -1,0 +1,2538 @@
+{
+  "metadata": {
+    "title": "HPSC Food Safety Officer — FSN 421 Horticultural Products: 100-Question Practice Bank",
+    "version": "1.0",
+    "created_date": "2026-11-02",
+    "language": "English",
+    "question_count": 100,
+    "question_format": "Single-best-answer MCQs with A-D answer choices and E = Not attempted (for practice representation only).",
+    "source_documents": [
+      "Gpt hpsc-food-safety-officer-master-study-manual-fsn-421-high-yi(1).docx",
+      "Claude hpsc-food-safety-officer-master-study-manual-fsn-421-high-yi (1)(1).docx"
+    ],
+    "scope": [
+      "Food hazards and foodborne illness",
+      "Food additives and plant-origin toxicants",
+      "Microbial growth and spoilage",
+      "Post-harvest adulteration and chemical treatments",
+      "Packaging and labelling",
+      "HACCP and quality assurance"
+    ],
+    "exam_alignment_note": "This is an original subject-specific MCQ practice bank, not an official HPSC paper and not a prediction of questions that will appear. The uploaded manuals contain an objective screening-test practice framework. Public reports found during preparation describe an October 2026 withdrawal/revision of the FSO scheme; therefore this file does not assert that the MCQ format is the confirmed current examination format. Check the latest HPSC notice for the operative scheme.",
+    "source_integrity_note": "Questions are based on the two uploaded FSN 421 manuals. Where the manuals flag a scientific correction, historical legal value, missing statutory detail or need for current-law verification, the question preserves that qualification rather than silently treating the point as current law.",
+    "coverage_distribution": {
+      "Food hazards and foodborne illness": 12,
+      "Food additives and plant toxicants": 15,
+      "Microbial growth and spoilage": 15,
+      "Post-harvest adulteration and chemical treatments": 17,
+      "Packaging and labelling law": 20,
+      "HACCP and quality assurance": 21
+    }
+  },
+  "questions": [
+    {
+      "id": "FSN421-001",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "Under the Codex definition reproduced in the uploaded manual, a food hazard is:",
+      "options": {
+        "A": "Any defect that reduces the market value of food",
+        "B": "A biological, chemical or physical agent in, or condition of, food with the potential to cause an adverse health effect",
+        "C": "Only a pathogenic microorganism present in food",
+        "D": "The probability that a consumer will become ill after eating any food",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-002",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Conceptual distinction",
+      "difficulty": "Moderate",
+      "question": "A batch of visually attractive mangoes is found to contain an unacceptable lead residue. Which conclusion is most accurate?",
+      "options": {
+        "A": "The batch may be high in sensory quality but unsafe because lead is a chemical hazard",
+        "B": "Lead is a physical hazard because it is a metal",
+        "C": "Good appearance establishes safety unless spoilage is visible",
+        "D": "The batch is safe if the lead cannot be detected by taste",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-003",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Classification",
+      "difficulty": "Moderate",
+      "question": "Which of the following is correctly classified as a physical hazard in the horticultural-food context?",
+      "options": {
+        "A": "A glass fragment capable of causing injury",
+        "B": "Aflatoxin",
+        "C": "A pesticide residue",
+        "D": "Cadmium residue",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-004",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Statement combination",
+      "difficulty": "Moderate",
+      "question": "Consider the following statements: (1) Viruses require living host cells for replication. (2) Viruses multiply in food in the same way as bacteria. (3) Food can transmit viruses even when viral multiplication does not occur in the food. Which statements are correct?",
+      "options": {
+        "A": "1 and 3 only",
+        "B": "1 and 2 only",
+        "C": "2 and 3 only",
+        "D": "1 only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-005",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Applied scenario",
+      "difficulty": "Moderate",
+      "question": "A food handler with an infected skin lesion prepares ready-to-eat fruit salad without effective hand hygiene. The principal route of concern is:",
+      "options": {
+        "A": "Lipid oxidation",
+        "B": "Migration from packaging",
+        "C": "Biomagnification",
+        "D": "Cross-contamination from handler to ready-to-eat food",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-006",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Mechanism-based",
+      "difficulty": "Moderate",
+      "question": "Which description best distinguishes food intoxication from food infection?",
+      "options": {
+        "A": "There is no mechanistic distinction between them",
+        "B": "Intoxication results from ingesting a toxin already present in food; infection involves an infective organism or stage",
+        "C": "Infection always results from a preformed toxin in food",
+        "D": "Intoxication requires viable pathogens to invade the intestinal lining",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-007",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Organism classification",
+      "difficulty": "Moderate",
+      "question": "Which pairing is correctly matched?",
+      "options": {
+        "A": "Foodborne botulism — always toxin-mediated infection within the intestine",
+        "B": "Salmonellosis — classic food infection",
+        "C": "Bacillus cereus emetic illness — classic food infection",
+        "D": "Staphylococcal enterotoxin illness — classic food infection",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-008",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Nuance / exception",
+      "difficulty": "Moderate",
+      "question": "Which statement about foodborne intoxication is the most defensible?",
+      "options": {
+        "A": "A preformed toxin may remain hazardous even if heating kills the producer organism",
+        "B": "It is invariably accompanied by fever",
+        "C": "It always begins within one hour",
+        "D": "All bacterial toxins are destroyed by ordinary cooking",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-009",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Operational knowledge",
+      "difficulty": "Moderate",
+      "question": "Which WHO Five Key specifically addresses transfer of pathogens from raw materials to ready-to-eat food through shared knives and boards?",
+      "options": {
+        "A": "Keep clean",
+        "B": "Use safe water and raw materials",
+        "C": "Cook thoroughly",
+        "D": "Separate raw and cooked",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-010",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Numerical recall",
+      "difficulty": "Moderate",
+      "question": "The uploaded manual presents which preferred refrigeration target in the WHO Five Keys operational guidance?",
+      "options": {
+        "A": "Below 0°C for every food",
+        "B": "Exactly 15°C",
+        "C": "Below 5°C",
+        "D": "Below 10°C",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-011",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Conceptual distinction",
+      "difficulty": "Moderate",
+      "question": "Which statement correctly distinguishes bioaccumulation from biomagnification?",
+      "options": {
+        "A": "Biomagnification refers only to microbial multiplication",
+        "B": "Bioaccumulation is increase within an organism over time; biomagnification is increase across trophic levels",
+        "C": "They are exact synonyms",
+        "D": "Bioaccumulation occurs only in plants; biomagnification only in humans",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-012",
+      "topic": "Food hazards and foodborne illness",
+      "question_type": "Assertion–reason",
+      "difficulty": "Moderate",
+      "question": "Assertion (A): A food may look and smell normal yet still be unsafe. Reason (R): Many chemical contaminants and some pathogens cannot be reliably detected by sensory inspection.",
+      "options": {
+        "A": "A is true, R is false",
+        "B": "Both A and R are true, and R correctly explains A",
+        "C": "A is false, R is true",
+        "D": "Both A and R are true, but R does not explain A",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-013",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Classification",
+      "difficulty": "Moderate",
+      "question": "According to the conditional classification presented in the manual, which set consists of Class I preservatives?",
+      "options": {
+        "A": "BHA, BHT and synthetic colourants",
+        "B": "Nitrites, nitrates and benzoates only",
+        "C": "Common salt, sugar, vinegar and spices",
+        "D": "Benzoic acid, sorbic acid and sulphites",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-014",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Qualifier trap",
+      "difficulty": "Moderate",
+      "question": "Which interpretation of Class I preservatives is safest for examination purposes?",
+      "options": {
+        "A": "They are all synthetic chemicals",
+        "B": "They may be used in unlimited quantity in every food without exception",
+        "C": "They are not restricted unless otherwise provided in the applicable rules",
+        "D": "They are prohibited in horticultural foods",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-015",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Mechanism",
+      "difficulty": "Moderate",
+      "question": "The primary chain reaction responsible for oxidative rancidity of unsaturated fats is:",
+      "options": {
+        "A": "Pectin demethylation followed by gelation",
+        "B": "Starch gelatinisation followed by retrogradation",
+        "C": "Free-radical formation, propagation with oxygen and formation of secondary oxidation products",
+        "D": "Hydrolysis followed by protein coagulation",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-016",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Functional classification",
+      "difficulty": "Moderate",
+      "question": "Which action best describes a chain-breaking antioxidant such as BHA or BHT?",
+      "options": {
+        "A": "It increases oxygen availability to the lipid",
+        "B": "It converts all unsaturated fatty acids into saturated fats",
+        "C": "It acts primarily as a microbial spore-former",
+        "D": "It donates hydrogen/electrons to radicals and interrupts propagation",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-017",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "An emulsifier stabilises an oil-in-water or water-in-oil system mainly because it:",
+      "options": {
+        "A": "Destroys the dispersed phase",
+        "B": "Has both hydrophilic and lipophilic regions and adsorbs at the interface",
+        "C": "Is entirely hydrophobic",
+        "D": "Raises the boiling point of both phases",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-018",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "The hydrophilic-lipophilic balance (HLB) is used to describe:",
+      "options": {
+        "A": "The amount of available water in food",
+        "B": "The relative hydrophilic and lipophilic character of an emulsifier",
+        "C": "The acidity of a food",
+        "D": "The ratio of pathogens to spoilage organisms",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-019",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Matching",
+      "difficulty": "Moderate",
+      "question": "Which pair is correctly matched with its technological function?",
+      "options": {
+        "A": "Nisin — sweetening",
+        "B": "Calcium silicate — antioxidant in edible oils",
+        "C": "MSG — anticaking agent",
+        "D": "Gelatin — beverage clarification",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-020",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Mechanism",
+      "difficulty": "Moderate",
+      "question": "Nisin is particularly active against:",
+      "options": {
+        "A": "Gram-positive bacteria, including certain spore-formers",
+        "B": "Mould spores exclusively",
+        "C": "All Gram-negative bacteria equally",
+        "D": "Viruses only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-021",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Application",
+      "difficulty": "Moderate",
+      "question": "A dry powdered food cakes during storage because moisture is absorbed and particles adhere. Which additive function is most directly intended to reduce this problem?",
+      "options": {
+        "A": "Anticaking",
+        "B": "Clarification",
+        "C": "Ripening",
+        "D": "Colour fixation",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-022",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "Monosodium glutamate (MSG) is best described as a substance that:",
+      "options": {
+        "A": "Prevents all microbial growth",
+        "B": "Clarifies fruit juice by precipitating tannins",
+        "C": "Intensifies or synergises savoury flavours",
+        "D": "Provides sweetness approximately 300 times that of sucrose",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-023",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Toxicology",
+      "difficulty": "Moderate",
+      "question": "The two principal potato glycoalkaloids highlighted in the uploaded manual are:",
+      "options": {
+        "A": "Linamarin and amygdalin",
+        "B": "Aflatoxin B1 and ochratoxin A",
+        "C": "α-Chaconine and α-solanine",
+        "D": "Cucurbitacin and glucosinolate",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-024",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Processing trap",
+      "difficulty": "Moderate",
+      "question": "Which processing statement about potato glycoalkaloids is supported by the uploaded manual?",
+      "options": {
+        "A": "Ordinary boiling and frying reliably destroy all glycoalkaloids",
+        "B": "Freezing converts all glycoalkaloids into harmless sugars",
+        "C": "Washing alone removes all glycoalkaloids",
+        "D": "Peeling can reduce content because outer layers may contain higher concentrations, but removal is incomplete",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-025",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Numerical caution",
+      "difficulty": "Moderate",
+      "question": "The manual reports 200 mg/kg for the sum of α-chaconine and α-solanine as:",
+      "options": {
+        "A": "A reference/recommended maximum that must not automatically be represented as a current universal legal limit",
+        "B": "The concentration of each compound separately in every potato",
+        "C": "The lethal dose for an adult",
+        "D": "A universally verified statutory limit in every jurisdiction",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-026",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Mechanism",
+      "difficulty": "Moderate",
+      "question": "In cyanogenic plants, tissue disruption can bring cyanogenic glycosides into contact with endogenous enzymes, leading ultimately to release of:",
+      "options": {
+        "A": "Hydrogen peroxide",
+        "B": "Nitrogen gas",
+        "C": "Carbon dioxide only",
+        "D": "Hydrogen cyanide",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-027",
+      "topic": "Food additives and plant toxicants",
+      "question_type": "Matching",
+      "difficulty": "Moderate",
+      "question": "Which source–compound pair is correctly matched?",
+      "options": {
+        "A": "Potato — amygdalin",
+        "B": "Apricot kernel — α-solanine",
+        "C": "Cassava — linamarin",
+        "D": "Tomato — nisin",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-028",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "Water activity (aw) is most accurately understood as:",
+      "options": {
+        "A": "The availability of water for microbial and chemical processes, scaled from 0 to 1",
+        "B": "Total moisture percentage by weight",
+        "C": "The pH of the food multiplied by its moisture content",
+        "D": "The amount of water that can be removed by boiling",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-029",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Numerical recall",
+      "difficulty": "Moderate",
+      "question": "According to the uploaded study manual, filamentous fungi may grow at water activity values as low as approximately:",
+      "options": {
+        "A": "0.80",
+        "B": "0.95",
+        "C": "0.99",
+        "D": "0.91",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-030",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Application",
+      "difficulty": "Moderate",
+      "question": "Why can high-sugar fruit products sometimes support yeast spoilage even when bacterial growth is inhibited?",
+      "options": {
+        "A": "Yeasts are prokaryotes that require no water",
+        "B": "All yeasts produce botulinum toxin",
+        "C": "Sugar sterilises the product but creates viruses",
+        "D": "Yeasts can tolerate selective conditions such as high sugar and low pH better than many bacteria",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-031",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Classification",
+      "difficulty": "Moderate",
+      "question": "Which organism group is correctly described as unicellular eukaryotes that can spoil fruit and vegetable products?",
+      "options": {
+        "A": "Protozoan cysts",
+        "B": "Bacteria",
+        "C": "Yeasts",
+        "D": "Viruses",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-032",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Mechanism",
+      "difficulty": "Moderate",
+      "question": "Pectin-degrading enzymes produced by spoilage organisms can contribute to:",
+      "options": {
+        "A": "Preventing all enzymatic browning",
+        "B": "Softening and tissue maceration of horticultural produce",
+        "C": "Converting lead into a harmless mineral",
+        "D": "Increasing the metal content of fruit",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-033",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "Which statement about freezing is correct?",
+      "options": {
+        "A": "Freezing is equivalent to sterilisation",
+        "B": "Freezing can inhibit microbial growth but does not necessarily destroy all microorganisms",
+        "C": "Freezing always destroys preformed toxins",
+        "D": "Freezing makes food indefinitely stable against every form of deterioration",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-034",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "A psychrotrophic organism is of concern in refrigerated foods because it:",
+      "options": {
+        "A": "Is necessarily a true psychrophile with an optimum below 5°C",
+        "B": "Cannot survive in foods with high water activity",
+        "C": "Can grow at refrigeration temperatures even though its optimum may be substantially higher",
+        "D": "Can grow only below 0°C",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-035",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Numerical recall",
+      "difficulty": "Moderate",
+      "question": "The uploaded GPT manual identifies the ability of psychrotrophs to grow at approximately which temperature threshold?",
+      "options": {
+        "A": "Exactly 100°C",
+        "B": "7°C or below",
+        "C": "50°C or above",
+        "D": "20–30°C only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-036",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "A one-unit decrease in pH represents approximately what change in hydrogen-ion activity?",
+      "options": {
+        "A": "A hundredfold decrease",
+        "B": "A tenfold increase",
+        "C": "No change",
+        "D": "A tenfold decrease",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-037",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Applied safety",
+      "difficulty": "Moderate",
+      "question": "The conventional pH boundary of 4.6 is important in low-acid canned-food safety chiefly because it is associated with control of:",
+      "options": {
+        "A": "Lipid oxidation",
+        "B": "Clostridium botulinum growth and toxin formation",
+        "C": "All viruses in food",
+        "D": "All yeast fermentation",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-038",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Conceptual distinction",
+      "difficulty": "Moderate",
+      "question": "Which statement correctly distinguishes pH from titratable acidity?",
+      "options": {
+        "A": "They are identical measures expressed in different units",
+        "B": "pH reflects hydrogen-ion activity, whereas titratable acidity reflects the amount of base needed to reach a defined endpoint",
+        "C": "pH measures total acid molecules regardless of dissociation",
+        "D": "Titratable acidity measures only microbial numbers",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-039",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Organism behaviour",
+      "difficulty": "Moderate",
+      "question": "Which group is described in the manual as obligate aerobes with broad pH and water-activity tolerance?",
+      "options": {
+        "A": "All lactic acid bacteria",
+        "B": "Strictly anaerobic clostridia",
+        "C": "All foodborne viruses",
+        "D": "Filamentous fungi",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-040",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Statement combination",
+      "difficulty": "Moderate",
+      "question": "Consider these statements: (1) Lowering aw by salting or sugaring can impose osmotic stress. (2) Most spoilage bacteria generally tolerate lower aw than filamentous fungi. (3) Moulds may grow at lower aw than many bacteria. Which are correct?",
+      "options": {
+        "A": "1 and 3 only",
+        "B": "1 and 2 only",
+        "C": "1, 2 and 3",
+        "D": "2 and 3 only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-041",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Scenario",
+      "difficulty": "Moderate",
+      "question": "A fresh-cut vegetable product is held warm for an extended period. Which set of factors most directly influences microbial growth and spoilage?",
+      "options": {
+        "A": "Temperature, pH, water activity, oxygen availability and competing microbiota",
+        "B": "Only colour of the package",
+        "C": "Only the harvest season",
+        "D": "Only the product's market price",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-042",
+      "topic": "Microbial growth and spoilage",
+      "question_type": "Assertion–reason",
+      "difficulty": "Moderate",
+      "question": "Assertion (A): Refrigeration extends the shelf life of many horticultural products. Reason (R): Lower temperatures generally slow microbial growth and many deterioration reactions.",
+      "options": {
+        "A": "Both A and R are true, but R does not explain A",
+        "B": "Both A and R are true, and R correctly explains A",
+        "C": "A is false, R is true",
+        "D": "A is true, R is false",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-043",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "The principal concern associated with use of technical-grade calcium carbide for artificial fruit ripening is:",
+      "options": {
+        "A": "Potential contamination with hazardous impurities such as arsenic and phosphorus compounds",
+        "B": "It is identical to controlled ethylene gas treatment",
+        "C": "It sterilises fruit surfaces",
+        "D": "It is a naturally occurring food-grade ethylene source",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-044",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "Why is controlled ethylene treatment distinguished from indiscriminate calcium-carbide ripening?",
+      "options": {
+        "A": "Calcium carbide is safer because it reacts only with water vapour",
+        "B": "Ethylene is a plant ripening hormone used under controlled conditions; carbide may introduce contaminants and uncontrolled reaction products",
+        "C": "Both are identical in composition and regulatory status",
+        "D": "Ethylene is a pesticide and carbide is a vitamin",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-045",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Application",
+      "difficulty": "Moderate",
+      "question": "A trader applies an unapproved dye to make vegetables appear fresher. The main food-safety concern is:",
+      "options": {
+        "A": "A physical hazard caused by glass",
+        "B": "A biological hazard caused by yeast growth",
+        "C": "A reduction in water activity",
+        "D": "Chemical contamination and misleading presentation of the commodity",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-046",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Matching",
+      "difficulty": "Moderate",
+      "question": "Which pair is correctly matched in the post-harvest chemical-malpractice context?",
+      "options": {
+        "A": "Calcium carbide — approved food-grade wax",
+        "B": "Malachite green — dye misuse concern",
+        "C": "Ethephon — heavy metal",
+        "D": "Sudan dye — microbial starter culture",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-047",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Scientific caution",
+      "difficulty": "Moderate",
+      "question": "Which statement about toxicological interpretation of malachite green and Sudan dyes best follows the uploaded manual's caution?",
+      "options": {
+        "A": "Every exposure at any dose is proven to cause human cancer",
+        "B": "Serious toxicological concerns should be explained without overstating human causal evidence or ignoring dose",
+        "C": "They are biological hazards because they are used on produce",
+        "D": "They are harmless because they are coloured",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-048",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Regulatory interpretation",
+      "difficulty": "Moderate",
+      "question": "When a question asks whether a post-harvest chemical treatment is legally permitted in India today, the best approach is to:",
+      "options": {
+        "A": "Treat Codex recommendations as automatically identical to Indian law",
+        "B": "Assume all plant growth regulators are permitted on all fruits",
+        "C": "Check the applicable current FSSAI regulations, amendments and notifications for the substance, commodity and conditions of use",
+        "D": "Rely only on a historical textbook table",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-049",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "Which statement best describes ethephon in relation to fruit ripening?",
+      "options": {
+        "A": "It is chemically identical to calcium carbide",
+        "B": "It is a food-grade wax",
+        "C": "It can release ethylene under appropriate conditions; its use must follow applicable authorised conditions",
+        "D": "It is a pesticide residue that is always prohibited in every use",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-050",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Application",
+      "difficulty": "Moderate",
+      "question": "A fruit batch has been waxed. Which control is most relevant to consumer information?",
+      "options": {
+        "A": "Appropriate declaration of the waxing/coating treatment as required by applicable rules",
+        "B": "Only the fruit's colour needs to be declared",
+        "C": "No declaration is ever required for waxed produce",
+        "D": "The wax must be described as an antioxidant regardless of composition",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-051",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Matching",
+      "difficulty": "Moderate",
+      "question": "Which combination correctly identifies a plant toxicant and its source?",
+      "options": {
+        "A": "Lectins — synthetic food colours",
+        "B": "Pyrrolizidine alkaloids — glass containers",
+        "C": "Cyanogenic glycosides — cassava and certain stone-fruit kernels",
+        "D": "Glycoalkaloids — milk",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-052",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "Why should a food-safety officer distinguish 'food-grade wax' from an unspecified industrial coating?",
+      "options": {
+        "A": "Waxing always sterilises produce",
+        "B": "Food-contact suitability, purity and authorised conditions of use are essential; the word 'wax' alone does not establish safety",
+        "C": "All waxes are chemically identical",
+        "D": "Industrial coatings are safer because they are more durable",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-053",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Risk assessment",
+      "difficulty": "Moderate",
+      "question": "The toxicological risk from a residue on fruit is most directly evaluated by considering:",
+      "options": {
+        "A": "Residue concentration, amount consumed, exposure frequency/duration and consumer susceptibility",
+        "B": "The distance between orchard rows",
+        "C": "The number of labels on the carton",
+        "D": "Fruit colour alone",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-054",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Scenario",
+      "difficulty": "Moderate",
+      "question": "A ripening chamber uses controlled ethylene concentration, temperature and exposure time with monitoring. This is best classified as:",
+      "options": {
+        "A": "A controlled ripening operation requiring compliance with applicable standards",
+        "B": "Automatically adulteration because ethylene is a chemical",
+        "C": "A packaging migration test",
+        "D": "A sterilisation step",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-055",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Statement combination",
+      "difficulty": "Moderate",
+      "question": "Consider the statements: (1) Technical calcium carbide can contain hazardous impurities. (2) Ethephon and ethylene gas are automatically authorised for every fruit and every application. (3) A food-grade coating must meet applicable purity and use requirements. Which are correct?",
+      "options": {
+        "A": "1 and 3 only",
+        "B": "2 and 3 only",
+        "C": "1, 2 and 3",
+        "D": "1 only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-056",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Conceptual distinction",
+      "difficulty": "Moderate",
+      "question": "A residue is detected on produce. Which conclusion is scientifically appropriate?",
+      "options": {
+        "A": "Detection automatically proves an unsafe dose",
+        "B": "Any detectable residue is necessarily a physical hazard",
+        "C": "Detection must be interpreted against the substance, concentration, exposure and applicable maximum residue limit",
+        "D": "Residues cannot arise from post-harvest treatment",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-057",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "HPSC-style case",
+      "difficulty": "Moderate",
+      "question": "A vendor uses a brightly coloured, non-permitted dye to mask blemishes on produce. Which combination best captures the officer's concern?",
+      "options": {
+        "A": "Only a packaging defect",
+        "B": "Only a biological hazard",
+        "C": "Only a sensory quality defect with no safety relevance",
+        "D": "Chemical hazard, possible adulteration/misrepresentation and need for sampling/traceability",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-058",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Scientific qualification",
+      "difficulty": "Moderate",
+      "question": "Which statement about washing fresh produce is most accurate?",
+      "options": {
+        "A": "Washing sterilises every fruit and removes every pesticide residue",
+        "B": "Washing can reduce some surface contamination but does not guarantee elimination of pathogens or chemical residues",
+        "C": "Washing converts all systemic pesticides into harmless compounds",
+        "D": "Washing replaces supplier and residue controls",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-059",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "Which is the best description of the purpose of traceability in post-harvest chemical-malpractice investigations?",
+      "options": {
+        "A": "To determine the sweetness of the fruit",
+        "B": "To replace all laboratory analysis",
+        "C": "To link the affected lot to its supplier, treatment history, distribution and destination",
+        "D": "To calculate the fruit's water activity without testing",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-060",
+      "topic": "Packaging and labelling law",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "The primary food-safety function of food packaging is to:",
+      "options": {
+        "A": "Protect food from contamination and deterioration while remaining suitable for intended contact",
+        "B": "Improve appearance regardless of material migration",
+        "C": "Guarantee sterility after opening",
+        "D": "Replace hygienic processing",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-061",
+      "topic": "Packaging and labelling law",
+      "question_type": "Material safety",
+      "difficulty": "Moderate",
+      "question": "What is meant by migration from food-contact packaging?",
+      "options": {
+        "A": "Loss of water through transpiration in an intact fruit",
+        "B": "Movement of food from retailer to consumer",
+        "C": "Movement of microorganisms only from food to packaging",
+        "D": "Transfer of constituents from packaging material into food",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-062",
+      "topic": "Packaging and labelling law",
+      "question_type": "Application",
+      "difficulty": "Moderate",
+      "question": "A fatty food is packed in an unsuitable polymer and stored at elevated temperature. Which factor may increase migration?",
+      "options": {
+        "A": "Greater temperature and contact time, depending on polymer and migrant properties",
+        "B": "The food's country of origin",
+        "C": "Lower temperature and shorter contact always increase migration",
+        "D": "Only the printed font size",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-063",
+      "topic": "Packaging and labelling law",
+      "question_type": "Conceptual distinction",
+      "difficulty": "Moderate",
+      "question": "Which statement best distinguishes 'best before' from 'use by/expiry' in the manual's teaching framework?",
+      "options": {
+        "A": "Use by refers only to the date of packaging",
+        "B": "They are always legally interchangeable",
+        "C": "Best before is primarily a quality date; use by/expiry is a safety-related limit after which the food should not be consumed",
+        "D": "Best before means the food is poisonous immediately afterwards",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-064",
+      "topic": "Packaging and labelling law",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "Which pair of terms should not be confused?",
+      "options": {
+        "A": "Date of manufacture and date of packaging",
+        "B": "Water activity and pH",
+        "C": "Infection and intoxication",
+        "D": "Bioaccumulation and biomagnification",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-065",
+      "topic": "Packaging and labelling law",
+      "question_type": "Regulatory interpretation",
+      "difficulty": "Moderate",
+      "question": "A question asks for exact mandatory label declarations under current Indian law. Which source should control the answer?",
+      "options": {
+        "A": "The latest applicable FSSAI Labelling and Display Regulations and amendments/notifications",
+        "B": "An old textbook summary alone",
+        "C": "A foreign country's label rules",
+        "D": "A retailer's preferred label design",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-066",
+      "topic": "Packaging and labelling law",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "Why is a label a food-safety instrument rather than merely a marketing tool?",
+      "options": {
+        "A": "It guarantees the food has no microorganisms",
+        "B": "It replaces inspection and laboratory testing",
+        "C": "It is used only to display brand colours",
+        "D": "It communicates identity, ingredients, allergens, dates, storage and other information needed for safe and informed use",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-067",
+      "topic": "Packaging and labelling law",
+      "question_type": "Allergen control",
+      "difficulty": "Moderate",
+      "question": "A ready-to-eat product is manufactured on a line that also handles peanuts. The most important label-related control is:",
+      "options": {
+        "A": "Declare peanuts only if they are visible",
+        "B": "Rely on cooking to destroy every allergen",
+        "C": "Accurate ingredient/allergen declaration supported by cross-contact controls",
+        "D": "Remove the batch code",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-068",
+      "topic": "Packaging and labelling law",
+      "question_type": "Vegetarian/non-vegetarian symbol",
+      "difficulty": "Moderate",
+      "question": "Which approach is safest when answering a question about the exact statutory dimensions or current form of vegetarian/non-vegetarian symbols?",
+      "options": {
+        "A": "Assume the symbols have no legal relevance",
+        "B": "Use the current notified Indian labelling requirements; the uploaded source pages do not provide verified dimensions",
+        "C": "Invent dimensions based on the diagram in memory",
+        "D": "Use US allergen labelling rules",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-069",
+      "topic": "Packaging and labelling law",
+      "question_type": "Application",
+      "difficulty": "Moderate",
+      "question": "A label declares 'best before' but omits storage conditions needed to achieve the stated shelf life. What is the central concern?",
+      "options": {
+        "A": "The date cannot be interpreted independently of stated storage conditions",
+        "B": "The food must be classified as non-vegetarian",
+        "C": "The packaging becomes a CCP by definition",
+        "D": "The product automatically becomes a biological hazard",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-070",
+      "topic": "Packaging and labelling law",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "Which statement about food-contact packaging is correct?",
+      "options": {
+        "A": "Any recycled material is automatically suitable for direct food contact",
+        "B": "The material must be suitable for its intended food-contact use and comply with applicable requirements",
+        "C": "Migration is impossible in solid packaging",
+        "D": "Packaging suitability depends only on colour",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-071",
+      "topic": "Packaging and labelling law",
+      "question_type": "Scenario",
+      "difficulty": "Moderate",
+      "question": "A can shows internal corrosion and product leakage. The most appropriate interpretation is:",
+      "options": {
+        "A": "Evidence of microbial sterility",
+        "B": "A packaging-integrity failure that may compromise food safety and product quality",
+        "C": "A labelling-only nonconformity",
+        "D": "A harmless cosmetic issue in every case",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-072",
+      "topic": "Packaging and labelling law",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "Which of the following is an example of a packaging-related chemical hazard?",
+      "options": {
+        "A": "A virus transmitted by contaminated irrigation water",
+        "B": "A stone accidentally entering a fruit crate",
+        "C": "Migration of an unsuitable packaging constituent into food",
+        "D": "A rodent entering a warehouse",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-073",
+      "topic": "Packaging and labelling law",
+      "question_type": "Matching",
+      "difficulty": "Moderate",
+      "question": "Match the label information to its principal purpose: batch/lot identification.",
+      "options": {
+        "A": "Indication of sweetness",
+        "B": "Proof that no allergen cross-contact occurred",
+        "C": "Traceability and targeted withdrawal/recall",
+        "D": "Measurement of water activity",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-074",
+      "topic": "Packaging and labelling law",
+      "question_type": "HPSC-style case",
+      "difficulty": "Moderate",
+      "question": "A product label lists an ingredient but omits a relevant allergen declaration. Which risk is most direct?",
+      "options": {
+        "A": "The package becomes biodegradable",
+        "B": "An allergic consumer may unknowingly ingest the allergen and suffer an immune-mediated reaction",
+        "C": "The food's pH necessarily rises",
+        "D": "The product becomes physically contaminated by metal",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-075",
+      "topic": "Packaging and labelling law",
+      "question_type": "Conceptual distinction",
+      "difficulty": "Moderate",
+      "question": "Which statement about packaging and shelf life is most accurate?",
+      "options": {
+        "A": "Shelf life depends on food characteristics, processing, packaging, storage and distribution conditions",
+        "B": "Packaging alone determines shelf life regardless of food properties",
+        "C": "A sealed package makes time-temperature control unnecessary",
+        "D": "All packaging materials provide identical oxygen and moisture barriers",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-076",
+      "topic": "Packaging and labelling law",
+      "question_type": "Statement combination",
+      "difficulty": "Moderate",
+      "question": "Consider the statements: (1) Packaging can protect food from contamination. (2) Packaging suitability includes food-contact safety. (3) Packaging guarantees that food remains safe under any abuse after opening. Which are correct?",
+      "options": {
+        "A": "1, 2 and 3",
+        "B": "1 only",
+        "C": "1 and 2 only",
+        "D": "2 and 3 only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-077",
+      "topic": "Packaging and labelling law",
+      "question_type": "Regulatory caution",
+      "difficulty": "Moderate",
+      "question": "The uploaded manual notes that its selected pages do not supply exact dimensions for vegetarian/non-vegetarian symbols. What should a candidate do if asked for those dimensions?",
+      "options": {
+        "A": "Use the dimensions of an unrelated international symbol",
+        "B": "State that no dimensions exist in Indian law",
+        "C": "Verify the current notified regulation rather than fabricate a number",
+        "D": "Guess a convenient round number",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-078",
+      "topic": "Packaging and labelling law",
+      "question_type": "Application",
+      "difficulty": "Moderate",
+      "question": "A food package is labelled with an incorrect manufacturing date. This most directly undermines:",
+      "options": {
+        "A": "The food's inherent vitamin content",
+        "B": "Consumer information, date interpretation and regulatory traceability",
+        "C": "The HLB of the emulsifier",
+        "D": "The organism's minimum water activity",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-079",
+      "topic": "Packaging and labelling law",
+      "question_type": "Conceptual",
+      "difficulty": "Moderate",
+      "question": "Which statement best describes the relationship between food packaging and HACCP?",
+      "options": {
+        "A": "A label check replaces all HACCP verification",
+        "B": "Packaging controls may be included in hazard analysis where they control a significant hazard, but packaging is not automatically a CCP",
+        "C": "Packaging is never relevant to food safety",
+        "D": "Every packaging operation is automatically a CCP",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-080",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "HACCP is best characterised as:",
+      "options": {
+        "A": "A method used only after an outbreak",
+        "B": "A preventive system that identifies, evaluates and controls significant food-safety hazards",
+        "C": "A grading system for sensory quality",
+        "D": "A system based only on testing finished products",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-081",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Historical",
+      "difficulty": "Moderate",
+      "question": "The uploaded manuals associate the development of HACCP with:",
+      "options": {
+        "A": "The first FSSAI regulations in 2011",
+        "B": "Pillsbury, the NASA space programme and the 1960s",
+        "C": "WHO's Five Keys in 2005 only",
+        "D": "The discovery of DNA in 1953",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-082",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Principles sequence",
+      "difficulty": "Moderate",
+      "question": "Which is the correct first principle of HACCP?",
+      "options": {
+        "A": "Conduct a hazard analysis",
+        "B": "Establish corrective actions",
+        "C": "Establish documentation and record keeping",
+        "D": "Establish verification procedures",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-083",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Principles sequence",
+      "difficulty": "Moderate",
+      "question": "Determination of Critical Control Points (CCPs) corresponds to which HACCP principle?",
+      "options": {
+        "A": "Principle 7",
+        "B": "Principle 4",
+        "C": "Principle 1",
+        "D": "Principle 2",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-084",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Direct factual",
+      "difficulty": "Moderate",
+      "question": "A critical limit is:",
+      "options": {
+        "A": "A measurable or observable criterion that separates acceptability from unacceptability at a CCP",
+        "B": "A record of the supplier's address",
+        "C": "A general statement that workers should be careful",
+        "D": "A product's retail price ceiling",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-085",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Principle matching",
+      "difficulty": "Moderate",
+      "question": "Which HACCP principle establishes procedures to observe or measure whether a CCP remains within its critical limits?",
+      "options": {
+        "A": "Principle 6 — establish verification procedures",
+        "B": "Principle 3 — establish critical limits",
+        "C": "Principle 7 — documentation",
+        "D": "Principle 4 — establish monitoring procedures",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-086",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Conceptual distinction",
+      "difficulty": "Moderate",
+      "question": "Which statement best distinguishes monitoring from verification?",
+      "options": {
+        "A": "Monitoring is conducted only after product release",
+        "B": "Verification is performed only by the consumer",
+        "C": "Monitoring checks CCP control during operation; verification evaluates whether the HACCP system is being implemented and remains effective",
+        "D": "Monitoring and verification are identical and interchangeable",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-087",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Corrective action",
+      "difficulty": "Moderate",
+      "question": "A CCP monitoring result exceeds its critical limit. What is the appropriate HACCP response?",
+      "options": {
+        "A": "Delete the monitoring record",
+        "B": "Change the critical limit retrospectively to fit the result",
+        "C": "Apply predetermined corrective actions, control affected product and restore process control",
+        "D": "Ignore it if the finished product looks normal",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-088",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Validation vs verification",
+      "difficulty": "Moderate",
+      "question": "Which statement most accurately distinguishes validation from verification?",
+      "options": {
+        "A": "Verification is always completed once before implementation",
+        "B": "Validation is the same as daily CCP monitoring",
+        "C": "Validation obtains scientific/technical evidence that the plan can control hazards; verification checks that the plan is implemented and effective",
+        "D": "Validation and verification both mean only checking the final label",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-089",
+      "topic": "HACCP and quality assurance",
+      "question_type": "CCP vs PRP",
+      "difficulty": "Moderate",
+      "question": "Which example is most appropriately treated as a prerequisite programme (PRP) in a typical food plant?",
+      "options": {
+        "A": "A plant-wide sanitation and pest-control programme",
+        "B": "A pH adjustment step established as a CCP",
+        "C": "A validated thermal treatment step with a critical temperature limit for a specific pathogen",
+        "D": "A metal detector designated after hazard analysis with a measurable rejection criterion",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-090",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Conceptual trap",
+      "difficulty": "Moderate",
+      "question": "Which statement about CCP designation is correct?",
+      "options": {
+        "A": "Every step that contributes to food safety is automatically a CCP",
+        "B": "A CCP is identified through hazard analysis and decision logic; not every control measure is a CCP",
+        "C": "A CCP is always the final step in a process",
+        "D": "Every PRP failure automatically proves a CCP deviation",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-091",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Decision-tree application",
+      "difficulty": "Moderate",
+      "question": "A raw-material hazard is adequately eliminated by a validated cooking step later in the process. Under the decision-tree logic described in the manual, an earlier receiving check is:",
+      "options": {
+        "A": "A critical limit without any monitoring",
+        "B": "Always irrelevant and should be removed",
+        "C": "Automatically a CCP because it is the first step",
+        "D": "Not necessarily a CCP if the later validated step adequately controls the same hazard",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-092",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Monitoring design",
+      "difficulty": "Moderate",
+      "question": "The manual states that a CCP monitoring procedure should specify which set of elements?",
+      "options": {
+        "A": "Why, cost, brand and colour",
+        "B": "What, how, frequency and who",
+        "C": "Only the final test result",
+        "D": "Only who and the product price",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-093",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Documentation",
+      "difficulty": "Moderate",
+      "question": "Which record set most directly supports operation and review of a HACCP plan?",
+      "options": {
+        "A": "Only sales invoices",
+        "B": "Monitoring, corrective-action, verification and supporting documents",
+        "C": "Only consumer preference surveys",
+        "D": "Only staff attendance sheets",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-094",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Hazard scope",
+      "difficulty": "Moderate",
+      "question": "In HACCP, a hazard is relevant to the plan when it has the potential to:",
+      "options": {
+        "A": "Cause an adverse health effect",
+        "B": "Reduce the product's market price only",
+        "C": "Cause any consumer dislike, regardless of health consequence",
+        "D": "Change the package colour without affecting health",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-095",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Statement combination",
+      "difficulty": "Moderate",
+      "question": "Consider the statements: (1) HACCP is preventive rather than based solely on end-product testing. (2) Corrective action is required when monitoring indicates loss of control at a CCP. (3) Verification and validation are synonyms. Which are correct?",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "1, 2 and 3",
+        "C": "1 and 3 only",
+        "D": "2 and 3 only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-096",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Scenario",
+      "difficulty": "Moderate",
+      "question": "A fruit-pulp processor identifies survival of a pathogen as a significant hazard and applies a validated pasteurisation step. If this step is essential to control the hazard, it is most likely to be:",
+      "options": {
+        "A": "A marketing prerequisite only",
+        "B": "A CCP with an established critical limit and monitoring procedure",
+        "C": "A non-food-safety quality preference",
+        "D": "A label declaration",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-097",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Assertion–reason",
+      "difficulty": "Moderate",
+      "question": "Assertion (A): A well-designed HACCP plan does not eliminate the need for prerequisite programmes. Reason (R): GMP, GHP, sanitation and pest control provide the hygienic foundation on which hazard-specific CCP controls operate.",
+      "options": {
+        "A": "A is true, R is false",
+        "B": "A is false, R is true",
+        "C": "Both A and R are true, but R does not explain A",
+        "D": "Both A and R are true, and R correctly explains A",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-098",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Integrated case",
+      "difficulty": "Moderate",
+      "question": "A processor has no documented CCP monitoring records, although the operator says the process was 'probably within limits'. Which HACCP principle is most directly compromised?",
+      "options": {
+        "A": "Principle 2 — determine CCPs only",
+        "B": "Principle 3 — establish critical limits only",
+        "C": "The WHO Five Keys",
+        "D": "Principle 7 — establish documentation and record keeping",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-099",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Examiner-style sequence",
+      "difficulty": "Moderate",
+      "question": "Which sequence correctly represents the seven HACCP principles in order?",
+      "options": {
+        "A": "Monitoring → hazard analysis → verification → CCP determination → documentation → critical limits → corrective action",
+        "B": "Hazard analysis → CCP determination → critical limits → monitoring → corrective actions → verification → documentation/records",
+        "C": "Hazard analysis → corrective action → marketing → critical limits → packaging → verification → inspection",
+        "D": "CCP determination → packaging → labelling → monitoring → audit → recall → sampling",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    },
+    {
+      "id": "FSN421-100",
+      "topic": "HACCP and quality assurance",
+      "question_type": "Applied distinction",
+      "difficulty": "Moderate",
+      "question": "A facility's handwashing station is not functioning, but no specific CCP critical limit has been exceeded. How should the issue normally be treated?",
+      "options": {
+        "A": "Automatically as a CCP deviation in every circumstance",
+        "B": "As proof that all finished products are safe",
+        "C": "As a PRP/hygiene-system failure requiring prompt correction and assessment of product impact",
+        "D": "As a labelling error only",
+        "E": "Not attempted"
+      },
+      "source_basis": "Both uploaded FSN 421 manuals"
+    }
+  ],
+  "answer_key": [
+    {
+      "id": "FSN421-001",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-002",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-003",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-004",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-005",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-006",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-007",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-008",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-009",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-010",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-011",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-012",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-013",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-014",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-015",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-016",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-017",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-018",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-019",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-020",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-021",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-022",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-023",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-024",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-025",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-026",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-027",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-028",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-029",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-030",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-031",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-032",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-033",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-034",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-035",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-036",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-037",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-038",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-039",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-040",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-041",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-042",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-043",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-044",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-045",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-046",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-047",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-048",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-049",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-050",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-051",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-052",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-053",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-054",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-055",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-056",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-057",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-058",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-059",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-060",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-061",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-062",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-063",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-064",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-065",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-066",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-067",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-068",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-069",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-070",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-071",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-072",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-073",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-074",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-075",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-076",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-077",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-078",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-079",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-080",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-081",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-082",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-083",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-084",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-085",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-086",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-087",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-088",
+      "correct_option": "C"
+    },
+    {
+      "id": "FSN421-089",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-090",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-091",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-092",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-093",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-094",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-095",
+      "correct_option": "A"
+    },
+    {
+      "id": "FSN421-096",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-097",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-098",
+      "correct_option": "D"
+    },
+    {
+      "id": "FSN421-099",
+      "correct_option": "B"
+    },
+    {
+      "id": "FSN421-100",
+      "correct_option": "C"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "id": "FSN421-001",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "B",
+      "explanation": "The Codex wording defines a hazard by its capacity to cause an adverse health effect. Probability and severity of harm in a particular exposure situation belong to risk assessment. A quality defect is not automatically a food-safety hazard, and hazards include chemical and physical agents as well as biological ones."
+    },
+    {
+      "id": "FSN421-002",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "A",
+      "explanation": "Appearance, flavour and texture do not establish chemical safety. Lead is a chemical contaminant; exposure and dose determine risk. It is not a physical foreign body merely because it is a metal, and sensory detection is not a reliable safety test."
+    },
+    {
+      "id": "FSN421-003",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "A",
+      "explanation": "Glass fragments are extraneous physical material with the potential to cause cuts or internal injury. Cadmium, aflatoxin and pesticide residues are chemical hazards."
+    },
+    {
+      "id": "FSN421-004",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "A",
+      "explanation": "Statement 1 is correct: viruses are obligate intracellular agents. Statement 2 is incorrect because they do not replicate in food. Statement 3 is correct: contaminated food or water can act as a vehicle for transmission."
+    },
+    {
+      "id": "FSN421-005",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "D",
+      "explanation": "The manual identifies infected handlers, lesions and nasal flora as routes by which pathogens can be transferred to ready-to-eat foods. The control point is personnel health/hygiene and prevention of direct contamination."
+    },
+    {
+      "id": "FSN421-006",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "B",
+      "explanation": "In intoxication, the consumer ingests a preformed toxin and the producer organism need not remain viable. In infection, viable pathogens or infective stages establish infection in the host. Toxin-mediated infection is a related but distinct mechanism."
+    },
+    {
+      "id": "FSN421-007",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "B",
+      "explanation": "Salmonellosis is a classic infection. Staphylococcal food poisoning and foodborne botulism are typically intoxications from preformed toxins. B. cereus emetic illness is also a preformed-toxin intoxication."
+    },
+    {
+      "id": "FSN421-008",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "A",
+      "explanation": "Killing the producer organism does not guarantee destruction of toxin already formed. Staphylococcal enterotoxins are an important heat-stability counterexample. Incubation times vary, so 'always' claims are unsafe."
+    },
+    {
+      "id": "FSN421-009",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "D",
+      "explanation": "The separation key requires separating raw and cooked foods and using separate utensils/equipment or otherwise preventing cross-contamination. Cleaning is also important but separation directly addresses transfer between raw and ready-to-eat foods."
+    },
+    {
+      "id": "FSN421-010",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "C",
+      "explanation": "The manual states that cooked and perishable food should be refrigerated promptly, preferably below 5°C. It does not state that all foods must be frozen or held below 0°C."
+    },
+    {
+      "id": "FSN421-011",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "B",
+      "explanation": "Bioaccumulation describes accumulation in an individual organism from exposure sources. Biomagnification describes increasing concentration across successive trophic levels. The terms are related but not interchangeable."
+    },
+    {
+      "id": "FSN421-012",
+      "topic": "Food hazards and foodborne illness",
+      "correct_option": "B",
+      "explanation": "Both statements are true. Sensory acceptability is not a test for invisible chemical residues or pathogenic contamination, so sensory quality cannot establish safety."
+    },
+    {
+      "id": "FSN421-013",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "C",
+      "explanation": "The manual lists common salt, sugar/dextrose or glucose syrup, wood smoke, spices, vinegar/acetic acid and honey as Class I examples, subject to the qualifier 'unless otherwise provided'."
+    },
+    {
+      "id": "FSN421-014",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "C",
+      "explanation": "The source explicitly warns against converting the conditional phrase 'unless otherwise provided' into an unlimited permission. Permitted use still depends on applicable standards and food category."
+    },
+    {
+      "id": "FSN421-015",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "C",
+      "explanation": "Lipid autoxidation proceeds through initiation, propagation and termination. Oxygen participates in radical-chain reactions, forming peroxides/hydroperoxides and secondary products such as aldehydes and ketones that contribute to rancid flavours."
+    },
+    {
+      "id": "FSN421-016",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "D",
+      "explanation": "Chain-breaking antioxidants quench lipid radicals and interrupt propagation. They do not remove all oxygen or convert unsaturated fats into saturated fats."
+    },
+    {
+      "id": "FSN421-017",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "B",
+      "explanation": "An emulsifier is amphiphilic. Its hydrophilic and lipophilic portions interact with the respective phases and reduce interfacial tension, helping stabilise dispersed droplets."
+    },
+    {
+      "id": "FSN421-018",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "B",
+      "explanation": "HLB is a numerical expression of the relative water-loving and fat-loving character of an emulsifier and helps indicate suitability for different emulsion types."
+    },
+    {
+      "id": "FSN421-019",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "D",
+      "explanation": "The manual describes gelatin as a clarifying agent used in beverages. Nisin is an antimicrobial peptide, calcium silicate is an anticaking agent, and MSG is a flavour enhancer."
+    },
+    {
+      "id": "FSN421-020",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "A",
+      "explanation": "Nisin has a narrow spectrum focused on Gram-positive organisms, including important spore-formers. It should not be treated as a universal preservative against Gram-negative organisms."
+    },
+    {
+      "id": "FSN421-021",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "A",
+      "explanation": "Anticaking agents absorb moisture, coat particles or provide an insoluble particulate effect that helps maintain free-flowing powders."
+    },
+    {
+      "id": "FSN421-022",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "C",
+      "explanation": "MSG is the sodium salt of glutamic acid and functions as a flavour enhancer. It does not function as an intensive sweetener or clarifying agent."
+    },
+    {
+      "id": "FSN421-023",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "C",
+      "explanation": "Potato glycoalkaloids of principal concern are α-chaconine and α-solanine. Linamarin and amygdalin are cyanogenic glycosides."
+    },
+    {
+      "id": "FSN421-024",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "D",
+      "explanation": "The manual describes glycoalkaloids as relatively heat-stable under common cooking and frying. Peeling is a useful reduction measure but does not guarantee complete removal."
+    },
+    {
+      "id": "FSN421-025",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "A",
+      "explanation": "The uploaded material explicitly cautions that 200 mg/kg is a reference/recommended value and not a verified universal statutory limit. Questions must preserve that authority qualification."
+    },
+    {
+      "id": "FSN421-026",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "D",
+      "explanation": "Tissue damage allows enzymatic hydrolysis of cyanogenic glycosides; cyanohydrin intermediates can decompose and release hydrogen cyanide (HCN), the toxic agent."
+    },
+    {
+      "id": "FSN421-027",
+      "topic": "Food additives and plant toxicants",
+      "correct_option": "C",
+      "explanation": "Linamarin is the major cyanogenic glycoside identified for cassava. Amygdalin occurs in stone-fruit kernels; α-solanine is a potato glycoalkaloid; nisin is a microbial peptide."
+    },
+    {
+      "id": "FSN421-028",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "A",
+      "explanation": "Water activity concerns available water, not simply total moisture content. Solutes and food structure can bind water and reduce the fraction available to microorganisms."
+    },
+    {
+      "id": "FSN421-029",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "A",
+      "explanation": "The manual gives fresh produce as aw above 0.99, most spoilage bacteria as above 0.91, and filamentous fungi as low as 0.80. These are teaching thresholds, not universal boundaries for every species."
+    },
+    {
+      "id": "FSN421-030",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "D",
+      "explanation": "The manuals describe yeasts as gaining a competitive advantage in high-sugar or acidic foods. This does not mean all yeasts are pathogens or toxin producers; many cause quality spoilage."
+    },
+    {
+      "id": "FSN421-031",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "C",
+      "explanation": "Yeasts are unicellular eukaryotic organisms. Bacteria are prokaryotes, filamentous fungi are multicellular/mycelial, and viruses are acellular agents."
+    },
+    {
+      "id": "FSN421-032",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "B",
+      "explanation": "Pectin is a structural component of plant cell walls and middle lamellae. Pectinolytic activity weakens tissue cohesion and can produce soft rot or mushy texture."
+    },
+    {
+      "id": "FSN421-033",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "B",
+      "explanation": "Freezing generally inhibits or greatly slows microbial growth, but survival of microorganisms is possible and chemical or enzymatic deterioration may continue. It is not sterilisation."
+    },
+    {
+      "id": "FSN421-034",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "C",
+      "explanation": "Psychrotrophs can grow at low/refrigeration temperatures, while their optimum growth temperature may be around ordinary room-temperature ranges. Psychrotroph and psychrophile are not interchangeable."
+    },
+    {
+      "id": "FSN421-035",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "B",
+      "explanation": "The manual notes growth capability at 7°C or below, while the optimum stated for the group is around 20–30°C. These values describe different temperature concepts."
+    },
+    {
+      "id": "FSN421-036",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "B",
+      "explanation": "pH is logarithmic: pH = −log10(aH+). A decrease of one pH unit corresponds to approximately a tenfold increase in hydrogen-ion activity."
+    },
+    {
+      "id": "FSN421-037",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "B",
+      "explanation": "The pH 4.6 boundary is used in the acid/low-acid food distinction because of its relevance to C. botulinum growth and toxin formation. It does not eliminate every microbial or chemical hazard."
+    },
+    {
+      "id": "FSN421-038",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "B",
+      "explanation": "pH is an intensity measure related to hydrogen-ion activity. Titratable acidity measures the acid-neutralising capacity to a specified endpoint. Foods with the same pH can have different buffering and titratable acidity."
+    },
+    {
+      "id": "FSN421-039",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "D",
+      "explanation": "The manual characterises filamentous fungi as obligate aerobes and highlights their ability to grow over a broad range of pH, temperature and water activity."
+    },
+    {
+      "id": "FSN421-040",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "A",
+      "explanation": "Statements 1 and 3 are correct. Statement 2 reverses the general hierarchy: filamentous fungi are more tolerant of low aw than most bacteria. These are general teaching comparisons, not absolute limits for every species."
+    },
+    {
+      "id": "FSN421-041",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "A",
+      "explanation": "The manuals describe microbial growth as an ecological outcome influenced by intrinsic and extrinsic factors, including temperature, pH, aw, oxygen, food composition and competing organisms."
+    },
+    {
+      "id": "FSN421-042",
+      "topic": "Microbial growth and spoilage",
+      "correct_option": "B",
+      "explanation": "Cooling slows growth of many microorganisms and reduces the rate of many enzymatic and chemical changes. It does not sterilise the food or stop all psychrotrophic growth."
+    },
+    {
+      "id": "FSN421-043",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "A",
+      "explanation": "The manual warns against calcium carbide use because technical-grade material may contain hazardous impurities and uncontrolled application creates exposure and process risks. It must not be equated with controlled ethylene ripening."
+    },
+    {
+      "id": "FSN421-044",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "B",
+      "explanation": "Ethylene is the natural plant hormone involved in ripening and can be applied under controlled conditions. Calcium carbide generates acetylene and may be contaminated with toxic impurities; the two processes are not equivalent."
+    },
+    {
+      "id": "FSN421-045",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "D",
+      "explanation": "Unapproved dyes used to alter appearance are chemical hazards and may also constitute adulteration/misrepresentation. The actual toxicological risk depends on the substance and exposure."
+    },
+    {
+      "id": "FSN421-046",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "B",
+      "explanation": "Malachite green is discussed as a hazardous dye-misuse example. Calcium carbide is an artificial-ripening malpractice, ethephon is an ethylene-releasing plant growth regulator, and Sudan dyes are synthetic colourants."
+    },
+    {
+      "id": "FSN421-047",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "B",
+      "explanation": "The source explicitly cautions against overclaiming that these dyes are proven human carcinogens in every exposure situation. A scientifically defensible answer recognises toxicological concern while qualifying evidence and exposure."
+    },
+    {
+      "id": "FSN421-048",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "C",
+      "explanation": "The uploaded manuals repeatedly distinguish scientific explanation and historical reference values from current law. Legal permission is specific to substance, food category, conditions and current notified rules."
+    },
+    {
+      "id": "FSN421-049",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "C",
+      "explanation": "Ethephon is an ethylene-releasing compound used in controlled agricultural contexts. The manual warns against inferring that it is automatically safe for direct application to every fruit; conditions and legal authorisation matter."
+    },
+    {
+      "id": "FSN421-050",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "A",
+      "explanation": "The uploaded manual includes mandatory label declarations for waxed produce. Exact requirements should be checked against the current applicable regulation rather than inferred from general practice."
+    },
+    {
+      "id": "FSN421-051",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "C",
+      "explanation": "The manuals identify linamarin in cassava and amygdalin in stone-fruit kernels as cyanogenic glycosides. Other options mismatch the toxicant with an unrelated source."
+    },
+    {
+      "id": "FSN421-052",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "B",
+      "explanation": "Only suitable food-grade materials used under applicable good manufacturing practice and legal conditions can be considered for food use. An unspecified coating cannot be presumed safe."
+    },
+    {
+      "id": "FSN421-053",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "A",
+      "explanation": "Risk depends on exposure and hazard characteristics. Concentration alone is insufficient without consumption, frequency, duration, route and vulnerability."
+    },
+    {
+      "id": "FSN421-054",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "A",
+      "explanation": "Ethylene is used in controlled ripening systems. The operation still requires appropriate controls and compliance; it is not sterilisation and is distinct from uncontrolled carbide use."
+    },
+    {
+      "id": "FSN421-055",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "A",
+      "explanation": "Statements 1 and 3 are correct. Statement 2 is an unjustified absolute: authorisation depends on current rules, commodity and conditions of use."
+    },
+    {
+      "id": "FSN421-056",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "C",
+      "explanation": "Detection is not equivalent to risk or legal non-compliance in every case. The result must be interpreted against analytical uncertainty, applicable MRL/standard, exposure and toxicology."
+    },
+    {
+      "id": "FSN421-057",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "D",
+      "explanation": "The deliberate use of an unauthorised dye raises chemical-safety and authenticity concerns. An officer would document the lot and source, preserve traceability and follow statutory sampling/enforcement procedures."
+    },
+    {
+      "id": "FSN421-058",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "B",
+      "explanation": "Washing is a useful hygiene step but is not sterilisation. It cannot be relied upon to remove all pathogens, internalised contaminants or systemic residues."
+    },
+    {
+      "id": "FSN421-059",
+      "topic": "Post-harvest adulteration and chemical treatments",
+      "correct_option": "C",
+      "explanation": "Traceability supports identification, containment, recall and investigation of affected lots by linking origin, handling/treatment and distribution records."
+    },
+    {
+      "id": "FSN421-060",
+      "topic": "Packaging and labelling law",
+      "correct_option": "A",
+      "explanation": "Packaging provides a protective barrier and helps preserve quality/safety. It must be suitable for food contact and cannot replace hygienic manufacture or guarantee safety after opening."
+    },
+    {
+      "id": "FSN421-061",
+      "topic": "Packaging and labelling law",
+      "correct_option": "D",
+      "explanation": "Migration is the transfer of substances from packaging into food under conditions of contact, time, temperature and food composition. It is a chemical food-contact concern."
+    },
+    {
+      "id": "FSN421-062",
+      "topic": "Packaging and labelling law",
+      "correct_option": "A",
+      "explanation": "Migration depends on material composition, migrant characteristics, food simulant/composition, contact time and temperature. Elevated temperature and longer contact often increase transfer."
+    },
+    {
+      "id": "FSN421-063",
+      "topic": "Packaging and labelling law",
+      "correct_option": "C",
+      "explanation": "The manual highlights this as a key distinction: best-before is associated primarily with quality under stated storage conditions, while use-by/expiry carries a stronger safety implication. Current exact statutory wording should be checked in the applicable labelling regulation."
+    },
+    {
+      "id": "FSN421-064",
+      "topic": "Packaging and labelling law",
+      "correct_option": "A",
+      "explanation": "Manufacture and packaging are distinct events and dates. The label definitions should be applied precisely; a packaged date does not necessarily equal the date the food was manufactured."
+    },
+    {
+      "id": "FSN421-065",
+      "topic": "Packaging and labelling law",
+      "correct_option": "A",
+      "explanation": "The manuals caution that historical legal statements are not certified as current. Exact declarations must be checked against the current Indian regulations and amendments."
+    },
+    {
+      "id": "FSN421-066",
+      "topic": "Packaging and labelling law",
+      "correct_option": "D",
+      "explanation": "Labelling supports informed choice, allergen avoidance, safe storage/use, traceability and enforcement. It does not itself guarantee product safety."
+    },
+    {
+      "id": "FSN421-067",
+      "topic": "Packaging and labelling law",
+      "correct_option": "C",
+      "explanation": "Allergen risk is managed through formulation, segregation, validated cleaning, rework control and accurate declaration. Cooking does not reliably eliminate all allergenic proteins."
+    },
+    {
+      "id": "FSN421-068",
+      "topic": "Packaging and labelling law",
+      "correct_option": "B",
+      "explanation": "The uploaded GPT manual explicitly says exact symbol dimensions are absent from the selected pages and should not be invented. Current notified Indian requirements are the authority."
+    },
+    {
+      "id": "FSN421-069",
+      "topic": "Packaging and labelling law",
+      "correct_option": "A",
+      "explanation": "Date marking is meaningful only in the context of the storage conditions under which the shelf life applies. Inadequate storage information can mislead consumers and undermine safe use."
+    },
+    {
+      "id": "FSN421-070",
+      "topic": "Packaging and labelling law",
+      "correct_option": "B",
+      "explanation": "Food-contact materials must be suitable and compliant for their intended use. Recycled content or visual appearance alone does not establish suitability."
+    },
+    {
+      "id": "FSN421-071",
+      "topic": "Packaging and labelling law",
+      "correct_option": "B",
+      "explanation": "Corrosion and leakage can compromise the container barrier and permit contamination or deterioration. The product should be assessed and managed under the applicable safety and defect criteria."
+    },
+    {
+      "id": "FSN421-072",
+      "topic": "Packaging and labelling law",
+      "correct_option": "C",
+      "explanation": "Migration of packaging constituents is a chemical hazard. A stone is physical, a virus biological, and rodent contamination may be biological/physical depending on the mechanism."
+    },
+    {
+      "id": "FSN421-073",
+      "topic": "Packaging and labelling law",
+      "correct_option": "C",
+      "explanation": "Batch or lot identification links product to production and distribution records, enabling targeted investigation, withdrawal or recall."
+    },
+    {
+      "id": "FSN421-074",
+      "topic": "Packaging and labelling law",
+      "correct_option": "B",
+      "explanation": "Failure to declare allergens can expose sensitised consumers to proteins capable of causing reactions, including anaphylaxis. Ingredient control and accurate labelling are essential."
+    },
+    {
+      "id": "FSN421-075",
+      "topic": "Packaging and labelling law",
+      "correct_option": "A",
+      "explanation": "Shelf life is a system outcome involving product formulation, initial contamination, process, barrier properties, seal integrity and storage/distribution conditions."
+    },
+    {
+      "id": "FSN421-076",
+      "topic": "Packaging and labelling law",
+      "correct_option": "C",
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is false: packaging cannot guarantee safety under all misuse, temperature abuse or post-opening contamination."
+    },
+    {
+      "id": "FSN421-077",
+      "topic": "Packaging and labelling law",
+      "correct_option": "C",
+      "explanation": "The source explicitly flags this gap. A careful candidate distinguishes absence in the study extract from absence in law and checks the current authoritative regulation."
+    },
+    {
+      "id": "FSN421-078",
+      "topic": "Packaging and labelling law",
+      "correct_option": "B",
+      "explanation": "Incorrect date information can mislead consumers about freshness/shelf life and interfere with enforcement and traceability. It is not a microbial growth parameter."
+    },
+    {
+      "id": "FSN421-079",
+      "topic": "Packaging and labelling law",
+      "correct_option": "B",
+      "explanation": "HACCP designation is hazard- and process-specific. Packaging may control contamination, seal integrity or migration risks, but it is not automatically a CCP; the hazard analysis and decision process determine this."
+    },
+    {
+      "id": "FSN421-080",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "B",
+      "explanation": "HACCP is preventive: it identifies significant hazards and establishes controls at relevant process steps. End-product testing alone is not a substitute for process control."
+    },
+    {
+      "id": "FSN421-081",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "B",
+      "explanation": "The manuals describe HACCP's origins in the Pillsbury/NASA space-food context in the 1960s. Historical details should be stated carefully and not confused with later formalisation of principles."
+    },
+    {
+      "id": "FSN421-082",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "A",
+      "explanation": "Principle 1 is conducting hazard analysis. The analysis identifies hazards and evaluates which require control within the HACCP plan."
+    },
+    {
+      "id": "FSN421-083",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "D",
+      "explanation": "The seven-principle sequence places CCP determination at Principle 2, after hazard analysis."
+    },
+    {
+      "id": "FSN421-084",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "A",
+      "explanation": "Critical limits are criteria such as time, temperature, pH or other measurable/observable parameters that must be met to ensure the identified hazard is controlled at the CCP."
+    },
+    {
+      "id": "FSN421-085",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "D",
+      "explanation": "Monitoring is Principle 4. It specifies what is monitored, how, how often and by whom, and provides timely information about control at each CCP."
+    },
+    {
+      "id": "FSN421-086",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "C",
+      "explanation": "Monitoring is routine, planned observation/measurement at a CCP. Verification uses additional activities such as record review, audits, calibration and testing to confirm the system is functioning as intended."
+    },
+    {
+      "id": "FSN421-087",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "C",
+      "explanation": "A deviation requires corrective action, including control and disposition of affected product and correction of the cause so the process returns to control. Records must be maintained."
+    },
+    {
+      "id": "FSN421-088",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "C",
+      "explanation": "Validation asks whether the designed controls are capable of achieving the intended result. Verification asks whether the system is being followed and continues to work, through activities such as review, audit and testing."
+    },
+    {
+      "id": "FSN421-089",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "A",
+      "explanation": "Sanitation and pest control are foundational plant-wide programmes. The other examples may be designated CCPs if hazard analysis establishes that they are essential to control a significant hazard."
+    },
+    {
+      "id": "FSN421-090",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "B",
+      "explanation": "CCP designation is not automatic. The decision tree tests whether control is essential at that step and whether a later step will eliminate or reduce the hazard to an acceptable level. PRPs support the system but are not automatically CCPs."
+    },
+    {
+      "id": "FSN421-091",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "D",
+      "explanation": "The decision tree considers whether a later step will eliminate or reduce the hazard to an acceptable level. If so, the earlier step may not be designated a CCP for that hazard, although supplier controls and PRPs may remain important."
+    },
+    {
+      "id": "FSN421-092",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "B",
+      "explanation": "A usable monitoring procedure identifies the parameter, method, frequency and responsible person. This ensures timely detection of loss of control."
+    },
+    {
+      "id": "FSN421-093",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "B",
+      "explanation": "The manual identifies HACCP supporting documents, monitoring records, corrective-action records and verification records as core documentation."
+    },
+    {
+      "id": "FSN421-094",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "A",
+      "explanation": "HACCP focuses on biological, chemical and physical agents or conditions with potential to cause adverse health effects. Purely economic or cosmetic defects are not automatically HACCP hazards."
+    },
+    {
+      "id": "FSN421-095",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "A",
+      "explanation": "Statements 1 and 2 are correct. Validation and verification have distinct purposes: validation establishes that controls can work; verification confirms implementation and ongoing effectiveness."
+    },
+    {
+      "id": "FSN421-096",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "B",
+      "explanation": "A validated thermal process may be a CCP when hazard analysis shows it is essential to control a significant pathogen hazard. It requires critical limits, monitoring, corrective actions, verification and records."
+    },
+    {
+      "id": "FSN421-097",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "D",
+      "explanation": "Both are true. PRPs create baseline hygienic conditions across the facility; HACCP then focuses on significant hazards requiring specific controls at particular process steps."
+    },
+    {
+      "id": "FSN421-098",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "D",
+      "explanation": "HACCP requires documentation and records to demonstrate that controls were applied and deviations managed. Verbal assurances cannot replace required records."
+    },
+    {
+      "id": "FSN421-099",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "B",
+      "explanation": "The seven principles follow the preventive sequence: analyse hazards, determine CCPs, establish critical limits, establish monitoring, establish corrective actions, establish verification, and establish documentation/records."
+    },
+    {
+      "id": "FSN421-100",
+      "topic": "HACCP and quality assurance",
+      "correct_option": "C",
+      "explanation": "Handwashing facilities are normally part of prerequisite hygiene programmes. The failure must be corrected and its impact assessed; it does not automatically become a CCP deviation unless the hazard analysis and circumstances link it to a CCP or loss of control."
+    }
+  ]
+}

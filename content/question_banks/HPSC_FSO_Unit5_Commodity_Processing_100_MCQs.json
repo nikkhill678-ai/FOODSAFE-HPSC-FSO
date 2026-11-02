@@ -1,0 +1,2388 @@
+{
+  "metadata": {
+    "title": "HPSC FSO — Food Processing Operations & Commodity Technology: 100-Question Practice Bank",
+    "source_file": "05_Commodity_Processing_Tech_Dairy_Cereal_Meat_Hort.docx",
+    "source_scope": "Uploaded 68-page handout: dairy; cereals, pulses and grain technology; meat, poultry, fish and egg; horticultural processing.",
+    "question_count": 100,
+    "option_format": "Four-option MCQs (A–D); an integrated three-statement count item is included.",
+    "layout_order": [
+      "questions",
+      "answer_key",
+      "detailed_explanations"
+    ],
+    "exam_alignment_note": "This is a source-grounded MCQ practice bank for objective recall and concept checking. The current HPSC 2026 Subject Knowledge Test is reported as subjective/descriptive; MCQs do not reproduce that paper format. Use the explanations to convert mechanisms and process sequences into descriptive answers.",
+    "source_caveat": "Numbers marked as conventions in the handout may vary by textbook. Regulatory/grading values must be checked against currently notified FSSR/BIS/USDA text before being quoted as law. The handout includes a correction/qualification register; illustrative textbook values are not treated as universal statutory limits.",
+    "topic_counts": {
+      "Milk composition and adulteration": 4,
+      "Milk engineering": 3,
+      "Milk standardisation": 1,
+      "Homogenisation": 2,
+      "Milk heat processing": 5,
+      "Membrane processing": 2,
+      "Spray drying": 2,
+      "Butter and ghee": 2,
+      "Ghee analysis": 2,
+      "Traditional dairy products": 2,
+      "Rice milling": 4,
+      "Parboiling": 4,
+      "Wheat milling": 6,
+      "Maize processing": 3,
+      "Pulse processing": 3,
+      "Grain quality": 2,
+      "Grain processing": 3,
+      "Meat muscle biology": 1,
+      "Meat colour": 1,
+      "Post-mortem physiology": 2,
+      "Rigor mortis": 3,
+      "Meat defects": 3,
+      "Meat preservation": 4,
+      "Seafood quality": 4,
+      "Seafood safety": 1,
+      "Egg quality": 3,
+      "Egg storage": 1,
+      "Egg spoilage": 1,
+      "Egg safety": 1,
+      "Post-harvest physiology": 5,
+      "Fruit physiology": 2,
+      "Ethylene physiology": 1,
+      "Ethylene management": 1,
+      "CA and MAP": 1,
+      "Canning": 6,
+      "Freezing": 3,
+      "Dehydration": 5,
+      "Horticultural quality": 1
+    },
+    "answer_distribution": {
+      "B": 25,
+      "D": 25,
+      "C": 25,
+      "A": 25
+    },
+    "source_method": "Questions drafted from the uploaded handout's explanatory text, tables, HPSC EXAM TRAP callouts, correction register, revision bank and model-answer sections."
+  },
+  "questions": [
+    {
+      "id": "U5-Q001",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk composition and adulteration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which physical property is identified in the handout as the reference method for detecting added water in milk? ",
+      "options": {
+        "A": "Titratable acidity",
+        "B": "Freezing point depression by cryoscopy",
+        "C": "Viscosity",
+        "D": "Specific gravity"
+      }
+    },
+    {
+      "id": "U5-Q002",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk composition and adulteration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A milk sample has a freezing point of −0.48 °C compared with a reference near −0.540 °C. Which interpretation is most appropriate? ",
+      "options": {
+        "A": "Skimming alone is established",
+        "B": "Added water is suspected",
+        "C": "Acidity has increased",
+        "D": "The sample has been sterilised"
+      }
+    },
+    {
+      "id": "U5-Q003",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk composition and adulteration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which combination correctly describes the principal physical phases of milk? ",
+      "options": {
+        "A": "Fat globules—true solution; casein—emulsion; lactose—colloid",
+        "B": "Casein micelles—emulsion; fat globules—true solution",
+        "C": "All constituents form a true solution",
+        "D": "Fat globules—oil-in-water emulsion; casein micelles—colloidal suspension; lactose—true solution"
+      }
+    },
+    {
+      "id": "U5-Q004",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk composition and adulteration",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The approximate proportion of casein in total cow-milk protein is:",
+      "options": {
+        "A": "100%",
+        "B": "80%",
+        "C": "20%",
+        "D": "50%"
+      }
+    },
+    {
+      "id": "U5-Q005",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk engineering",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "According to Stokes' law, if the diameter of a fat globule doubles while other factors remain constant, its creaming velocity becomes:",
+      "options": {
+        "A": "Twice",
+        "B": "Half",
+        "C": "Four times",
+        "D": "Eight times"
+      }
+    },
+    {
+      "id": "U5-Q006",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk engineering",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why is milk commonly warmed to about 40–55 °C before centrifugal separation? ",
+      "options": {
+        "A": "To lower viscosity and ensure milk fat is liquid",
+        "B": "To increase the density of fat",
+        "C": "To denature all casein",
+        "D": "To destroy bacterial spores"
+      }
+    },
+    {
+      "id": "U5-Q007",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk engineering",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In a disc-bowl separator, the narrow spacing between conical discs primarily:",
+      "options": {
+        "A": "Shortens the distance globules travel before reaching a disc surface",
+        "B": "Raises milk freezing point",
+        "C": "Converts cream into skim milk chemically",
+        "D": "Increases fermentation"
+      }
+    },
+    {
+      "id": "U5-Q008",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk standardisation",
+      "difficulty": "Numerical",
+      "question_type": "three_statement_count",
+      "question": "Consider the following statements:\n1. Added water moves milk freezing point towards 0 °C.\n2. Skimming alone is detected specifically by cryoscopy.\n3. Specific gravity can be masked by simultaneous addition of water and solute.\nHow many statements are correct?",
+      "options": {
+        "A": "None",
+        "B": "Only one",
+        "C": "Only two",
+        "D": "All three"
+      }
+    },
+    {
+      "id": "U5-Q009",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Homogenisation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The main purpose of the second stage of two-stage milk homogenisation is to:",
+      "options": {
+        "A": "Remove lactose",
+        "B": "Increase the size of fat globules",
+        "C": "Sterilise the milk",
+        "D": "Disperse clusters of newly formed small fat globules"
+      }
+    },
+    {
+      "id": "U5-Q010",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Homogenisation",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Which statement about homogenisation is correct? ",
+      "options": {
+        "A": "It increases susceptibility to lipolysis unless paired with heat treatment",
+        "B": "It inactivates lipase",
+        "C": "It kills pathogenic bacteria",
+        "D": "It increases fat-globule diameter"
+      }
+    },
+    {
+      "id": "U5-Q011",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk heat processing",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The conventional LTLT milk pasteurisation condition is:",
+      "options": {
+        "A": "72 °C for 15 seconds",
+        "B": "135 °C for 4 seconds",
+        "C": "100 °C for 1 minute",
+        "D": "63 °C for 30 minutes"
+      }
+    },
+    {
+      "id": "U5-Q012",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk heat processing",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The conventional HTST condition is:",
+      "options": {
+        "A": "145 °C for 30 minutes",
+        "B": "63 °C for 30 minutes",
+        "C": "72 °C for 15 seconds",
+        "D": "110 °C for 30 minutes"
+      }
+    },
+    {
+      "id": "U5-Q013",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk heat processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A negative alkaline phosphatase test in milk is principally evidence of:",
+      "options": {
+        "A": "Commercial sterility",
+        "B": "Adequate pasteurisation",
+        "C": "Absence of lactose",
+        "D": "Absence of all bacterial spores"
+      }
+    },
+    {
+      "id": "U5-Q014",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk heat processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which test is used in the handout as a marker of adequate sterilisation/UHT treatment rather than routine HTST pasteurisation? ",
+      "options": {
+        "A": "Turbidity (Aschaffenburg) test",
+        "B": "Rosalic acid test",
+        "C": "Storch test",
+        "D": "Gerber test"
+      }
+    },
+    {
+      "id": "U5-Q015",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Milk heat processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In correctly HTST-pasteurised milk, the expected enzyme-test pattern in the handout is:",
+      "options": {
+        "A": "Both negative",
+        "B": "ALP negative, lactoperoxidase positive",
+        "C": "Both positive",
+        "D": "ALP positive, lactoperoxidase negative"
+      }
+    },
+    {
+      "id": "U5-Q016",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Membrane processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which membrane process retains milk proteins while allowing lactose and many minerals to pass? ",
+      "options": {
+        "A": "Reverse osmosis",
+        "B": "Ultrafiltration",
+        "C": "Ordinary clarification",
+        "D": "Nanofiltration"
+      }
+    },
+    {
+      "id": "U5-Q017",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Membrane processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In reverse osmosis of milk, the principal permeate is:",
+      "options": {
+        "A": "Water",
+        "B": "Casein micelles",
+        "C": "Lactose and all salts",
+        "D": "Whey proteins"
+      }
+    },
+    {
+      "id": "U5-Q018",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Spray drying",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "During spray drying, the constant-rate period is characterised by:",
+      "options": {
+        "A": "Evaporation from a saturated droplet surface",
+        "B": "Internal diffusion through a dry crust controlling the rate",
+        "C": "Lactose crystallisation only",
+        "D": "Complete absence of evaporation"
+      }
+    },
+    {
+      "id": "U5-Q019",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Spray drying",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why can lactose-rich whey powder become sticky during storage or drying? ",
+      "options": {
+        "A": "Water raises the glass-transition temperature",
+        "B": "Moisture lowers the glass-transition temperature of amorphous lactose",
+        "C": "Protein is converted into starch",
+        "D": "Lactose is always crystalline"
+      }
+    },
+    {
+      "id": "U5-Q020",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Butter and ghee",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Churning cream into butter is fundamentally a:",
+      "options": {
+        "A": "Polymerisation reaction",
+        "B": "Protein hydrolysis",
+        "C": "Water-in-oil to oil-in-water inversion",
+        "D": "Oil-in-water to water-in-oil phase inversion"
+      }
+    },
+    {
+      "id": "U5-Q021",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Butter and ghee",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly describes table butter standards given in the handout? ",
+      "options": {
+        "A": "Fat ≥60%, moisture ≤30%",
+        "B": "Fat ≥70%, moisture ≤25%",
+        "C": "Fat ≥80%, moisture ≤16%",
+        "D": "Fat ≥90%, moisture ≤5%"
+      }
+    },
+    {
+      "id": "U5-Q022",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Ghee analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Adulteration of ghee with most vegetable oils is expected to:",
+      "options": {
+        "A": "Leave all constants unchanged",
+        "B": "Lower RM value and raise BR reading",
+        "C": "Raise Kirschner value only",
+        "D": "Raise RM value and lower BR reading"
+      }
+    },
+    {
+      "id": "U5-Q023",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Ghee analysis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which analytical value is associated with water-insoluble volatile fatty acids and is raised by coconut/palm-kernel oil? ",
+      "options": {
+        "A": "Polenske",
+        "B": "Reichert–Meissl",
+        "C": "Peroxide",
+        "D": "Kirschner"
+      }
+    },
+    {
+      "id": "U5-Q024",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Traditional dairy products",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "For paneer manufacture, the handout emphasises that the most important coagulation control is:",
+      "options": {
+        "A": "Moisture below 5%",
+        "B": "Freezing point −0.54 °C",
+        "C": "pH around 2.0",
+        "D": "pH around 5.3–5.4"
+      }
+    },
+    {
+      "id": "U5-Q025",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Traditional dairy products",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Which type of khoa has the highest moisture and is commonly used for gulab jamun? ",
+      "options": {
+        "A": "Danedar",
+        "B": "All have identical moisture",
+        "C": "Dhap",
+        "D": "Pindi"
+      }
+    },
+    {
+      "id": "U5-Q026",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Rice milling",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The approximate proportion of paddy represented by husk is:",
+      "options": {
+        "A": "70–80%",
+        "B": "5–10%",
+        "C": "20–22%",
+        "D": "2–3%"
+      }
+    },
+    {
+      "id": "U5-Q027",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Rice milling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The principal reason for using rubber-roll shellers in modern paddy milling is that they:",
+      "options": {
+        "A": "Remove bran and polish rice in one step",
+        "B": "Separate starch from gluten",
+        "C": "Use high-temperature gelatinisation",
+        "D": "Split the husk by differential-speed shear with relatively low breakage"
+      }
+    },
+    {
+      "id": "U5-Q028",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Rice milling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The optimum paddy moisture for milling cited in the handout is approximately:",
+      "options": {
+        "A": "5–6%",
+        "B": "20–22%",
+        "C": "13–14%",
+        "D": "9–10%"
+      }
+    },
+    {
+      "id": "U5-Q029",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Rice milling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Head rice yield is defined using whole kernels having a length of at least:",
+      "options": {
+        "A": "One-quarter of the intact kernel",
+        "B": "Three-quarters of the intact kernel",
+        "C": "One-half of the intact kernel",
+        "D": "The full length only"
+      }
+    },
+    {
+      "id": "U5-Q030",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Parboiling",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Parboiling is carried out on:",
+      "options": {
+        "A": "Rice flour",
+        "B": "Brown rice after bran removal",
+        "C": "Paddy with the husk intact",
+        "D": "Milled white rice"
+      }
+    },
+    {
+      "id": "U5-Q031",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Parboiling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which sequence correctly represents parboiling? ",
+      "options": {
+        "A": "Steaming → milling → soaking → drying",
+        "B": "Drying → milling → soaking → steaming",
+        "C": "Soaking → steaming → drying → milling",
+        "D": "Milling → soaking → drying → steaming"
+      }
+    },
+    {
+      "id": "U5-Q032",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Parboiling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why does parboiling increase the head-rice yield? ",
+      "options": {
+        "A": "It dissolves all starch",
+        "B": "It increases husk proportion",
+        "C": "Gelatinisation followed by drying hardens the endosperm and seals fissures",
+        "D": "It removes the germ before milling"
+      }
+    },
+    {
+      "id": "U5-Q033",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Parboiling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which nutrient-retention effect is associated with parboiling in the handout? ",
+      "options": {
+        "A": "Vitamin C is synthesised",
+        "B": "All B vitamins are destroyed",
+        "C": "Thiamine migrates from aleurone/bran into endosperm",
+        "D": "Only fat migrates outward"
+      }
+    },
+    {
+      "id": "U5-Q034",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Wheat milling",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The approximate composition of the wheat kernel is:",
+      "options": {
+        "A": "Bran 2%, endosperm 15%, germ 83%",
+        "B": "Equal thirds",
+        "C": "Bran 70%, endosperm 20%, germ 10%",
+        "D": "Bran 14–15%, endosperm about 83%, germ 2–3%"
+      }
+    },
+    {
+      "id": "U5-Q035",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Wheat milling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The main purpose of conditioning/tempering wheat before roller milling is to:",
+      "options": {
+        "A": "Make bran brittle and endosperm rubbery",
+        "B": "Destroy gluten",
+        "C": "Increase germ oil oxidation",
+        "D": "Toughen bran and mellow the endosperm for clean separation"
+      }
+    },
+    {
+      "id": "U5-Q036",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Wheat milling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which combination describes break rolls? ",
+      "options": {
+        "A": "Corrugated rolls; compression; 1:1 differential",
+        "B": "Smooth rolls; compression; 1.25:1 differential",
+        "C": "Smooth rolls; shearing; 2.5:1 differential",
+        "D": "Corrugated rolls; shearing; about 2.5:1 differential"
+      }
+    },
+    {
+      "id": "U5-Q037",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Wheat milling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Reduction rolls are characterised by:",
+      "options": {
+        "A": "Smooth surfaces and lower differential, about 1.25:1",
+        "B": "Their role is to remove husk",
+        "C": "Use only before the first break",
+        "D": "Corrugated surfaces and high differential"
+      }
+    },
+    {
+      "id": "U5-Q038",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Wheat milling",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "What is the role of a purifier in wheat milling? ",
+      "options": {
+        "A": "Use upward air current and sieving to separate lighter bran chips from denser endosperm particles",
+        "B": "Separate cream from skim milk",
+        "C": "Gelatinise starch",
+        "D": "Remove water from wheat"
+      }
+    },
+    {
+      "id": "U5-Q039",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Wheat milling",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The extraction rate of whole-wheat atta is approximately:",
+      "options": {
+        "A": "95–100%",
+        "B": "70–72%",
+        "C": "40–60%",
+        "D": "20–25%"
+      }
+    },
+    {
+      "id": "U5-Q040",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Maize processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In maize wet milling, steeping commonly uses:",
+      "options": {
+        "A": "Calcium chloride only",
+        "B": "Sodium hydroxide",
+        "C": "Hydrogen peroxide",
+        "D": "Sulphur dioxide"
+      }
+    },
+    {
+      "id": "U5-Q041",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Maize processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In maize wet milling, the germ is separated primarily by:",
+      "options": {
+        "A": "Density separation in hydrocyclones",
+        "B": "Fermentation",
+        "C": "Magnetic attraction",
+        "D": "Hand sorting only"
+      }
+    },
+    {
+      "id": "U5-Q042",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Maize processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "During maize wet milling, gluten is described as:",
+      "options": {
+        "A": "Lighter than starch and leaves as overflow",
+        "B": "Identical to starch in density",
+        "C": "Converted directly into cellulose",
+        "D": "Denser than starch and leaves as underflow"
+      }
+    },
+    {
+      "id": "U5-Q043",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Pulse processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The purpose of oil treatment at about 0.1–0.3% in dry pulse milling is mainly to:",
+      "options": {
+        "A": "Fry the pulse",
+        "B": "Destroy all trypsin inhibitors",
+        "C": "Increase flatulence oligosaccharides",
+        "D": "Assist conditioning/dehulling"
+      }
+    },
+    {
+      "id": "U5-Q044",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Pulse processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Dehulling pulses generally reduces:",
+      "options": {
+        "A": "All antinutritional factors completely",
+        "B": "All oligosaccharides in cotyledons",
+        "C": "Tannins and fibre associated with seed coat",
+        "D": "Cotyledon protein"
+      }
+    },
+    {
+      "id": "U5-Q045",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Pulse processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about pulse antinutritional factors is most accurate? ",
+      "options": {
+        "A": "Dehulling removes every antinutrient",
+        "B": "Moist heat during cooking is important for reducing heat-labile trypsin inhibitors",
+        "C": "Dry milling heat necessarily destroys trypsin inhibitors",
+        "D": "Trypsin inhibitors are desirable digestive enzymes"
+      }
+    },
+    {
+      "id": "U5-Q046",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Grain quality",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A high degree of milling in rice generally causes:",
+      "options": {
+        "A": "Lower thiamine and fat because bran/germ are removed",
+        "B": "Higher thiamine retention",
+        "C": "No change in nutritional composition",
+        "D": "Higher germ content"
+      }
+    },
+    {
+      "id": "U5-Q047",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Grain quality",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement correctly distinguishes brown rice from milled white rice? ",
+      "options": {
+        "A": "Brown rice is parboiled rice only",
+        "B": "Brown rice has had the husk removed but retains bran and germ",
+        "C": "White rice retains all bran and germ",
+        "D": "Brown rice retains the husk"
+      }
+    },
+    {
+      "id": "U5-Q048",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Grain processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "In wheat milling, over-wetting during tempering can lead to:",
+      "options": {
+        "A": "Improved separation without any drawback",
+        "B": "Elimination of the need for sifting",
+        "C": "Complete starch gelatinisation",
+        "D": "Mill choking and mould risk"
+      }
+    },
+    {
+      "id": "U5-Q049",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Grain processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement best explains why hard wheat is preferred for strong bread flour? ",
+      "options": {
+        "A": "It has no protein",
+        "B": "It contains only waxy starch",
+        "C": "It has no endosperm",
+        "D": "It forms stronger gluten due to its gliadin and glutenin system"
+      }
+    },
+    {
+      "id": "U5-Q050",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Grain processing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which product is obtained primarily from the endosperm during wheat milling? ",
+      "options": {
+        "A": "Bran",
+        "B": "Flour",
+        "C": "Seed coat wax",
+        "D": "Husk"
+      }
+    },
+    {
+      "id": "U5-Q051",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat muscle biology",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The repeating contractile unit between two Z-lines is the:",
+      "options": {
+        "A": "Sarcomere",
+        "B": "Fasciculus",
+        "C": "Endomysium",
+        "D": "Myofibril"
+      }
+    },
+    {
+      "id": "U5-Q052",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat colour",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which myoglobin form produces the bright cherry-red bloom on freshly cut meat? ",
+      "options": {
+        "A": "Metmyoglobin",
+        "B": "Nitrosyl haemichrome",
+        "C": "Oxymyoglobin",
+        "D": "Deoxymyoglobin"
+      }
+    },
+    {
+      "id": "U5-Q053",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Post-mortem physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "After slaughter, the principal pathway supplying ATP once oxygen delivery ceases is:",
+      "options": {
+        "A": "Aerobic beta-oxidation",
+        "B": "Anaerobic glycolysis of stored glycogen",
+        "C": "Urea cycle",
+        "D": "Photosynthesis"
+      }
+    },
+    {
+      "id": "U5-Q054",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Post-mortem physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The fall in post-mortem muscle pH is mainly due to accumulation of:",
+      "options": {
+        "A": "Acetic acid from fermentation",
+        "B": "Hydrochloric acid",
+        "C": "Citric acid",
+        "D": "Lactic acid"
+      }
+    },
+    {
+      "id": "U5-Q055",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Rigor mortis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Rigor mortis develops when ATP depletion causes:",
+      "options": {
+        "A": "Glycogen to be replenished",
+        "B": "Myoglobin to disappear completely",
+        "C": "Actin and myosin to detach permanently",
+        "D": "Actin-myosin cross-bridges to remain locked as actomyosin"
+      }
+    },
+    {
+      "id": "U5-Q056",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Rigor mortis",
+      "difficulty": "Hard",
+      "question_type": "single_best_answer",
+      "question": "Resolution of rigor mortis occurs mainly through:",
+      "options": {
+        "A": "Complete hydrolysis of myoglobin",
+        "B": "Proteolytic weakening of structural proteins by calpains and cathepsins",
+        "C": "Conversion of lactic acid back to glycogen",
+        "D": "Resynthesis of ATP and reversal of actomyosin"
+      }
+    },
+    {
+      "id": "U5-Q057",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Rigor mortis",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Calpains are best characterised in the handout as:",
+      "options": {
+        "A": "Plant pectinases",
+        "B": "Acid proteases active only at pH 2",
+        "C": "Calcium-activated neutral proteases most active early post-mortem around pH 6–7",
+        "D": "Bacterial lipases"
+      }
+    },
+    {
+      "id": "U5-Q058",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat defects",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "PSE meat is associated with:",
+      "options": {
+        "A": "High ultimate pH and dark colour",
+        "B": "Acute pre-slaughter stress, rapid pH fall while muscle is warm",
+        "C": "Chronic stress, depleted glycogen and high ultimate pH",
+        "D": "No post-mortem glycolysis"
+      }
+    },
+    {
+      "id": "U5-Q059",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat defects",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "DFD meat is most closely associated with:",
+      "options": {
+        "A": "Low pH below 5.0 in warm muscle",
+        "B": "High drip loss and pale colour",
+        "C": "Acute stress and rapid pH fall",
+        "D": "Chronic stress, depleted glycogen and high ultimate pH"
+      }
+    },
+    {
+      "id": "U5-Q060",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat defects",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which defect has the poorer microbial shelf life because of its high ultimate pH? ",
+      "options": {
+        "A": "Neither",
+        "B": "Both have identical pH",
+        "C": "DFD",
+        "D": "PSE"
+      }
+    },
+    {
+      "id": "U5-Q061",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat preservation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The characteristic pink cured-meat colour is associated with formation of:",
+      "options": {
+        "A": "Metmyoglobin",
+        "B": "Nitrosomyoglobin, converted to nitrosohaemochrome on cooking",
+        "C": "Oxymyoglobin only",
+        "D": "Chlorophyll"
+      }
+    },
+    {
+      "id": "U5-Q062",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat preservation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Nitrosamine formation is of concern particularly when nitrite and secondary amines are exposed to:",
+      "options": {
+        "A": "Vacuum packaging at 4 °C only",
+        "B": "Washing in cold water",
+        "C": "Freezing at −18 °C",
+        "D": "High-temperature cooking such as frying"
+      }
+    },
+    {
+      "id": "U5-Q063",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat preservation",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Cold smoking is generally carried out at approximately:",
+      "options": {
+        "A": "100–121 °C",
+        "B": "−18 to −20 °C",
+        "C": "60–90 °C",
+        "D": "15–30 °C"
+      }
+    },
+    {
+      "id": "U5-Q064",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Meat preservation",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about smoking is correct? ",
+      "options": {
+        "A": "Smoke is produced by incomplete combustion/pyrolysis of hardwood under limited oxygen",
+        "B": "Softwoods rich in resin are preferred",
+        "C": "Smoking eliminates the need for refrigeration in all products",
+        "D": "Smoke alone sterilises meat"
+      }
+    },
+    {
+      "id": "U5-Q065",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Seafood quality",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why does fish generally spoil faster than mammalian meat? ",
+      "options": {
+        "A": "Fish contains no enzymes",
+        "B": "Fish muscle has higher glycogen and lower pH",
+        "C": "Fish has small glycogen reserves, higher ultimate pH and psychrotrophic surface flora",
+        "D": "Fish is sterile at capture"
+      }
+    },
+    {
+      "id": "U5-Q066",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Seafood quality",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The pleasant umami flavour of fresh fish is associated with accumulation of:",
+      "options": {
+        "A": "Hypoxanthine",
+        "B": "Ammonia",
+        "C": "Inosine monophosphate (IMP)",
+        "D": "Trimethylamine"
+      }
+    },
+    {
+      "id": "U5-Q067",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Seafood quality",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The K-value of fish is primarily used as:",
+      "options": {
+        "A": "An index of freshness that rises during storage",
+        "B": "A direct measure of histamine concentration",
+        "C": "A measure of salt concentration",
+        "D": "A measure of fat content"
+      }
+    },
+    {
+      "id": "U5-Q068",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Seafood quality",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Trimethylamine in spoiled marine fish is mainly produced by bacterial reduction of:",
+      "options": {
+        "A": "Lactic acid",
+        "B": "Myoglobin",
+        "C": "IMP",
+        "D": "Trimethylamine oxide (TMAO)"
+      }
+    },
+    {
+      "id": "U5-Q069",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Seafood safety",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why does cooking not reliably eliminate histamine already formed in fish? ",
+      "options": {
+        "A": "Histamine is a bacterial spore",
+        "B": "Histamine evaporates only below 0 °C",
+        "C": "Histamine is heat-stable",
+        "D": "Cooking increases histamine synthesis in every fish"
+      }
+    },
+    {
+      "id": "U5-Q070",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Egg quality",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The Haugh unit primarily measures:",
+      "options": {
+        "A": "Interior egg quality using thick albumen height adjusted for egg weight",
+        "B": "Air-cell temperature",
+        "C": "Shell thickness",
+        "D": "Yolk colour only"
+      }
+    },
+    {
+      "id": "U5-Q071",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Egg quality",
+      "difficulty": "Numerical",
+      "question_type": "single_best_answer",
+      "question": "According to the handout, an egg with a Haugh unit of 72 or above is classified as:",
+      "options": {
+        "A": "Unfit",
+        "B": "Grade AA",
+        "C": "Grade A",
+        "D": "Grade B"
+      }
+    },
+    {
+      "id": "U5-Q072",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Egg storage",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "During egg storage, albumen pH rises mainly because:",
+      "options": {
+        "A": "Carbon dioxide escapes through shell pores",
+        "B": "Lactic acid is produced",
+        "C": "The shell becomes impermeable",
+        "D": "Yolk oil migrates into albumen"
+      }
+    },
+    {
+      "id": "U5-Q073",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Egg quality",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which pair of changes is expected as an egg ages? ",
+      "options": {
+        "A": "Haugh unit falls; yolk index falls",
+        "B": "Yolk membrane strengthens; thick albumen increases",
+        "C": "Haugh unit rises; yolk index rises",
+        "D": "Albumen pH falls; air cell shrinks"
+      }
+    },
+    {
+      "id": "U5-Q074",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Egg spoilage",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which organism is associated with green rot of eggs in the handout? ",
+      "options": {
+        "A": "Proteus",
+        "B": "Clostridium botulinum",
+        "C": "Lactococcus",
+        "D": "Pseudomonas"
+      }
+    },
+    {
+      "id": "U5-Q075",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Egg safety",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which statement about Salmonella Enteritidis and eggs is correct? ",
+      "options": {
+        "A": "It may contaminate the egg internally before shell formation and may not cause visible spoilage",
+        "B": "It cannot survive in egg contents",
+        "C": "It always causes visible shell rot",
+        "D": "It is removed by candling"
+      }
+    },
+    {
+      "id": "U5-Q076",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Post-harvest physiology",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "After harvest, fruits and vegetables remain metabolically active and continue to:",
+      "options": {
+        "A": "Stop all enzyme activity",
+        "B": "Photosynthesise at the same rate as attached leaves",
+        "C": "Respire and transpire",
+        "D": "Receive water from roots"
+      }
+    },
+    {
+      "id": "U5-Q077",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Post-harvest physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "A respiratory quotient (RQ) close to 1.0 generally indicates predominant oxidation of:",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Protein only",
+        "C": "Lipid",
+        "D": "Mineral salts"
+      }
+    },
+    {
+      "id": "U5-Q078",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Post-harvest physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "For many commodities, a Q10 of 2–3 means that increasing temperature by 10 °C will approximately:",
+      "options": {
+        "A": "Stop respiration",
+        "B": "Double or triple respiration rate",
+        "C": "Reduce respiration to one-tenth",
+        "D": "Halve respiration"
+      }
+    },
+    {
+      "id": "U5-Q079",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Post-harvest physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which produce group is especially susceptible to chilling injury at temperatures that are above freezing but too low for the commodity? ",
+      "options": {
+        "A": "All temperate apples at 0 °C",
+        "B": "Tropical fruits such as banana and mango",
+        "C": "Dried pulses",
+        "D": "Refined vegetable oils"
+      }
+    },
+    {
+      "id": "U5-Q080",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Post-harvest physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Visible wilting and loss of crispness commonly occur after fresh produce loses approximately:",
+      "options": {
+        "A": "0.1% fresh weight",
+        "B": "50% fresh weight",
+        "C": "5–10% fresh weight",
+        "D": "1% fresh weight"
+      }
+    },
+    {
+      "id": "U5-Q081",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Fruit physiology",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Which of the following is a climacteric fruit according to the handout? ",
+      "options": {
+        "A": "Grape",
+        "B": "Pineapple",
+        "C": "Citrus",
+        "D": "Banana"
+      }
+    },
+    {
+      "id": "U5-Q082",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Fruit physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Exogenous ethylene treatment of a non-climacteric fruit:",
+      "options": {
+        "A": "Can increase respiration but does not create a climacteric pattern",
+        "B": "Stops all ripening",
+        "C": "Destroys all chlorophyll immediately",
+        "D": "Converts it into a climacteric fruit"
+      }
+    },
+    {
+      "id": "U5-Q083",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Ethylene physiology",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The rate-limiting enzyme in ethylene biosynthesis identified in the handout is:",
+      "options": {
+        "A": "Polyphenol oxidase",
+        "B": "ACC synthase",
+        "C": "Catalase",
+        "D": "ACC oxidase"
+      }
+    },
+    {
+      "id": "U5-Q084",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Ethylene management",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why can storing apples together with leafy vegetables accelerate yellowing of the vegetables? ",
+      "options": {
+        "A": "Apples release nitrogen",
+        "B": "Apples absorb all oxygen",
+        "C": "Apples release ethylene which promotes senescence/chlorophyll loss",
+        "D": "Leafy vegetables produce no ethylene receptors"
+      }
+    },
+    {
+      "id": "U5-Q085",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "CA and MAP",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Controlled-atmosphere storage generally slows produce respiration by:",
+      "options": {
+        "A": "Increasing oxygen to 30%",
+        "B": "Lowering oxygen and raising carbon dioxide within commodity-specific safe limits",
+        "C": "Removing all carbon dioxide",
+        "D": "Heating the produce above 60 °C"
+      }
+    },
+    {
+      "id": "U5-Q086",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Canning",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "The critical pH boundary used in the handout to distinguish acid foods from low-acid foods for botulinal processing is:",
+      "options": {
+        "A": "3.0",
+        "B": "4.6",
+        "C": "4.0",
+        "D": "7.0"
+      }
+    },
+    {
+      "id": "U5-Q087",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Canning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The principal reason low-acid canned foods require a severe retort process is control of:",
+      "options": {
+        "A": "Lactic acid bacteria only",
+        "B": "Mould spores only",
+        "C": "Clostridium botulinum spores",
+        "D": "Saccharomyces cerevisiae"
+      }
+    },
+    {
+      "id": "U5-Q088",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Canning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which operation is primarily responsible for creating a partial vacuum in a sealed can after cooling? ",
+      "options": {
+        "A": "Retorting",
+        "B": "Blanching",
+        "C": "Labelling",
+        "D": "Exhausting before sealing"
+      }
+    },
+    {
+      "id": "U5-Q089",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Canning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "The principal purpose of retorting is to:",
+      "options": {
+        "A": "Create the vacuum only",
+        "B": "Dry the outside of the can",
+        "C": "Achieve the required thermal destruction of microorganisms in the hermetically sealed container",
+        "D": "Remove all headspace air before seaming"
+      }
+    },
+    {
+      "id": "U5-Q090",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Canning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which can enamel is associated in the handout with sulphur-rich foods such as corn, peas and fish? ",
+      "options": {
+        "A": "C-enamel",
+        "B": "No enamel is ever used",
+        "C": "R-enamel",
+        "D": "Plain tin only"
+      }
+    },
+    {
+      "id": "U5-Q091",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Canning",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Why are canned products cooled to about 38–40 °C rather than necessarily to room temperature immediately? ",
+      "options": {
+        "A": "To raise internal pressure permanently",
+        "B": "To continue cooking indefinitely",
+        "C": "Residual heat helps dry the can exterior and reduces rust risk while cooling stops the process",
+        "D": "To encourage spore germination"
+      }
+    },
+    {
+      "id": "U5-Q092",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Freezing",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "Freezing preserves foods mainly by:",
+      "options": {
+        "A": "Sterilising every microorganism",
+        "B": "Converting water to ice and slowing reactions at low temperature",
+        "C": "Destroying all enzymes",
+        "D": "Increasing water activity"
+      }
+    },
+    {
+      "id": "U5-Q093",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Freezing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Rapid freezing generally produces:",
+      "options": {
+        "A": "Large extracellular ice crystals and severe cell rupture",
+        "B": "Complete enzyme inactivation",
+        "C": "Many smaller crystals and less structural damage",
+        "D": "No ice formation"
+      }
+    },
+    {
+      "id": "U5-Q094",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Freezing",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Freezer burn is mainly caused by:",
+      "options": {
+        "A": "Sublimation of surface ice from inadequately protected food",
+        "B": "Microbial fermentation",
+        "C": "Excessive blanching",
+        "D": "High sugar concentration"
+      }
+    },
+    {
+      "id": "U5-Q095",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Dehydration",
+      "difficulty": "Easy",
+      "question_type": "single_best_answer",
+      "question": "A water activity below approximately which value generally prevents microbial growth in dried foods? ",
+      "options": {
+        "A": "0.60",
+        "B": "0.91",
+        "C": "0.80",
+        "D": "0.99"
+      }
+    },
+    {
+      "id": "U5-Q096",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Dehydration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "During the falling-rate period of drying, the rate is controlled mainly by:",
+      "options": {
+        "A": "Air velocity alone",
+        "B": "Internal diffusion of water from the product to its surface",
+        "C": "Only the wet-bulb temperature",
+        "D": "The colour of the dryer"
+      }
+    },
+    {
+      "id": "U5-Q097",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Dehydration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Case hardening occurs when:",
+      "options": {
+        "A": "The product is frozen too quickly",
+        "B": "The product is dried too slowly at high humidity throughout",
+        "C": "Water activity rises during storage",
+        "D": "Rapid initial drying forms a hard surface layer that traps internal moisture"
+      }
+    },
+    {
+      "id": "U5-Q098",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Dehydration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Freeze-drying removes water primarily by:",
+      "options": {
+        "A": "Osmosis through a semipermeable membrane",
+        "B": "Condensation of water vapour into the product",
+        "C": "Evaporation of liquid water above boiling point",
+        "D": "Sublimation of ice below the triple point"
+      }
+    },
+    {
+      "id": "U5-Q099",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Dehydration",
+      "difficulty": "Moderate",
+      "question_type": "single_best_answer",
+      "question": "Which pretreatment is generally recommended before freezing and drying vegetables to inactivate enzymes? ",
+      "options": {
+        "A": "Homogenisation",
+        "B": "Carbonation",
+        "C": "Curing with nitrite",
+        "D": "Blanching"
+      }
+    },
+    {
+      "id": "U5-Q100",
+      "unit": "Unit 5: Food Processing Operations & Commodity Technology",
+      "topic": "Horticultural quality",
+      "difficulty": "Numerical",
+      "question_type": "single_best_answer",
+      "question": "A fresh commodity weighs 10 kg and yields 2 kg after dehydration. Its dehydration ratio is:",
+      "options": {
+        "A": "8",
+        "B": "5",
+        "C": "12",
+        "D": "2"
+      }
+    }
+  ],
+  "answer_key": [
+    {
+      "question_id": "U5-Q001",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q002",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q003",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q004",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q005",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q006",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q007",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q008",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q009",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q010",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q011",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q012",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q013",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q014",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q015",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q016",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q017",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q018",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q019",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q020",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q021",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q022",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q023",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q024",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q025",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q026",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q027",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q028",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q029",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q030",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q031",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q032",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q033",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q034",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q035",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q036",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q037",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q038",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q039",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q040",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q041",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q042",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q043",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q044",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q045",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q046",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q047",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q048",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q049",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q050",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q051",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q052",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q053",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q054",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q055",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q056",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q057",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q058",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q059",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q060",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q061",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q062",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q063",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q064",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q065",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q066",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q067",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q068",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q069",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q070",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q071",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q072",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q073",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q074",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q075",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q076",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q077",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q078",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q079",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q080",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q081",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q082",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q083",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q084",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q085",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q086",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q087",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q088",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q089",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q090",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q091",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q092",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q093",
+      "correct_option": "C"
+    },
+    {
+      "question_id": "U5-Q094",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q095",
+      "correct_option": "A"
+    },
+    {
+      "question_id": "U5-Q096",
+      "correct_option": "B"
+    },
+    {
+      "question_id": "U5-Q097",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q098",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q099",
+      "correct_option": "D"
+    },
+    {
+      "question_id": "U5-Q100",
+      "correct_option": "B"
+    }
+  ],
+  "detailed_explanations": [
+    {
+      "question_id": "U5-Q001",
+      "correct_option": "B",
+      "explanation": "Added water moves milk's freezing point towards 0 °C. Cryoscopy is preferred because added solutes may mask a fall in specific gravity, whereas cryoscopy responds to dissolved solutes. It detects added water, not skimming."
+    },
+    {
+      "question_id": "U5-Q002",
+      "correct_option": "B",
+      "explanation": "The freezing point has moved towards zero, the expected direction when water dilutes lactose and salts. A single result is an adulteration indicator and should be interpreted using the laboratory reference and method."
+    },
+    {
+      "question_id": "U5-Q003",
+      "correct_option": "D",
+      "explanation": "Milk is polyphasic: fat globules form an oil-in-water emulsion, casein micelles form a colloidal suspension, and lactose, soluble minerals and other small solutes are in true solution."
+    },
+    {
+      "question_id": "U5-Q004",
+      "correct_option": "B",
+      "explanation": "The handout gives casein as about 80% of milk protein; whey proteins account for most of the remainder."
+    },
+    {
+      "question_id": "U5-Q005",
+      "correct_option": "C",
+      "explanation": "Stokes' velocity is proportional to the square of particle diameter. Doubling diameter therefore increases velocity fourfold, all other factors unchanged."
+    },
+    {
+      "question_id": "U5-Q006",
+      "correct_option": "A",
+      "explanation": "Warm milk has lower viscosity and the fat is fully liquid, improving centrifugal separation. This is a unit-operation condition, not a sterilisation step."
+    },
+    {
+      "question_id": "U5-Q007",
+      "correct_option": "A",
+      "explanation": "The closely spaced discs (about 0.4–0.6 mm apart in the handout) shorten the separation path and increase efficiency."
+    },
+    {
+      "question_id": "U5-Q008",
+      "correct_option": "C",
+      "explanation": "Statements 1 and 3 are correct. Cryoscopy is a reference test for added water; skimming changes fat and specific gravity, not the freezing-point signal in the same diagnostic way. Simultaneous changes can mask lactometer readings."
+    },
+    {
+      "question_id": "U5-Q009",
+      "correct_option": "D",
+      "explanation": "The first stage reduces globule size. The second stage breaks up clusters formed when newly created globules stick together through shared protein coatings."
+    },
+    {
+      "question_id": "U5-Q010",
+      "correct_option": "A",
+      "explanation": "Homogenisation disrupts the native milk-fat-globule membrane and exposes lipid surfaces, making lipolysis more likely. It is not a microbial kill step and is commonly paired with pasteurisation."
+    },
+    {
+      "question_id": "U5-Q011",
+      "correct_option": "D",
+      "explanation": "LTLT/holder pasteurisation is 63 °C for 30 minutes. The 72 °C for 15 seconds condition is HTST."
+    },
+    {
+      "question_id": "U5-Q012",
+      "correct_option": "C",
+      "explanation": "HTST uses approximately 72 °C for 15 seconds (the handout notes 71.7 °C for 15 seconds in Indian practice)."
+    },
+    {
+      "question_id": "U5-Q013",
+      "correct_option": "B",
+      "explanation": "Native milk alkaline phosphatase is slightly more heat resistant than the target pasteurisation pathogen. A negative result supports adequate pasteurisation; it does not prove sterilisation."
+    },
+    {
+      "question_id": "U5-Q014",
+      "correct_option": "A",
+      "explanation": "In the turbidity test, whey proteins in raw/pasteurised milk precipitate after filtration and boiling. In adequately sterilised/UHT milk they are denatured and removed during filtration, leaving a clear filtrate."
+    },
+    {
+      "question_id": "U5-Q015",
+      "correct_option": "B",
+      "explanation": "ALP is inactivated by pasteurisation, while lactoperoxidase survives HTST and is destroyed above about 80 °C. The pattern helps distinguish pasteurisation from excessive heating."
+    },
+    {
+      "question_id": "U5-Q016",
+      "correct_option": "B",
+      "explanation": "Ultrafiltration retains proteins (casein and whey) and fat, while lactose, minerals, water and non-protein nitrogen largely pass into permeate."
+    },
+    {
+      "question_id": "U5-Q017",
+      "correct_option": "A",
+      "explanation": "RO uses a dense membrane and high pressure; it retains essentially all solutes and allows water to pass, concentrating the milk or whey."
+    },
+    {
+      "question_id": "U5-Q018",
+      "correct_option": "A",
+      "explanation": "During the constant-rate period, free water evaporates from a saturated surface and the rate is governed mainly by air conditions. Internal diffusion dominates the falling-rate period."
+    },
+    {
+      "question_id": "U5-Q019",
+      "correct_option": "B",
+      "explanation": "Spray-dried lactose is amorphous. Water acts as a plasticiser, lowering Tg; above the sticky-point region particles adhere to one another and to dryer walls."
+    },
+    {
+      "question_id": "U5-Q020",
+      "correct_option": "D",
+      "explanation": "Cream is an oil-in-water emulsion. Churning destabilises fat globules and causes coalescence, producing butter as a water-in-oil emulsion."
+    },
+    {
+      "question_id": "U5-Q021",
+      "correct_option": "C",
+      "explanation": "The handout lists table butter milk fat not less than 80%, moisture not more than 16%, curd not more than 1.5%, and salt not more than 3%."
+    },
+    {
+      "question_id": "U5-Q022",
+      "correct_option": "B",
+      "explanation": "Milk fat is rich in short-chain water-soluble volatile fatty acids, giving a high RM value. Vegetable oils generally lower RM and raise the butyro-refractometer reading."
+    },
+    {
+      "question_id": "U5-Q023",
+      "correct_option": "A",
+      "explanation": "Polenske value reflects water-insoluble volatile fatty acids such as caprylic, capric and lauric acids. Coconut and palm-kernel oils can raise it markedly."
+    },
+    {
+      "question_id": "U5-Q024",
+      "correct_option": "D",
+      "explanation": "Milk is heated, cooled to the coagulation range and acidified. The handout stresses pH 5.3–5.4 as more important than memorising a single coagulation temperature."
+    },
+    {
+      "question_id": "U5-Q025",
+      "correct_option": "C",
+      "explanation": "Dhap khoa has the highest moisture (about 35–40%) and a loose, sticky body; it is suitable for gulab jamun and pantua."
+    },
+    {
+      "question_id": "U5-Q026",
+      "correct_option": "C",
+      "explanation": "The handout gives husk at about 20–22% of paddy, bran at 5–10%, germ at 2–3%, and endosperm around 70%."
+    },
+    {
+      "question_id": "U5-Q027",
+      "correct_option": "D",
+      "explanation": "Oppositely rotating rubber rolls with a speed differential shear the husk off while minimising kernel breakage. The unshelled paddy is separated and returned."
+    },
+    {
+      "question_id": "U5-Q028",
+      "correct_option": "C",
+      "explanation": "The handout identifies about 13–14% moisture as suitable for milling. Excessive or insufficient moisture and fissures increase breakage."
+    },
+    {
+      "question_id": "U5-Q029",
+      "correct_option": "B",
+      "explanation": "The handout defines head rice as whole kernels at least three-quarters the length of an intact kernel. It is a key economic milling index."
+    },
+    {
+      "question_id": "U5-Q030",
+      "correct_option": "C",
+      "explanation": "Parboiling is a hydrothermal treatment of paddy before milling. The husk remains during soaking and steaming, allowing soluble nutrients to migrate inward."
+    },
+    {
+      "question_id": "U5-Q031",
+      "correct_option": "C",
+      "explanation": "The standard sequence is cleaning/soaking, steaming to gelatinise starch, drying to safe milling moisture, then milling."
+    },
+    {
+      "question_id": "U5-Q032",
+      "correct_option": "C",
+      "explanation": "Starch gelatinises during steaming and re-solidifies on drying into a hard, more continuous mass. Fissures are sealed and the kernel resists breakage during milling."
+    },
+    {
+      "question_id": "U5-Q033",
+      "correct_option": "C",
+      "explanation": "Water-soluble nutrients including thiamine and niacin diffuse inward during soaking/steaming. This increases their retention in milled parboiled rice compared with raw milled rice."
+    },
+    {
+      "question_id": "U5-Q034",
+      "correct_option": "D",
+      "explanation": "The handout gives bran about 14–15%, endosperm about 83%, and germ 2–3%. The starchy endosperm is the principal flour fraction."
+    },
+    {
+      "question_id": "U5-Q035",
+      "correct_option": "D",
+      "explanation": "Added water plasticises and toughens the bran so it comes off in larger flakes, while weakening the bran-endosperm bond and making endosperm easier to reduce."
+    },
+    {
+      "question_id": "U5-Q036",
+      "correct_option": "D",
+      "explanation": "Break rolls are corrugated/fluted and use a higher speed differential (about 2.5:1) to shear open the kernel and scrape endosperm from bran."
+    },
+    {
+      "question_id": "U5-Q037",
+      "correct_option": "A",
+      "explanation": "Reduction rolls are smooth and use a lower differential to crush purified semolina and middlings into flour with minimal bran fragmentation."
+    },
+    {
+      "question_id": "U5-Q038",
+      "correct_option": "A",
+      "explanation": "Purifiers combine an inclined oscillating sieve with controlled aspiration. Lighter bran is lifted while denser endosperm particles pass through, reducing flour ash."
+    },
+    {
+      "question_id": "U5-Q039",
+      "correct_option": "A",
+      "explanation": "Atta retains most of the kernel, giving an extraction rate around 95–100%. Maida is much lower, around 70–72%, and patent flour around 40–60%."
+    },
+    {
+      "question_id": "U5-Q040",
+      "correct_option": "D",
+      "explanation": "The handout describes steeping with sulphur dioxide to condition kernels and facilitate separation of germ, fibre, starch and gluten. Lime-based nixtamalisation is a different process."
+    },
+    {
+      "question_id": "U5-Q041",
+      "correct_option": "A",
+      "explanation": "The germ is less dense and floats in hydrocyclones. Starch and gluten are subsequently separated using density differences, commonly centrifugation."
+    },
+    {
+      "question_id": "U5-Q042",
+      "correct_option": "A",
+      "explanation": "The handout identifies gluten as lighter than starch; centrifugation separates the lighter gluten fraction from the denser starch fraction."
+    },
+    {
+      "question_id": "U5-Q043",
+      "correct_option": "D",
+      "explanation": "A small oil application is a conditioning aid that helps loosen the husk. It is not a frying/flavouring operation and does not replace moist-heat cooking."
+    },
+    {
+      "question_id": "U5-Q044",
+      "correct_option": "C",
+      "explanation": "The seed coat contributes fibre and tannins, so dehulling can reduce these. Flatulence-causing oligosaccharides are largely in the cotyledon and are not removed simply by dehulling."
+    },
+    {
+      "question_id": "U5-Q045",
+      "correct_option": "B",
+      "explanation": "The handout distinguishes dry-milling conditioning from cooking. Moist heat is important for inactivating heat-labile trypsin inhibitors; dry-milling oil/heat is not a substitute."
+    },
+    {
+      "question_id": "U5-Q046",
+      "correct_option": "A",
+      "explanation": "Much of rice thiamine is concentrated in bran and germ. Greater bran removal improves whiteness but reduces thiamine and lipid content."
+    },
+    {
+      "question_id": "U5-Q047",
+      "correct_option": "B",
+      "explanation": "Dehusking removes the inedible husk to produce brown rice. Whitening/polishing then removes bran and much of the germ to produce white rice."
+    },
+    {
+      "question_id": "U5-Q048",
+      "correct_option": "D",
+      "explanation": "Excess water can make the mill choke and create storage/mould problems. Under-conditioning causes bran fragmentation and higher ash contamination."
+    },
+    {
+      "question_id": "U5-Q049",
+      "correct_option": "D",
+      "explanation": "Hard wheat varieties generally produce stronger gluten-forming protein networks, supporting gas retention and bread structure."
+    },
+    {
+      "question_id": "U5-Q050",
+      "correct_option": "B",
+      "explanation": "The starchy endosperm is separated and reduced into flour. Bran and germ are distinct fractions with higher fibre, minerals or lipid content."
+    },
+    {
+      "question_id": "U5-Q051",
+      "correct_option": "A",
+      "explanation": "A sarcomere is the repeating unit of a myofibril bounded by Z-lines and containing overlapping thick (myosin) and thin (actin) filaments."
+    },
+    {
+      "question_id": "U5-Q052",
+      "correct_option": "C",
+      "explanation": "Oxymyoglobin contains ferrous iron bound to oxygen and gives the bright cherry-red colour. Deoxymyoglobin is purplish-red; metmyoglobin is brown."
+    },
+    {
+      "question_id": "U5-Q053",
+      "correct_option": "B",
+      "explanation": "With no circulation or oxygen delivery, muscle uses stored glycogen through anaerobic glycolysis, producing lactic acid and a limited amount of ATP."
+    },
+    {
+      "question_id": "U5-Q054",
+      "correct_option": "D",
+      "explanation": "Anaerobic glycolysis converts glycogen-derived intermediates to pyruvate and lactate. Lactic acid accumulates because blood circulation no longer removes metabolites."
+    },
+    {
+      "question_id": "U5-Q055",
+      "correct_option": "D",
+      "explanation": "ATP is required for myosin heads to detach from actin. When ATP becomes depleted, cross-bridges remain locked and muscle stiffens."
+    },
+    {
+      "question_id": "U5-Q056",
+      "correct_option": "B",
+      "explanation": "ATP is not restored post-mortem to release the original actomyosin cross-bridges. Endogenous proteases weaken the cytoskeletal/myofibrillar framework, tenderising the meat."
+    },
+    {
+      "question_id": "U5-Q057",
+      "correct_option": "C",
+      "explanation": "Calpains are calcium-activated neutral proteases and act early after slaughter. Cathepsins are lysosomal acid proteases that contribute as pH falls."
+    },
+    {
+      "question_id": "U5-Q058",
+      "correct_option": "B",
+      "explanation": "PSE means pale, soft, exudative. Acute stress causes rapid glycolysis and pH fall while carcass temperature remains high, denaturing proteins and reducing water-holding capacity."
+    },
+    {
+      "question_id": "U5-Q059",
+      "correct_option": "D",
+      "explanation": "DFD means dark, firm, dry. Chronic stress depletes glycogen before slaughter, so less lactic acid forms and ultimate pH remains high; the meat retains water but has poor microbial keeping quality."
+    },
+    {
+      "question_id": "U5-Q060",
+      "correct_option": "C",
+      "explanation": "DFD meat has high ultimate pH, which favours microbial growth and shortens shelf life. PSE has low pH and poor water-holding capacity."
+    },
+    {
+      "question_id": "U5-Q061",
+      "correct_option": "B",
+      "explanation": "Nitrite-derived nitric oxide reacts with myoglobin to form nitrosomyoglobin; heating produces the stable pink nitrosohaemochrome pigment."
+    },
+    {
+      "question_id": "U5-Q062",
+      "correct_option": "D",
+      "explanation": "Nitrite can react with secondary amines under favourable conditions, particularly high-temperature cooking, to form N-nitrosamines. The handout notes control through limiting ingoing nitrite, ascorbate and avoiding overcooking."
+    },
+    {
+      "question_id": "U5-Q063",
+      "correct_option": "D",
+      "explanation": "Cold smoking is a low-temperature surface treatment, often over days. It does not cook the product and does not by itself ensure safety."
+    },
+    {
+      "question_id": "U5-Q064",
+      "correct_option": "A",
+      "explanation": "Smoke deposits phenolic, carbonyl and other compounds that contribute flavour, colour and some preservation. It is not a sterilisation step; softwoods with resins are generally avoided."
+    },
+    {
+      "question_id": "U5-Q065",
+      "correct_option": "C",
+      "explanation": "Fish muscle has limited glycogen, so ultimate pH remains relatively high (about 6.2–6.8), and psychrotrophic Gram-negative bacteria and endogenous enzymes promote rapid spoilage."
+    },
+    {
+      "question_id": "U5-Q066",
+      "correct_option": "C",
+      "explanation": "IMP is a nucleotide breakdown intermediate responsible for pleasant fresh-fish umami. Inosine is flavourless and hypoxanthine is bitter and associated with deterioration."
+    },
+    {
+      "question_id": "U5-Q067",
+      "correct_option": "A",
+      "explanation": "K-value is based on ATP breakdown products and increases as fish loses freshness. It is an early freshness index, unlike TVB-N/TMA-N which rise later in spoilage."
+    },
+    {
+      "question_id": "U5-Q068",
+      "correct_option": "D",
+      "explanation": "Certain bacteria reduce TMAO, a natural osmolyte in marine fish, to trimethylamine, which contributes to fishy odour. This pathway is not relevant in the same way to freshwater fish."
+    },
+    {
+      "question_id": "U5-Q069",
+      "correct_option": "C",
+      "explanation": "Histamine is heat-stable; cooking may kill bacteria but does not reliably destroy preformed histamine. Prevention depends on rapid chilling and temperature control."
+    },
+    {
+      "question_id": "U5-Q070",
+      "correct_option": "A",
+      "explanation": "The Haugh unit combines thick albumen height and egg weight, allowing comparison of interior quality among eggs of different sizes."
+    },
+    {
+      "question_id": "U5-Q071",
+      "correct_option": "B",
+      "explanation": "The handout gives AA as 72 and above, A as 60–71 and B as 31–59. Below 30 is considered unfit in the cited grading scheme."
+    },
+    {
+      "question_id": "U5-Q072",
+      "correct_option": "A",
+      "explanation": "Loss of carbon dioxide through shell pores shifts the albumen chemistry towards alkalinity; pH can rise from about 7.6 to 9.0–9.5."
+    },
+    {
+      "question_id": "U5-Q073",
+      "correct_option": "A",
+      "explanation": "Albumen thins and the yolk absorbs water, enlarges and flattens. Consequently both Haugh unit and yolk index decline, while the air cell enlarges due to water loss."
+    },
+    {
+      "question_id": "U5-Q074",
+      "correct_option": "D",
+      "explanation": "The handout's exam trap pairs green rot with Pseudomonas and black rot with Proteus; these organism-defect associations are easily reversed in objective questions."
+    },
+    {
+      "question_id": "U5-Q075",
+      "correct_option": "A",
+      "explanation": "Trans-ovarian contamination can place Salmonella Enteritidis inside the egg before shell formation. An intact-looking egg can therefore still present a food-safety hazard."
+    },
+    {
+      "question_id": "U5-Q076",
+      "correct_option": "C",
+      "explanation": "Harvested produce remains living tissue. It continues respiration, transpiration, ripening and senescence while using stored reserves."
+    },
+    {
+      "question_id": "U5-Q077",
+      "correct_option": "A",
+      "explanation": "RQ is CO2 evolved divided by O2 consumed. Carbohydrate oxidation gives an RQ near 1; lipid oxidation generally gives a value below 1."
+    },
+    {
+      "question_id": "U5-Q078",
+      "correct_option": "B",
+      "explanation": "Q10 is the ratio of reaction/respiration rate at T+10 °C to that at T. A value of 2–3 means the rate doubles or triples with a 10 °C rise in the stated range."
+    },
+    {
+      "question_id": "U5-Q079",
+      "correct_option": "B",
+      "explanation": "Tropical/subtropical commodities such as banana, mango, tomato and cucumber can suffer membrane-related chilling injury at low non-freezing temperatures. Each commodity has a minimum safe storage temperature."
+    },
+    {
+      "question_id": "U5-Q080",
+      "correct_option": "C",
+      "explanation": "The handout notes that a 5–10% loss of fresh weight can produce visible wilting, shrivelling and loss of crispness. High relative humidity and low temperature reduce transpiration."
+    },
+    {
+      "question_id": "U5-Q081",
+      "correct_option": "D",
+      "explanation": "Banana is climacteric and shows a respiration rise associated with ripening. Grape, citrus and pineapple are listed as non-climacteric examples."
+    },
+    {
+      "question_id": "U5-Q082",
+      "correct_option": "A",
+      "explanation": "Ethylene can influence respiration and some ripening responses in non-climacteric fruit, but it does not transform the fruit into a climacteric type."
+    },
+    {
+      "question_id": "U5-Q083",
+      "correct_option": "B",
+      "explanation": "The pathway is methionine → SAM → ACC → ethylene. ACC synthase catalyses the rate-limiting SAM-to-ACC step; ACC oxidase converts ACC to ethylene and requires oxygen."
+    },
+    {
+      "question_id": "U5-Q084",
+      "correct_option": "C",
+      "explanation": "Ripening apples release ethylene. Ethylene-sensitive leafy vegetables may yellow and senesce more rapidly, so mixed storage requires attention to ethylene compatibility."
+    },
+    {
+      "question_id": "U5-Q085",
+      "correct_option": "B",
+      "explanation": "Lower O2 and elevated CO2 can suppress respiration, ethylene action, softening and decay. CA/MAP complements refrigeration and is not a substitute for it."
+    },
+    {
+      "question_id": "U5-Q086",
+      "correct_option": "B",
+      "explanation": "Clostridium botulinum cannot grow at pH 4.6 or below under the conditions described. Low-acid foods above pH 4.6 require a more severe validated process."
+    },
+    {
+      "question_id": "U5-Q087",
+      "correct_option": "C",
+      "explanation": "The thermal process is designed around the most heat-resistant pathogen capable of growth in the product. For low-acid, anaerobically stored canned foods, C. botulinum spores are the key hazard."
+    },
+    {
+      "question_id": "U5-Q088",
+      "correct_option": "D",
+      "explanation": "Exhausting removes air from the can headspace and tissue before sealing. Subsequent cooling contracts the contents and creates the vacuum; retorting is the sterilising heat process."
+    },
+    {
+      "question_id": "U5-Q089",
+      "correct_option": "C",
+      "explanation": "Retorting applies a validated heat process to the sealed container to achieve the required microbial lethality. Exhausting, not retorting, is the operation associated with vacuum formation."
+    },
+    {
+      "question_id": "U5-Q090",
+      "correct_option": "A",
+      "explanation": "The handout identifies C-enamel for sulphur-rich foods, which can react with tin/iron and cause dark sulphide staining. R-enamel is associated with acid, coloured fruits."
+    },
+    {
+      "question_id": "U5-Q091",
+      "correct_option": "C",
+      "explanation": "Prompt cooling arrests cooking and prevents quality damage. The cited endpoint leaves enough residual heat to dry the can surface and reduce rusting."
+    },
+    {
+      "question_id": "U5-Q092",
+      "correct_option": "B",
+      "explanation": "Freezing reduces available liquid water and slows microbial and chemical activity, but it does not sterilise. Many microorganisms survive and enzymes may remain partly active."
+    },
+    {
+      "question_id": "U5-Q093",
+      "correct_option": "C",
+      "explanation": "Fast passage through the critical freezing zone favours many small crystals, reducing cellular damage and drip loss compared with slow freezing."
+    },
+    {
+      "question_id": "U5-Q094",
+      "correct_option": "A",
+      "explanation": "In dry freezer air, ice can sublime from an exposed product surface, leaving a dry, pale, spongy area. Vapour-tight packaging and glazing help prevent it."
+    },
+    {
+      "question_id": "U5-Q095",
+      "correct_option": "A",
+      "explanation": "The handout gives aw below about 0.6 as the level at which microbial growth stops. Enzymatic and non-enzymatic reactions may still occur at higher aw values."
+    },
+    {
+      "question_id": "U5-Q096",
+      "correct_option": "B",
+      "explanation": "Once the surface is no longer saturated, water must migrate from the interior. Product thickness, structure and temperature influence internal diffusion, and most drying time is spent in this period."
+    },
+    {
+      "question_id": "U5-Q097",
+      "correct_option": "D",
+      "explanation": "Very hot, dry initial air can dry and shrink the surface into a dense, poorly permeable skin while the centre remains wet. This slows further drying and can cause later spoilage."
+    },
+    {
+      "question_id": "U5-Q098",
+      "correct_option": "D",
+      "explanation": "In freeze-drying, the product is frozen and ice is removed directly as vapour under reduced pressure, bypassing the liquid phase."
+    },
+    {
+      "question_id": "U5-Q099",
+      "correct_option": "D",
+      "explanation": "Vegetables are commonly blanched before freezing or drying to inactivate quality-degrading enzymes. Fruits are often treated differently, for example with sulphuring or sugar rather than routine blanching."
+    },
+    {
+      "question_id": "U5-Q100",
+      "correct_option": "B",
+      "explanation": "Dehydration ratio = fresh weight/dried weight = 10/2 = 5. A higher ratio indicates more water was removed relative to the dried mass."
+    }
+  ],
+  "quality_control": {
+    "checks": [
+      "Exactly 100 unique question IDs",
+      "Each question has exactly four non-empty options",
+      "Every question ID has exactly one answer-key entry",
+      "Every question ID has exactly one detailed explanation",
+      "Every answer key option exists in the corresponding question",
+      "No answer is embedded in the question section",
+      "Questions precede answer key; explanations are last"
+    ],
+    "unique_ids": true,
+    "question_option_counts": {
+      "4": 100
+    },
+    "answer_key_matches_questions": true,
+    "explanation_matches_questions": true,
+    "all_answer_options_valid": true,
+    "all_text_nonempty": true
+  }
+}
